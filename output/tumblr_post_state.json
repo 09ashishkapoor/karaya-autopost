@@ -1,21 +1,28 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts_mahakali.json",
-  "last_posted_index": 1,
-  "encrypted_refresh_token": "",
+  "last_posted_index": 2,
+  "encrypted_refresh_token": "{\"nonce\":\"J+h/IiH78ZMf2dgNGioCtw==\",\"ciphertext\":\"CpUZJNj5qLIkNiu2OEIGFm9GnnJHOB4LDIEShkpadYMevYVrMmu5zgJwjILBnyGmMyI=\",\"mac\":\"I8KAfcGRLVs6af1Tgcd9s0VP2ioe154selkVKHCBtFk=\"}",
   "posted_post_ids": [
-    "814760303295381504"
+    "814760303295381504",
+    "814766726962118656"
   ],
   "posted_post_urls": [
-    "https://kakakaforadyakali.tumblr.com/post/814760303295381504"
+    "https://kakakaforadyakali.tumblr.com/post/814760303295381504",
+    "https://kakakaforadyakali.tumblr.com/post/814766726962118656"
   ],
   "posted_timestamps": [
-    "2026-04-24T07:32:55.621622+00:00"
+    "2026-04-24T07:32:55.621622+00:00",
+    "2026-04-24T09:15:01.582675+00:00"
   ],
   "posted_text_hashes": [
-    "9a9bfafd8f146bd982514c23ceb52d5d53be86be07aa861c2a0df1e0e126b074"
+    "9a9bfafd8f146bd982514c23ceb52d5d53be86be07aa861c2a0df1e0e126b074",
+    "90dafb2182fbd7d875f0bc544727473dc83288263a52fe2801bc6ed25af94abd"
   ],
   "posted_tags": [
+    [
+      "ghargharkali"
+    ],
     [
       "ghargharkali"
     ]
@@ -32,6 +39,18 @@
         "ghargharkali"
       ],
       "post_text": "Today's name is Shhmashhana kalika. The dark-bodied Goddess of the cremation ground, the power of death and dissolution. Jai Ma. #ghargharkali"
+    },
+    {
+      "queue_index": 2,
+      "source_index": 2,
+      "post_id": "814766726962118656",
+      "post_url": "https://kakakaforadyakali.tumblr.com/post/814766726962118656",
+      "posted_at": "2026-04-24T09:15:01.582675+00:00",
+      "text_hash": "90dafb2182fbd7d875f0bc544727473dc83288263a52fe2801bc6ed25af94abd",
+      "tags": [
+        "ghargharkali"
+      ],
+      "post_text": "Today's name is Kali. The Black Goddess, ruler of Time. Jai Ma. #ghargharkali"
     }
   ]
 }
