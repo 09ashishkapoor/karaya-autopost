@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts.json",
-  "last_posted_index": 23,
+  "last_posted_index": 24,
   "posted_record_uris": [
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mk7qgaf3qt2g",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mk7temgoyx2x",
@@ -25,7 +25,8 @@
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkb4dy3kbs2g",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkb5ymrpbt2c",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkba2yvmdx2x",
-    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkbbnpidas27"
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkbbnpidas27",
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkbd37df3y2j"
   ],
   "posted_cids": [
     "bafyreies7zcn2mclysprrfqwg46lc4jt7t5wmicmqnlnz3t67neg4xmxq4",
@@ -50,7 +51,8 @@
     "bafyreidpgm2osscuecwcnklrg3ocywqiwdtkyirx32pnnfqn4m7ieyc76e",
     "bafyreic76mypjpyvrdtbqyrgj7olbqz45ng6aqyuv5qgddpv6pgygj5mre",
     "bafyreiemoskyu3b5kzui4sekbxn2kmhyxoimi3xk4cefmragakm2ltopwu",
-    "bafyreidgsdedezfycji6djiyk2hbsu7wsssevfc67letduoo7c4ldlvbsu"
+    "bafyreidgsdedezfycji6djiyk2hbsu7wsssevfc67letduoo7c4ldlvbsu",
+    "bafyreidfoelyowlpxjib6oh3r7hjyvodbkqojq2hgjtq4p5efr74bs7tci"
   ],
   "posted_timestamps": [
     "2026-04-24T04:57:00.864665+00:00",
@@ -75,7 +77,8 @@
     "2026-04-24T18:03:09.687686+00:00",
     "2026-04-24T18:32:36.201249+00:00",
     "2026-04-24T19:09:43.525155+00:00",
-    "2026-04-24T19:38:04.945702+00:00"
+    "2026-04-24T19:38:04.945702+00:00",
+    "2026-04-24T20:03:31.472817+00:00"
   ],
   "posted_text_hashes": [
     "91f79a2c6394eed25ab6e87114f7f879833b09f6d53df41933aa1e9cd1f5ffb6",
@@ -100,7 +103,8 @@
     "89f1b93df2fb0292539846f734c7e5a7e27ba857961e81cc170409ea4a6c7ccf",
     "6aac6e13244683456f165d320dde37bbd4eaf684fcb3bc4ed013da096a0a2290",
     "f414ffe1dce74bf2047053f793a4b53a8fc13d0494bfdc26a14549418aaa4eae",
-    "c00d21f90896e0820e3ccf72fee4e84b08def8ce292029f172c94f5deda0536a"
+    "c00d21f90896e0820e3ccf72fee4e84b08def8ce292029f172c94f5deda0536a",
+    "021cc8b0eb14afb635e5eb715a6787efb36d90b7169b062cf4327d8f18402c9d"
   ],
   "history": [
     {
@@ -309,6 +313,15 @@
       "posted_at": "2026-04-24T19:38:04.945702+00:00",
       "text_hash": "c00d21f90896e0820e3ccf72fee4e84b08def8ce292029f172c94f5deda0536a",
       "post_text": "Today's name is Kalika-daksa-parsva-sthaya. Seated at the right side of Goddess Kali, embodying fierce protection. Jai Bhairava Baba. #Kalabhairava"
+    },
+    {
+      "queue_index": 24,
+      "source_index": 24,
+      "post_uri": "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkbd37df3y2j",
+      "cid": "bafyreidfoelyowlpxjib6oh3r7hjyvodbkqojq2hgjtq4p5efr74bs7tci",
+      "posted_at": "2026-04-24T20:03:31.472817+00:00",
+      "text_hash": "021cc8b0eb14afb635e5eb715a6787efb36d90b7169b062cf4327d8f18402c9d",
+      "post_text": "Today's name is Kali-vidya-svarupa-vate. Embodiment of the knowledge needed in the Kali age. Jai Bhairava Baba. #Kalabhairava"
     }
   ]
 }
