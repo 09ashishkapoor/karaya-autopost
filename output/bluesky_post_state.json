@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts.json",
-  "last_posted_index": 28,
+  "last_posted_index": 29,
   "posted_record_uris": [
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mk7qgaf3qt2g",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mk7temgoyx2x",
@@ -30,7 +30,8 @@
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkbeoc3ult2n",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkbglccdsc2a",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkbi5urzfc2y",
-    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkbjts2yux2q"
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkbjts2yux2q",
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkblc7prng2c"
   ],
   "posted_cids": [
     "bafyreies7zcn2mclysprrfqwg46lc4jt7t5wmicmqnlnz3t67neg4xmxq4",
@@ -60,7 +61,8 @@
     "bafyreiflt6ungcbewrm5jlxv4gou5ngevftbpkwvmb5yjfdxyx7q2nchfm",
     "bafyreidfqpz2jqjskid36ylmsfe6gus3frjh3dnlm7bj4yrc35akyscnue",
     "bafyreietvonighnbtzdupdcth2d3aachufmm2i7c4ujlmrntq63u4uxo3m",
-    "bafyreib7dyjhwfop72gsvjmyzxfiocjatpr6gzlghxmsjx6zqzjz6rxjeu"
+    "bafyreib7dyjhwfop72gsvjmyzxfiocjatpr6gzlghxmsjx6zqzjz6rxjeu",
+    "bafyreiaemofc7rzp5gadixk2jy6mtowur4jdgjtsbvqzrrtuedfug7ibvu"
   ],
   "posted_timestamps": [
     "2026-04-24T04:57:00.864665+00:00",
@@ -90,7 +92,8 @@
     "2026-04-24T20:32:05.661057+00:00",
     "2026-04-24T21:06:12.689621+00:00",
     "2026-04-24T21:34:29.813635+00:00",
-    "2026-04-24T22:04:38.913467+00:00"
+    "2026-04-24T22:04:38.913467+00:00",
+    "2026-04-24T22:30:36.702286+00:00"
   ],
   "posted_text_hashes": [
     "91f79a2c6394eed25ab6e87114f7f879833b09f6d53df41933aa1e9cd1f5ffb6",
@@ -120,7 +123,8 @@
     "9a498c2683d1def732864d83f3a58d13ef905ab8d1713e7b3992cefb8e653d9c",
     "53bde0325ee10d49d115d093b2ac569653e61fa806ea6daa288442f6c5da516b",
     "e2fe5481b4b815cd500de5c665e3a3d05243a6061eff223ea0bdad6e55c85e69",
-    "9874a6707f1011deadcc3949f7eb55ff1088990c16c5851576bfbeb3b7076371"
+    "9874a6707f1011deadcc3949f7eb55ff1088990c16c5851576bfbeb3b7076371",
+    "693709435c19e47c595ff7b9c647f378b327e885b122bc6ac212e175601a8a7b"
   ],
   "history": [
     {
@@ -374,6 +378,15 @@
       "posted_at": "2026-04-24T22:04:38.913467+00:00",
       "text_hash": "9874a6707f1011deadcc3949f7eb55ff1088990c16c5851576bfbeb3b7076371",
       "post_text": "Today's name is Kali-ugra-vasava-brahmii-pramukha-carya-nayakaya. Leader among the divine powers who preside in the Kali Yuga. Jai Bhairava Baba. #Kalabhairava"
+    },
+    {
+      "queue_index": 29,
+      "source_index": 29,
+      "post_uri": "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkblc7prng2c",
+      "cid": "bafyreiaemofc7rzp5gadixk2jy6mtowur4jdgjtsbvqzrrtuedfug7ibvu",
+      "posted_at": "2026-04-24T22:30:36.702286+00:00",
+      "text_hash": "693709435c19e47c595ff7b9c647f378b327e885b122bc6ac212e175601a8a7b",
+      "post_text": "Today's name is Kankala-malika-dharine. Wearer of a garland of bones and skulls, victor over death. Jai Bhairava Baba. #Kalabhairava"
     }
   ]
 }
