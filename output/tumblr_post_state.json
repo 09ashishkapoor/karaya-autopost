@@ -1,8 +1,8 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts_mahakali.json",
-  "last_posted_index": 26,
-  "encrypted_refresh_token": "{\"nonce\":\"yq9TWfVlSzJBezOCX5wKbQ==\",\"ciphertext\":\"yqF8ACVrbTzCYd0MJSUUeZxbQu+Bl4SAH0CTmTZ7TY3RKSkauLBk3YO5bNFBCfEy3rE=\",\"mac\":\"c4hVseHc9NKAx1ORRhXonKDBwLK+JzWSS6MdINId7vg=\"}",
+  "last_posted_index": 27,
+  "encrypted_refresh_token": "{\"nonce\":\"fZLDo2PubvvCIVGSUxxF0w==\",\"ciphertext\":\"n8qf/Y0yYYZ88ozL7MKQQrtQr8N8b+AKXi6o7nhljsPyF92QIKG6Yt+2SJrK+PSzCTA=\",\"mac\":\"jzRCJT8VLB9bVmIgw24hWwpcr2Dz0jXADbDWfIwTYDU=\"}",
   "posted_post_ids": [
     "814760303295381504",
     "814766726962118656",
@@ -29,7 +29,8 @@
     "814809278392270848",
     "814811353656213504",
     "814813163634737152",
-    "814815017091448833"
+    "814815017091448833",
+    "814816684285329409"
   ],
   "posted_post_urls": [
     "https://kakakaforadyakali.tumblr.com/post/814760303295381504",
@@ -57,7 +58,8 @@
     "https://kakakaforadyakali.tumblr.com/post/814809278392270848",
     "https://kakakaforadyakali.tumblr.com/post/814811353656213504",
     "https://kakakaforadyakali.tumblr.com/post/814813163634737152",
-    "https://kakakaforadyakali.tumblr.com/post/814815017091448833"
+    "https://kakakaforadyakali.tumblr.com/post/814815017091448833",
+    "https://kakakaforadyakali.tumblr.com/post/814816684285329409"
   ],
   "posted_timestamps": [
     "2026-04-24T07:32:55.621622+00:00",
@@ -85,7 +87,8 @@
     "2026-04-24T20:31:21.969075+00:00",
     "2026-04-24T21:04:20.883138+00:00",
     "2026-04-24T21:33:07.036688+00:00",
-    "2026-04-24T22:02:34.607528+00:00"
+    "2026-04-24T22:02:34.607528+00:00",
+    "2026-04-24T22:29:04.593599+00:00"
   ],
   "posted_text_hashes": [
     "9a9bfafd8f146bd982514c23ceb52d5d53be86be07aa861c2a0df1e0e126b074",
@@ -113,9 +116,13 @@
     "8bfae60fc537fab9b53d14e10f182b55cc8719ba5e02f4d1f2a14e068de445ec",
     "b0d10ce6b19bf67c8d2dbb89f9f7c85ad770648537ca2fc71a8fe7e17a23f692",
     "a6a2a9e02c1b8a57ec1960a60c38646d3dd569a2566f74f74343091aa233eefd",
-    "54dbfbce8d82d4d4f567cd0de7d19d7d4af343c8837f12c534ffde27939b899b"
+    "54dbfbce8d82d4d4f567cd0de7d19d7d4af343c8837f12c534ffde27939b899b",
+    "62419fa8a1bc2d54920b51b32028236d1914e1f7fadd86bd76ee07042f3984ef"
   ],
   "posted_tags": [
+    [
+      "ghargharkali"
+    ],
     [
       "ghargharkali"
     ],
@@ -507,6 +514,18 @@
         "ghargharkali"
       ],
       "post_text": "Today's name is Kama swarupa cha. The very embodiment of desire, and the granter of desires. Jai Ma. #ghargharkali"
+    },
+    {
+      "queue_index": 27,
+      "source_index": 27,
+      "post_id": "814816684285329409",
+      "post_url": "https://kakakaforadyakali.tumblr.com/post/814816684285329409",
+      "posted_at": "2026-04-24T22:29:04.593599+00:00",
+      "text_hash": "62419fa8a1bc2d54920b51b32028236d1914e1f7fadd86bd76ee07042f3984ef",
+      "tags": [
+        "ghargharkali"
+      ],
+      "post_text": "Today's name is Kam'akhya. The famed and supreme Red Goddess who abides in the Yoni seat of Assam, fulfilling desires. Jai Ma. #ghargharkali"
     }
   ]
 }
