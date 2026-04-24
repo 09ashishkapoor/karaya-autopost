@@ -1,0 +1,7 @@
+{
+  "input_file": "kalabhairava_108names_April23.txt",
+  "post_template": "Today's name is {name}. {meaning} Jai Bhairava Baba. #Kalabhairava",
+  "csv_output": "output/generated_posts.csv",
+  "json_output": "output/generated_posts.json",
+  "max_length": 300
+}

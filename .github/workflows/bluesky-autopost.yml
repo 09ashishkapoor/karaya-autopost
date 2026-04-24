@@ -1,4 +1,4 @@
-﻿name: X Autopost
+name: Bluesky Autopost
 
 on:
   schedule:
@@ -9,7 +9,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: x-autopost
+  group: bluesky-autopost
   cancel-in-progress: false
 
 jobs:
@@ -27,23 +27,21 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Post next tweet
+      - name: Post next Bluesky record
         env:
-          X_API_KEY: ${{ secrets.X_API_KEY }}
-          X_API_SECRET: ${{ secrets.X_API_SECRET }}
-          X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
-          X_ACCESS_TOKEN_SECRET: ${{ secrets.X_ACCESS_TOKEN_SECRET }}
+          BLUESKY_IDENTIFIER: ${{ secrets.BLUESKY_IDENTIFIER }}
+          BLUESKY_APP_PASSWORD: ${{ secrets.BLUESKY_APP_PASSWORD }}
         run: |
-          python post_next_tweet.py --json output/generated_tweets.json --state output/post_state.json
+          python post_next_bluesky.py --json output/generated_posts.json --state output/bluesky_post_state.json
 
       - name: Commit state
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add output/post_state.json
+          git add output/bluesky_post_state.json
           if git diff --cached --quiet; then
             echo "No state changes to commit."
             exit 0
           fi
-          git commit -m "chore: update autopost state"
+          git commit -m "chore: update bluesky autopost state"
           git push

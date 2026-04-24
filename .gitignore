@@ -16,8 +16,8 @@ env/
 # Generated exports
 output/*
 !output/.gitkeep
-!output/generated_tweets.json
-!output/post_state.json
+!output/generated_posts.json
+!output/bluesky_post_state.json
 
 # Local environment and secrets
 .env

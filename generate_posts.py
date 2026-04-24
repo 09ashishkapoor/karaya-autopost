@@ -8,7 +8,7 @@ from pathlib import Path
 NUMBERED_LINE_RE = re.compile(r"^\s*\d+\.\s*")
 REQUIRED_CONFIG_FIELDS = {
     "input_file",
-    "tweet_template",
+    "post_template",
     "csv_output",
     "json_output",
 }
@@ -16,9 +16,9 @@ CSV_FIELDS = [
     "index",
     "name",
     "meaning",
-    "tweet_text",
+    "post_text",
     "character_count",
-    "fits_twitter_limit",
+    "fits_length_limit",
     "source_file",
 ]
 
@@ -79,7 +79,7 @@ def parse_entries(text: str) -> tuple[list[dict], list[tuple[int, str]]]:
     return entries, skipped
 
 
-def render_tweet(entry: dict, template: str) -> str:
+def render_post(entry: dict, template: str) -> str:
     return template.format(**entry)
 
 
@@ -87,15 +87,15 @@ def build_records(entries: list[dict], config: dict) -> list[dict]:
     records = []
     max_length = config["max_length"]
     for entry in entries:
-        tweet_text = render_tweet(entry, config["tweet_template"])
+        post_text = render_post(entry, config["post_template"])
         records.append(
             {
                 "index": entry["index"],
                 "name": entry["name"],
                 "meaning": entry["meaning"],
-                "tweet_text": tweet_text,
-                "character_count": len(tweet_text),
-                "fits_twitter_limit": len(tweet_text) <= max_length,
+                "post_text": post_text,
+                "character_count": len(post_text),
+                "fits_length_limit": len(post_text) <= max_length,
                 "source_file": config["input_file"],
             }
         )
@@ -122,7 +122,7 @@ def write_json(records: list[dict], path: str | Path) -> None:
 
 def build_argument_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(
-        description="Generate structured tweet output from one source text file."
+        description="Generate structured post output from one source text file."
     )
     parser.add_argument("--config", required=True, help="Path to the JSON config file.")
     return parser
@@ -139,8 +139,8 @@ def main() -> None:
     write_csv(records, config["csv_output"])
     write_json(records, config["json_output"])
 
-    over_limit = sum(1 for record in records if not record["fits_twitter_limit"])
-    print(f"Generated {len(records)} tweets.")
+    over_limit = sum(1 for record in records if not record["fits_length_limit"])
+    print(f"Generated {len(records)} posts.")
     print(f"CSV: {config['csv_output']}")
     print(f"JSON: {config['json_output']}")
     print(f"Over limit: {over_limit}")

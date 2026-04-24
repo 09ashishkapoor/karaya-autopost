@@ -10,7 +10,7 @@ This project is intentionally small and uses only the Python standard library at
 python -m venv .venv
 .venv\Scripts\activate
 python -m pip install -r requirements-dev.txt
-python -m pytest tests/test_generate_tweets.py -v
+python -m pytest -v
 ```
 
 On macOS or Linux, activate the virtual environment with:
@@ -29,6 +29,6 @@ source .venv/bin/activate
 
 ## Pull Request Checklist
 
-- Tests pass with `python -m pytest tests/test_generate_tweets.py -v`.
+- Tests pass with `python -m pytest -v`.
 - README examples still match the current CLI and config fields.
 - New public content has clear source/provenance and can be redistributed.

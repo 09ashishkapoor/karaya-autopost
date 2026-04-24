@@ -1,32 +1,32 @@
 # Karaya Autopost
 
-Karaya Autopost is a small, dependency-free Python utility for turning devotional name-and-meaning text files into tweet-ready CSV and JSON exports.
+Karaya Autopost is a small, dependency-free Python utility for turning devotional name-and-meaning text files into template-based CSV and JSON exports.
 
-It was built for simple devotional posting workflows: keep source entries in plain text, choose a tweet template in JSON, and generate structured exports that can be reviewed, scheduled, or imported elsewhere.
+It was built for simple devotional posting workflows: keep source entries in plain text, choose a text template in JSON, and generate structured exports that can be reviewed, scheduled, or imported elsewhere.
 
 ## Features
 
 - Parses plain `name: meaning` source files.
 - Accepts numbered source lists such as `1. Kali: The Black Goddess`.
-- Renders tweet text from a configurable template.
+- Renders post text from a configurable template.
 - Exports matching CSV and JSON records.
 - Flags records that exceed a configurable character limit.
-- Posts one tweet at a time from JSON in strict queue order using the official X API.
-- Supports hourly GitHub Actions autopost with persistent in-repo state.
+- Posts one queued text record at a time to Bluesky.
 - Uses only the Python standard library at runtime.
 
 ## Repository Contents
 
-- `generate_tweets.py` - command-line generator and parsing/export helpers.
-- `post_next_tweet.py` - posts exactly one next tweet from a generated JSON queue.
-- `tweet_config.json` - Kalabhairava tweet export configuration.
-- `tweet_config_mahakali.json` - Mahakali tweet export configuration.
-- `.github/workflows/x-autopost.yml` - hourly GitHub Actions workflow.
-- `output/post_state.json` - persistent posting state committed back to the repo.
+- `generate_posts.py` - command-line generator and parsing/export helpers.
+- `post_next_bluesky.py` - posts exactly one next Bluesky record from a generated JSON queue.
+- `post_config.json` - Kalabhairava export configuration.
+- `post_config_mahakali.json` - Mahakali export configuration.
+- `.github/workflows/bluesky-autopost.yml` - hourly Bluesky workflow.
+- `output/bluesky_post_state.json` - persistent Bluesky posting state committed back to the repo.
 - `combined_kalabhairava_onelinemeanings_nosalutations_FULL_APRIL22.txt` - Kalabhairava source entries.
 - `combined_mahakali_onelinemeanings__FULL_APRIL22.txt` - Mahakali source entries.
 - `requirements-dev.txt` - development-only test dependency list.
-- `tests/test_generate_tweets.py` - pytest coverage for config loading, parsing, rendering, and file exports.
+- `tests/test_generate_posts.py` - pytest coverage for config loading, parsing, rendering, and file exports.
+- `tests/test_post_next_bluesky.py` - pytest coverage for queue progression and Bluesky state handling.
 
 ## Requirements
 
@@ -40,25 +40,25 @@ The generator itself uses only the Python standard library.
 Run commands from the repository root:
 
 ```bash
-python generate_tweets.py --config tweet_config.json
-python generate_tweets.py --config tweet_config_mahakali.json
+python generate_posts.py --config post_config.json
+python generate_posts.py --config post_config_mahakali.json
 ```
 
 By default, these write files under `output/`:
 
-- `output/generated_tweets.csv`
-- `output/generated_tweets.json`
-- `output/generated_tweets_mahakali.csv`
-- `output/generated_tweets_mahakali.json`
+- `output/generated_posts.csv`
+- `output/generated_posts.json`
+- `output/generated_posts_mahakali.csv`
+- `output/generated_posts_mahakali.json`
 
-The script prints the number of generated tweets, output paths, how many tweets exceed the configured length limit, and how many malformed source lines were skipped.
+The script prints the number of generated records, output paths, how many entries exceed the configured length limit, and how many malformed source lines were skipped.
 
-## GitHub Actions Autopost
+## Bluesky Autopost
 
-This repo includes a production v1 autopost flow:
+This repo includes a production Bluesky autopost flow:
 
-- queue source: `output/generated_tweets.json`
-- state file: `output/post_state.json`
+- queue source: `output/generated_posts.json`
+- state file: `output/bluesky_post_state.json`
 - schedule: hourly at minute `17`
 - posting order: first to last, no randomness
 - posting mode: one text post per run
@@ -67,38 +67,27 @@ This repo includes a production v1 autopost flow:
 
 Add these in `Settings -> Secrets and variables -> Actions`:
 
-- `X_API_KEY`
-- `X_API_SECRET`
-- `X_ACCESS_TOKEN`
-- `X_ACCESS_TOKEN_SECRET`
+- `BLUESKY_IDENTIFIER`
+- `BLUESKY_APP_PASSWORD`
+
+Optional environment variable:
+
+- `BLUESKY_PDS_HOST`
+  Default: `https://bsky.social`
 
 ### Workflow Behavior
 
-Workflow file: `.github/workflows/x-autopost.yml`
+Workflow file: `.github/workflows/bluesky-autopost.yml`
 
 - Runs on cron `17 * * * *` and supports manual `workflow_dispatch`.
-- Uses workflow concurrency group `x-autopost` to prevent overlapping posts.
+- Uses workflow concurrency group `bluesky-autopost` to prevent overlapping posts.
 - Calls:
 
 ```bash
-python post_next_tweet.py --json output/generated_tweets.json --state output/post_state.json
+python post_next_bluesky.py --json output/generated_posts.json --state output/bluesky_post_state.json
 ```
 
-- Commits `output/post_state.json` back to the repo only when state changes.
-
-### State Semantics
-
-`output/post_state.json` tracks:
-
-- source queue path
-- last posted queue index (1-based)
-- posted tweet IDs
-- posted timestamps
-- tweet text hashes
-- full posting history entries
-
-State advances only after a successful API post.
-If a run fails, state is not advanced.
+- Commits `output/bluesky_post_state.json` back to the repo only when state changes.
 
 ## Install for Development
 
@@ -137,23 +126,23 @@ Each config file is JSON with these fields:
 ```json
 {
   "input_file": "combined_kalabhairava_onelinemeanings_nosalutations_FULL_APRIL22.txt",
-  "tweet_template": "Today's name is {name}. {meaning} Jai Bhairava.",
-  "csv_output": "output/generated_tweets.csv",
-  "json_output": "output/generated_tweets.json",
-  "max_length": 280
+  "post_template": "Today's name is {name}. {meaning} Jai Bhairava.",
+  "csv_output": "output/generated_posts.csv",
+  "json_output": "output/generated_posts.json",
+  "max_length": 300
 }
 ```
 
 Required fields:
 
 - `input_file` - source text file to parse.
-- `tweet_template` - Python format string used to render each tweet.
+- `post_template` - Python format string used to render each post.
 - `csv_output` - CSV export path.
 - `json_output` - JSON export path.
 
 Optional fields:
 
-- `max_length` - tweet length limit used for the `fits_twitter_limit` flag. Defaults to `280`.
+- `max_length` - character limit used for the `fits_length_limit` flag. Defaults to `300`.
 
 Paths may be absolute or relative. Relative paths are resolved from the config file's directory.
 
@@ -170,24 +159,24 @@ CSV and JSON records include:
 - `index`
 - `name`
 - `meaning`
-- `tweet_text`
+- `post_text`
 - `character_count`
-- `fits_twitter_limit`
+- `fits_length_limit`
 - `source_file`
 
 ## Run Tests
 
 ```bash
-python -m pytest tests/test_generate_tweets.py -v
+python -m pytest -v
 ```
 
-Current test coverage verifies path resolution, accepted input formats, malformed-line handling, tweet rendering, length-limit flags, and CSV/JSON file creation.
+Current test coverage verifies path resolution, accepted input formats, malformed-line handling, template rendering, length-limit flags, CSV/JSON file creation, queue progression, and Bluesky state updates.
 
 ## Public Release Notes
 
-- Generated exports are ignored by git; regenerate them locally as needed.
+- Most generated exports are ignored by git. The tracked queue/state files under `output/` are kept for automation.
 - The included devotional source files are part of the project data. Before publishing or redistributing modified datasets, confirm that any added content can be shared publicly.
-- This project does not require API keys, tokens, or private service credentials.
+- Bluesky posting requires `BLUESKY_IDENTIFIER` and `BLUESKY_APP_PASSWORD`.
 
 ## Contributing
 
