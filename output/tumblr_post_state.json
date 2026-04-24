@@ -1,11 +1,36 @@
 {
   "version": 1,
-  "source_json_path": "",
-  "last_posted_index": 0,
-  "posted_post_ids": [],
-  "posted_post_urls": [],
-  "posted_timestamps": [],
-  "posted_text_hashes": [],
-  "posted_tags": [],
-  "history": []
+  "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts_mahakali.json",
+  "last_posted_index": 1,
+  "posted_post_ids": [
+    "814760303295381504"
+  ],
+  "posted_post_urls": [
+    "https://kakakaforadyakali.tumblr.com/post/814760303295381504"
+  ],
+  "posted_timestamps": [
+    "2026-04-24T07:32:55.621622+00:00"
+  ],
+  "posted_text_hashes": [
+    "9a9bfafd8f146bd982514c23ceb52d5d53be86be07aa861c2a0df1e0e126b074"
+  ],
+  "posted_tags": [
+    [
+      "ghargharkali"
+    ]
+  ],
+  "history": [
+    {
+      "queue_index": 1,
+      "source_index": 1,
+      "post_id": "814760303295381504",
+      "post_url": "https://kakakaforadyakali.tumblr.com/post/814760303295381504",
+      "posted_at": "2026-04-24T07:32:55.621622+00:00",
+      "text_hash": "9a9bfafd8f146bd982514c23ceb52d5d53be86be07aa861c2a0df1e0e126b074",
+      "tags": [
+        "ghargharkali"
+      ],
+      "post_text": "Today's name is Shhmashhana kalika. The dark-bodied Goddess of the cremation ground, the power of death and dissolution. Jai Ma. #ghargharkali"
+    }
+  ]
 }
