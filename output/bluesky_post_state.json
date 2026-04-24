@@ -1,18 +1,22 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts.json",
-  "last_posted_index": 1,
+  "last_posted_index": 2,
   "posted_record_uris": [
-    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mk7qgaf3qt2g"
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mk7qgaf3qt2g",
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mk7temgoyx2x"
   ],
   "posted_cids": [
-    "bafyreies7zcn2mclysprrfqwg46lc4jt7t5wmicmqnlnz3t67neg4xmxq4"
+    "bafyreies7zcn2mclysprrfqwg46lc4jt7t5wmicmqnlnz3t67neg4xmxq4",
+    "bafyreidimqtyk3cma35l6n4rainofgwnqs6aqaeuqz6u3cmaun26ypzaom"
   ],
   "posted_timestamps": [
-    "2026-04-24T04:57:00.864665+00:00"
+    "2026-04-24T04:57:00.864665+00:00",
+    "2026-04-24T05:49:47.625736+00:00"
   ],
   "posted_text_hashes": [
-    "91f79a2c6394eed25ab6e87114f7f879833b09f6d53df41933aa1e9cd1f5ffb6"
+    "91f79a2c6394eed25ab6e87114f7f879833b09f6d53df41933aa1e9cd1f5ffb6",
+    "1fa3a6b1834b5a72ba37b8a8902f6a4addab55540990b432df49887dc0542d02"
   ],
   "history": [
     {
@@ -23,6 +27,15 @@
       "posted_at": "2026-04-24T04:57:00.864665+00:00",
       "text_hash": "91f79a2c6394eed25ab6e87114f7f879833b09f6d53df41933aa1e9cd1f5ffb6",
       "post_text": "Today's name is Kala-bhairava-devaya. The Divine Lord Kalabhairava, revered deity of time and transcendence. Jai Bhairava Baba. #Kalabhairava"
+    },
+    {
+      "queue_index": 2,
+      "source_index": 2,
+      "post_uri": "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mk7temgoyx2x",
+      "cid": "bafyreidimqtyk3cma35l6n4rainofgwnqs6aqaeuqz6u3cmaun26ypzaom",
+      "posted_at": "2026-04-24T05:49:47.625736+00:00",
+      "text_hash": "1fa3a6b1834b5a72ba37b8a8902f6a4addab55540990b432df49887dc0542d02",
+      "post_text": "Today's name is Kala-kalaya. The destroyer of destruction, the Lord who conquers time itself. Jai Bhairava Baba. #Kalabhairava"
     }
   ]
 }
