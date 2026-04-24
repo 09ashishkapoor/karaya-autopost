@@ -1,5 +1,7 @@
 # Karaya Autopost
 
+![Karaya Autopost social preview](social.png)
+
 Karaya Autopost is a small, dependency-free Python utility for turning devotional name-and-meaning text files into template-based CSV and JSON exports.
 
 It was built for simple devotional posting workflows: keep source entries in plain text, choose a text template in JSON, and generate structured exports that can be reviewed, scheduled, or imported elsewhere.
