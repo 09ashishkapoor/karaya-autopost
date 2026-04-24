@@ -81,6 +81,7 @@ Workflow file: `.github/workflows/bluesky-autopost.yml`
 
 - Runs on cron `17,47 * * * *` and supports manual `workflow_dispatch`.
 - Uses workflow concurrency group `bluesky-autopost` to prevent overlapping posts.
+- Runs only from the `main` branch.
 - Calls:
 
 ```bash
@@ -177,6 +178,14 @@ Current test coverage verifies path resolution, accepted input formats, malforme
 - Most generated exports are ignored by git. The tracked queue/state files under `output/` are kept for automation.
 - The included devotional source files are part of the project data. Before publishing or redistributing modified datasets, confirm that any added content can be shared publicly.
 - Bluesky posting requires `BLUESKY_IDENTIFIER` and `BLUESKY_APP_PASSWORD`.
+
+## Public Repo Safety
+
+- Use a Bluesky app password, not your main account password.
+- Do not add PR-triggered workflows that consume secrets.
+- Keep write access to the repo restricted.
+- If anything suspicious happens, revoke the Bluesky app password immediately.
+- `BLUESKY_PDS_HOST` must be an `https://` host root, not a full endpoint URL.
 
 ## Contributing
 

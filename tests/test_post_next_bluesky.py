@@ -1,5 +1,6 @@
 import json
 import sys
+import urllib.error
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
@@ -34,6 +35,41 @@ def test_next_queue_position_handles_completion():
 
     assert post_next_bluesky.next_queue_position(state, queue_size=3) is None
     assert post_next_bluesky.next_queue_position(state, queue_size=4) == 4
+
+
+def test_normalize_pds_host_rejects_non_https():
+    try:
+        post_next_bluesky.normalize_pds_host("http://bsky.social")
+    except RuntimeError as exc:
+        assert str(exc) == "BLUESKY_PDS_HOST must be an https URL."
+    else:
+        raise AssertionError("Expected RuntimeError for non-https host")
+
+
+def test_normalize_pds_host_rejects_endpoint_path():
+    try:
+        post_next_bluesky.normalize_pds_host("https://bsky.social/xrpc/com.atproto.server.createSession")
+    except RuntimeError as exc:
+        assert str(exc) == "BLUESKY_PDS_HOST must be a host root, not a full endpoint path."
+    else:
+        raise AssertionError("Expected RuntimeError for endpoint path")
+
+
+def test_summarize_api_error_uses_safe_message():
+    body = json.dumps({"error": "AuthMissing", "message": "Authentication Required"}).encode("utf-8")
+    error = urllib.error.HTTPError(
+        url="https://bsky.social/xrpc/test",
+        code=401,
+        msg="Unauthorized",
+        hdrs=None,
+        fp=None,
+    )
+    error.read = lambda: body
+
+    assert (
+        post_next_bluesky.summarize_api_error(error)
+        == "Bluesky API error 401: AuthMissing - Authentication Required"
+    )
 
 
 def test_main_posts_next_record_and_updates_state(tmp_path: Path, monkeypatch):

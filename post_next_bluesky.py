@@ -3,6 +3,7 @@ import hashlib
 import json
 import os
 import urllib.error
+import urllib.parse
 import urllib.request
 from datetime import datetime, timezone
 from pathlib import Path
@@ -10,6 +11,36 @@ from pathlib import Path
 
 STATE_VERSION = 1
 DEFAULT_PDS_HOST = "https://bsky.social"
+
+
+def summarize_api_error(exc: urllib.error.HTTPError) -> str:
+    details = exc.read().decode("utf-8", errors="replace")
+    try:
+        body = json.loads(details)
+    except json.JSONDecodeError:
+        return f"Bluesky API error {exc.code}."
+
+    error = body.get("error")
+    message = body.get("message")
+    if error and message:
+        return f"Bluesky API error {exc.code}: {error} - {message}"
+    if message:
+        return f"Bluesky API error {exc.code}: {message}"
+    if error:
+        return f"Bluesky API error {exc.code}: {error}"
+    return f"Bluesky API error {exc.code}."
+
+
+def normalize_pds_host(value: str) -> str:
+    normalized = (value or DEFAULT_PDS_HOST).strip().rstrip("/")
+    parsed = urllib.parse.urlparse(normalized)
+    if parsed.scheme != "https" or not parsed.netloc:
+        raise RuntimeError("BLUESKY_PDS_HOST must be an https URL.")
+    if parsed.params or parsed.query or parsed.fragment:
+        raise RuntimeError("BLUESKY_PDS_HOST must not include params, query, or fragment.")
+    if parsed.path not in ("", "/"):
+        raise RuntimeError("BLUESKY_PDS_HOST must be a host root, not a full endpoint path.")
+    return f"{parsed.scheme}://{parsed.netloc}"
 
 
 def request_json(url: str, payload: dict, headers: dict | None = None) -> dict:
@@ -28,8 +59,7 @@ def request_json(url: str, payload: dict, headers: dict | None = None) -> dict:
         with urllib.request.urlopen(request, timeout=30) as response:
             raw = response.read().decode("utf-8")
     except urllib.error.HTTPError as exc:
-        details = exc.read().decode("utf-8", errors="replace")
-        raise RuntimeError(f"Bluesky API error {exc.code}: {details}") from exc
+        raise RuntimeError(summarize_api_error(exc)) from exc
     except urllib.error.URLError as exc:
         raise RuntimeError(f"Network error while calling Bluesky API: {exc.reason}") from exc
 
@@ -118,7 +148,7 @@ def sha256_text(value: str) -> str:
 def create_session() -> tuple[str, dict]:
     identifier = os.environ.get("BLUESKY_IDENTIFIER", "").strip()
     password = os.environ.get("BLUESKY_APP_PASSWORD", "").strip()
-    pds_host = os.environ.get("BLUESKY_PDS_HOST", DEFAULT_PDS_HOST).strip() or DEFAULT_PDS_HOST
+    pds_host = os.environ.get("BLUESKY_PDS_HOST", DEFAULT_PDS_HOST)
 
     missing = [
         name
@@ -131,7 +161,7 @@ def create_session() -> tuple[str, dict]:
     if missing:
         raise RuntimeError(f"Missing required environment variables: {', '.join(missing)}")
 
-    normalized_host = pds_host.rstrip("/")
+    normalized_host = normalize_pds_host(pds_host)
     session = request_json(
         f"{normalized_host}/xrpc/com.atproto.server.createSession",
         payload={
