@@ -1,30 +1,34 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts.json",
-  "last_posted_index": 4,
+  "last_posted_index": 5,
   "posted_record_uris": [
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mk7qgaf3qt2g",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mk7temgoyx2x",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mk7tykkpu422",
-    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mk7xcljfwm2j"
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mk7xcljfwm2j",
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mka2lrhyel2j"
   ],
   "posted_cids": [
     "bafyreies7zcn2mclysprrfqwg46lc4jt7t5wmicmqnlnz3t67neg4xmxq4",
     "bafyreidimqtyk3cma35l6n4rainofgwnqs6aqaeuqz6u3cmaun26ypzaom",
     "bafyreiagsyuucaocf3uwwfcke6uxfbgv44i6bdhdknytpxhtxouc44fjti",
-    "bafyreicopb6nfa7ndi3x5da3qf6vujchpbp4x7qkokl7ebulwamovvusfa"
+    "bafyreicopb6nfa7ndi3x5da3qf6vujchpbp4x7qkokl7ebulwamovvusfa",
+    "bafyreicqbqast2kuzxcchthjv5a7mthb7rz3gvz3jg5r64qf5eajksebme"
   ],
   "posted_timestamps": [
     "2026-04-24T04:57:00.864665+00:00",
     "2026-04-24T05:49:47.625736+00:00",
     "2026-04-24T06:00:56.751981+00:00",
-    "2026-04-24T07:00:14.498044+00:00"
+    "2026-04-24T07:00:14.498044+00:00",
+    "2026-04-24T07:59:03.972796+00:00"
   ],
   "posted_text_hashes": [
     "91f79a2c6394eed25ab6e87114f7f879833b09f6d53df41933aa1e9cd1f5ffb6",
     "1fa3a6b1834b5a72ba37b8a8902f6a4addab55540990b432df49887dc0542d02",
     "8fc19181a414ac54acffc4926a00a2da2c0144aaee795afb14f65cffac4f9ad0",
-    "38157d68f3a3aeb6df40cffa30679d551035191de171b24b8c7c31a30a3ba7d7"
+    "38157d68f3a3aeb6df40cffa30679d551035191de171b24b8c7c31a30a3ba7d7",
+    "2ff94d28c567ca76e5f278ecd4cb7b07f2f43932cc60d3969acbb4f7dc2b7cbc"
   ],
   "history": [
     {
@@ -62,6 +66,15 @@
       "posted_at": "2026-04-24T07:00:14.498044+00:00",
       "text_hash": "38157d68f3a3aeb6df40cffa30679d551035191de171b24b8c7c31a30a3ba7d7",
       "post_text": "Today's name is Kalatmane. The soul of time, pervading and animating all existence. Jai Bhairava Baba. #Kalabhairava"
+    },
+    {
+      "queue_index": 5,
+      "source_index": 5,
+      "post_uri": "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mka2lrhyel2j",
+      "cid": "bafyreicqbqast2kuzxcchthjv5a7mthb7rz3gvz3jg5r64qf5eajksebme",
+      "posted_at": "2026-04-24T07:59:03.972796+00:00",
+      "text_hash": "2ff94d28c567ca76e5f278ecd4cb7b07f2f43932cc60d3969acbb4f7dc2b7cbc",
+      "post_text": "Today's name is Kama-mantratmane. Embodiment of the desire-inciting mantra, the essence of creative will. Jai Bhairava Baba. #Kalabhairava"
     }
   ]
 }
