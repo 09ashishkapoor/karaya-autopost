@@ -6,6 +6,9 @@ It was built for simple devotional posting workflows: keep source entries in pla
 
 The repo also includes a Bluesky autopost workflow that publishes one queued text post at a time on a schedule.
 
+See this tool in action:
+[kaliputraashish.bsky.social](https://bsky.app/profile/kaliputraashish.bsky.social)
+
 ## Features
 
 - Parses plain `name: meaning` source files.
