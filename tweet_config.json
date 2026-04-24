@@ -1,0 +1,7 @@
+{
+  "input_file": "kalabhairava_108names_April23.txt",
+  "tweet_template": "Today's name is {name}. {meaning} Jai Bhairava Baba. #Kalabhairava",
+  "csv_output": "output/generated_tweets.csv",
+  "json_output": "output/generated_tweets.json",
+  "max_length": 280
+}

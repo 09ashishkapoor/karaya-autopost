@@ -1,0 +1,7 @@
+{
+  "input_file": "combined_mahakali_onelinemeanings__FULL_APRIL22.txt",
+  "tweet_template": "Today's name is {name}. {meaning} Jai Ma. #ghargharkali",
+  "csv_output": "output/generated_tweets_mahakali.csv",
+  "json_output": "output/generated_tweets_mahakali.json",
+  "max_length": 280
+}
