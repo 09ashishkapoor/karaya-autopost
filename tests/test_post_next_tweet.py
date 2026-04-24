@@ -18,6 +18,17 @@ def test_load_state_returns_default_when_missing(tmp_path: Path):
     assert state["history"] == []
 
 
+def test_load_state_supports_utf8_bom(tmp_path: Path):
+    queue_path = (tmp_path / "generated_tweets.json").resolve()
+    state_path = tmp_path / "post_state.json"
+    content = json.dumps({"last_posted_index": 2})
+    state_path.write_bytes(content.encode("utf-8-sig"))
+
+    state = post_next_tweet.load_state(state_path, str(queue_path))
+
+    assert state["last_posted_index"] == 2
+
+
 def test_next_queue_position_handles_completion():
     state = {"last_posted_index": 3}
 

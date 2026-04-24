@@ -63,7 +63,7 @@ def load_queue(path: Path) -> list[dict]:
     if not path.exists():
         raise FileNotFoundError(f"Queue JSON not found: {path}")
 
-    data = json.loads(path.read_text(encoding="utf-8"))
+    data = json.loads(path.read_text(encoding="utf-8-sig"))
     if not isinstance(data, list):
         raise ValueError("Queue JSON must be a list of tweet records.")
 
@@ -93,7 +93,7 @@ def load_state(path: Path, source_json_path: str) -> dict:
     if not path.exists():
         return default_state(source_json_path)
 
-    state = json.loads(path.read_text(encoding="utf-8"))
+    state = json.loads(path.read_text(encoding="utf-8-sig"))
     if not isinstance(state, dict):
         raise ValueError("State file must be a JSON object.")
 
