@@ -1,25 +1,32 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts_mahakali.json",
-  "last_posted_index": 2,
-  "encrypted_refresh_token": "{\"nonce\":\"J+h/IiH78ZMf2dgNGioCtw==\",\"ciphertext\":\"CpUZJNj5qLIkNiu2OEIGFm9GnnJHOB4LDIEShkpadYMevYVrMmu5zgJwjILBnyGmMyI=\",\"mac\":\"I8KAfcGRLVs6af1Tgcd9s0VP2ioe154selkVKHCBtFk=\"}",
+  "last_posted_index": 3,
+  "encrypted_refresh_token": "{\"nonce\":\"5eLHj57KW78Y2TItYU1mcA==\",\"ciphertext\":\"gLbfLZMMjeWl2ytNg2JNEj6VAT2+RNk1ToSrUGr1+Xho6vIqYMAgFEYMFaL4FgykZyI=\",\"mac\":\"YkT3+jT4s63pEjgYser6FhCkc4IVxdqk6D/IQT4ccfs=\"}",
   "posted_post_ids": [
     "814760303295381504",
-    "814766726962118656"
+    "814766726962118656",
+    "814766799712305152"
   ],
   "posted_post_urls": [
     "https://kakakaforadyakali.tumblr.com/post/814760303295381504",
-    "https://kakakaforadyakali.tumblr.com/post/814766726962118656"
+    "https://kakakaforadyakali.tumblr.com/post/814766726962118656",
+    "https://kakakaforadyakali.tumblr.com/post/814766799712305152"
   ],
   "posted_timestamps": [
     "2026-04-24T07:32:55.621622+00:00",
-    "2026-04-24T09:15:01.582675+00:00"
+    "2026-04-24T09:15:01.582675+00:00",
+    "2026-04-24T09:16:11.005279+00:00"
   ],
   "posted_text_hashes": [
     "9a9bfafd8f146bd982514c23ceb52d5d53be86be07aa861c2a0df1e0e126b074",
-    "90dafb2182fbd7d875f0bc544727473dc83288263a52fe2801bc6ed25af94abd"
+    "90dafb2182fbd7d875f0bc544727473dc83288263a52fe2801bc6ed25af94abd",
+    "b11201e902877922dd084a61eaaa953f1caa5183e18545a1ba0a8b9b5c379286"
   ],
   "posted_tags": [
+    [
+      "ghargharkali"
+    ],
     [
       "ghargharkali"
     ],
@@ -51,6 +58,18 @@
         "ghargharkali"
       ],
       "post_text": "Today's name is Kali. The Black Goddess, ruler of Time. Jai Ma. #ghargharkali"
+    },
+    {
+      "queue_index": 3,
+      "source_index": 3,
+      "post_id": "814766799712305152",
+      "post_url": "https://kakakaforadyakali.tumblr.com/post/814766799712305152",
+      "posted_at": "2026-04-24T09:16:11.005279+00:00",
+      "text_hash": "b11201e902877922dd084a61eaaa953f1caa5183e18545a1ba0a8b9b5c379286",
+      "tags": [
+        "ghargharkali"
+      ],
+      "post_text": "Today's name is Bhadra kali. The all-auspicious Dark Mother. Jai Ma. #ghargharkali"
     }
   ]
 }
