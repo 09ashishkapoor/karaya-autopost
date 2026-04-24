@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts.json",
-  "last_posted_index": 15,
+  "last_posted_index": 16,
   "posted_record_uris": [
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mk7qgaf3qt2g",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mk7temgoyx2x",
@@ -17,7 +17,8 @@
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkamahdvre2j",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkaosdlpkk2u",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkarkfc22y2j",
-    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkaumtoz7y2v"
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkaumtoz7y2v",
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkaw4y65ng2v"
   ],
   "posted_cids": [
     "bafyreies7zcn2mclysprrfqwg46lc4jt7t5wmicmqnlnz3t67neg4xmxq4",
@@ -34,7 +35,8 @@
     "bafyreiequqzqydquvnyk62phr4bvmxjvblkymwr3xf7sps6py3eqsegk24",
     "bafyreidvbgrbvupzwraag6yw3u5v76opg7k7hfq7bgtnquxhq3vxfoitq4",
     "bafyreieqqzcbpbkp53djmx6caxnzgnnsnjn3sgav5ixflkgqkb4hyxdj4u",
-    "bafyreidpwxrlagedywxfpogtcom6mt3jsdqttu7vu6zuwwsnpqmks4hb24"
+    "bafyreidpwxrlagedywxfpogtcom6mt3jsdqttu7vu6zuwwsnpqmks4hb24",
+    "bafyreid6irhwjegosl3nm67jnv4ot4eqwtbl4qnnjzwkrhjclwndrrnrqe"
   ],
   "posted_timestamps": [
     "2026-04-24T04:57:00.864665+00:00",
@@ -51,7 +53,8 @@
     "2026-04-24T13:14:51.603114+00:00",
     "2026-04-24T14:00:39.125403+00:00",
     "2026-04-24T14:49:53.710542+00:00",
-    "2026-04-24T15:44:57.119192+00:00"
+    "2026-04-24T15:44:57.119192+00:00",
+    "2026-04-24T16:11:52.431411+00:00"
   ],
   "posted_text_hashes": [
     "91f79a2c6394eed25ab6e87114f7f879833b09f6d53df41933aa1e9cd1f5ffb6",
@@ -68,7 +71,8 @@
     "8f910758728789c5754b029ba5856da64661cfb3800c4292ebb2650d6bbdb9a4",
     "f40334dff27c2c922a96eb3bda7bf3ac18076a5f077f69cf27187150317a8750",
     "3b981a82883d37b166a5e7d1ba3525fddf7ad3854dcac7394f15f47eb2607a65",
-    "84c8d77ba2b4b8c048b47b4e4fb0fd30ece64a4a7308a490872536318aead486"
+    "84c8d77ba2b4b8c048b47b4e4fb0fd30ece64a4a7308a490872536318aead486",
+    "ed5cdf7ca14583d3a5c0da4e2a63b15152c47e94bd315b910c57efbac0b97f27"
   ],
   "history": [
     {
@@ -205,6 +209,15 @@
       "posted_at": "2026-04-24T15:44:57.119192+00:00",
       "text_hash": "84c8d77ba2b4b8c048b47b4e4fb0fd30ece64a4a7308a490872536318aead486",
       "post_text": "Today's name is Kataksa-anugrahita-akhila-sevakaya. Whose gracious glance blesses all his devotees. Jai Bhairava Baba. #Kalabhairava"
+    },
+    {
+      "queue_index": 16,
+      "source_index": 16,
+      "post_uri": "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkaw4y65ng2v",
+      "cid": "bafyreid6irhwjegosl3nm67jnv4ot4eqwtbl4qnnjzwkrhjclwndrrnrqe",
+      "posted_at": "2026-04-24T16:11:52.431411+00:00",
+      "text_hash": "ed5cdf7ca14583d3a5c0da4e2a63b15152c47e94bd315b910c57efbac0b97f27",
+      "post_text": "Today's name is Kapala-karparotkrista-bhiksa-patra-dharaya. Holder of the uplifted skull-bowl, symbolizing renunciation and sacred detachment. Jai Bhairava Baba. #Kalabhairava"
     }
   ]
 }
