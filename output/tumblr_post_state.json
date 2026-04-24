@@ -1,15 +1,16 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts_mahakali.json",
-  "last_posted_index": 6,
-  "encrypted_refresh_token": "{\"nonce\":\"vVW0ru7V8kllgcn2GWIZkg==\",\"ciphertext\":\"0ja7sy+npfr0QBVe+WOCAQQiIhpAu0kFPuf+p5mabUSktYMgzf70emVH/DDIBhZDc7Q=\",\"mac\":\"nTWkiB0HvVo5kaA5yxDRx85TBTBtOI9cvn21GSyCy54=\"}",
+  "last_posted_index": 7,
+  "encrypted_refresh_token": "{\"nonce\":\"/FnrYSRc/KDsABCOCJ+m2A==\",\"ciphertext\":\"Y/ESFnCKlQJHRQikCFsBU4KZ5UnT/svqq7jHlmY6flpCzq423DedyZKOTDw/b0bIppg=\",\"mac\":\"WLDVBZ8rMU0nyy1sjps3P0Y2ao99/muhpYLfgOV3M+g=\"}",
   "posted_post_ids": [
     "814760303295381504",
     "814766726962118656",
     "814766799712305152",
     "814766947836248064",
     "814770374806061056",
-    "814772529677877248"
+    "814772529677877248",
+    "814775871450824704"
   ],
   "posted_post_urls": [
     "https://kakakaforadyakali.tumblr.com/post/814760303295381504",
@@ -17,7 +18,8 @@
     "https://kakakaforadyakali.tumblr.com/post/814766799712305152",
     "https://kakakaforadyakali.tumblr.com/post/814766947836248064",
     "https://kakakaforadyakali.tumblr.com/post/814770374806061056",
-    "https://kakakaforadyakali.tumblr.com/post/814772529677877248"
+    "https://kakakaforadyakali.tumblr.com/post/814772529677877248",
+    "https://kakakaforadyakali.tumblr.com/post/814775871450824704"
   ],
   "posted_timestamps": [
     "2026-04-24T07:32:55.621622+00:00",
@@ -25,7 +27,8 @@
     "2026-04-24T09:16:11.005279+00:00",
     "2026-04-24T09:18:32.187080+00:00",
     "2026-04-24T10:13:00.415367+00:00",
-    "2026-04-24T10:47:15.522075+00:00"
+    "2026-04-24T10:47:15.522075+00:00",
+    "2026-04-24T11:40:22.404418+00:00"
   ],
   "posted_text_hashes": [
     "9a9bfafd8f146bd982514c23ceb52d5d53be86be07aa861c2a0df1e0e126b074",
@@ -33,9 +36,13 @@
     "b11201e902877922dd084a61eaaa953f1caa5183e18545a1ba0a8b9b5c379286",
     "56d5fd427fc92382364dd0098195c515517609c2fdeabecb96539991031578ea",
     "95e4ee6dc2d77f343c485f9688fc36b5e7f765a161282673e1f69c979e88903c",
-    "b8b796e6c9e28373b7824ce6abecb9b04bce7271ac4dc1afa9838aa338f47ca8"
+    "b8b796e6c9e28373b7824ce6abecb9b04bce7271ac4dc1afa9838aa338f47ca8",
+    "f18872c50d3f400a39222ae4444547c8a15ed051cf15b3fb0610d5a0c0e87570"
   ],
   "posted_tags": [
+    [
+      "ghargharkali"
+    ],
     [
       "ghargharkali"
     ],
@@ -127,6 +134,18 @@
         "ghargharkali"
       ],
       "post_text": "Today's name is Maha-kali. The Great Dark Mother, beautiful and compassionate to devotees, yet terrifying to their enemies. Jai Ma. #ghargharkali"
+    },
+    {
+      "queue_index": 7,
+      "source_index": 7,
+      "post_id": "814775871450824704",
+      "post_url": "https://kakakaforadyakali.tumblr.com/post/814775871450824704",
+      "posted_at": "2026-04-24T11:40:22.404418+00:00",
+      "text_hash": "f18872c50d3f400a39222ae4444547c8a15ed051cf15b3fb0610d5a0c0e87570",
+      "tags": [
+        "ghargharkali"
+      ],
+      "post_text": "Today's name is Kurukulla-'virodhini. The destroyer of opposition, especially as the one who bestows siddhis and protects those who attain them. Jai Ma. #ghargharkali"
     }
   ]
 }
