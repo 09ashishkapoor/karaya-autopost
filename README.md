@@ -10,6 +10,7 @@ The repo also includes Bluesky and Tumblr autopost workflows that publish one qu
 
 See this tool in action:
 [kaliputraashish.bsky.social](https://bsky.app/profile/kaliputraashish.bsky.social)
+[kakakaforadyakali.tumblr.com](https://kakakaforadyakali.tumblr.com)
 
 ## Features
 
@@ -183,11 +184,11 @@ Store the returned refresh token in GitHub Actions as `TUMBLR_REFRESH_TOKEN`, an
 
 ### Manual Run
 
-You can trigger the workflow manually from the GitHub Actions tab:
+You can trigger either workflow manually from the GitHub Actions tab:
 
 1. Open the repository on GitHub
 2. Go to `Actions`
-3. Open `Bluesky Autopost`
+3. Open `Bluesky Autopost` or `Tumblr Autopost`
 4. Click `Run workflow`
 
 This is useful for testing credentials or pushing the next queued post immediately.
