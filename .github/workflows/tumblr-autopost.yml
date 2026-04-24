@@ -1,0 +1,51 @@
+name: Tumblr Autopost
+
+on:
+  schedule:
+    - cron: "17,47 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: tumblr-autopost
+  cancel-in-progress: false
+
+jobs:
+  post-next:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.11"
+
+      - name: Post next Tumblr record
+        env:
+          TUMBLR_CLIENT_ID: ${{ secrets.TUMBLR_CLIENT_ID }}
+          TUMBLR_CLIENT_SECRET: ${{ secrets.TUMBLR_CLIENT_SECRET }}
+          TUMBLR_REFRESH_TOKEN: ${{ secrets.TUMBLR_REFRESH_TOKEN }}
+          TUMBLR_BLOG_IDENTIFIER: ${{ secrets.TUMBLR_BLOG_IDENTIFIER }}
+        run: |
+          python post_next_tumblr.py --json output/generated_posts_mahakali.json --state output/tumblr_post_state.json
+
+      - name: Commit state
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add output/tumblr_post_state.json
+          if git diff --cached --quiet; then
+            echo "No state changes to commit."
+            exit 0
+          fi
+          git commit -m "chore: update tumblr autopost state"
+          git push

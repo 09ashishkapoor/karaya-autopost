@@ -17,7 +17,9 @@ env/
 output/*
 !output/.gitkeep
 !output/generated_posts.json
+!output/generated_posts_mahakali.json
 !output/bluesky_post_state.json
+!output/tumblr_post_state.json
 
 # Local environment and secrets
 .env
