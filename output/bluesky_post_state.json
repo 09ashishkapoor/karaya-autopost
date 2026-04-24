@@ -1,14 +1,15 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts.json",
-  "last_posted_index": 6,
+  "last_posted_index": 7,
   "posted_record_uris": [
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mk7qgaf3qt2g",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mk7temgoyx2x",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mk7tykkpu422",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mk7xcljfwm2j",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mka2lrhyel2j",
-    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mka5x46axf2y"
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mka5x46axf2y",
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkaayzlbfu2y"
   ],
   "posted_cids": [
     "bafyreies7zcn2mclysprrfqwg46lc4jt7t5wmicmqnlnz3t67neg4xmxq4",
@@ -16,7 +17,8 @@
     "bafyreiagsyuucaocf3uwwfcke6uxfbgv44i6bdhdknytpxhtxouc44fjti",
     "bafyreicopb6nfa7ndi3x5da3qf6vujchpbp4x7qkokl7ebulwamovvusfa",
     "bafyreicqbqast2kuzxcchthjv5a7mthb7rz3gvz3jg5r64qf5eajksebme",
-    "bafyreif3p32swgjqay74kcaqgoghvca5jg2vt6wsh5tgzru3mwuiwprrc4"
+    "bafyreif3p32swgjqay74kcaqgoghvca5jg2vt6wsh5tgzru3mwuiwprrc4",
+    "bafyreierw7nrphhg24ktkhoe4h6s44qvkqzsqlmsibrcyaddaymc4fvvum"
   ],
   "posted_timestamps": [
     "2026-04-24T04:57:00.864665+00:00",
@@ -24,7 +26,8 @@
     "2026-04-24T06:00:56.751981+00:00",
     "2026-04-24T07:00:14.498044+00:00",
     "2026-04-24T07:59:03.972796+00:00",
-    "2026-04-24T08:59:05.508333+00:00"
+    "2026-04-24T08:59:05.508333+00:00",
+    "2026-04-24T09:53:51.113599+00:00"
   ],
   "posted_text_hashes": [
     "91f79a2c6394eed25ab6e87114f7f879833b09f6d53df41933aa1e9cd1f5ffb6",
@@ -32,7 +35,8 @@
     "8fc19181a414ac54acffc4926a00a2da2c0144aaee795afb14f65cffac4f9ad0",
     "38157d68f3a3aeb6df40cffa30679d551035191de171b24b8c7c31a30a3ba7d7",
     "2ff94d28c567ca76e5f278ecd4cb7b07f2f43932cc60d3969acbb4f7dc2b7cbc",
-    "34ec3b126f2abf7f621fe369ef487b5a729458f2691111e27b2b2210c603024c"
+    "34ec3b126f2abf7f621fe369ef487b5a729458f2691111e27b2b2210c603024c",
+    "f27741b572301d867244d9d887e418290321326f23af57e8c9e8abbd96532bdf"
   ],
   "history": [
     {
@@ -88,6 +92,15 @@
       "posted_at": "2026-04-24T08:59:05.508333+00:00",
       "text_hash": "34ec3b126f2abf7f621fe369ef487b5a729458f2691111e27b2b2210c603024c",
       "post_text": "Today's name is Kasika-pura-nayakaya. Protector and lord of the sacred city of Kashi. Jai Bhairava Baba. #Kalabhairava"
+    },
+    {
+      "queue_index": 7,
+      "source_index": 7,
+      "post_uri": "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkaayzlbfu2y",
+      "cid": "bafyreierw7nrphhg24ktkhoe4h6s44qvkqzsqlmsibrcyaddaymc4fvvum",
+      "posted_at": "2026-04-24T09:53:51.113599+00:00",
+      "text_hash": "f27741b572301d867244d9d887e418290321326f23af57e8c9e8abbd96532bdf",
+      "post_text": "Today's name is Karuna-varidhaye. Ocean of compassion for his devotees. Jai Bhairava Baba. #Kalabhairava"
     }
   ]
 }
