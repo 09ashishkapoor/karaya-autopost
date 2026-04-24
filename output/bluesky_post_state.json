@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts.json",
-  "last_posted_index": 26,
+  "last_posted_index": 27,
   "posted_record_uris": [
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mk7qgaf3qt2g",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mk7temgoyx2x",
@@ -28,7 +28,8 @@
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkbbnpidas27",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkbd37df3y2j",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkbeoc3ult2n",
-    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkbglccdsc2a"
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkbglccdsc2a",
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkbi5urzfc2y"
   ],
   "posted_cids": [
     "bafyreies7zcn2mclysprrfqwg46lc4jt7t5wmicmqnlnz3t67neg4xmxq4",
@@ -56,7 +57,8 @@
     "bafyreidgsdedezfycji6djiyk2hbsu7wsssevfc67letduoo7c4ldlvbsu",
     "bafyreidfoelyowlpxjib6oh3r7hjyvodbkqojq2hgjtq4p5efr74bs7tci",
     "bafyreiflt6ungcbewrm5jlxv4gou5ngevftbpkwvmb5yjfdxyx7q2nchfm",
-    "bafyreidfqpz2jqjskid36ylmsfe6gus3frjh3dnlm7bj4yrc35akyscnue"
+    "bafyreidfqpz2jqjskid36ylmsfe6gus3frjh3dnlm7bj4yrc35akyscnue",
+    "bafyreietvonighnbtzdupdcth2d3aachufmm2i7c4ujlmrntq63u4uxo3m"
   ],
   "posted_timestamps": [
     "2026-04-24T04:57:00.864665+00:00",
@@ -84,7 +86,8 @@
     "2026-04-24T19:38:04.945702+00:00",
     "2026-04-24T20:03:31.472817+00:00",
     "2026-04-24T20:32:05.661057+00:00",
-    "2026-04-24T21:06:12.689621+00:00"
+    "2026-04-24T21:06:12.689621+00:00",
+    "2026-04-24T21:34:29.813635+00:00"
   ],
   "posted_text_hashes": [
     "91f79a2c6394eed25ab6e87114f7f879833b09f6d53df41933aa1e9cd1f5ffb6",
@@ -112,7 +115,8 @@
     "c00d21f90896e0820e3ccf72fee4e84b08def8ce292029f172c94f5deda0536a",
     "021cc8b0eb14afb635e5eb715a6787efb36d90b7169b062cf4327d8f18402c9d",
     "9a498c2683d1def732864d83f3a58d13ef905ab8d1713e7b3992cefb8e653d9c",
-    "53bde0325ee10d49d115d093b2ac569653e61fa806ea6daa288442f6c5da516b"
+    "53bde0325ee10d49d115d093b2ac569653e61fa806ea6daa288442f6c5da516b",
+    "e2fe5481b4b815cd500de5c665e3a3d05243a6061eff223ea0bdad6e55c85e69"
   ],
   "history": [
     {
@@ -348,6 +352,15 @@
       "posted_at": "2026-04-24T21:06:12.689621+00:00",
       "text_hash": "53bde0325ee10d49d115d093b2ac569653e61fa806ea6daa288442f6c5da516b",
       "post_text": "Today's name is Kalii-dhyana-japa-asakta-hrda-akarana-vasakaya. Whose heart is absorbed in meditation and mantra-japa of Kali. Jai Bhairava Baba. #Kalabhairava"
+    },
+    {
+      "queue_index": 27,
+      "source_index": 27,
+      "post_uri": "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkbi5urzfc2y",
+      "cid": "bafyreietvonighnbtzdupdcth2d3aachufmm2i7c4ujlmrntq63u4uxo3m",
+      "posted_at": "2026-04-24T21:34:29.813635+00:00",
+      "text_hash": "e2fe5481b4b815cd500de5c665e3a3d05243a6061eff223ea0bdad6e55c85e69",
+      "post_text": "Today's name is Kalika-varivastyaadi-pradhana-kalpa-padapaya. The primordial wish-fulfilling tree rooted in the essence of Kali. Jai Bhairava Baba. #Kalabhairava"
     }
   ]
 }
