@@ -133,6 +133,7 @@ This repo includes a production Tumblr autopost flow:
 - posting order: first to last, no randomness
 - posting mode: one published text post per run
 - tag behavior: hashtags from `post_text` are also extracted into Tumblr tags
+- token behavior: the initial `TUMBLR_REFRESH_TOKEN` secret is used for bootstrap, then the workflow persists the latest rotated refresh token in the tracked Tumblr state file in encrypted form
 
 ### Required GitHub Repository Secrets
 

@@ -39,6 +39,7 @@ jobs:
           python post_next_tumblr.py --json output/generated_posts_mahakali.json --state output/tumblr_post_state.json
 
       - name: Commit state
+        if: always()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"

@@ -16,6 +16,7 @@ def test_load_state_returns_default_when_missing(tmp_path: Path):
 
     assert state["last_posted_index"] == 0
     assert state["source_json_path"] == str(queue_path)
+    assert state["encrypted_refresh_token"] == ""
     assert state["history"] == []
 
 
@@ -48,14 +49,23 @@ def test_summarize_api_error_uses_meta_message():
     assert post_next_tumblr.summarize_api_error(error) == "Tumblr API error 401: Unauthorized"
 
 
+def test_encrypt_refresh_token_round_trips():
+    encrypted = post_next_tumblr.encrypt_refresh_token("refresh-token-123", "client-secret-abc")
+
+    assert post_next_tumblr.decrypt_refresh_token(encrypted, "client-secret-abc") == "refresh-token-123"
+
+
+def test_resolve_refresh_token_prefers_state(monkeypatch):
+    state = {
+        "encrypted_refresh_token": post_next_tumblr.encrypt_refresh_token("state-token", "client-secret-abc"),
+    }
+    monkeypatch.setenv("TUMBLR_REFRESH_TOKEN", "env-token")
+
+    assert post_next_tumblr.resolve_refresh_token(state, "client-secret-abc") == "state-token"
+
+
 def test_publish_post_sends_text_and_tags(monkeypatch):
     captured = {}
-
-    monkeypatch.setattr(
-        post_next_tumblr,
-        "create_access_token",
-        lambda: ("https://api.tumblr.com", "kakakaforadyakali.tumblr.com", "token-123"),
-    )
 
     def fake_request_json(url: str, payload: dict, headers: dict | None = None) -> dict:
         captured["url"] = url
@@ -65,7 +75,12 @@ def test_publish_post_sends_text_and_tags(monkeypatch):
 
     monkeypatch.setattr(post_next_tumblr, "request_json", fake_request_json)
 
-    post_id, post_url, tags = post_next_tumblr.publish_post("Today's name is Kali. Jai Ma. #ghargharkali")
+    post_id, post_url, tags = post_next_tumblr.publish_post(
+        "Today's name is Kali. Jai Ma. #ghargharkali",
+        "https://api.tumblr.com",
+        "kakakaforadyakali.tumblr.com",
+        "token-123",
+    )
 
     assert post_id == "1234567890"
     assert post_url == "https://kakakaforadyakali.tumblr.com/post/1234567890"
@@ -96,6 +111,7 @@ def test_main_posts_next_record_and_updates_state(tmp_path: Path, monkeypatch):
                 "version": 1,
                 "source_json_path": str(queue_path.resolve()),
                 "last_posted_index": 1,
+                "encrypted_refresh_token": "",
                 "posted_post_ids": ["111"],
                 "posted_post_urls": ["https://example.tumblr.com/post/111"],
                 "posted_timestamps": ["2026-01-01T00:00:00+00:00"],
@@ -120,9 +136,15 @@ def test_main_posts_next_record_and_updates_state(tmp_path: Path, monkeypatch):
 
     monkeypatch.setattr(
         post_next_tumblr,
-        "publish_post",
-        lambda text: ("222", "https://example.tumblr.com/post/222", ["beta"]),
+        "create_access_token",
+        lambda state: ("https://api.tumblr.com", "example.tumblr.com", "token-123", "rotated-refresh-token"),
     )
+    monkeypatch.setattr(
+        post_next_tumblr,
+        "publish_post",
+        lambda text, api_base, blog_identifier, access_token: ("222", "https://example.tumblr.com/post/222", ["beta"]),
+    )
+    monkeypatch.setenv("TUMBLR_CLIENT_SECRET", "client-secret-abc")
     monkeypatch.setattr(
         sys,
         "argv",
@@ -142,6 +164,7 @@ def test_main_posts_next_record_and_updates_state(tmp_path: Path, monkeypatch):
     assert state["posted_post_ids"][-1] == "222"
     assert state["posted_post_urls"][-1] == "https://example.tumblr.com/post/222"
     assert state["posted_tags"][-1] == ["beta"]
+    assert post_next_tumblr.decrypt_refresh_token(state["encrypted_refresh_token"], "client-secret-abc") == "rotated-refresh-token"
     assert state["history"][-1]["queue_index"] == 2
     assert state["history"][-1]["post_text"] == "post two #beta"
 
@@ -160,6 +183,7 @@ def test_main_exits_cleanly_when_queue_complete(tmp_path: Path, monkeypatch, cap
                 "version": 1,
                 "source_json_path": str(queue_path.resolve()),
                 "last_posted_index": 1,
+                "encrypted_refresh_token": "",
                 "posted_post_ids": ["111"],
                 "posted_post_urls": ["https://example.tumblr.com/post/111"],
                 "posted_timestamps": ["2026-01-01T00:00:00+00:00"],

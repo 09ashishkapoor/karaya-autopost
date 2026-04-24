@@ -2,6 +2,7 @@
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts_mahakali.json",
   "last_posted_index": 1,
+  "encrypted_refresh_token": "",
   "posted_post_ids": [
     "814760303295381504"
   ],
