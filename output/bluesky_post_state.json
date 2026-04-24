@@ -1,22 +1,26 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts.json",
-  "last_posted_index": 2,
+  "last_posted_index": 3,
   "posted_record_uris": [
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mk7qgaf3qt2g",
-    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mk7temgoyx2x"
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mk7temgoyx2x",
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mk7tykkpu422"
   ],
   "posted_cids": [
     "bafyreies7zcn2mclysprrfqwg46lc4jt7t5wmicmqnlnz3t67neg4xmxq4",
-    "bafyreidimqtyk3cma35l6n4rainofgwnqs6aqaeuqz6u3cmaun26ypzaom"
+    "bafyreidimqtyk3cma35l6n4rainofgwnqs6aqaeuqz6u3cmaun26ypzaom",
+    "bafyreiagsyuucaocf3uwwfcke6uxfbgv44i6bdhdknytpxhtxouc44fjti"
   ],
   "posted_timestamps": [
     "2026-04-24T04:57:00.864665+00:00",
-    "2026-04-24T05:49:47.625736+00:00"
+    "2026-04-24T05:49:47.625736+00:00",
+    "2026-04-24T06:00:56.751981+00:00"
   ],
   "posted_text_hashes": [
     "91f79a2c6394eed25ab6e87114f7f879833b09f6d53df41933aa1e9cd1f5ffb6",
-    "1fa3a6b1834b5a72ba37b8a8902f6a4addab55540990b432df49887dc0542d02"
+    "1fa3a6b1834b5a72ba37b8a8902f6a4addab55540990b432df49887dc0542d02",
+    "8fc19181a414ac54acffc4926a00a2da2c0144aaee795afb14f65cffac4f9ad0"
   ],
   "history": [
     {
@@ -36,6 +40,15 @@
       "posted_at": "2026-04-24T05:49:47.625736+00:00",
       "text_hash": "1fa3a6b1834b5a72ba37b8a8902f6a4addab55540990b432df49887dc0542d02",
       "post_text": "Today's name is Kala-kalaya. The destroyer of destruction, the Lord who conquers time itself. Jai Bhairava Baba. #Kalabhairava"
+    },
+    {
+      "queue_index": 3,
+      "source_index": 3,
+      "post_uri": "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mk7tykkpu422",
+      "cid": "bafyreiagsyuucaocf3uwwfcke6uxfbgv44i6bdhdknytpxhtxouc44fjti",
+      "posted_at": "2026-04-24T06:00:56.751981+00:00",
+      "text_hash": "8fc19181a414ac54acffc4926a00a2da2c0144aaee795afb14f65cffac4f9ad0",
+      "post_text": "Today's name is Kala-danda-dhrite. Wielder of the rod of time, upholder of divine judgment. Jai Bhairava Baba. #Kalabhairava"
     }
   ]
 }
