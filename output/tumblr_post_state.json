@@ -1,8 +1,8 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts_mahakali.json",
-  "last_posted_index": 17,
-  "encrypted_refresh_token": "{\"nonce\":\"ZhQyzM/JJl+ExnuYoPaOnw==\",\"ciphertext\":\"+zUGfjTwFx3b3QVYYGizIDXe82N+Y9T98PRUjaes4efvfdBJ/OCOCagq8jzk++ViLOo=\",\"mac\":\"dNJjZxfOSexlF8fhmQn1+fUnuUkeI+TDkULuJw29lDM=\"}",
+  "last_posted_index": 18,
+  "encrypted_refresh_token": "{\"nonce\":\"lEKjwhk9kgPi7LI7AARakQ==\",\"ciphertext\":\"S/YcZ1cbvNprco1APPgxiKbXr2dxr9nYAT9sy44N53AA+ie3Gpw9tzADyhoRgx0+37I=\",\"mac\":\"MTEVKdyRDHrS5TF3ML0cR58aDr91peRBaIzQb/nWJLI=\"}",
   "posted_post_ids": [
     "814760303295381504",
     "814766726962118656",
@@ -20,7 +20,8 @@
     "814792823235837952",
     "814794452577222656",
     "814796532572438529",
-    "814798180972740608"
+    "814798180972740608",
+    "814799845798936576"
   ],
   "posted_post_urls": [
     "https://kakakaforadyakali.tumblr.com/post/814760303295381504",
@@ -39,7 +40,8 @@
     "https://kakakaforadyakali.tumblr.com/post/814792823235837952",
     "https://kakakaforadyakali.tumblr.com/post/814794452577222656",
     "https://kakakaforadyakali.tumblr.com/post/814796532572438529",
-    "https://kakakaforadyakali.tumblr.com/post/814798180972740608"
+    "https://kakakaforadyakali.tumblr.com/post/814798180972740608",
+    "https://kakakaforadyakali.tumblr.com/post/814799845798936576"
   ],
   "posted_timestamps": [
     "2026-04-24T07:32:55.621622+00:00",
@@ -58,7 +60,8 @@
     "2026-04-24T16:09:48.922942+00:00",
     "2026-04-24T16:35:42.809739+00:00",
     "2026-04-24T17:08:46.720187+00:00",
-    "2026-04-24T17:34:58.520927+00:00"
+    "2026-04-24T17:34:58.520927+00:00",
+    "2026-04-24T18:01:26.124404+00:00"
   ],
   "posted_text_hashes": [
     "9a9bfafd8f146bd982514c23ceb52d5d53be86be07aa861c2a0df1e0e126b074",
@@ -77,9 +80,13 @@
     "1d533cd98dd70f1627aaef1c915d48684392831e075233f67df3e495bbf87a8a",
     "f03db160bfd8aaccb62d2f4e8474068e3994c77b9a95222c4730604a7e9b34b6",
     "b8195aa80484d70fba3ac35f3c5a336748f810deb97c765d1a3ebecef4577ae3",
-    "b0aaabc4c4c2d6e9357e4aefd5c78ca18c91f13f131c5edca88a72fd9c61ca39"
+    "b0aaabc4c4c2d6e9357e4aefd5c78ca18c91f13f131c5edca88a72fd9c61ca39",
+    "42d56f57fb309e987bcb9d32b7fe5c1578af7ca33626c3b7d69c24ed509325a5"
   ],
   "posted_tags": [
+    [
+      "ghargharkali"
+    ],
     [
       "ghargharkali"
     ],
@@ -336,6 +343,18 @@
         "ghargharkali"
       ],
       "post_text": "Today's name is Kasturi rasa liptanggi. Her body is anointed with the essence of musk. Jai Ma. #ghargharkali"
+    },
+    {
+      "queue_index": 18,
+      "source_index": 18,
+      "post_id": "814799845798936576",
+      "post_url": "https://kakakaforadyakali.tumblr.com/post/814799845798936576",
+      "posted_at": "2026-04-24T18:01:26.124404+00:00",
+      "text_hash": "42d56f57fb309e987bcb9d32b7fe5c1578af7ca33626c3b7d69c24ed509325a5",
+      "tags": [
+        "ghargharkali"
+      ],
+      "post_text": "Today's name is Kunjar'eshhwara gamini. She who moves with the majestic gait of the Lord of Elephants, embodying power and grace. Jai Ma. #ghargharkali"
     }
   ]
 }
