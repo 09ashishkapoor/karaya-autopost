@@ -1,8 +1,8 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts_mahakali.json",
-  "last_posted_index": 22,
-  "encrypted_refresh_token": "{\"nonce\":\"Qek6g2/+TWlJMVvWmkHL8A==\",\"ciphertext\":\"OvsbXlOc3XEyyfJc7iMpWLpwMauay0VMfSUFIZ1pp6T94EO7rnB/dXm2ohzWcnjkDK8=\",\"mac\":\"CznfS285NSz+t7eAqawMBuGW2D8R86A5m2o7CPzSNuk=\"}",
+  "last_posted_index": 23,
+  "encrypted_refresh_token": "{\"nonce\":\"E3vfu/kqpNhDNi7LPYPmlA==\",\"ciphertext\":\"j3fhLv546NBIqCC2q7RFvVxEkjIlN3uWSFMlBC2eQOyIazzBbxB/bS3pOG+j+vQlmVc=\",\"mac\":\"VwfVTVO8mMJ8FLB7l7qY61IRv1VqoxVdN/+JbALLrN0=\"}",
   "posted_post_ids": [
     "814760303295381504",
     "814766726962118656",
@@ -25,7 +25,8 @@
     "814801749204434944",
     "814804010531979264",
     "814805806249852928",
-    "814807438788263936"
+    "814807438788263936",
+    "814809278392270848"
   ],
   "posted_post_urls": [
     "https://kakakaforadyakali.tumblr.com/post/814760303295381504",
@@ -49,7 +50,8 @@
     "https://kakakaforadyakali.tumblr.com/post/814801749204434944",
     "https://kakakaforadyakali.tumblr.com/post/814804010531979264",
     "https://kakakaforadyakali.tumblr.com/post/814805806249852928",
-    "https://kakakaforadyakali.tumblr.com/post/814807438788263936"
+    "https://kakakaforadyakali.tumblr.com/post/814807438788263936",
+    "https://kakakaforadyakali.tumblr.com/post/814809278392270848"
   ],
   "posted_timestamps": [
     "2026-04-24T07:32:55.621622+00:00",
@@ -73,7 +75,8 @@
     "2026-04-24T18:31:41.488532+00:00",
     "2026-04-24T19:07:37.995776+00:00",
     "2026-04-24T19:36:10.526338+00:00",
-    "2026-04-24T20:02:07.414559+00:00"
+    "2026-04-24T20:02:07.414559+00:00",
+    "2026-04-24T20:31:21.969075+00:00"
   ],
   "posted_text_hashes": [
     "9a9bfafd8f146bd982514c23ceb52d5d53be86be07aa861c2a0df1e0e126b074",
@@ -97,9 +100,13 @@
     "9f5e5952d5ef0369f7f87b4e98b05c3c9a84c356b8772df245517405dda3d0dd",
     "cfcbfb8b25e18743d93d216e856e07aaaffea8552ed5aa39b754e5d057ff7f49",
     "4828df0105e71c120cf9a928c3e07b346eb625bb6f0978064c3312dd415ccf7e",
-    "dd15744b4461b8d93efc46f9349f21380244a7b7be05f2fb468903fe23fea27a"
+    "dd15744b4461b8d93efc46f9349f21380244a7b7be05f2fb468903fe23fea27a",
+    "8bfae60fc537fab9b53d14e10f182b55cc8719ba5e02f4d1f2a14e068de445ec"
   ],
   "posted_tags": [
+    [
+      "ghargharkali"
+    ],
     [
       "ghargharkali"
     ],
@@ -431,6 +438,18 @@
         "ghargharkali"
       ],
       "post_text": "Today's name is Kama rupacha. She who can assume any form at will for the protection of devotees or the destruction of evil. Jai Ma. #ghargharkali"
+    },
+    {
+      "queue_index": 23,
+      "source_index": 23,
+      "post_id": "814809278392270848",
+      "post_url": "https://kakakaforadyakali.tumblr.com/post/814809278392270848",
+      "posted_at": "2026-04-24T20:31:21.969075+00:00",
+      "text_hash": "8bfae60fc537fab9b53d14e10f182b55cc8719ba5e02f4d1f2a14e068de445ec",
+      "tags": [
+        "ghargharkali"
+      ],
+      "post_text": "Today's name is Kama dhenu. The wish-fulfilling Cow, bestowing every aspiration. Jai Ma. #ghargharkali"
     }
   ]
 }
