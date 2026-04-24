@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts.json",
-  "last_posted_index": 12,
+  "last_posted_index": 13,
   "posted_record_uris": [
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mk7qgaf3qt2g",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mk7temgoyx2x",
@@ -14,7 +14,8 @@
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkah2qs3se2c",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkaifrkxwl2s",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkakdoiqwn2n",
-    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkamahdvre2j"
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkamahdvre2j",
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkaosdlpkk2u"
   ],
   "posted_cids": [
     "bafyreies7zcn2mclysprrfqwg46lc4jt7t5wmicmqnlnz3t67neg4xmxq4",
@@ -28,7 +29,8 @@
     "bafyreifxzqyzl5444uljes2er5ytfkkmkhza5o3rsxmj75g63pqlazczfa",
     "bafyreiecigh23zhtzkv4gjbixze3wnyiyfawwezc5qflj5ztjmbbbw2rgq",
     "bafyreiffot644xjdhpfla6i2p2l6rhj7juaxfovshgqmiwdf6iixlosbya",
-    "bafyreiequqzqydquvnyk62phr4bvmxjvblkymwr3xf7sps6py3eqsegk24"
+    "bafyreiequqzqydquvnyk62phr4bvmxjvblkymwr3xf7sps6py3eqsegk24",
+    "bafyreidvbgrbvupzwraag6yw3u5v76opg7k7hfq7bgtnquxhq3vxfoitq4"
   ],
   "posted_timestamps": [
     "2026-04-24T04:57:00.864665+00:00",
@@ -42,7 +44,8 @@
     "2026-04-24T11:42:11.464132+00:00",
     "2026-04-24T12:06:15.118314+00:00",
     "2026-04-24T12:40:52.293763+00:00",
-    "2026-04-24T13:14:51.603114+00:00"
+    "2026-04-24T13:14:51.603114+00:00",
+    "2026-04-24T14:00:39.125403+00:00"
   ],
   "posted_text_hashes": [
     "91f79a2c6394eed25ab6e87114f7f879833b09f6d53df41933aa1e9cd1f5ffb6",
@@ -56,7 +59,8 @@
     "9b1478315a81eb29e6a13bef40bbe3343603688d96a4a867dae29a944a80ba70",
     "5ecf2b3b5e2fb52c013f681e4e14f95b5ccacbc4963109a1d22a1314513e63b6",
     "c1bb3f88250596c79507de9d02db5f26ead6d2c0773e88afb990a673ffbfb0b1",
-    "8f910758728789c5754b029ba5856da64661cfb3800c4292ebb2650d6bbdb9a4"
+    "8f910758728789c5754b029ba5856da64661cfb3800c4292ebb2650d6bbdb9a4",
+    "f40334dff27c2c922a96eb3bda7bf3ac18076a5f077f69cf27187150317a8750"
   ],
   "history": [
     {
@@ -166,6 +170,15 @@
       "posted_at": "2026-04-24T13:14:51.603114+00:00",
       "text_hash": "8f910758728789c5754b029ba5856da64661cfb3800c4292ebb2650d6bbdb9a4",
       "post_text": "Today's name is Kapaline. Bearer of the skull, symbol of detachment from worldly existence. Jai Bhairava Baba. #Kalabhairava"
+    },
+    {
+      "queue_index": 13,
+      "source_index": 13,
+      "post_uri": "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkaosdlpkk2u",
+      "cid": "bafyreidvbgrbvupzwraag6yw3u5v76opg7k7hfq7bgtnquxhq3vxfoitq4",
+      "posted_at": "2026-04-24T14:00:39.125403+00:00",
+      "text_hash": "f40334dff27c2c922a96eb3bda7bf3ac18076a5f077f69cf27187150317a8750",
+      "post_text": "Today's name is Kalanemi-ghne. Destroyer of the demon Kalanemi, vanquisher of obstacles and ignorance. Jai Bhairava Baba. #Kalabhairava"
     }
   ]
 }
