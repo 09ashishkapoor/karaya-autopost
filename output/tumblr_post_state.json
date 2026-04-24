@@ -1,33 +1,40 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts_mahakali.json",
-  "last_posted_index": 4,
-  "encrypted_refresh_token": "{\"nonce\":\"rl2ujmkU2DBL/AaL3EgMkg==\",\"ciphertext\":\"Yka4UnuOpAArRwCh0wR+0i6Hq16bztpuSS7ReXrXCiPWF4H91txNaYcGd2HCjvHcHNI=\",\"mac\":\"8XnkX+qFMtXMNV5m9mvcRk5wuPzWUkSrOXjeNicLV/0=\"}",
+  "last_posted_index": 5,
+  "encrypted_refresh_token": "{\"nonce\":\"c4W9RbzBem00VboN9bXTUA==\",\"ciphertext\":\"iSZMxGv9I0ypcO/TolTEaguB9JjP2GXpQ4YvB7+LUMAJOW583ODp2pUAK7o2EnitvNc=\",\"mac\":\"owA5N1mY+7f1zwdRPU3EZtOhL8rskvti5PVb3QJ1jok=\"}",
   "posted_post_ids": [
     "814760303295381504",
     "814766726962118656",
     "814766799712305152",
-    "814766947836248064"
+    "814766947836248064",
+    "814770374806061056"
   ],
   "posted_post_urls": [
     "https://kakakaforadyakali.tumblr.com/post/814760303295381504",
     "https://kakakaforadyakali.tumblr.com/post/814766726962118656",
     "https://kakakaforadyakali.tumblr.com/post/814766799712305152",
-    "https://kakakaforadyakali.tumblr.com/post/814766947836248064"
+    "https://kakakaforadyakali.tumblr.com/post/814766947836248064",
+    "https://kakakaforadyakali.tumblr.com/post/814770374806061056"
   ],
   "posted_timestamps": [
     "2026-04-24T07:32:55.621622+00:00",
     "2026-04-24T09:15:01.582675+00:00",
     "2026-04-24T09:16:11.005279+00:00",
-    "2026-04-24T09:18:32.187080+00:00"
+    "2026-04-24T09:18:32.187080+00:00",
+    "2026-04-24T10:13:00.415367+00:00"
   ],
   "posted_text_hashes": [
     "9a9bfafd8f146bd982514c23ceb52d5d53be86be07aa861c2a0df1e0e126b074",
     "90dafb2182fbd7d875f0bc544727473dc83288263a52fe2801bc6ed25af94abd",
     "b11201e902877922dd084a61eaaa953f1caa5183e18545a1ba0a8b9b5c379286",
-    "56d5fd427fc92382364dd0098195c515517609c2fdeabecb96539991031578ea"
+    "56d5fd427fc92382364dd0098195c515517609c2fdeabecb96539991031578ea",
+    "95e4ee6dc2d77f343c485f9688fc36b5e7f765a161282673e1f69c979e88903c"
   ],
   "posted_tags": [
+    [
+      "ghargharkali"
+    ],
     [
       "ghargharkali"
     ],
@@ -89,6 +96,18 @@
         "ghargharkali"
       ],
       "post_text": "Today's name is Kapalini. She who bears the skull, showing Her transcendence over mortality and the cycle of creation. Jai Ma. #ghargharkali"
+    },
+    {
+      "queue_index": 5,
+      "source_index": 5,
+      "post_id": "814770374806061056",
+      "post_url": "https://kakakaforadyakali.tumblr.com/post/814770374806061056",
+      "posted_at": "2026-04-24T10:13:00.415367+00:00",
+      "text_hash": "95e4ee6dc2d77f343c485f9688fc36b5e7f765a161282673e1f69c979e88903c",
+      "tags": [
+        "ghargharkali"
+      ],
+      "post_text": "Today's name is Guhya kali. The hidden and secret Dark Goddess. Jai Ma. #ghargharkali"
     }
   ]
 }
