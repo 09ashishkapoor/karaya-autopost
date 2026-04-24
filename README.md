@@ -4,6 +4,8 @@ Karaya Autopost is a small, dependency-free Python utility for turning devotiona
 
 It was built for simple devotional posting workflows: keep source entries in plain text, choose a text template in JSON, and generate structured exports that can be reviewed, scheduled, or imported elsewhere.
 
+The repo also includes a Bluesky autopost workflow that publishes one queued text post at a time on a schedule.
+
 ## Features
 
 - Parses plain `name: meaning` source files.
@@ -13,6 +15,14 @@ It was built for simple devotional posting workflows: keep source entries in pla
 - Flags records that exceed a configurable character limit.
 - Posts one queued text record at a time to Bluesky.
 - Uses only the Python standard library at runtime.
+
+## How It Works
+
+1. Source text files are parsed into structured devotional entries.
+2. A JSON config applies a reusable `post_template` to each entry.
+3. The generator writes a queue file under `output/`.
+4. GitHub Actions reads that queue and posts the next unposted record to Bluesky.
+5. The workflow commits `output/bluesky_post_state.json` back to the repo so posting resumes in order.
 
 ## Repository Contents
 
@@ -53,6 +63,15 @@ By default, these write files under `output/`:
 
 The script prints the number of generated records, output paths, how many entries exceed the configured length limit, and how many malformed source lines were skipped.
 
+## Tracked Output Files
+
+Most generated exports are ignored by git, but these two files are intentionally tracked:
+
+- `output/generated_posts.json` - the queue consumed by GitHub Actions
+- `output/bluesky_post_state.json` - the posting state used to resume in order
+
+This makes the bot easy to audit and recover without an external database.
+
 ## Bluesky Autopost
 
 This repo includes a production Bluesky autopost flow:
@@ -89,6 +108,28 @@ python post_next_bluesky.py --json output/generated_posts.json --state output/bl
 ```
 
 - Commits `output/bluesky_post_state.json` back to the repo only when state changes.
+
+### Manual Run
+
+You can trigger the workflow manually from the GitHub Actions tab:
+
+1. Open the repository on GitHub
+2. Go to `Actions`
+3. Open `Bluesky Autopost`
+4. Click `Run workflow`
+
+This is useful for testing credentials or pushing the next queued post immediately.
+
+### Revoking Access
+
+This project is designed to use a Bluesky app password rather than your main account password.
+
+If you ever want to cut off access:
+
+1. Open Bluesky settings
+2. Go to `App Passwords`
+3. Revoke the app password used by this repo
+4. Generate a new one and update `BLUESKY_APP_PASSWORD` in GitHub if needed
 
 ## Install for Development
 
@@ -181,11 +222,18 @@ Current test coverage verifies path resolution, accepted input formats, malforme
 
 ## Public Repo Safety
 
+- GitHub Actions secrets are not stored in the repository contents.
 - Use a Bluesky app password, not your main account password.
 - Do not add PR-triggered workflows that consume secrets.
 - Keep write access to the repo restricted.
 - If anything suspicious happens, revoke the Bluesky app password immediately.
 - `BLUESKY_PDS_HOST` must be an `https://` host root, not a full endpoint URL.
+
+## Roadmap
+
+- Add Tumblr integration for queued text posting.
+- Add Nostr integration for open-protocol text publishing.
+- Keep the queue format generic so more platforms can be added without changing source data.
 
 ## Contributing
 
