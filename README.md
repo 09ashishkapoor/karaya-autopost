@@ -20,7 +20,7 @@ It was built for simple devotional posting workflows: keep source entries in pla
 - `post_next_bluesky.py` - posts exactly one next Bluesky record from a generated JSON queue.
 - `post_config.json` - Kalabhairava export configuration.
 - `post_config_mahakali.json` - Mahakali export configuration.
-- `.github/workflows/bluesky-autopost.yml` - hourly Bluesky workflow.
+- `.github/workflows/bluesky-autopost.yml` - every-30-minutes Bluesky workflow.
 - `output/bluesky_post_state.json` - persistent Bluesky posting state committed back to the repo.
 - `combined_kalabhairava_onelinemeanings_nosalutations_FULL_APRIL22.txt` - Kalabhairava source entries.
 - `combined_mahakali_onelinemeanings__FULL_APRIL22.txt` - Mahakali source entries.
@@ -59,7 +59,7 @@ This repo includes a production Bluesky autopost flow:
 
 - queue source: `output/generated_posts.json`
 - state file: `output/bluesky_post_state.json`
-- schedule: hourly at minute `17`
+- schedule: every 30 minutes at minutes `17` and `47`
 - posting order: first to last, no randomness
 - posting mode: one text post per run
 
@@ -79,7 +79,7 @@ Optional environment variable:
 
 Workflow file: `.github/workflows/bluesky-autopost.yml`
 
-- Runs on cron `17 * * * *` and supports manual `workflow_dispatch`.
+- Runs on cron `17,47 * * * *` and supports manual `workflow_dispatch`.
 - Uses workflow concurrency group `bluesky-autopost` to prevent overlapping posts.
 - Calls:
 
