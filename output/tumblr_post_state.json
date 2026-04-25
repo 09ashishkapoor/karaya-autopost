@@ -1,8 +1,8 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts_mahakali.json",
-  "last_posted_index": 68,
-  "encrypted_refresh_token": "{\"nonce\":\"lOWgeUepOFxLFIwPgl3o3w==\",\"ciphertext\":\"ZbrdbxmnV2IgOa6P3a+gm4pYv1MbbRI+d/AXErdLQR13B41Qv0yOvfAGLP0TY460jeY=\",\"mac\":\"iM7lzoxfVtKUVTlJ14Syrj7VnKqqRUNUiEBWhbJZFM0=\"}",
+  "last_posted_index": 69,
+  "encrypted_refresh_token": "{\"nonce\":\"PAk4m8kkATEF2N49mdKNDQ==\",\"ciphertext\":\"SaIPdIkxktRoagXlnRgXtEcT7KCq1gm1kpHu4FZPQHwILrAMpAMWjfNhkhkFWOA8Ad0=\",\"mac\":\"t7xgq+NKyw5UGDIx7JLuDxPJzyrt1IEtFPtS+v2aOvU=\"}",
   "posted_post_ids": [
     "814760303295381504",
     "814766726962118656",
@@ -71,7 +71,8 @@
     "814901640421392384",
     "814903376960684032",
     "814905284554358784",
-    "814907148728451072"
+    "814907148728451072",
+    "814909175052288000"
   ],
   "posted_post_urls": [
     "https://kakakaforadyakali.tumblr.com/post/814760303295381504",
@@ -141,7 +142,8 @@
     "https://kakakaforadyakali.tumblr.com/post/814901640421392384",
     "https://kakakaforadyakali.tumblr.com/post/814903376960684032",
     "https://kakakaforadyakali.tumblr.com/post/814905284554358784",
-    "https://kakakaforadyakali.tumblr.com/post/814907148728451072"
+    "https://kakakaforadyakali.tumblr.com/post/814907148728451072",
+    "https://kakakaforadyakali.tumblr.com/post/814909175052288000"
   ],
   "posted_timestamps": [
     "2026-04-24T07:32:55.621622+00:00",
@@ -211,7 +213,8 @@
     "2026-04-25T20:59:25.071933+00:00",
     "2026-04-25T21:27:01.162888+00:00",
     "2026-04-25T21:57:20.357115+00:00",
-    "2026-04-25T22:26:58.197438+00:00"
+    "2026-04-25T22:26:58.197438+00:00",
+    "2026-04-25T22:59:10.757568+00:00"
   ],
   "posted_text_hashes": [
     "9a9bfafd8f146bd982514c23ceb52d5d53be86be07aa861c2a0df1e0e126b074",
@@ -281,9 +284,13 @@
     "7ebf3d95729d66f289a0a1db0bd4f7284b3f1c82ce981475a2eda21e5c9a8d9e",
     "f8fbad89d523a7a561169024e944f591c59f378919f174900c12fcc9eea5c2f0",
     "7c7314b8d0e21aec059805eee19c76946b3acea2c2d3e03fc44de0a0a320bda3",
-    "d7c96343e4fcaf6b1d6332ced85369b4b84614d0bad3edc1bd3cff249acf42ca"
+    "d7c96343e4fcaf6b1d6332ced85369b4b84614d0bad3edc1bd3cff249acf42ca",
+    "7b0672d17ece5312bbc6a488079abf4c3e52c4440b004e38e11351a22d46fff5"
   ],
   "posted_tags": [
+    [
+      "ghargharkali"
+    ],
     [
       "ghargharkali"
     ],
@@ -1305,6 +1312,18 @@
         "ghargharkali"
       ],
       "post_text": "Today's name is Malini. She who is adorned with garlands, especially skull garlands, showing Her mastery over death. Jai Ma. #ghargharkali"
+    },
+    {
+      "queue_index": 69,
+      "source_index": 69,
+      "post_id": "814909175052288000",
+      "post_url": "https://kakakaforadyakali.tumblr.com/post/814909175052288000",
+      "posted_at": "2026-04-25T22:59:10.757568+00:00",
+      "text_hash": "7b0672d17ece5312bbc6a488079abf4c3e52c4440b004e38e11351a22d46fff5",
+      "tags": [
+        "ghargharkali"
+      ],
+      "post_text": "Today's name is Nara mundali. She who wears a garland of human skulls. Jai Ma. #ghargharkali"
     }
   ]
 }
