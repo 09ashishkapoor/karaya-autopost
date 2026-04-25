@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts.json",
-  "last_posted_index": 67,
+  "last_posted_index": 68,
   "posted_record_uris": [
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mk7qgaf3qt2g",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mk7temgoyx2x",
@@ -69,7 +69,8 @@
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkdtdiffm42n",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkduzfx7fl23",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkdwqi43rs2n",
-    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkdye3kufe27"
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkdye3kufe27",
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkdzzbmtm42g"
   ],
   "posted_cids": [
     "bafyreies7zcn2mclysprrfqwg46lc4jt7t5wmicmqnlnz3t67neg4xmxq4",
@@ -138,7 +139,8 @@
     "bafyreib6hzcvkecnf2rfy24mzz6uh3l5hqcdkv2ejusvg27qsy2e36bosi",
     "bafyreif3rjqgdcfsgdpsvecruqf66mlpqonu6o3j7ubxjifrpcml5y2mge",
     "bafyreicr5khsn6d5pqbfou6pyyh24nmcgi42lih5uftzbxfjc3ncvbbziy",
-    "bafyreienlucwfvoj44cyzllyjcddc4vfbhx7jatdnjyxml3bflh33hh4ya"
+    "bafyreienlucwfvoj44cyzllyjcddc4vfbhx7jatdnjyxml3bflh33hh4ya",
+    "bafyreicglsiwkgm27ozlcqmgjkidpge4gz5grnxge7rcg5zpbzayvmf5em"
   ],
   "posted_timestamps": [
     "2026-04-24T04:57:00.864665+00:00",
@@ -207,7 +209,8 @@
     "2026-04-25T19:59:48.776552+00:00",
     "2026-04-25T20:29:58.130511+00:00",
     "2026-04-25T21:00:45.884438+00:00",
-    "2026-04-25T21:29:37.569221+00:00"
+    "2026-04-25T21:29:37.569221+00:00",
+    "2026-04-25T21:59:22.308121+00:00"
   ],
   "posted_text_hashes": [
     "91f79a2c6394eed25ab6e87114f7f879833b09f6d53df41933aa1e9cd1f5ffb6",
@@ -276,7 +279,8 @@
     "0490d8c62c4599004fe9df472880b969eea67569fe394918096861b17ae27693",
     "a700c46dfc432ee04998e227140b03f653eb2bb4524428186fb3e1f368a1b798",
     "e6b4d59a4fb631b11054ac8e1fcc0840187e72b51b73e5f67ef965f6dafe0818",
-    "5293586779892a1cba0c35686522b063733af7f73069ab1a6159be76696938dc"
+    "5293586779892a1cba0c35686522b063733af7f73069ab1a6159be76696938dc",
+    "5ddc065056ceebc375135bf19797c9d0e72b37adb4ea1ee3d845519a40535c17"
   ],
   "history": [
     {
@@ -881,6 +885,15 @@
       "posted_at": "2026-04-25T21:29:37.569221+00:00",
       "text_hash": "5293586779892a1cba0c35686522b063733af7f73069ab1a6159be76696938dc",
       "post_text": "Today's name is Kadara-artha-abhaya-pradaya. Granter of fearlessness to the distressed and anxious. Jai Bhairava Baba. #Kalabhairava"
+    },
+    {
+      "queue_index": 68,
+      "source_index": 68,
+      "post_uri": "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkdzzbmtm42g",
+      "cid": "bafyreicglsiwkgm27ozlcqmgjkidpge4gz5grnxge7rcg5zpbzayvmf5em",
+      "posted_at": "2026-04-25T21:59:22.308121+00:00",
+      "text_hash": "5ddc065056ceebc375135bf19797c9d0e72b37adb4ea1ee3d845519a40535c17",
+      "post_text": "Today's name is Kalantika-bhara-daya. Bearer of the end of time, symbol of final dissolution and renewal. Jai Bhairava Baba. #Kalabhairava"
     }
   ]
 }
