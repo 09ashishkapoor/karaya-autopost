@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts.json",
-  "last_posted_index": 48,
+  "last_posted_index": 49,
   "posted_record_uris": [
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mk7qgaf3qt2g",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mk7temgoyx2x",
@@ -50,7 +50,8 @@
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkctlyrmd42q",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkcvhrs7qp2u",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkcwuuzya22a",
-    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkcyivuujt2x"
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkcyivuujt2x",
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkd2bujypq2j"
   ],
   "posted_cids": [
     "bafyreies7zcn2mclysprrfqwg46lc4jt7t5wmicmqnlnz3t67neg4xmxq4",
@@ -100,7 +101,8 @@
     "bafyreiclvxl6cnwivnvmvamakaygntuolwgtyihwj7ol2f5siwp7crm7l4",
     "bafyreib6smia2jkix2dyvnsopoybbtej7rdlzhid5xsueqjani47wpexga",
     "bafyreifwtgxmgka25o3w5wrvefj5rifnz7e6uchmoxo6ocwnx6wemjmduy",
-    "bafyreibri3arl2n77utcdkjhfgorxpmbjf7ywu35ig6wxtirn34l74hddy"
+    "bafyreibri3arl2n77utcdkjhfgorxpmbjf7ywu35ig6wxtirn34l74hddy",
+    "bafyreicdr6nntzpt5m2l4lgdujju5vv2w5uczqopjusszhaqmftnkgddpy"
   ],
   "posted_timestamps": [
     "2026-04-24T04:57:00.864665+00:00",
@@ -150,7 +152,8 @@
     "2026-04-25T10:31:54.648669+00:00",
     "2026-04-25T11:05:20.605549+00:00",
     "2026-04-25T11:30:33.953715+00:00",
-    "2026-04-25T11:59:39.655383+00:00"
+    "2026-04-25T11:59:39.655383+00:00",
+    "2026-04-25T12:31:30.836518+00:00"
   ],
   "posted_text_hashes": [
     "91f79a2c6394eed25ab6e87114f7f879833b09f6d53df41933aa1e9cd1f5ffb6",
@@ -200,7 +203,8 @@
     "062e621a7612bdbfae631ee3546e2790c400d9676abe6c83050b402cd631f923",
     "ae913f92092b272b5d3cf7a24c8fa1db9c10407c0d3d75be9195e787c97281fd",
     "767fb70ddf15db96dccd72211b9d40822d1324c5c02111533f2b155e255284b6",
-    "9ea5923031b3726e3f0dcf88de340fcf129f733eb831eee284121a117e7eb319"
+    "9ea5923031b3726e3f0dcf88de340fcf129f733eb831eee284121a117e7eb319",
+    "216fa4aca2c38d07d16fe1f654cae5d62c2384425e420dccd48502fd6fdb56ee"
   ],
   "history": [
     {
@@ -634,6 +638,15 @@
       "posted_at": "2026-04-25T11:59:39.655383+00:00",
       "text_hash": "9ea5923031b3726e3f0dcf88de340fcf129f733eb831eee284121a117e7eb319",
       "post_text": "Today's name is Karma-karakaya. Agent of all action, orchestrator of karma. Jai Bhairava Baba. #Kalabhairava"
+    },
+    {
+      "queue_index": 49,
+      "source_index": 49,
+      "post_uri": "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkd2bujypq2j",
+      "cid": "bafyreicdr6nntzpt5m2l4lgdujju5vv2w5uczqopjusszhaqmftnkgddpy",
+      "posted_at": "2026-04-25T12:31:30.836518+00:00",
+      "text_hash": "216fa4aca2c38d07d16fe1f654cae5d62c2384425e420dccd48502fd6fdb56ee",
+      "post_text": "Today's name is Kartri-nayakaya. Supreme doer and leader of all action. Jai Bhairava Baba. #Kalabhairava"
     }
   ]
 }
