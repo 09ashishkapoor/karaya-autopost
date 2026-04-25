@@ -1,8 +1,8 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts_mahakali.json",
-  "last_posted_index": 64,
-  "encrypted_refresh_token": "{\"nonce\":\"44qAbj62pvcQmJWSat7lDA==\",\"ciphertext\":\"ccBxfM1kBIT/2x23ffI2U5L5M3s+z2S1VyDEjxnUJOo/m4Lr+BgqxSTu2hFBmIjhJ4k=\",\"mac\":\"N/eje6q/zbsAwZr0J0Chv3j3t9/vchh9z9UPBjCvGYI=\"}",
+  "last_posted_index": 65,
+  "encrypted_refresh_token": "{\"nonce\":\"pvJGT8DRm/5nCkUOnDxogw==\",\"ciphertext\":\"m7zWFN9L6dCkYKAGvUw52QF6KzJ/lM56iKy+219piY8Q4VkZKi7f6yif676nzBizHT4=\",\"mac\":\"cxlBThra0JLJAzHX8Zlth/yR8VjCoCWk1pfLhz0bsng=\"}",
   "posted_post_ids": [
     "814760303295381504",
     "814766726962118656",
@@ -67,7 +67,8 @@
     "814894579822264320",
     "814896223277416448",
     "814897750940450816",
-    "814899620781178880"
+    "814899620781178880",
+    "814901640421392384"
   ],
   "posted_post_urls": [
     "https://kakakaforadyakali.tumblr.com/post/814760303295381504",
@@ -133,7 +134,8 @@
     "https://kakakaforadyakali.tumblr.com/post/814894579822264320",
     "https://kakakaforadyakali.tumblr.com/post/814896223277416448",
     "https://kakakaforadyakali.tumblr.com/post/814897750940450816",
-    "https://kakakaforadyakali.tumblr.com/post/814899620781178880"
+    "https://kakakaforadyakali.tumblr.com/post/814899620781178880",
+    "https://kakakaforadyakali.tumblr.com/post/814901640421392384"
   ],
   "posted_timestamps": [
     "2026-04-24T07:32:55.621622+00:00",
@@ -199,7 +201,8 @@
     "2026-04-25T19:07:11.609442+00:00",
     "2026-04-25T19:33:19.005350+00:00",
     "2026-04-25T19:57:35.795000+00:00",
-    "2026-04-25T20:27:19.050689+00:00"
+    "2026-04-25T20:27:19.050689+00:00",
+    "2026-04-25T20:59:25.071933+00:00"
   ],
   "posted_text_hashes": [
     "9a9bfafd8f146bd982514c23ceb52d5d53be86be07aa861c2a0df1e0e126b074",
@@ -265,9 +268,13 @@
     "1ea9abd8c51b584a4e0e563ba310a8a2438d51747b4312a38a46c4d56d7da2f0",
     "cd8bff929d30b5d0f4958df1f2f3ce2926db3203bc32770f18fd7b123ffee692",
     "70324574782630dd185a83ef0f9ff272f16e801a6cac5aecff5a82eb84d21c5e",
-    "50667ee468653d933952f9fcdf5133e0eb61fa24b06af17e76fb1de5a59b3aa4"
+    "50667ee468653d933952f9fcdf5133e0eb61fa24b06af17e76fb1de5a59b3aa4",
+    "7ebf3d95729d66f289a0a1db0bd4f7284b3f1c82ce981475a2eda21e5c9a8d9e"
   ],
   "posted_tags": [
+    [
+      "ghargharkali"
+    ],
     [
       "ghargharkali"
     ],
@@ -1229,6 +1236,18 @@
         "ghargharkali"
       ],
       "post_text": "Today's name is Vajranggi. She whose limbs are as hard and resilient as a thunderbolt. Jai Ma. #ghargharkali"
+    },
+    {
+      "queue_index": 65,
+      "source_index": 65,
+      "post_id": "814901640421392384",
+      "post_url": "https://kakakaforadyakali.tumblr.com/post/814901640421392384",
+      "posted_at": "2026-04-25T20:59:25.071933+00:00",
+      "text_hash": "7ebf3d95729d66f289a0a1db0bd4f7284b3f1c82ce981475a2eda21e5c9a8d9e",
+      "tags": [
+        "ghargharkali"
+      ],
+      "post_text": "Today's name is Vajra kangkali. She whose body is as hard as a thunderbolt, the Vajra-bodied Kali. Jai Ma. #ghargharkali"
     }
   ]
 }
