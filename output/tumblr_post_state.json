@@ -1,8 +1,8 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts_mahakali.json",
-  "last_posted_index": 33,
-  "encrypted_refresh_token": "{\"nonce\":\"2kCsTtQIKy+UORAaZghz2g==\",\"ciphertext\":\"X2PHmrAb0yKTUS8gaVEDqYWCEXZWtiDu+9xlQdvN+8f7KXv/p0HbgmMqaY07aCjGVP4=\",\"mac\":\"z89lHyznlvnk8QmTog0Ue/EClmqD1qC8otVpbsXNftU=\"}",
+  "last_posted_index": 34,
+  "encrypted_refresh_token": "{\"nonce\":\"M3/e2+3cazP6snwXD1u7lw==\",\"ciphertext\":\"er1yWbTIy7rVEh5b495Jo+8IMvBdmxMRoCj7UJS77PMm90eZezlMBAJYlX8+vuIbZQo=\",\"mac\":\"/fRm7dMn5YXGWQhRbChL3llHJ81cUXbdAdadxCOcVUs=\"}",
   "posted_post_ids": [
     "814760303295381504",
     "814766726962118656",
@@ -36,7 +36,8 @@
     "814822302935056384",
     "814826170365411328",
     "814829721217089536",
-    "814835224586403840"
+    "814835224586403840",
+    "814839988875329536"
   ],
   "posted_post_urls": [
     "https://kakakaforadyakali.tumblr.com/post/814760303295381504",
@@ -71,7 +72,8 @@
     "https://kakakaforadyakali.tumblr.com/post/814822302935056384",
     "https://kakakaforadyakali.tumblr.com/post/814826170365411328",
     "https://kakakaforadyakali.tumblr.com/post/814829721217089536",
-    "https://kakakaforadyakali.tumblr.com/post/814835224586403840"
+    "https://kakakaforadyakali.tumblr.com/post/814835224586403840",
+    "https://kakakaforadyakali.tumblr.com/post/814839988875329536"
   ],
   "posted_timestamps": [
     "2026-04-24T07:32:55.621622+00:00",
@@ -106,7 +108,8 @@
     "2026-04-24T23:58:22.894573+00:00",
     "2026-04-25T00:59:51.205289+00:00",
     "2026-04-25T01:56:18.062478+00:00",
-    "2026-04-25T03:23:46.197927+00:00"
+    "2026-04-25T03:23:46.197927+00:00",
+    "2026-04-25T04:39:29.658764+00:00"
   ],
   "posted_text_hashes": [
     "9a9bfafd8f146bd982514c23ceb52d5d53be86be07aa861c2a0df1e0e126b074",
@@ -141,9 +144,13 @@
     "fd17052a167fcd0c0570717956f3f8133b0f7560eed9c940b9b21c92179d1531",
     "4891607761187cc2dea4c4c76beceb5b8d6499cb63056c943bdf4fcf9529d426",
     "5ec2e4f9f982c766bbbc37e42315d439e174012b1433df80459b928178132c7a",
-    "4d971005e5a403dcda9b64455b32396acdffb689209d19a0366b45467a494131"
+    "4d971005e5a403dcda9b64455b32396acdffb689209d19a0366b45467a494131",
+    "469eb97859bbda6fe17f535e7fb7ba92bad66eec49d81bd4082a50e42bdc2035"
   ],
   "posted_tags": [
+    [
+      "ghargharkali"
+    ],
     [
       "ghargharkali"
     ],
@@ -640,6 +647,18 @@
         "ghargharkali"
       ],
       "post_text": "Today's name is Kaumari. The youthful and potent form of the Divine Mother, bearing the energy of Skanda (Kartikeya). Jai Ma. #ghargharkali"
+    },
+    {
+      "queue_index": 34,
+      "source_index": 34,
+      "post_id": "814839988875329536",
+      "post_url": "https://kakakaforadyakali.tumblr.com/post/814839988875329536",
+      "posted_at": "2026-04-25T04:39:29.658764+00:00",
+      "text_hash": "469eb97859bbda6fe17f535e7fb7ba92bad66eec49d81bd4082a50e42bdc2035",
+      "tags": [
+        "ghargharkali"
+      ],
+      "post_text": "Today's name is Kulaja. Born of noble lineage, and the remover of the three worldly fevers. Jai Ma. #ghargharkali"
     }
   ]
 }
