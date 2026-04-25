@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts.json",
-  "last_posted_index": 46,
+  "last_posted_index": 47,
   "posted_record_uris": [
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mk7qgaf3qt2g",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mk7temgoyx2x",
@@ -48,7 +48,8 @@
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkcqisafub23",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkcs5o5hnv2a",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkctlyrmd42q",
-    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkcvhrs7qp2u"
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkcvhrs7qp2u",
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkcwuuzya22a"
   ],
   "posted_cids": [
     "bafyreies7zcn2mclysprrfqwg46lc4jt7t5wmicmqnlnz3t67neg4xmxq4",
@@ -96,7 +97,8 @@
     "bafyreiaijh2jsoo6ix3pqdfxennuyuyrvhyomng56uk3dhdlrbj57h6dda",
     "bafyreifrsrqqw2gptcx6qvequppmnkdxq7k46bfmepzdtkt3cwkvt6jomu",
     "bafyreiclvxl6cnwivnvmvamakaygntuolwgtyihwj7ol2f5siwp7crm7l4",
-    "bafyreib6smia2jkix2dyvnsopoybbtej7rdlzhid5xsueqjani47wpexga"
+    "bafyreib6smia2jkix2dyvnsopoybbtej7rdlzhid5xsueqjani47wpexga",
+    "bafyreifwtgxmgka25o3w5wrvefj5rifnz7e6uchmoxo6ocwnx6wemjmduy"
   ],
   "posted_timestamps": [
     "2026-04-24T04:57:00.864665+00:00",
@@ -144,7 +146,8 @@
     "2026-04-25T09:36:25.894391+00:00",
     "2026-04-25T10:06:00.008113+00:00",
     "2026-04-25T10:31:54.648669+00:00",
-    "2026-04-25T11:05:20.605549+00:00"
+    "2026-04-25T11:05:20.605549+00:00",
+    "2026-04-25T11:30:33.953715+00:00"
   ],
   "posted_text_hashes": [
     "91f79a2c6394eed25ab6e87114f7f879833b09f6d53df41933aa1e9cd1f5ffb6",
@@ -192,7 +195,8 @@
     "6a12951452ff58e6c303607031f4f1cbc489ec062f21b645ec58fcc6ccc8c34f",
     "a9a731a06fed1554aa09c5135240f8642f87071472787bbeae1841a5a0498658",
     "062e621a7612bdbfae631ee3546e2790c400d9676abe6c83050b402cd631f923",
-    "ae913f92092b272b5d3cf7a24c8fa1db9c10407c0d3d75be9195e787c97281fd"
+    "ae913f92092b272b5d3cf7a24c8fa1db9c10407c0d3d75be9195e787c97281fd",
+    "767fb70ddf15db96dccd72211b9d40822d1324c5c02111533f2b155e255284b6"
   ],
   "history": [
     {
@@ -608,6 +612,15 @@
       "posted_at": "2026-04-25T11:05:20.605549+00:00",
       "text_hash": "ae913f92092b272b5d3cf7a24c8fa1db9c10407c0d3d75be9195e787c97281fd",
       "post_text": "Today's name is Kriya-pradaya. Bestower of action and its proper fruit. Jai Bhairava Baba. #Kalabhairava"
+    },
+    {
+      "queue_index": 47,
+      "source_index": 47,
+      "post_uri": "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkcwuuzya22a",
+      "cid": "bafyreifwtgxmgka25o3w5wrvefj5rifnz7e6uchmoxo6ocwnx6wemjmduy",
+      "posted_at": "2026-04-25T11:30:33.953715+00:00",
+      "text_hash": "767fb70ddf15db96dccd72211b9d40822d1324c5c02111533f2b155e255284b6",
+      "post_text": "Today's name is Karana-adhipataye. Lord of all causes, primal source behind manifestation. Jai Bhairava Baba. #Kalabhairava"
     }
   ]
 }
