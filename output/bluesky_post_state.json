@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts.json",
-  "last_posted_index": 41,
+  "last_posted_index": 42,
   "posted_record_uris": [
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mk7qgaf3qt2g",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mk7temgoyx2x",
@@ -43,7 +43,8 @@
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkcfb2yb3223",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkch62f7cz2n",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkckgq47aj2u",
-    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkcn3v5lmc2u"
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkcn3v5lmc2u",
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkcovpewyp2n"
   ],
   "posted_cids": [
     "bafyreies7zcn2mclysprrfqwg46lc4jt7t5wmicmqnlnz3t67neg4xmxq4",
@@ -86,7 +87,8 @@
     "bafyreiacmt7z5fjv7kn5qaqwn2ztkitjq662rfpyk7es6wjjqdfegldiuq",
     "bafyreicfpqpzsl7w3qnloajbrtntlr5cbsv455xerwjj4il7jpesheb7l4",
     "bafyreih25fqdl6c7qeotajuuwnypzzye54k46mqq65qogmbhawpt5lqncu",
-    "bafyreihkmyp6ye2gvef2vzf7bxgahv63wri6z4fpzwzei44q5zq6a5ehcq"
+    "bafyreihkmyp6ye2gvef2vzf7bxgahv63wri6z4fpzwzei44q5zq6a5ehcq",
+    "bafyreidxxvc2whwakhjzl3yu3plwebmnakngarhnbdvhporthge3g4dlym"
   ],
   "posted_timestamps": [
     "2026-04-24T04:57:00.864665+00:00",
@@ -129,7 +131,8 @@
     "2026-04-25T06:15:15.496672+00:00",
     "2026-04-25T06:49:21.686483+00:00",
     "2026-04-25T07:47:54.100306+00:00",
-    "2026-04-25T08:35:31.513064+00:00"
+    "2026-04-25T08:35:31.513064+00:00",
+    "2026-04-25T09:07:51.626915+00:00"
   ],
   "posted_text_hashes": [
     "91f79a2c6394eed25ab6e87114f7f879833b09f6d53df41933aa1e9cd1f5ffb6",
@@ -172,7 +175,8 @@
     "f4020b49ca0a8e0f2be61a78b973332612b4407bdd2a0f0e42f046c1985c28a8",
     "16f453a54cc501159663c3f9d3d01ac7d100f376ced0e9187925c0918260a28a",
     "2f741cccdbe55a35ec1557241d44bce4027f28f6dc506a009c7949ac6c4145cf",
-    "1b9bf35f5b50ab6549a4163905cd0e4146bcab67a807d0f8b21e971c00c599f7"
+    "1b9bf35f5b50ab6549a4163905cd0e4146bcab67a807d0f8b21e971c00c599f7",
+    "2df0f64158b21af92bffbf4121e3e90abdc3729892a92b16ee0a9e9d24538a0f"
   ],
   "history": [
     {
@@ -543,6 +547,15 @@
       "posted_at": "2026-04-25T08:35:31.513064+00:00",
       "text_hash": "1b9bf35f5b50ab6549a4163905cd0e4146bcab67a807d0f8b21e971c00c599f7",
       "post_text": "Today's name is Karna-hiina-upavitapaya. Adorned with an unusual sacred thread, signifying supreme renunciation. Jai Bhairava Baba. #Kalabhairava"
+    },
+    {
+      "queue_index": 42,
+      "source_index": 42,
+      "post_uri": "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkcovpewyp2n",
+      "cid": "bafyreidxxvc2whwakhjzl3yu3plwebmnakngarhnbdvhporthge3g4dlym",
+      "posted_at": "2026-04-25T09:07:51.626915+00:00",
+      "text_hash": "2df0f64158b21af92bffbf4121e3e90abdc3729892a92b16ee0a9e9d24538a0f",
+      "post_text": "Today's name is Kanaka-acala-deha-vate. Possessing a body radiant like a golden mountain. Jai Bhairava Baba. #Kalabhairava"
     }
   ]
 }
