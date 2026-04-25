@@ -1,8 +1,8 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts_mahakali.json",
-  "last_posted_index": 61,
-  "encrypted_refresh_token": "{\"nonce\":\"mE2pxKj4yJdvDoW9zy0OuA==\",\"ciphertext\":\"9ir4iwM5A9raqesgyUAvGmJGIdpPQrBxxlqZMHu3qjyZrcR7w2cpgSeeb/qGxAK3ztY=\",\"mac\":\"thTj0eCYLBDKIOLiFbsq4BfRM9LAlpkpluKH7eZwjTA=\"}",
+  "last_posted_index": 62,
+  "encrypted_refresh_token": "{\"nonce\":\"F7nIlqSzrlDvIUc7o1/W4w==\",\"ciphertext\":\"eT7nXo1joNT1jUtmVSDxPrj1nTWDwxEhcHZ8C/y0VVYaJpy7WMN6WElZFGJncXKvNB0=\",\"mac\":\"Cn302EL3ICj58VpIcsujt0s72fqHvTw2vhDN0577IO8=\"}",
   "posted_post_ids": [
     "814760303295381504",
     "814766726962118656",
@@ -64,7 +64,8 @@
     "814888353036107776",
     "814890296244682752",
     "814892200859189248",
-    "814894579822264320"
+    "814894579822264320",
+    "814896223277416448"
   ],
   "posted_post_urls": [
     "https://kakakaforadyakali.tumblr.com/post/814760303295381504",
@@ -127,7 +128,8 @@
     "https://kakakaforadyakali.tumblr.com/post/814888353036107776",
     "https://kakakaforadyakali.tumblr.com/post/814890296244682752",
     "https://kakakaforadyakali.tumblr.com/post/814892200859189248",
-    "https://kakakaforadyakali.tumblr.com/post/814894579822264320"
+    "https://kakakaforadyakali.tumblr.com/post/814894579822264320",
+    "https://kakakaforadyakali.tumblr.com/post/814896223277416448"
   ],
   "posted_timestamps": [
     "2026-04-24T07:32:55.621622+00:00",
@@ -190,7 +192,8 @@
     "2026-04-25T17:28:13.588903+00:00",
     "2026-04-25T17:59:06.478515+00:00",
     "2026-04-25T18:29:22.809253+00:00",
-    "2026-04-25T19:07:11.609442+00:00"
+    "2026-04-25T19:07:11.609442+00:00",
+    "2026-04-25T19:33:19.005350+00:00"
   ],
   "posted_text_hashes": [
     "9a9bfafd8f146bd982514c23ceb52d5d53be86be07aa861c2a0df1e0e126b074",
@@ -253,9 +256,13 @@
     "ddab8cb8f3a1f7b98c7a39127928a6038969589d2808b132a238b6721803afaf",
     "d70dc5096c0973740aa7f5ce9577cce48385b00f5852b16e6e23f8f3537d5c8f",
     "3e46b4716edf183e942796c51fff81d85d3b708315ca9ee706c051390dc9f5b9",
-    "1ea9abd8c51b584a4e0e563ba310a8a2438d51747b4312a38a46c4d56d7da2f0"
+    "1ea9abd8c51b584a4e0e563ba310a8a2438d51747b4312a38a46c4d56d7da2f0",
+    "cd8bff929d30b5d0f4958df1f2f3ce2926db3203bc32770f18fd7b123ffee692"
   ],
   "posted_tags": [
+    [
+      "ghargharkali"
+    ],
     [
       "ghargharkali"
     ],
@@ -1172,6 +1179,18 @@
         "ghargharkali"
       ],
       "post_text": "Today's name is Chamunda. The slayer of the demons Chanda and Munda. Jai Ma. #ghargharkali"
+    },
+    {
+      "queue_index": 62,
+      "source_index": 62,
+      "post_id": "814896223277416448",
+      "post_url": "https://kakakaforadyakali.tumblr.com/post/814896223277416448",
+      "posted_at": "2026-04-25T19:33:19.005350+00:00",
+      "text_hash": "cd8bff929d30b5d0f4958df1f2f3ce2926db3203bc32770f18fd7b123ffee692",
+      "tags": [
+        "ghargharkali"
+      ],
+      "post_text": "Today's name is Varahi. The boar-faced Goddess, an emanation of Vishnu's Varaha avatar, who protects the earth and slays demons. Jai Ma. #ghargharkali"
     }
   ]
 }
