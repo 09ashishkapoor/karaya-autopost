@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts.json",
-  "last_posted_index": 38,
+  "last_posted_index": 39,
   "posted_record_uris": [
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mk7qgaf3qt2g",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mk7temgoyx2x",
@@ -40,7 +40,8 @@
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkc3syhmt627",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkc7zrzo4f2g",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkccm6k3hm22",
-    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkcfb2yb3223"
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkcfb2yb3223",
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkch62f7cz2n"
   ],
   "posted_cids": [
     "bafyreies7zcn2mclysprrfqwg46lc4jt7t5wmicmqnlnz3t67neg4xmxq4",
@@ -80,7 +81,8 @@
     "bafyreidtni6ccznponhixrtnw2oonqzy3gjbys5og5pqcxwar6khwywo5y",
     "bafyreifc7b336ufq2ywdwkyshx33cjznujmyu7uvvnfwpl2pxf2dnj5syi",
     "bafyreicvmg5e7hn67kreggvz7nld52cuunqvefwcyqdnwjqy5c7t77s77q",
-    "bafyreiacmt7z5fjv7kn5qaqwn2ztkitjq662rfpyk7es6wjjqdfegldiuq"
+    "bafyreiacmt7z5fjv7kn5qaqwn2ztkitjq662rfpyk7es6wjjqdfegldiuq",
+    "bafyreicfpqpzsl7w3qnloajbrtntlr5cbsv455xerwjj4il7jpesheb7l4"
   ],
   "posted_timestamps": [
     "2026-04-24T04:57:00.864665+00:00",
@@ -120,7 +122,8 @@
     "2026-04-25T03:26:19.382787+00:00",
     "2026-04-25T04:41:42.483850+00:00",
     "2026-04-25T05:27:47.067795+00:00",
-    "2026-04-25T06:15:15.496672+00:00"
+    "2026-04-25T06:15:15.496672+00:00",
+    "2026-04-25T06:49:21.686483+00:00"
   ],
   "posted_text_hashes": [
     "91f79a2c6394eed25ab6e87114f7f879833b09f6d53df41933aa1e9cd1f5ffb6",
@@ -160,7 +163,8 @@
     "f660d34f0864a8890ea9a2298aceff3f80c8a58b04250c1dc51516ddd8890e20",
     "55e5a1eb93e1db7988ec552d3c6156d639a4855e1629b593f8f7e264fd2e73af",
     "76ecb570ebef441a5ffdb2287fb8cf586a48aecc97729f20b7cfeee03c8c90dc",
-    "f4020b49ca0a8e0f2be61a78b973332612b4407bdd2a0f0e42f046c1985c28a8"
+    "f4020b49ca0a8e0f2be61a78b973332612b4407bdd2a0f0e42f046c1985c28a8",
+    "16f453a54cc501159663c3f9d3d01ac7d100f376ced0e9187925c0918260a28a"
   ],
   "history": [
     {
@@ -504,6 +508,15 @@
       "posted_at": "2026-04-25T06:15:15.496672+00:00",
       "text_hash": "f4020b49ca0a8e0f2be61a78b973332612b4407bdd2a0f0e42f046c1985c28a8",
       "post_text": "Today's name is Kama-rupa-vate. Possessing the power to assume any form at will. Jai Bhairava Baba. #Kalabhairava"
+    },
+    {
+      "queue_index": 39,
+      "source_index": 39,
+      "post_uri": "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkch62f7cz2n",
+      "cid": "bafyreicfpqpzsl7w3qnloajbrtntlr5cbsv455xerwjj4il7jpesheb7l4",
+      "posted_at": "2026-04-25T06:49:21.686483+00:00",
+      "text_hash": "16f453a54cc501159663c3f9d3d01ac7d100f376ced0e9187925c0918260a28a",
+      "post_text": "Today's name is Kanthadi-sarva-cakrasthaya. Residing in all chakras from the throat upward. Jai Bhairava Baba. #Kalabhairava"
     }
   ]
 }
