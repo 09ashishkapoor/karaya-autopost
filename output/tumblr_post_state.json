@@ -1,8 +1,8 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts_mahakali.json",
-  "last_posted_index": 42,
-  "encrypted_refresh_token": "{\"nonce\":\"qhfqEzuxYQXJU6YTLnq0xw==\",\"ciphertext\":\"epAYq5dZvMpUu/S1nlMD9AkqrYytpypw3EwuhFeHwocVtrNnl6Iues7ZXeAQE51ffYM=\",\"mac\":\"g+Ngm/FMIdlwxEZyUDUaMfw4AAPUdbxgIpCj6sJNhz0=\"}",
+  "last_posted_index": 43,
+  "encrypted_refresh_token": "{\"nonce\":\"fGBiVA6tIC0eyZYZQzqklw==\",\"ciphertext\":\"KNHsfyaGZyRDVTgXpSCxGAEmjnhsCK+bzqN7BZXZqqstf7ADfjWr+si95RgkBekex2M=\",\"mac\":\"je17zmR7+HipnlcW9zI7aQ42VrSka/P84JYq/dBzgxk=\"}",
   "posted_post_ids": [
     "814760303295381504",
     "814766726962118656",
@@ -45,7 +45,8 @@
     "814853334346399744",
     "814854736450846720",
     "814856785175379968",
-    "814858582436823040"
+    "814858582436823040",
+    "814860410250543104"
   ],
   "posted_post_urls": [
     "https://kakakaforadyakali.tumblr.com/post/814760303295381504",
@@ -89,7 +90,8 @@
     "https://kakakaforadyakali.tumblr.com/post/814853334346399744",
     "https://kakakaforadyakali.tumblr.com/post/814854736450846720",
     "https://kakakaforadyakali.tumblr.com/post/814856785175379968",
-    "https://kakakaforadyakali.tumblr.com/post/814858582436823040"
+    "https://kakakaforadyakali.tumblr.com/post/814858582436823040",
+    "https://kakakaforadyakali.tumblr.com/post/814860410250543104"
   ],
   "posted_timestamps": [
     "2026-04-24T07:32:55.621622+00:00",
@@ -133,7 +135,8 @@
     "2026-04-25T08:11:37.267172+00:00",
     "2026-04-25T08:33:53.982574+00:00",
     "2026-04-25T09:06:27.785666+00:00",
-    "2026-04-25T09:35:01.749199+00:00"
+    "2026-04-25T09:35:01.749199+00:00",
+    "2026-04-25T10:04:04.957382+00:00"
   ],
   "posted_text_hashes": [
     "9a9bfafd8f146bd982514c23ceb52d5d53be86be07aa861c2a0df1e0e126b074",
@@ -177,9 +180,13 @@
     "bc7614daf6c1d190cd7a8f474dfe69c88129ac834e94212be6debb46b0fbce3f",
     "4ad54978d73559b22c52b605b46761788c0207d48f78836dd04f9883dfa781f7",
     "588b5c02decd05aa953b4dee6442f42a939046cf3cbee3f9ce27df7ed179f923",
-    "ce1536b9d242dcbfdb4b18ff2cc68d5ed35f8dfe738247220e8838f4dc775db5"
+    "ce1536b9d242dcbfdb4b18ff2cc68d5ed35f8dfe738247220e8838f4dc775db5",
+    "0a1879024781a6d42e35410188229cdc778bd1c65700cad76e5fe6eb15a660ad"
   ],
   "posted_tags": [
+    [
+      "ghargharkali"
+    ],
     [
       "ghargharkali"
     ],
@@ -811,6 +818,18 @@
         "ghargharkali"
       ],
       "post_text": "Today's name is Kala. She who measures out Time for all beings, and who is Death itself. Jai Ma. #ghargharkali"
+    },
+    {
+      "queue_index": 43,
+      "source_index": 43,
+      "post_id": "814860410250543104",
+      "post_url": "https://kakakaforadyakali.tumblr.com/post/814860410250543104",
+      "posted_at": "2026-04-25T10:04:04.957382+00:00",
+      "text_hash": "0a1879024781a6d42e35410188229cdc778bd1c65700cad76e5fe6eb15a660ad",
+      "tags": [
+        "ghargharkali"
+      ],
+      "post_text": "Today's name is Karal'asya. She of the frightful countenance. Jai Ma. #ghargharkali"
     }
   ]
 }
