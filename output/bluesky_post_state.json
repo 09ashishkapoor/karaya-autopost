@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts.json",
-  "last_posted_index": 88,
+  "last_posted_index": 89,
   "posted_record_uris": [
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mk7qgaf3qt2g",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mk7temgoyx2x",
@@ -90,7 +90,8 @@
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkffwhh2xt2y",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkfhe46gcs27",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkfiz6ionl2o",
-    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkfkstybyb2c"
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkfkstybyb2c",
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkfn2xs7b327"
   ],
   "posted_cids": [
     "bafyreies7zcn2mclysprrfqwg46lc4jt7t5wmicmqnlnz3t67neg4xmxq4",
@@ -180,7 +181,8 @@
     "bafyreiessklo3qgqmxunzq5hgwhelm3ofz6gcccr563jrpe6g3bonpaame",
     "bafyreid4xpcu2dkvezr2brbhfzzt5gjqjqf5kl3zapsarpzymjehjyo53u",
     "bafyreihy4ippyywv6j57au4zwmuv6akk7msagg6sfddf2eixbjfscnkq5m",
-    "bafyreihxpyxiodoyxwhvqy22nxowjjazdthgs5yc67vc2alf5echdx2tie"
+    "bafyreihxpyxiodoyxwhvqy22nxowjjazdthgs5yc67vc2alf5echdx2tie",
+    "bafyreicmztpnlvg6pydc5boqxonxmxkjmxh7cje5y6dvxwpdwi5z6hfeeq"
   ],
   "posted_timestamps": [
     "2026-04-24T04:57:00.864665+00:00",
@@ -270,7 +272,8 @@
     "2026-04-26T11:05:12.417188+00:00",
     "2026-04-26T11:30:44.078409+00:00",
     "2026-04-26T12:00:24.906441+00:00",
-    "2026-04-26T12:32:40.047043+00:00"
+    "2026-04-26T12:32:40.047043+00:00",
+    "2026-04-26T13:12:59.966863+00:00"
   ],
   "posted_text_hashes": [
     "91f79a2c6394eed25ab6e87114f7f879833b09f6d53df41933aa1e9cd1f5ffb6",
@@ -360,7 +363,8 @@
     "137ad006e5066960c59a14339422518fd9d96003e01bd0ac34fe2e05ada830c0",
     "7cd0a4c74eb4f31068076f972306d01590427283a2e09c3d60b77dd8f9b0e5ed",
     "b015b7028fe116f97ed8344f14c498b1d6d9137a26592ab51af8b9d962e72bd7",
-    "80621cf5b81b06f0725f1597addd93cb3af1b1d7eafe2dc98dd8af62f29c6a68"
+    "80621cf5b81b06f0725f1597addd93cb3af1b1d7eafe2dc98dd8af62f29c6a68",
+    "c7e44c85f88a738146c602fa4dc26c6afe890dc8b3d9981dd6cd80af8c35f6a3"
   ],
   "history": [
     {
@@ -1154,6 +1158,15 @@
       "posted_at": "2026-04-26T12:32:40.047043+00:00",
       "text_hash": "80621cf5b81b06f0725f1597addd93cb3af1b1d7eafe2dc98dd8af62f29c6a68",
       "post_text": "Today's name is Kahala-adi-maha-vaadya-atala-taandava-laalasaya. Delighting in the cosmic dance amid the roar of great instruments. Jai Bhairava Baba. #Kalabhairava"
+    },
+    {
+      "queue_index": 89,
+      "source_index": 89,
+      "post_uri": "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkfn2xs7b327",
+      "cid": "bafyreicmztpnlvg6pydc5boqxonxmxkjmxh7cje5y6dvxwpdwi5z6hfeeq",
+      "posted_at": "2026-04-26T13:12:59.966863+00:00",
+      "text_hash": "c7e44c85f88a738146c602fa4dc26c6afe890dc8b3d9981dd6cd80af8c35f6a3",
+      "post_text": "Today's name is Kula-kundalinii-sakta-yoga-siddhi-pradayakaya. Bestower of yogic accomplishment through awakened Kundalini Shakti. Jai Bhairava Baba. #Kalabhairava"
     }
   ]
 }
