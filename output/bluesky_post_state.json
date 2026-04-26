@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts.json",
-  "last_posted_index": 100,
+  "last_posted_index": 101,
   "posted_record_uris": [
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mk7qgaf3qt2g",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mk7temgoyx2x",
@@ -102,7 +102,8 @@
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkfzyqsbho2g",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkg3hav3if2a",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkg56dq6qq2j",
-    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkg6ua23bx2a"
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkg6ua23bx2a",
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkgazdny4h2s"
   ],
   "posted_cids": [
     "bafyreies7zcn2mclysprrfqwg46lc4jt7t5wmicmqnlnz3t67neg4xmxq4",
@@ -204,7 +205,8 @@
     "bafyreieozc5bh7iy6hakihit4ptbg7dr3ezbli4hhnqxsnzfukhq5u42ea",
     "bafyreiccszecvwzc4ch32un3qhtomxnep7y5u34l6jzmtdqvel7wqnlole",
     "bafyreihvx64u5lelo6tfuvcwdkhcq4zmmiltatvds36mtc4krd2mpc3k4m",
-    "bafyreiclmygjjd3xeid65u4comdtdf6d2zkrxveun2fieieoqcjwq4wor4"
+    "bafyreiclmygjjd3xeid65u4comdtdf6d2zkrxveun2fieieoqcjwq4wor4",
+    "bafyreigpctmeb5hk3ktkmtsf4ncr26xgvmjhevas5oarxinawcwuurer6y"
   ],
   "posted_timestamps": [
     "2026-04-24T04:57:00.864665+00:00",
@@ -306,7 +308,8 @@
     "2026-04-26T17:04:24.151837+00:00",
     "2026-04-26T17:30:24.508854+00:00",
     "2026-04-26T18:01:12.984194+00:00",
-    "2026-04-26T18:31:21.093257+00:00"
+    "2026-04-26T18:31:21.093257+00:00",
+    "2026-04-26T19:10:00.140513+00:00"
   ],
   "posted_text_hashes": [
     "91f79a2c6394eed25ab6e87114f7f879833b09f6d53df41933aa1e9cd1f5ffb6",
@@ -408,7 +411,8 @@
     "8da6708f4b7c6bae831589c38f4a53075c167235837502da845ab040d0af629a",
     "588171d241308d8d3420ae3151b8655e337fd2f4d13dbb0d24bfc4e2c4417f6a",
     "c1ff6b1ed1792af781df2225def03089cd60a162d68fd62c9071b7cee4e3bb03",
-    "bb0a3a751cb664cb1169c5975e3ef402d33cb4f0d424d65041fb8b6a0fbb7db6"
+    "bb0a3a751cb664cb1169c5975e3ef402d33cb4f0d424d65041fb8b6a0fbb7db6",
+    "c1fb2a2314d4692760a8a000c7ff127b1aafb98112e8eee4a107fbd78be6ab2d"
   ],
   "history": [
     {
@@ -1310,6 +1314,15 @@
       "posted_at": "2026-04-26T18:31:21.093257+00:00",
       "text_hash": "bb0a3a751cb664cb1169c5975e3ef402d33cb4f0d424d65041fb8b6a0fbb7db6",
       "post_text": "Today's name is Kula-caryaya. Revered teacher of the spiritual lineage. Jai Bhairava Baba. #Kalabhairava"
+    },
+    {
+      "queue_index": 101,
+      "source_index": 101,
+      "post_uri": "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkgazdny4h2s",
+      "cid": "bafyreigpctmeb5hk3ktkmtsf4ncr26xgvmjhevas5oarxinawcwuurer6y",
+      "posted_at": "2026-04-26T19:10:00.140513+00:00",
+      "text_hash": "c1fb2a2314d4692760a8a000c7ff127b1aafb98112e8eee4a107fbd78be6ab2d",
+      "post_text": "Today's name is Kula-carataya. Upholder of lineage, tradition, and sacred conduct. Jai Bhairava Baba. #Kalabhairava"
     }
   ]
 }
