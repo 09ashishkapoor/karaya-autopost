@@ -1,8 +1,8 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts_mahakali.json",
-  "last_posted_index": 99,
-  "encrypted_refresh_token": "{\"nonce\":\"UKfJGpZ5XKtGV03s9IFWGA==\",\"ciphertext\":\"U8ku4cyW5pYVcAMnqFvNV84C6IzA+a9CXI/VMP1kou9wAvuQ7VZl0fD4pAHaaw7abtk=\",\"mac\":\"eXQDyJqW4EW2vy8xSecYD9LqqBJttfCxjvaA96kOYv0=\"}",
+  "last_posted_index": 100,
+  "encrypted_refresh_token": "{\"nonce\":\"SVmarkUC/omLYbtHN4oY+Q==\",\"ciphertext\":\"4XnU3O7y1TakRaAxClY0g+mAKkx/rKEZgcqZR8cfy0se4L03v6LhU6ytnAzK9Y/Cu8Y=\",\"mac\":\"mrMX2TWG0bnXTplH86jYRDN2RoU1Snp1jjilCO7cPtY=\"}",
   "posted_post_ids": [
     "814760303295381504",
     "814766726962118656",
@@ -102,7 +102,8 @@
     "814977344411451392",
     "814978954799792128",
     "814980951799103488",
-    "814982846844420096"
+    "814982846844420096",
+    "814985258538827776"
   ],
   "posted_post_urls": [
     "https://kakakaforadyakali.tumblr.com/post/814760303295381504",
@@ -203,7 +204,8 @@
     "https://kakakaforadyakali.tumblr.com/post/814977344411451392",
     "https://kakakaforadyakali.tumblr.com/post/814978954799792128",
     "https://kakakaforadyakali.tumblr.com/post/814980951799103488",
-    "https://kakakaforadyakali.tumblr.com/post/814982846844420096"
+    "https://kakakaforadyakali.tumblr.com/post/814982846844420096",
+    "https://kakakaforadyakali.tumblr.com/post/814985258538827776"
   ],
   "posted_timestamps": [
     "2026-04-24T07:32:55.621622+00:00",
@@ -304,7 +306,8 @@
     "2026-04-26T17:02:42.001403+00:00",
     "2026-04-26T17:28:17.773276+00:00",
     "2026-04-26T18:00:02.297480+00:00",
-    "2026-04-26T18:30:09.605710+00:00"
+    "2026-04-26T18:30:09.605710+00:00",
+    "2026-04-26T19:08:29.500741+00:00"
   ],
   "posted_text_hashes": [
     "9a9bfafd8f146bd982514c23ceb52d5d53be86be07aa861c2a0df1e0e126b074",
@@ -405,9 +408,13 @@
     "7acf352d275ae57d04d57ca1441184eb37ad619dcc5b5a95dd14994ce02863ee",
     "55bb60ca31637a66aaf978eef663371b3bb2420c87fefb014373f27de1abd439",
     "48e01b452701843a71b778405d511dddc13f96ada1a33fae653cff310191fafa",
-    "819d29d0b46173597905a875107083690533db6bcc56ca2796698d4244377854"
+    "819d29d0b46173597905a875107083690533db6bcc56ca2796698d4244377854",
+    "1a9e08100f1dc661149e7abd13203f383f3d50ccc1012cc84843a3140e030a60"
   ],
   "posted_tags": [
+    [
+      "ghargharkali"
+    ],
     [
       "ghargharkali"
     ],
@@ -1894,6 +1901,18 @@
         "ghargharkali"
       ],
       "post_text": "Today's name is Kumati. The dispeller of evil thoughts and ignorance. Jai Ma. #ghargharkali"
+    },
+    {
+      "queue_index": 100,
+      "source_index": 100,
+      "post_id": "814985258538827776",
+      "post_url": "https://kakakaforadyakali.tumblr.com/post/814985258538827776",
+      "posted_at": "2026-04-26T19:08:29.500741+00:00",
+      "text_hash": "1a9e08100f1dc661149e7abd13203f383f3d50ccc1012cc84843a3140e030a60",
+      "tags": [
+        "ghargharkali"
+      ],
+      "post_text": "Today's name is Chanda. The fierce one who terrifies those who oppose cosmic order. Jai Ma. #ghargharkali"
     }
   ]
 }
