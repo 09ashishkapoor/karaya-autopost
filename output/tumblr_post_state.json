@@ -1,8 +1,8 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts_mahakali.json",
-  "last_posted_index": 79,
-  "encrypted_refresh_token": "{\"nonce\":\"20bS3gkK7Nyyg4mvI/ODIw==\",\"ciphertext\":\"XzJB13GFm+kNnad6VHMFDccw9SUntt0Qnhe8SwDxmXe66ERS8KDK13NS/DzVkXo8DzU=\",\"mac\":\"Kn4J+s+hIRZYXS8WOfSK+VfeTNp6StOUlaQXjRc0Tu0=\"}",
+  "last_posted_index": 80,
+  "encrypted_refresh_token": "{\"nonce\":\"GwJQy5xQiOzW4yEPI1uMQg==\",\"ciphertext\":\"07onAVExaqY3t6ILm7ZzZMnyz2ujvJLaQZP4JlJES+p9QIRmgLLbRTOyuxaHLQ5n6HQ=\",\"mac\":\"RAfw9RePuggun1EAWc2USbBi4c/KEl7BZZV92VrHqGc=\"}",
   "posted_post_ids": [
     "814760303295381504",
     "814766726962118656",
@@ -82,7 +82,8 @@
     "814935579267579904",
     "814939209016197120",
     "814942692981211136",
-    "814945833272426496"
+    "814945833272426496",
+    "814947543580573696"
   ],
   "posted_post_urls": [
     "https://kakakaforadyakali.tumblr.com/post/814760303295381504",
@@ -163,7 +164,8 @@
     "https://kakakaforadyakali.tumblr.com/post/814935579267579904",
     "https://kakakaforadyakali.tumblr.com/post/814939209016197120",
     "https://kakakaforadyakali.tumblr.com/post/814942692981211136",
-    "https://kakakaforadyakali.tumblr.com/post/814945833272426496"
+    "https://kakakaforadyakali.tumblr.com/post/814945833272426496",
+    "https://kakakaforadyakali.tumblr.com/post/814947543580573696"
   ],
   "posted_timestamps": [
     "2026-04-24T07:32:55.621622+00:00",
@@ -244,7 +246,8 @@
     "2026-04-26T05:58:52.135160+00:00",
     "2026-04-26T06:56:33.236225+00:00",
     "2026-04-26T07:51:55.801577+00:00",
-    "2026-04-26T08:41:50.651368+00:00"
+    "2026-04-26T08:41:50.651368+00:00",
+    "2026-04-26T09:09:01.707263+00:00"
   ],
   "posted_text_hashes": [
     "9a9bfafd8f146bd982514c23ceb52d5d53be86be07aa861c2a0df1e0e126b074",
@@ -325,9 +328,13 @@
     "8596b136b0ad0192a7039ceb2ac7e509407c12c606edb8564a05d38260bf2120",
     "0dcee9cd157a29f170ea9bfd0d910628e98f3db373604b7d584b86d50a07f05e",
     "24d04e6fe077a42aa8a3f3ade498e48285639ffa43a24315119252dd93f5495c",
-    "db5119e999099bfb4eb521864f19a6f506d9df0998f4754481a705185d008b19"
+    "db5119e999099bfb4eb521864f19a6f506d9df0998f4754481a705185d008b19",
+    "71342b6c55d1b33fcf6dd1f021418a8add85286b6d5f45650248e226bf1deeb6"
   ],
   "posted_tags": [
+    [
+      "ghargharkali"
+    ],
     [
       "ghargharkali"
     ],
@@ -1514,6 +1521,18 @@
         "ghargharkali"
       ],
       "post_text": "Today's name is Su-danti. She whose beautiful, radiant teeth signify purity and power. Jai Ma. #ghargharkali"
+    },
+    {
+      "queue_index": 80,
+      "source_index": 80,
+      "post_id": "814947543580573696",
+      "post_url": "https://kakakaforadyakali.tumblr.com/post/814947543580573696",
+      "posted_at": "2026-04-26T09:09:01.707263+00:00",
+      "text_hash": "71342b6c55d1b33fcf6dd1f021418a8add85286b6d5f45650248e226bf1deeb6",
+      "tags": [
+        "ghargharkali"
+      ],
+      "post_text": "Today's name is Yuga dantura. She whose teeth signal the end of the Yuga and the onset of final destruction. Jai Ma. #ghargharkali"
     }
   ]
 }
