@@ -1,8 +1,8 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts_mahakali.json",
-  "last_posted_index": 81,
-  "encrypted_refresh_token": "{\"nonce\":\"1owe3E3i8/zI0oLg2NKeWQ==\",\"ciphertext\":\"OXex0e6TE8++TLG9H+DSpTOr5ObvuJ4V6JMBaQ0SAd67HJxX0w7LfJ8TUu+6zVv4Oqc=\",\"mac\":\"HlpiyJ/F4TJ1xjVbzGKj5ORwWLrlOltk2qVcmFRo/24=\"}",
+  "last_posted_index": 82,
+  "encrypted_refresh_token": "{\"nonce\":\"2ycfj3vJIPvw4A0X+Nhn/A==\",\"ciphertext\":\"eKjPXDr2eOsehoPTh5thFWNZk79H4oIc0iBWt1Qn4oNPYlehr1o7/3qAdlyfHRQEUPI=\",\"mac\":\"VN4hO6jOZElnNgbwDdZTbMbzQBPQSc+KdYFUPKIzl1A=\"}",
   "posted_post_ids": [
     "814760303295381504",
     "814766726962118656",
@@ -84,7 +84,8 @@
     "814942692981211136",
     "814945833272426496",
     "814947543580573696",
-    "814949189592252416"
+    "814949189592252416",
+    "814951051608358912"
   ],
   "posted_post_urls": [
     "https://kakakaforadyakali.tumblr.com/post/814760303295381504",
@@ -167,7 +168,8 @@
     "https://kakakaforadyakali.tumblr.com/post/814942692981211136",
     "https://kakakaforadyakali.tumblr.com/post/814945833272426496",
     "https://kakakaforadyakali.tumblr.com/post/814947543580573696",
-    "https://kakakaforadyakali.tumblr.com/post/814949189592252416"
+    "https://kakakaforadyakali.tumblr.com/post/814949189592252416",
+    "https://kakakaforadyakali.tumblr.com/post/814951051608358912"
   ],
   "posted_timestamps": [
     "2026-04-24T07:32:55.621622+00:00",
@@ -250,7 +252,8 @@
     "2026-04-26T07:51:55.801577+00:00",
     "2026-04-26T08:41:50.651368+00:00",
     "2026-04-26T09:09:01.707263+00:00",
-    "2026-04-26T09:35:11.507699+00:00"
+    "2026-04-26T09:35:11.507699+00:00",
+    "2026-04-26T10:04:47.215170+00:00"
   ],
   "posted_text_hashes": [
     "9a9bfafd8f146bd982514c23ceb52d5d53be86be07aa861c2a0df1e0e126b074",
@@ -333,9 +336,13 @@
     "24d04e6fe077a42aa8a3f3ade498e48285639ffa43a24315119252dd93f5495c",
     "db5119e999099bfb4eb521864f19a6f506d9df0998f4754481a705185d008b19",
     "71342b6c55d1b33fcf6dd1f021418a8add85286b6d5f45650248e226bf1deeb6",
-    "f63bf0a3ce1cd853c739aee88290a14738dd5ae5275baa431ecbdc47955d2e62"
+    "f63bf0a3ce1cd853c739aee88290a14738dd5ae5275baa431ecbdc47955d2e62",
+    "917cb0bd8f30a658d20e9b24045cc819328b658afc8fe68771401515fecf4b44"
   ],
   "posted_tags": [
+    [
+      "ghargharkali"
+    ],
     [
       "ghargharkali"
     ],
@@ -1552,6 +1559,18 @@
         "ghargharkali"
       ],
       "post_text": "Today's name is Su-lochana. She of beautiful eyes. Jai Ma. #ghargharkali"
+    },
+    {
+      "queue_index": 82,
+      "source_index": 82,
+      "post_id": "814951051608358912",
+      "post_url": "https://kakakaforadyakali.tumblr.com/post/814951051608358912",
+      "posted_at": "2026-04-26T10:04:47.215170+00:00",
+      "text_hash": "917cb0bd8f30a658d20e9b24045cc819328b658afc8fe68771401515fecf4b44",
+      "tags": [
+        "ghargharkali"
+      ],
+      "post_text": "Today's name is Virup'akshhi. She whose fierce, unusual eyes reveal Her all-seeing cosmic vision. Jai Ma. #ghargharkali"
     }
   ]
 }
