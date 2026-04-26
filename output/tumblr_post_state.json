@@ -1,8 +1,8 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts_mahakali.json",
-  "last_posted_index": 83,
-  "encrypted_refresh_token": "{\"nonce\":\"eltilw8YzGOIxTUvcVXudA==\",\"ciphertext\":\"xXOGxZcOZqyP+XjiPdrNqa3g+u66ropLZHAZjaUB0QWb7ry3yigR+7fCAwjJNfIDTDM=\",\"mac\":\"z5+U9US1zZlU1tC2gOSTdmVaIooouegqNXP9YxFN1Lw=\"}",
+  "last_posted_index": 84,
+  "encrypted_refresh_token": "{\"nonce\":\"UiEazCMEVAldA2uO9NzaiQ==\",\"ciphertext\":\"lsMOMd1JatEBD5PColP6XygIM18/pPvGbOmraSDvqzaKuYHLB75Nat4e6H0FmwpLpn4=\",\"mac\":\"34doPGKGMhEXTQMHf5WxGNwrFY4HL2Wi08Sdz4JFIP0=\"}",
   "posted_post_ids": [
     "814760303295381504",
     "814766726962118656",
@@ -86,7 +86,8 @@
     "814947543580573696",
     "814949189592252416",
     "814951051608358912",
-    "814952722838257664"
+    "814952722838257664",
+    "814954738137399296"
   ],
   "posted_post_urls": [
     "https://kakakaforadyakali.tumblr.com/post/814760303295381504",
@@ -171,7 +172,8 @@
     "https://kakakaforadyakali.tumblr.com/post/814947543580573696",
     "https://kakakaforadyakali.tumblr.com/post/814949189592252416",
     "https://kakakaforadyakali.tumblr.com/post/814951051608358912",
-    "https://kakakaforadyakali.tumblr.com/post/814952722838257664"
+    "https://kakakaforadyakali.tumblr.com/post/814952722838257664",
+    "https://kakakaforadyakali.tumblr.com/post/814954738137399296"
   ],
   "posted_timestamps": [
     "2026-04-24T07:32:55.621622+00:00",
@@ -256,7 +258,8 @@
     "2026-04-26T09:09:01.707263+00:00",
     "2026-04-26T09:35:11.507699+00:00",
     "2026-04-26T10:04:47.215170+00:00",
-    "2026-04-26T10:31:21.076011+00:00"
+    "2026-04-26T10:31:21.076011+00:00",
+    "2026-04-26T11:03:22.978600+00:00"
   ],
   "posted_text_hashes": [
     "9a9bfafd8f146bd982514c23ceb52d5d53be86be07aa861c2a0df1e0e126b074",
@@ -341,9 +344,13 @@
     "71342b6c55d1b33fcf6dd1f021418a8add85286b6d5f45650248e226bf1deeb6",
     "f63bf0a3ce1cd853c739aee88290a14738dd5ae5275baa431ecbdc47955d2e62",
     "917cb0bd8f30a658d20e9b24045cc819328b658afc8fe68771401515fecf4b44",
-    "adac8ec6d604e6944b778a174a6389606a05a57b40e26f522ecd95565ce4e5cd"
+    "adac8ec6d604e6944b778a174a6389606a05a57b40e26f522ecd95565ce4e5cd",
+    "145c9f100b279bb664235169c1bfb444fd6c365a3587459ff044413dff8fe0dc"
   ],
   "posted_tags": [
+    [
+      "ghargharkali"
+    ],
     [
       "ghargharkali"
     ],
@@ -1590,6 +1597,18 @@
         "ghargharkali"
       ],
       "post_text": "Today's name is Vishhal'akshhi. She of vast and beautiful eyes, reflecting all-embracing vision and wisdom. Jai Ma. #ghargharkali"
+    },
+    {
+      "queue_index": 84,
+      "source_index": 84,
+      "post_id": "814954738137399296",
+      "post_url": "https://kakakaforadyakali.tumblr.com/post/814954738137399296",
+      "posted_at": "2026-04-26T11:03:22.978600+00:00",
+      "text_hash": "145c9f100b279bb664235169c1bfb444fd6c365a3587459ff044413dff8fe0dc",
+      "tags": [
+        "ghargharkali"
+      ],
+      "post_text": "Today's name is Tri-lochana. The Three-eyed One. Jai Ma. #ghargharkali"
     }
   ]
 }
