@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts.json",
-  "last_posted_index": 75,
+  "last_posted_index": 76,
   "posted_record_uris": [
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mk7qgaf3qt2g",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mk7temgoyx2x",
@@ -77,7 +77,8 @@
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkeareqdke2o",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkeekhs6jv2a",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkehhd4t5b2v",
-    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkemeo3bxp2c"
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkemeo3bxp2c",
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkeqtmkbx42c"
   ],
   "posted_cids": [
     "bafyreies7zcn2mclysprrfqwg46lc4jt7t5wmicmqnlnz3t67neg4xmxq4",
@@ -154,7 +155,8 @@
     "bafyreiaemwx5w2a6hdzgwup2ad6vcwopjtbnlnfjbzeftfmtu3324kdg2a",
     "bafyreiczcqd227gsnlpbsf4kuwwy6fk7syr4o7fruyvl7rfimhk256uo5y",
     "bafyreie7dhpudv7nhhcggzgohjiumpbvmtahcc5mpug2f3gzeb4r5o2t5e",
-    "bafyreifwz6lifuedla34vsxgwe5jsunwubme5pupwcoex6epmjez35v7tm"
+    "bafyreifwz6lifuedla34vsxgwe5jsunwubme5pupwcoex6epmjez35v7tm",
+    "bafyreifv7pkzqrf4k5zth2rcmhsaklubz5kslr2cpp6obxz35i6entjbvm"
   ],
   "posted_timestamps": [
     "2026-04-24T04:57:00.864665+00:00",
@@ -231,7 +233,8 @@
     "2026-04-26T00:00:13.342759+00:00",
     "2026-04-26T01:07:56.620966+00:00",
     "2026-04-26T01:59:52.279333+00:00",
-    "2026-04-26T03:27:51.843133+00:00"
+    "2026-04-26T03:27:51.843133+00:00",
+    "2026-04-26T04:47:48.497471+00:00"
   ],
   "posted_text_hashes": [
     "91f79a2c6394eed25ab6e87114f7f879833b09f6d53df41933aa1e9cd1f5ffb6",
@@ -308,7 +311,8 @@
     "0888588c626cc1c70ce414fe57f85704f5f461f4f67869dd91d17131a52c31a5",
     "e7da0c9ac0c4337ee722ddaa939f5ae737374cf0ec4b7d5f5e610a46b243041e",
     "628a04c0f2fd1e08555d743b38d7d272c184e888f6104b57017eee24ae398c8a",
-    "ba7564885942d43745e77a3a8c3560ca6c5193942914464d69fda7fb82259d5d"
+    "ba7564885942d43745e77a3a8c3560ca6c5193942914464d69fda7fb82259d5d",
+    "39b30e1c7ab3abaee8754ff6a5814d74df00fa7930f5bb641c2871e0533c91cf"
   ],
   "history": [
     {
@@ -985,6 +989,15 @@
       "posted_at": "2026-04-26T03:27:51.843133+00:00",
       "text_hash": "ba7564885942d43745e77a3a8c3560ca6c5193942914464d69fda7fb82259d5d",
       "post_text": "Today's name is Kamakhya-kancya-adi-ksetrapalakaya. Guardian of sacred places such as Kamakhya and Kanchi. Jai Bhairava Baba. #Kalabhairava"
+    },
+    {
+      "queue_index": 76,
+      "source_index": 76,
+      "post_uri": "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkeqtmkbx42c",
+      "cid": "bafyreifv7pkzqrf4k5zth2rcmhsaklubz5kslr2cpp6obxz35i6entjbvm",
+      "posted_at": "2026-04-26T04:47:48.497471+00:00",
+      "text_hash": "39b30e1c7ab3abaee8754ff6a5814d74df00fa7930f5bb641c2871e0533c91cf",
+      "post_text": "Today's name is Kaivalya-prada-mandaraya. Bestower of absolute freedom, bliss, and liberation. Jai Bhairava Baba. #Kalabhairava"
     }
   ]
 }
