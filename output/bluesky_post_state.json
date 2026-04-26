@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts.json",
-  "last_posted_index": 104,
+  "last_posted_index": 105,
   "posted_record_uris": [
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mk7qgaf3qt2g",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mk7temgoyx2x",
@@ -106,7 +106,8 @@
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkgazdny4h2s",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkgcg6pf4x2j",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkgdtuwr422c",
-    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkgfi7zr3y2v"
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkgfi7zr3y2v",
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkgh7e3foi23"
   ],
   "posted_cids": [
     "bafyreies7zcn2mclysprrfqwg46lc4jt7t5wmicmqnlnz3t67neg4xmxq4",
@@ -212,7 +213,8 @@
     "bafyreigpctmeb5hk3ktkmtsf4ncr26xgvmjhevas5oarxinawcwuurer6y",
     "bafyreicyvlguzu5t5ops7pqmojodc6bvsmhrq52gmogimk5ycug5qfor6q",
     "bafyreiam7vfqoxbdcfwqlj6sk5z77y5xgsidsm4zy5qun4tycsbz56vklu",
-    "bafyreigcktchgd37b4kqqhg2socresmunfq7dah5otm5qu2eyxa7o7gilq"
+    "bafyreigcktchgd37b4kqqhg2socresmunfq7dah5otm5qu2eyxa7o7gilq",
+    "bafyreihruq3s3zwvfk3he3nlotavlpbcvk6pzrsm7bpgfxd43b2ockmxly"
   ],
   "posted_timestamps": [
     "2026-04-24T04:57:00.864665+00:00",
@@ -318,7 +320,8 @@
     "2026-04-26T19:10:00.140513+00:00",
     "2026-04-26T19:35:04.873045+00:00",
     "2026-04-26T20:00:38.157530+00:00",
-    "2026-04-26T20:29:54.595113+00:00"
+    "2026-04-26T20:29:54.595113+00:00",
+    "2026-04-26T21:00:44.327881+00:00"
   ],
   "posted_text_hashes": [
     "91f79a2c6394eed25ab6e87114f7f879833b09f6d53df41933aa1e9cd1f5ffb6",
@@ -424,7 +427,8 @@
     "c1fb2a2314d4692760a8a000c7ff127b1aafb98112e8eee4a107fbd78be6ab2d",
     "ee39795e6d63f0481290e6c11a31809a4137c159e741753494fca86d1b1b6435",
     "dc3f89b0db455469c2036a0d7678f3daac8c6996aa7067c3cf350f32019011e0",
-    "d3ae5b81df4719a64b242b45e3e3fb47d980e96e6754912f1056cb332a1ad101"
+    "d3ae5b81df4719a64b242b45e3e3fb47d980e96e6754912f1056cb332a1ad101",
+    "0e660d7c7c4469c262f96f009c6ef8e54e8b67f29c84cb4b15e088477bb39bef"
   ],
   "history": [
     {
@@ -1362,6 +1366,15 @@
       "posted_at": "2026-04-26T20:29:54.595113+00:00",
       "text_hash": "d3ae5b81df4719a64b242b45e3e3fb47d980e96e6754912f1056cb332a1ad101",
       "post_text": "Today's name is Gosthastha-bhairava-agranye. Foremost among Bhairavas and leader of divine hosts. Jai Bhairava Baba. #Kalabhairava"
+    },
+    {
+      "queue_index": 105,
+      "source_index": 105,
+      "post_uri": "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkgh7e3foi23",
+      "cid": "bafyreihruq3s3zwvfk3he3nlotavlpbcvk6pzrsm7bpgfxd43b2ockmxly",
+      "posted_at": "2026-04-26T21:00:44.327881+00:00",
+      "text_hash": "0e660d7c7c4469c262f96f009c6ef8e54e8b67f29c84cb4b15e088477bb39bef",
+      "post_text": "Today's name is Katora-aujasya-bhisma-ajna-paala-kinkaara-sevitaya. Served by mighty and fearsome attendants who uphold his commands. Jai Bhairava Baba. #Kalabhairava"
     }
   ]
 }
