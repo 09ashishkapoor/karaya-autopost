@@ -1,8 +1,8 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts_mahakali.json",
-  "last_posted_index": 106,
-  "encrypted_refresh_token": "{\"nonce\":\"RQcWR04DOl2mw/GxF3xVBA==\",\"ciphertext\":\"4zngKsl++V6aGLaX91WJWjWjT+0/YnsJyLTfDBGUGvuTRxUYMOP/ptjjh7t6ST15cTs=\",\"mac\":\"Ig/KVGYssX6ckJCKxaC8EEtagEYEkj/yZwtdVZ6rGq4=\"}",
+  "last_posted_index": 107,
+  "encrypted_refresh_token": "{\"nonce\":\"FWDHE3xLY8Ir/F2W3G1q1w==\",\"ciphertext\":\"Mjqnt+15kiAOGYnID3H0SBRcdXSmnQkhI7ewNdbSIJuX8UpSaee1KvCr5SsJtJtsGQI=\",\"mac\":\"mkta7YawO9wzhnANSOKUCmVQj/5qJbhZesxIJxXFUMk=\"}",
   "posted_post_ids": [
     "814760303295381504",
     "814766726962118656",
@@ -109,7 +109,8 @@
     "814990210190524416",
     "814992242080186368",
     "814993991018954752",
-    "814995897666666496"
+    "814995897666666496",
+    "814997756780380160"
   ],
   "posted_post_urls": [
     "https://kakakaforadyakali.tumblr.com/post/814760303295381504",
@@ -217,7 +218,8 @@
     "https://kakakaforadyakali.tumblr.com/post/814990210190524416",
     "https://kakakaforadyakali.tumblr.com/post/814992242080186368",
     "https://kakakaforadyakali.tumblr.com/post/814993991018954752",
-    "https://kakakaforadyakali.tumblr.com/post/814995897666666496"
+    "https://kakakaforadyakali.tumblr.com/post/814995897666666496",
+    "https://kakakaforadyakali.tumblr.com/post/814997756780380160"
   ],
   "posted_timestamps": [
     "2026-04-24T07:32:55.621622+00:00",
@@ -325,7 +327,8 @@
     "2026-04-26T20:27:11.894297+00:00",
     "2026-04-26T20:59:29.565253+00:00",
     "2026-04-26T21:27:17.516033+00:00",
-    "2026-04-26T21:57:36.291079+00:00"
+    "2026-04-26T21:57:36.291079+00:00",
+    "2026-04-26T22:27:08.798784+00:00"
   ],
   "posted_text_hashes": [
     "9a9bfafd8f146bd982514c23ceb52d5d53be86be07aa861c2a0df1e0e126b074",
@@ -433,9 +436,13 @@
     "e41d963193a6606642d6f21e0a223e747ca1658ddc98f42e91d9c444eac7d924",
     "57dcc664b722894936fde3cf631ec3ea04f44183704f60e7a4062a66103f8191",
     "8500f0d6aa4f4289c4627759354c4d8af1718eca9a15046d30854697727f97aa",
-    "da0569a935ee2ba0eacc704d3ff0efd6b01adcf4c3ec707fdc7f2ec1fee8f023"
+    "da0569a935ee2ba0eacc704d3ff0efd6b01adcf4c3ec707fdc7f2ec1fee8f023",
+    "4150afc6c0d784730a10ffaeeb28f64158672db34bee0483c43a4b1f06e9156e"
   ],
   "posted_tags": [
+    [
+      "ghargharkali"
+    ],
     [
       "ghargharkali"
     ],
@@ -2027,6 +2034,18 @@
         "ghargharkali"
       ],
       "post_text": "Today's name is Su-keshhi. She of beautiful hair. Jai Ma. #ghargharkali"
+    },
+    {
+      "queue_index": 107,
+      "source_index": 107,
+      "post_id": "814997756780380160",
+      "post_url": "https://kakakaforadyakali.tumblr.com/post/814997756780380160",
+      "posted_at": "2026-04-26T22:27:08.798784+00:00",
+      "text_hash": "4150afc6c0d784730a10ffaeeb28f64158672db34bee0483c43a4b1f06e9156e",
+      "tags": [
+        "ghargharkali"
+      ],
+      "post_text": "Today's name is Mukta keshhi cha. She with disheveled hair, symbolizing untamed primal force. Jai Ma. #ghargharkali"
     }
   ]
 }
