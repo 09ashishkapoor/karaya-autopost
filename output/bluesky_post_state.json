@@ -1,18 +1,22 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts.json",
-  "last_posted_index": 1,
+  "last_posted_index": 2,
   "posted_record_uris": [
-    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkhgvkr3xr2q"
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkhgvkr3xr2q",
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkhjlikrsu23"
   ],
   "posted_cids": [
-    "bafyreifrst5zlm5gntzglpt6lshxgsutmezuzdypxcxmayy2ozfha5m7ti"
+    "bafyreifrst5zlm5gntzglpt6lshxgsutmezuzdypxcxmayy2ozfha5m7ti",
+    "bafyreicv2nsswdogzyy5lmg7neci4zvbk7iief3pgrgevhspwiz6zfzefy"
   ],
   "posted_timestamps": [
-    "2026-04-27T06:27:55.539737+00:00"
+    "2026-04-27T06:27:55.539737+00:00",
+    "2026-04-27T07:15:58.915236+00:00"
   ],
   "posted_text_hashes": [
-    "cf1ac875ed7087c14d3f19118163d018a70035373f00186f7154f6b8a4a58629"
+    "cf1ac875ed7087c14d3f19118163d018a70035373f00186f7154f6b8a4a58629",
+    "b20de68751c7a142d83dbfd770eb0820262ea98f6ff00a9bf43253aa1beaf5db"
   ],
   "history": [
     {
@@ -23,6 +27,15 @@
       "posted_at": "2026-04-27T06:27:55.539737+00:00",
       "text_hash": "cf1ac875ed7087c14d3f19118163d018a70035373f00186f7154f6b8a4a58629",
       "post_text": "Today's name is Bhairavaaya. The one who is terrifying and who destroys fear. Jai Bhairava Baba. #Kalabhairava"
+    },
+    {
+      "queue_index": 2,
+      "source_index": 2,
+      "post_uri": "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkhjlikrsu23",
+      "cid": "bafyreicv2nsswdogzyy5lmg7neci4zvbk7iief3pgrgevhspwiz6zfzefy",
+      "posted_at": "2026-04-27T07:15:58.915236+00:00",
+      "text_hash": "b20de68751c7a142d83dbfd770eb0820262ea98f6ff00a9bf43253aa1beaf5db",
+      "post_text": "Today's name is Bhuutanaathaaya. The lord and master of all beings, including ghosts and spirits. Jai Bhairava Baba. #Kalabhairava"
     }
   ]
 }
