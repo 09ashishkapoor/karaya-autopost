@@ -1,26 +1,30 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts.json",
-  "last_posted_index": 3,
+  "last_posted_index": 4,
   "posted_record_uris": [
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkhgvkr3xr2q",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkhjlikrsu23",
-    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkhmfcrm5h2a"
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkhmfcrm5h2a",
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkhpt6w54y2j"
   ],
   "posted_cids": [
     "bafyreifrst5zlm5gntzglpt6lshxgsutmezuzdypxcxmayy2ozfha5m7ti",
     "bafyreicv2nsswdogzyy5lmg7neci4zvbk7iief3pgrgevhspwiz6zfzefy",
-    "bafyreidfxe3refnrvkks3ycepu6t7nom5zgiqwbjvap5kpoj57r6ibj4ue"
+    "bafyreidfxe3refnrvkks3ycepu6t7nom5zgiqwbjvap5kpoj57r6ibj4ue",
+    "bafyreihtxnycxkhyw6z3ftpmbz4sjbxfuzezseqbgjzctaj26ew2n4t2uq"
   ],
   "posted_timestamps": [
     "2026-04-27T06:27:55.539737+00:00",
     "2026-04-27T07:15:58.915236+00:00",
-    "2026-04-27T08:06:12.764565+00:00"
+    "2026-04-27T08:06:12.764565+00:00",
+    "2026-04-27T09:07:39.682092+00:00"
   ],
   "posted_text_hashes": [
     "cf1ac875ed7087c14d3f19118163d018a70035373f00186f7154f6b8a4a58629",
     "b20de68751c7a142d83dbfd770eb0820262ea98f6ff00a9bf43253aa1beaf5db",
-    "3eaa7d4b3c0a3fae40dcdeada4ed3569d36c7257ec7a21d84293a712c6945fef"
+    "3eaa7d4b3c0a3fae40dcdeada4ed3569d36c7257ec7a21d84293a712c6945fef",
+    "edd6ded78d077b0b8536526045eaf792f2021e4eaefc83db2c4ec064f88a50eb"
   ],
   "history": [
     {
@@ -49,6 +53,15 @@
       "posted_at": "2026-04-27T08:06:12.764565+00:00",
       "text_hash": "3eaa7d4b3c0a3fae40dcdeada4ed3569d36c7257ec7a21d84293a712c6945fef",
       "post_text": "Today's name is Bhuutaatmane. The one who is the very soul and inner essence of all living beings. Jai Bhairava Baba. #Kalabhairava"
+    },
+    {
+      "queue_index": 4,
+      "source_index": 4,
+      "post_uri": "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkhpt6w54y2j",
+      "cid": "bafyreihtxnycxkhyw6z3ftpmbz4sjbxfuzezseqbgjzctaj26ew2n4t2uq",
+      "posted_at": "2026-04-27T09:07:39.682092+00:00",
+      "text_hash": "edd6ded78d077b0b8536526045eaf792f2021e4eaefc83db2c4ec064f88a50eb",
+      "post_text": "Today's name is Bhuutabhaavanaaya. The creator and nurturer of all beings in the universe. Jai Bhairava Baba. #Kalabhairava"
     }
   ]
 }
