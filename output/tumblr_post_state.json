@@ -1,8 +1,8 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts_mahakali.json",
-  "last_posted_index": 112,
-  "encrypted_refresh_token": "{\"nonce\":\"sexfkyqmDPa5zvpnkO7SRg==\",\"ciphertext\":\"3FPmy0BVxPgs1u4fQXBfOxjR/G4r3rKoY70YUGKZhRSX8fcrct4Lg+nPeNaezy2xjt4=\",\"mac\":\"ANREOKvSLDE9V8CQB5U4v2pVZIKlGNDpBRFLF7btCJE=\"}",
+  "last_posted_index": 113,
+  "encrypted_refresh_token": "{\"nonce\":\"bny41ScQUUdu6nZAG53zPA==\",\"ciphertext\":\"mvTnG8D8vhnTJUABEtQcQjMRCyYDRBXiVmMFoIZe9Rw7XNosvx1KfJgnR+tvBPfnafY=\",\"mac\":\"IGgIciBsVtH6u/jQkV7USm0map/hEgmukDmvk/QNTdk=\"}",
   "posted_post_ids": [
     "814760303295381504",
     "814766726962118656",
@@ -115,7 +115,8 @@
     "815001549394903040",
     "815003526047612928",
     "815007864926158848",
-    "815010959422832640"
+    "815010959422832640",
+    "815016487792328704"
   ],
   "posted_post_urls": [
     "https://kakakaforadyakali.tumblr.com/post/814760303295381504",
@@ -229,7 +230,8 @@
     "https://kakakaforadyakali.tumblr.com/post/815001549394903040",
     "https://kakakaforadyakali.tumblr.com/post/815003526047612928",
     "https://kakakaforadyakali.tumblr.com/post/815007864926158848",
-    "https://kakakaforadyakali.tumblr.com/post/815010959422832640"
+    "https://kakakaforadyakali.tumblr.com/post/815010959422832640",
+    "https://kakakaforadyakali.tumblr.com/post/815016487792328704"
   ],
   "posted_timestamps": [
     "2026-04-24T07:32:55.621622+00:00",
@@ -343,7 +345,8 @@
     "2026-04-26T23:27:25.708497+00:00",
     "2026-04-26T23:58:50.790845+00:00",
     "2026-04-27T01:07:48.930646+00:00",
-    "2026-04-27T01:56:59.756496+00:00"
+    "2026-04-27T01:56:59.756496+00:00",
+    "2026-04-27T03:24:52.052398+00:00"
   ],
   "posted_text_hashes": [
     "9a9bfafd8f146bd982514c23ceb52d5d53be86be07aa861c2a0df1e0e126b074",
@@ -457,9 +460,13 @@
     "4d945e9166c5213c04fc2f24f57376807cb37d8828bce705a7aba9a300fe79d0",
     "f01e3f137decf78a2c2bfcc281c2eab7a11d670d4e8724778105128e792b01d9",
     "03d71cc38ae64feee0c8f9ebbc7ef4f40c902763a0ad12414c2c75d6baa1b3f7",
-    "1671bbe9df86f7740b1c0f601809dbe4c857bf69a0cafa5d305276dc472856de"
+    "1671bbe9df86f7740b1c0f601809dbe4c857bf69a0cafa5d305276dc472856de",
+    "ff46dcbcda7e9e9aba6b51b4708d6a6a6c25bd395c0ab23908ac7b53bc9687a4"
   ],
   "posted_tags": [
+    [
+      "ghargharkali"
+    ],
     [
       "ghargharkali"
     ],
@@ -2141,6 +2148,18 @@
         "ghargharkali"
       ],
       "post_text": "Today's name is Pret'asana. Seated upon a corpse, symbolizing mastery over death and the material world. Jai Ma. #ghargharkali"
+    },
+    {
+      "queue_index": 113,
+      "source_index": 113,
+      "post_id": "815016487792328704",
+      "post_url": "https://kakakaforadyakali.tumblr.com/post/815016487792328704",
+      "posted_at": "2026-04-27T03:24:52.052398+00:00",
+      "text_hash": "ff46dcbcda7e9e9aba6b51b4708d6a6a6c25bd395c0ab23908ac7b53bc9687a4",
+      "tags": [
+        "ghargharkali"
+      ],
+      "post_text": "Today's name is Priya preta. She who loves corpses. Jai Ma. #ghargharkali"
     }
   ]
 }
