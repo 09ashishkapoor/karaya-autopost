@@ -96,6 +96,8 @@ This repo includes a production Bluesky autopost flow:
 - posting order: first to last, no randomness
 - posting mode: one text post per run
 
+To restart the Bluesky queue from the beginning after replacing or regenerating the queue, reset `output/bluesky_post_state.json` so `last_posted_index` is `0` and the history arrays are empty. The next workflow run will start again at queue item 1 and continue until the queue is exhausted.
+
 ### Required GitHub Repository Secrets
 
 Add these in `Settings -> Secrets and variables -> Actions`:
