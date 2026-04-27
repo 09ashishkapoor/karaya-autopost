@@ -1,8 +1,8 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts_mahakali.json",
-  "last_posted_index": 131,
-  "encrypted_refresh_token": "{\"nonce\":\"heB25HhuTPBZkV+sEM9Syw==\",\"ciphertext\":\"xEG6WJ92AoSuLxu6MZqtsLSypBLqL3mznR3eA0WL1beslQR1j3ROq2lLSgTwWfRvCGE=\",\"mac\":\"0c4zygy/3LAfvyJXWjSy5buPuerLOXBcBwLIjvdtxl0=\"}",
+  "last_posted_index": 132,
+  "encrypted_refresh_token": "{\"nonce\":\"oE9mXnbgCcJRqmkUT5sLrQ==\",\"ciphertext\":\"xb0B6kMx6UZI1O7V9IHnIS4QTMvY4dBSDp2mKgw405eL0a8VnchxH4R2xVTzKbPw3lg=\",\"mac\":\"GkTbouDIyUinkPziSU+GoziUphqEz3mS5R0dVIdYt1I=\"}",
   "posted_post_ids": [
     "814760303295381504",
     "814766726962118656",
@@ -134,7 +134,8 @@
     "815072352758038528",
     "815074386487984128",
     "815076311018127360",
-    "815078506851647488"
+    "815078506851647488",
+    "815081607595769856"
   ],
   "posted_post_urls": [
     "https://kakakaforadyakali.tumblr.com/post/814760303295381504",
@@ -267,7 +268,8 @@
     "https://kakakaforadyakali.tumblr.com/post/815072352758038528",
     "https://kakakaforadyakali.tumblr.com/post/815074386487984128",
     "https://kakakaforadyakali.tumblr.com/post/815076311018127360",
-    "https://kakakaforadyakali.tumblr.com/post/815078506851647488"
+    "https://kakakaforadyakali.tumblr.com/post/815078506851647488",
+    "https://kakakaforadyakali.tumblr.com/post/815081607595769856"
   ],
   "posted_timestamps": [
     "2026-04-24T07:32:55.621622+00:00",
@@ -400,7 +402,8 @@
     "2026-04-27T18:12:49.016677+00:00",
     "2026-04-27T18:45:08.604227+00:00",
     "2026-04-27T19:15:43.891205+00:00",
-    "2026-04-27T19:50:38.016317+00:00"
+    "2026-04-27T19:50:38.016317+00:00",
+    "2026-04-27T20:39:55.108903+00:00"
   ],
   "posted_text_hashes": [
     "9a9bfafd8f146bd982514c23ceb52d5d53be86be07aa861c2a0df1e0e126b074",
@@ -533,9 +536,13 @@
     "69c338fed00be2b16e6fa975cd80e06d7d71cab701958591fb403b1de5d763cb",
     "469ae10dfc57cf379d0349804eacb62ee6f78e12712392aabe7727fec5653ab0",
     "50735874d89384ce90e015333d1caebcbe7891f7f3ed050547f669c7da7e4d6b",
-    "6dd5b1ae4dc6691980769ea549a970214e9cc9419c0234ca95d5ead9cd2b6852"
+    "6dd5b1ae4dc6691980769ea549a970214e9cc9419c0234ca95d5ead9cd2b6852",
+    "989c0d185e969435a94f4f3208b638d67be8883618ff16fc2947082f42cd5cff"
   ],
   "posted_tags": [
+    [
+      "ghargharkali"
+    ],
     [
       "ghargharkali"
     ],
@@ -2502,6 +2509,18 @@
         "ghargharkali"
       ],
       "post_text": "Today's name is Nriimunda hasta shhasta cha. Bearing a freshly severed human head and a sword in Her hands. Jai Ma. #ghargharkali"
+    },
+    {
+      "queue_index": 132,
+      "source_index": 132,
+      "post_id": "815081607595769856",
+      "post_url": "https://kakakaforadyakali.tumblr.com/post/815081607595769856",
+      "posted_at": "2026-04-27T20:39:55.108903+00:00",
+      "text_hash": "989c0d185e969435a94f4f3208b638d67be8883618ff16fc2947082f42cd5cff",
+      "tags": [
+        "ghargharkali"
+      ],
+      "post_text": "Today's name is Chhinna-masta. The self-decapitated Goddess, embodying self-sacrifice and primal creative-destructive power. Jai Ma. #ghargharkali"
     }
   ]
 }
