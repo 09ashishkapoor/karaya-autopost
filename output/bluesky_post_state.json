@@ -1,10 +1,28 @@
 {
   "version": 1,
-  "source_json_path": "E:\\projects\\karaya-autopost\\output\\generated_posts.json",
-  "last_posted_index": 0,
-  "posted_record_uris": [],
-  "posted_cids": [],
-  "posted_timestamps": [],
-  "posted_text_hashes": [],
-  "history": []
+  "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts.json",
+  "last_posted_index": 1,
+  "posted_record_uris": [
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkhgvkr3xr2q"
+  ],
+  "posted_cids": [
+    "bafyreifrst5zlm5gntzglpt6lshxgsutmezuzdypxcxmayy2ozfha5m7ti"
+  ],
+  "posted_timestamps": [
+    "2026-04-27T06:27:55.539737+00:00"
+  ],
+  "posted_text_hashes": [
+    "cf1ac875ed7087c14d3f19118163d018a70035373f00186f7154f6b8a4a58629"
+  ],
+  "history": [
+    {
+      "queue_index": 1,
+      "source_index": 1,
+      "post_uri": "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkhgvkr3xr2q",
+      "cid": "bafyreifrst5zlm5gntzglpt6lshxgsutmezuzdypxcxmayy2ozfha5m7ti",
+      "posted_at": "2026-04-27T06:27:55.539737+00:00",
+      "text_hash": "cf1ac875ed7087c14d3f19118163d018a70035373f00186f7154f6b8a4a58629",
+      "post_text": "Today's name is Bhairavaaya. The one who is terrifying and who destroys fear. Jai Bhairava Baba. #Kalabhairava"
+    }
+  ]
 }
