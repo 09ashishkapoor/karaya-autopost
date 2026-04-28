@@ -1,8 +1,8 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts_mahakali.json",
-  "last_posted_index": 154,
-  "encrypted_refresh_token": "{\"nonce\":\"o+xegXOqyx4vLG20iG/W0A==\",\"ciphertext\":\"tXWTIM46aKTpmXNTY02YHsHte9MC6arlaAdmDk4XJYtL7VCiT9VuYdDheV2SUQ9OYII=\",\"mac\":\"plP0kEhs1FHWBUY2vOCSkxfbPbB3xL35zwTKC6GkZoA=\"}",
+  "last_posted_index": 155,
+  "encrypted_refresh_token": "{\"nonce\":\"mNAUDdoHgMS56EYB162j+A==\",\"ciphertext\":\"FKGvcWN9EFuyC7aqmPBBn0NZocqCktPv2XeDRCyb/kkhe3tW7wbmeppKD96i0GXnJv4=\",\"mac\":\"wVuKXhvqf4FybAIk4LYHN+q63V/mpvh/lmt8lHpj46g=\"}",
   "posted_post_ids": [
     "814760303295381504",
     "814766726962118656",
@@ -157,7 +157,8 @@
     "815142999953702912",
     "815146841477873664",
     "815151317101182976",
-    "815154711597613056"
+    "815154711597613056",
+    "815158059592728576"
   ],
   "posted_post_urls": [
     "https://kakakaforadyakali.tumblr.com/post/814760303295381504",
@@ -313,7 +314,8 @@
     "https://kakakaforadyakali.tumblr.com/post/815142999953702912",
     "https://kakakaforadyakali.tumblr.com/post/815146841477873664",
     "https://kakakaforadyakali.tumblr.com/post/815151317101182976",
-    "https://kakakaforadyakali.tumblr.com/post/815154711597613056"
+    "https://kakakaforadyakali.tumblr.com/post/815154711597613056",
+    "https://kakakaforadyakali.tumblr.com/post/815158059592728576"
   ],
   "posted_timestamps": [
     "2026-04-24T07:32:55.621622+00:00",
@@ -469,7 +471,8 @@
     "2026-04-28T12:55:43.492955+00:00",
     "2026-04-28T13:56:47.030865+00:00",
     "2026-04-28T15:07:55.297774+00:00",
-    "2026-04-28T16:01:52.532996+00:00"
+    "2026-04-28T16:01:52.532996+00:00",
+    "2026-04-28T16:55:05.707143+00:00"
   ],
   "posted_text_hashes": [
     "9a9bfafd8f146bd982514c23ceb52d5d53be86be07aa861c2a0df1e0e126b074",
@@ -625,9 +628,13 @@
     "1b098e1e43c0af3ed72a076f6b316787db5f5d981dbf57906a88be5599751d57",
     "25d087cdb4d04d506c8fe8d1c7667de6328003b8861f22b3578b74eec2823435",
     "bda52f89515a36630a76a99ea0a17e2be571fcc5b1cc8150f7fac8c99caf39f5",
-    "fda5aa1c3b807c1590b1e10d0f64ad7cafa3a3c3e2378b8149e523049df3b061"
+    "fda5aa1c3b807c1590b1e10d0f64ad7cafa3a3c3e2378b8149e523049df3b061",
+    "03444126f9bb76582a0985188c14111cd35acadfc024c2f213af42e9678fa822"
   ],
   "posted_tags": [
+    [
+      "ghargharkali"
+    ],
     [
       "ghargharkali"
     ],
@@ -2939,6 +2946,18 @@
         "ghargharkali"
       ],
       "post_text": "Today's name is Gita priya. Fond of sacred songs and the Bhagavad Gita. Jai Ma. #ghargharkali"
+    },
+    {
+      "queue_index": 155,
+      "source_index": 155,
+      "post_id": "815158059592728576",
+      "post_url": "https://kakakaforadyakali.tumblr.com/post/815158059592728576",
+      "posted_at": "2026-04-28T16:55:05.707143+00:00",
+      "text_hash": "03444126f9bb76582a0985188c14111cd35acadfc024c2f213af42e9678fa822",
+      "tags": [
+        "ghargharkali"
+      ],
+      "post_text": "Today's name is Vadyarata. Absorbed in instrumental music, rejoicing in its practice. Jai Ma. #ghargharkali"
     }
   ]
 }
