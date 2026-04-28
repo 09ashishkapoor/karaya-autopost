@@ -1,8 +1,8 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts_mahakali.json",
-  "last_posted_index": 159,
-  "encrypted_refresh_token": "{\"nonce\":\"3YwoQpO1ugDSlSPopxS5Jw==\",\"ciphertext\":\"LhxLKltUvTLhU6HMRjz7ON3MjCAXSmDISbMCjWEfuzy668Oe26OnNLgLsbxKhDVboVU=\",\"mac\":\"xGdoSHlGz/KRvpituf1osO9vsknvF01aTjvAuvcn6as=\"}",
+  "last_posted_index": 160,
+  "encrypted_refresh_token": "{\"nonce\":\"e/vMWkRGCDpaJG0+dxNzGA==\",\"ciphertext\":\"qT/D0VJCnJphKv/PkxaSrOkHB+plAUfJH0HxyCQBV2+8O2zn+GQUpbwjKlOyAc4wT/o=\",\"mac\":\"Bsbw4aDYgqOdmvgrBxmrlEBVUbhgN7m1vSlyHdaRY1I=\"}",
   "posted_post_ids": [
     "814760303295381504",
     "814766726962118656",
@@ -162,7 +162,8 @@
     "815161754603732992",
     "815165280641744896",
     "815169241740443648",
-    "815172495632220160"
+    "815172495632220160",
+    "815174259070631936"
   ],
   "posted_post_urls": [
     "https://kakakaforadyakali.tumblr.com/post/814760303295381504",
@@ -323,7 +324,8 @@
     "https://kakakaforadyakali.tumblr.com/post/815161754603732992",
     "https://kakakaforadyakali.tumblr.com/post/815165280641744896",
     "https://kakakaforadyakali.tumblr.com/post/815169241740443648",
-    "https://kakakaforadyakali.tumblr.com/post/815172495632220160"
+    "https://kakakaforadyakali.tumblr.com/post/815172495632220160",
+    "https://kakakaforadyakali.tumblr.com/post/815174259070631936"
   ],
   "posted_timestamps": [
     "2026-04-24T07:32:55.621622+00:00",
@@ -484,7 +486,8 @@
     "2026-04-28T17:53:49.305658+00:00",
     "2026-04-28T18:49:52.464641+00:00",
     "2026-04-28T19:52:50.097988+00:00",
-    "2026-04-28T20:44:32.806943+00:00"
+    "2026-04-28T20:44:32.806943+00:00",
+    "2026-04-28T21:12:34.477060+00:00"
   ],
   "posted_text_hashes": [
     "9a9bfafd8f146bd982514c23ceb52d5d53be86be07aa861c2a0df1e0e126b074",
@@ -645,9 +648,13 @@
     "5caedf4e85b49c6b225d5e913a153d359d208b5169ea9f83bd26c68d552f28fc",
     "dc5bbc22cc4987b08eb8533fbaaeced75dceb804cee8feec6cc14c5d99a2402c",
     "cbed48e687f2178dcbb7ffe2a4178e7562736f64b9fbe64b47842f1418c51d60",
-    "6cf4f61e6c9e34c189bbc4dcda3c456efa4b755b2bcf80ba4af0c83eae96279c"
+    "6cf4f61e6c9e34c189bbc4dcda3c456efa4b755b2bcf80ba4af0c83eae96279c",
+    "81f7da5321879639e96418f0b7fb9df75a4be597613419f3cd48c83e12afe513"
   ],
   "posted_tags": [
+    [
+      "ghargharkali"
+    ],
     [
       "ghargharkali"
     ],
@@ -3034,6 +3041,18 @@
         "ghargharkali"
       ],
       "post_text": "Today's name is Ashhtadashha bhuja tatha. The eighteen-armed Goddess, whose form is at once fierce and benevolent. Jai Ma. #ghargharkali"
+    },
+    {
+      "queue_index": 160,
+      "source_index": 160,
+      "post_id": "815174259070631936",
+      "post_url": "https://kakakaforadyakali.tumblr.com/post/815174259070631936",
+      "posted_at": "2026-04-28T21:12:34.477060+00:00",
+      "text_hash": "81f7da5321879639e96418f0b7fb9df75a4be597613419f3cd48c83e12afe513",
+      "tags": [
+        "ghargharkali"
+      ],
+      "post_text": "Today's name is Katyayani. She who was born as the daughter of Sage Katyayana. Jai Ma. #ghargharkali"
     }
   ]
 }
