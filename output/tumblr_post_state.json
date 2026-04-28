@@ -1,8 +1,8 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts_mahakali.json",
-  "last_posted_index": 157,
-  "encrypted_refresh_token": "{\"nonce\":\"WvyzH2fF27cseUTuZ3nTvg==\",\"ciphertext\":\"XO/TLVM8edeDq3b23C6C8qH06miN2RkI5pCv0gYLybtIzphos0yA/+BmgXhg1ur9Z0Y=\",\"mac\":\"7pcUVq/8+MWbKxTjcqwcwQIkarR1X4B2+HpmcaSSmn0=\"}",
+  "last_posted_index": 158,
+  "encrypted_refresh_token": "{\"nonce\":\"h61fyL5YljWOmmJ/ijB76Q==\",\"ciphertext\":\"TlxjQQUUXMydXlgUvITGU1mOHYvSDbVBfJjG/OxroIIvfKH35M9I2muJFBGwgcV7/2U=\",\"mac\":\"EcVwKEOdN7DFHKt/tOkWtrkPkZPcVe9ASQfDM6yZ/7Y=\"}",
   "posted_post_ids": [
     "814760303295381504",
     "814766726962118656",
@@ -160,7 +160,8 @@
     "815154711597613056",
     "815158059592728576",
     "815161754603732992",
-    "815165280641744896"
+    "815165280641744896",
+    "815169241740443648"
   ],
   "posted_post_urls": [
     "https://kakakaforadyakali.tumblr.com/post/814760303295381504",
@@ -319,7 +320,8 @@
     "https://kakakaforadyakali.tumblr.com/post/815154711597613056",
     "https://kakakaforadyakali.tumblr.com/post/815158059592728576",
     "https://kakakaforadyakali.tumblr.com/post/815161754603732992",
-    "https://kakakaforadyakali.tumblr.com/post/815165280641744896"
+    "https://kakakaforadyakali.tumblr.com/post/815165280641744896",
+    "https://kakakaforadyakali.tumblr.com/post/815169241740443648"
   ],
   "posted_timestamps": [
     "2026-04-24T07:32:55.621622+00:00",
@@ -478,7 +480,8 @@
     "2026-04-28T16:01:52.532996+00:00",
     "2026-04-28T16:55:05.707143+00:00",
     "2026-04-28T17:53:49.305658+00:00",
-    "2026-04-28T18:49:52.464641+00:00"
+    "2026-04-28T18:49:52.464641+00:00",
+    "2026-04-28T19:52:50.097988+00:00"
   ],
   "posted_text_hashes": [
     "9a9bfafd8f146bd982514c23ceb52d5d53be86be07aa861c2a0df1e0e126b074",
@@ -637,9 +640,13 @@
     "fda5aa1c3b807c1590b1e10d0f64ad7cafa3a3c3e2378b8149e523049df3b061",
     "03444126f9bb76582a0985188c14111cd35acadfc024c2f213af42e9678fa822",
     "5caedf4e85b49c6b225d5e913a153d359d208b5169ea9f83bd26c68d552f28fc",
-    "dc5bbc22cc4987b08eb8533fbaaeced75dceb804cee8feec6cc14c5d99a2402c"
+    "dc5bbc22cc4987b08eb8533fbaaeced75dceb804cee8feec6cc14c5d99a2402c",
+    "cbed48e687f2178dcbb7ffe2a4178e7562736f64b9fbe64b47842f1418c51d60"
   ],
   "posted_tags": [
+    [
+      "ghargharkali"
+    ],
     [
       "ghargharkali"
     ],
@@ -2996,6 +3003,18 @@
         "ghargharkali"
       ],
       "post_text": "Today's name is Chatur bhuja. The Four-Armed One, expressing complete power and dominion. Jai Ma. #ghargharkali"
+    },
+    {
+      "queue_index": 158,
+      "source_index": 158,
+      "post_id": "815169241740443648",
+      "post_url": "https://kakakaforadyakali.tumblr.com/post/815169241740443648",
+      "posted_at": "2026-04-28T19:52:50.097988+00:00",
+      "text_hash": "cbed48e687f2178dcbb7ffe2a4178e7562736f64b9fbe64b47842f1418c51d60",
+      "tags": [
+        "ghargharkali"
+      ],
+      "post_text": "Today's name is Dashha bhuja. The Ten-Armed One, signifying her omnipotence and power to wield every weapon. Jai Ma. #ghargharkali"
     }
   ]
 }
