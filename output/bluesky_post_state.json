@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts.json",
-  "last_posted_index": 45,
+  "last_posted_index": 46,
   "posted_record_uris": [
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkhgvkr3xr2q",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkhjlikrsu23",
@@ -47,7 +47,8 @@
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mklaw75tb62s",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mklegffspj2g",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mklhbvq5be2n",
-    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mklixv3vxt2y"
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mklixv3vxt2y",
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mklkh4xvlr2u"
   ],
   "posted_cids": [
     "bafyreifrst5zlm5gntzglpt6lshxgsutmezuzdypxcxmayy2ozfha5m7ti",
@@ -94,7 +95,8 @@
     "bafyreiheo7umo2stwf4xxywuoigwrxlhmwzhrsjlmd24le6vs6elbrb32u",
     "bafyreigadpuxhimwpq26hb67fdr2hxzgqeyxixa4bpl4tt5w26ywtmdmyy",
     "bafyreifavjoqhf7mddwzp5bmogg5xkhfxect6gvqhsruw5loqgzov6ex54",
-    "bafyreid2pxhx4wktllj33sykhqdln3qodjxuch5vkz4v3giq4h3y2u4ieu"
+    "bafyreid2pxhx4wktllj33sykhqdln3qodjxuch5vkz4v3giq4h3y2u4ieu",
+    "bafyreibbcl5kqect4upn6t7lxmwnnrsojye2kqpwpgxuph4nbwjzrvz4wu"
   ],
   "posted_timestamps": [
     "2026-04-27T06:27:55.539737+00:00",
@@ -141,7 +143,8 @@
     "2026-04-28T18:51:33.398981+00:00",
     "2026-04-28T19:54:18.061189+00:00",
     "2026-04-28T20:45:28.639912+00:00",
-    "2026-04-28T21:15:39.903961+00:00"
+    "2026-04-28T21:15:39.903961+00:00",
+    "2026-04-28T21:42:05.214140+00:00"
   ],
   "posted_text_hashes": [
     "cf1ac875ed7087c14d3f19118163d018a70035373f00186f7154f6b8a4a58629",
@@ -188,7 +191,8 @@
     "83dc3be22c02072f2150a0534e7f62d8d952f81b51bd3b0e84eb40df179890cf",
     "8d1b0100def1f93a134e982559a1fa88140848a958adb22a99b7cc5b66ef7f76",
     "b6c26960cb5e28676225026e7fea61ea5b82530f34aeb7e27d35fbb99ed418b9",
-    "8c6e2501aa598566124197c8bad982c9cb1c791f465af3becf5d05ea3b44d659"
+    "8c6e2501aa598566124197c8bad982c9cb1c791f465af3becf5d05ea3b44d659",
+    "1d7bdf74ae0e74691ebd4edf1b2e711ad5a3cf7cba4b2ad45521e4db4b48dda5"
   ],
   "history": [
     {
@@ -595,6 +599,15 @@
       "posted_at": "2026-04-28T21:15:39.903961+00:00",
       "text_hash": "8c6e2501aa598566124197c8bad982c9cb1c791f465af3becf5d05ea3b44d659",
       "post_text": "Today's name is Padmagarbhaaya. The one who holds the lotus-womb from which creation arises. Jai Bhairava Baba. #Kalabhairava"
+    },
+    {
+      "queue_index": 46,
+      "source_index": 46,
+      "post_uri": "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mklkh4xvlr2u",
+      "cid": "bafyreibbcl5kqect4upn6t7lxmwnnrsojye2kqpwpgxuph4nbwjzrvz4wu",
+      "posted_at": "2026-04-28T21:42:05.214140+00:00",
+      "text_hash": "1d7bdf74ae0e74691ebd4edf1b2e711ad5a3cf7cba4b2ad45521e4db4b48dda5",
+      "post_text": "Today's name is Mahaagarbhaaya. The one who contains the great cosmic womb within himself. Jai Bhairava Baba. #Kalabhairava"
     }
   ]
 }
