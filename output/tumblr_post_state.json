@@ -1,8 +1,8 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts_mahakali.json",
-  "last_posted_index": 187,
-  "encrypted_refresh_token": "{\"nonce\":\"f5y3ArGTIXP9B5Qvratuxw==\",\"ciphertext\":\"vvfyZcYipPAybrdGZTWA+oNCpt/8tF/hZrwbUfKIB8G06D4EMZDbouzgfryrcKOfdp4=\",\"mac\":\"3cpAN+Oy6GKZG8RcEoVHiGg91FUaBY4vt+8Zd5g8zHA=\"}",
+  "last_posted_index": 188,
+  "encrypted_refresh_token": "{\"nonce\":\"sdMNQ9gRefYacnHE/s36NQ==\",\"ciphertext\":\"dwNXeRX/9SQworOnKVFyhKBjh+rVN1yVfE/3BlM6XWiv7X52PjVW3Ugiiyq5QmIh6g0=\",\"mac\":\"yEA6723KDb9ybh2/OTIOwM/xFvjk1SwkABEMgGLBKXU=\"}",
   "posted_post_ids": [
     "814760303295381504",
     "814766726962118656",
@@ -190,7 +190,8 @@
     "815255758633631744",
     "815259703735205888",
     "815262821090836480",
-    "815264684394627072"
+    "815264684394627072",
+    "815266564510203904"
   ],
   "posted_post_urls": [
     "https://kakakaforadyakali.tumblr.com/post/814760303295381504",
@@ -379,7 +380,8 @@
     "https://kakakaforadyakali.tumblr.com/post/815255758633631744",
     "https://kakakaforadyakali.tumblr.com/post/815259703735205888",
     "https://kakakaforadyakali.tumblr.com/post/815262821090836480",
-    "https://kakakaforadyakali.tumblr.com/post/815264684394627072"
+    "https://kakakaforadyakali.tumblr.com/post/815264684394627072",
+    "https://kakakaforadyakali.tumblr.com/post/815266564510203904"
   ],
   "posted_timestamps": [
     "2026-04-24T07:32:55.621622+00:00",
@@ -568,7 +570,8 @@
     "2026-04-29T18:47:58.637869+00:00",
     "2026-04-29T19:50:40.839034+00:00",
     "2026-04-29T20:40:13.928689+00:00",
-    "2026-04-29T21:09:50.806156+00:00"
+    "2026-04-29T21:09:50.806156+00:00",
+    "2026-04-29T21:39:44.298742+00:00"
   ],
   "posted_text_hashes": [
     "9a9bfafd8f146bd982514c23ceb52d5d53be86be07aa861c2a0df1e0e126b074",
@@ -757,9 +760,13 @@
     "676a6bc59543d65bf1da405be159576f65fcefbbfa6b423a6c29f53554d720ac",
     "241312df3c1777822021a6a197d09d12df0ff16f17d97aebe34be4c9e8d0ad0a",
     "85fd7b18b96206e57910527b50937b65be458a8ea8f276c39ebfddc40ccaffdf",
-    "f2d47eea49fd76b8e372478550d239c75095f3dfed0856a0cc3eafd497915df0"
+    "f2d47eea49fd76b8e372478550d239c75095f3dfed0856a0cc3eafd497915df0",
+    "a5a1257343099066ffd92f26128f3e52f5e705195dd6de4ddfc64179af24013a"
   ],
   "posted_tags": [
+    [
+      "ghargharkali"
+    ],
     [
       "ghargharkali"
     ],
@@ -3566,6 +3573,18 @@
         "ghargharkali"
       ],
       "post_text": "Today's name is Dakini. The Yogini with skull and trident, the Giver of Siddhis. Jai Ma. #ghargharkali"
+    },
+    {
+      "queue_index": 188,
+      "source_index": 188,
+      "post_id": "815266564510203904",
+      "post_url": "https://kakakaforadyakali.tumblr.com/post/815266564510203904",
+      "posted_at": "2026-04-29T21:39:44.298742+00:00",
+      "text_hash": "a5a1257343099066ffd92f26128f3e52f5e705195dd6de4ddfc64179af24013a",
+      "tags": [
+        "ghargharkali"
+      ],
+      "post_text": "Today's name is Veda-mayi. The embodiment and essence of all sacred knowledge and the Vedas. Jai Ma. #ghargharkali"
     }
   ]
 }
