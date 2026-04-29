@@ -1,8 +1,8 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts_mahakali.json",
-  "last_posted_index": 176,
-  "encrypted_refresh_token": "{\"nonce\":\"y4OHAJN9Ruzoga1AqMKJVQ==\",\"ciphertext\":\"7yplWKq5yLarNXfwZvvgJXpChOuNYEwzcSxqRbohmB1cKFVTtqcKl2SX/lewNLB0KAc=\",\"mac\":\"qc9snKzOU9qBo9z+SEHkj4Jyfbi/Cg+ilNuh7W6pJR8=\"}",
+  "last_posted_index": 177,
+  "encrypted_refresh_token": "{\"nonce\":\"DWBx7Q9yr6mhGSccIJ7gkA==\",\"ciphertext\":\"bHPNKTW+PMael4EI1OieuzNCzQz/poc0WIAICvxrEBeKU9SAoRTpRiZOkgNh/OOo940=\",\"mac\":\"U3UZhL3dyWDK/3krctFnAlWNCJ0z5wQagYQsd6085hE=\"}",
   "posted_post_ids": [
     "814760303295381504",
     "814766726962118656",
@@ -179,7 +179,8 @@
     "815214840827248640",
     "815218919927431168",
     "815222375936360448",
-    "815226052005740544"
+    "815226052005740544",
+    "815229565555408896"
   ],
   "posted_post_urls": [
     "https://kakakaforadyakali.tumblr.com/post/814760303295381504",
@@ -357,7 +358,8 @@
     "https://kakakaforadyakali.tumblr.com/post/815214840827248640",
     "https://kakakaforadyakali.tumblr.com/post/815218919927431168",
     "https://kakakaforadyakali.tumblr.com/post/815222375936360448",
-    "https://kakakaforadyakali.tumblr.com/post/815226052005740544"
+    "https://kakakaforadyakali.tumblr.com/post/815226052005740544",
+    "https://kakakaforadyakali.tumblr.com/post/815229565555408896"
   ],
   "posted_timestamps": [
     "2026-04-24T07:32:55.621622+00:00",
@@ -535,7 +537,8 @@
     "2026-04-29T07:57:36.252137+00:00",
     "2026-04-29T09:02:26.371735+00:00",
     "2026-04-29T09:57:22.269452+00:00",
-    "2026-04-29T10:55:48.080728+00:00"
+    "2026-04-29T10:55:48.080728+00:00",
+    "2026-04-29T11:51:38.871954+00:00"
   ],
   "posted_text_hashes": [
     "9a9bfafd8f146bd982514c23ceb52d5d53be86be07aa861c2a0df1e0e126b074",
@@ -713,9 +716,13 @@
     "eaca9fb205d2ee443c3d0278631033c9d89f7eb8900295e316055c95a2448be7",
     "0412558522fc23d7c1257c7020ad12c499eba879197d17c54a7bfb437ae6eb10",
     "9591311a4ab8a4572ff2144f9330c575db87824d12fcfa230cae58de8bc5b1f9",
-    "2fda6947f34b9bbaa702484d938dfca134fd28fce808607f7b2eba6f60efdd6f"
+    "2fda6947f34b9bbaa702484d938dfca134fd28fce808607f7b2eba6f60efdd6f",
+    "2a2aff2fe4856eabe34d8f007dc2d782b2e7fcdba952b9e1e1fd470cbed05133"
   ],
   "posted_tags": [
+    [
+      "ghargharkali"
+    ],
     [
       "ghargharkali"
     ],
@@ -3357,6 +3364,18 @@
         "ghargharkali"
       ],
       "post_text": "Today's name is Kinnar'eshhwari. The sovereign Queen of the Kinnaras, the celestial musicians and dancers. Jai Ma. #ghargharkali"
+    },
+    {
+      "queue_index": 177,
+      "source_index": 177,
+      "post_id": "815229565555408896",
+      "post_url": "https://kakakaforadyakali.tumblr.com/post/815229565555408896",
+      "posted_at": "2026-04-29T11:51:38.871954+00:00",
+      "text_hash": "2a2aff2fe4856eabe34d8f007dc2d782b2e7fcdba952b9e1e1fd470cbed05133",
+      "tags": [
+        "ghargharkali"
+      ],
+      "post_text": "Today's name is Moha-ratri. The Night of Delusion, through which transformation and awakening arise. Jai Ma. #ghargharkali"
     }
   ]
 }
