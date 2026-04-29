@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts.json",
-  "last_posted_index": 64,
+  "last_posted_index": 65,
   "posted_record_uris": [
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkhgvkr3xr2q",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkhjlikrsu23",
@@ -66,7 +66,8 @@
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkmwwzedb42c",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkmzz5egvj2x",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkn5dolksc2v",
-    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mknazwxntd2y"
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mknazwxntd2y",
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mknejbt44b2s"
   ],
   "posted_cids": [
     "bafyreifrst5zlm5gntzglpt6lshxgsutmezuzdypxcxmayy2ozfha5m7ti",
@@ -132,7 +133,8 @@
     "bafyreihnkxlrp5cjclpra3bj5fsq43f3f2k6lde272ej7z5kk5jzge3vpq",
     "bafyreifwe7inzix2ez52ityviwpoxpkxfgurcsfydxx7iqcrinbjafvj5a",
     "bafyreif4plgn7ixzlrkd5hbmhkftka4juliohl4vmtyf5acihfm2p65pga",
-    "bafyreih5uccfy3auzxrttdlhg32bhapie6bp7n6siv267rjsd36zoxexbm"
+    "bafyreih5uccfy3auzxrttdlhg32bhapie6bp7n6siv267rjsd36zoxexbm",
+    "bafyreifyo6yjujlub4e42zejzjlwdtrpgk5xz7wxwpcnynjs7bor4qyhua"
   ],
   "posted_timestamps": [
     "2026-04-27T06:27:55.539737+00:00",
@@ -198,7 +200,8 @@
     "2026-04-29T10:58:22.966775+00:00",
     "2026-04-29T11:53:15.496873+00:00",
     "2026-04-29T12:52:50.320046+00:00",
-    "2026-04-29T13:58:58.530299+00:00"
+    "2026-04-29T13:58:58.530299+00:00",
+    "2026-04-29T15:01:14.438449+00:00"
   ],
   "posted_text_hashes": [
     "cf1ac875ed7087c14d3f19118163d018a70035373f00186f7154f6b8a4a58629",
@@ -264,7 +267,8 @@
     "cc5845fd2fc9b4556e3e5f75f895c17011e2c582883b150fccc054b719bd6c80",
     "ffb1317cf0a02ceb73790c5db75b2a770acac896870dd5a092ea1a527edd0959",
     "e829f7aaed708d637c3c912755244a46f0f8c29dc03c264a3ea30d7e5265d907",
-    "c5058431301adebefe5d36f8d835b32a4e2650edf060a974047d2772e3ad6595"
+    "c5058431301adebefe5d36f8d835b32a4e2650edf060a974047d2772e3ad6595",
+    "b73aee53065a9d6e8def7adb906b9665fcd0f8b8cdd9b6496ee4ab9902999921"
   ],
   "history": [
     {
@@ -842,6 +846,15 @@
       "posted_at": "2026-04-29T13:58:58.530299+00:00",
       "text_hash": "c5058431301adebefe5d36f8d835b32a4e2650edf060a974047d2772e3ad6595",
       "post_text": "Today's name is Kshetravighnanivaaranaaya. The remover of all obstacles within the sacred field of life. Jai Bhairava Baba. #Kalabhairava"
+    },
+    {
+      "queue_index": 65,
+      "source_index": 65,
+      "post_uri": "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mknejbt44b2s",
+      "cid": "bafyreifyo6yjujlub4e42zejzjlwdtrpgk5xz7wxwpcnynjs7bor4qyhua",
+      "posted_at": "2026-04-29T15:01:14.438449+00:00",
+      "text_hash": "b73aee53065a9d6e8def7adb906b9665fcd0f8b8cdd9b6496ee4ab9902999921",
+      "post_text": "Today's name is Kshaantaaya. The one who is supremely patient, tranquil, and forgiving. Jai Bhairava Baba. #Kalabhairava"
     }
   ]
 }
