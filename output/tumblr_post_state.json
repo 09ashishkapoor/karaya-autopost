@@ -1,8 +1,8 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts_mahakali.json",
-  "last_posted_index": 194,
-  "encrypted_refresh_token": "{\"nonce\":\"rvmugAyU1xcTT1ZD6Jk7jQ==\",\"ciphertext\":\"8CRwrIrRpTcuWwG+0Q7bSBMMSLgjMrtXguNZv0T5zdxQYrEBFus4u+ekOZiVRxtzEkU=\",\"mac\":\"XM5Gcv6LjJMo+JqnhdZfjzMZ2+plOouUMhSnCCEvPC4=\"}",
+  "last_posted_index": 195,
+  "encrypted_refresh_token": "{\"nonce\":\"7QxW2TVwW1B5byZW5Qsjew==\",\"ciphertext\":\"TKYBTDNrSMHaIcEYGcuQX09HxOicCU2Btwiv770vxQwqSht9Mts8s+2DVH0IAIIXZrM=\",\"mac\":\"4rjsjq67SczxidnV1ERX0f9hqJgPXcE9rGHc8VRgpic=\"}",
   "posted_post_ids": [
     "814760303295381504",
     "814766726962118656",
@@ -197,7 +197,8 @@
     "815272049035657216",
     "815273816203952128",
     "815275716241424384",
-    "815279763219513344"
+    "815279763219513344",
+    "815282760715517952"
   ],
   "posted_post_urls": [
     "https://kakakaforadyakali.tumblr.com/post/814760303295381504",
@@ -393,7 +394,8 @@
     "https://kakakaforadyakali.tumblr.com/post/815272049035657216",
     "https://kakakaforadyakali.tumblr.com/post/815273816203952128",
     "https://kakakaforadyakali.tumblr.com/post/815275716241424384",
-    "https://kakakaforadyakali.tumblr.com/post/815279763219513344"
+    "https://kakakaforadyakali.tumblr.com/post/815279763219513344",
+    "https://kakakaforadyakali.tumblr.com/post/815282760715517952"
   ],
   "posted_timestamps": [
     "2026-04-24T07:32:55.621622+00:00",
@@ -589,7 +591,8 @@
     "2026-04-29T23:06:54.301082+00:00",
     "2026-04-29T23:34:59.597305+00:00",
     "2026-04-30T00:05:11.610971+00:00",
-    "2026-04-30T01:09:31.053289+00:00"
+    "2026-04-30T01:09:31.053289+00:00",
+    "2026-04-30T01:57:09.832708+00:00"
   ],
   "posted_text_hashes": [
     "9a9bfafd8f146bd982514c23ceb52d5d53be86be07aa861c2a0df1e0e126b074",
@@ -785,9 +788,13 @@
     "911f8cb4dc5aa37b1a86831ee2591a46108cdaf6045485f684ac2f3d5439c7b9",
     "fd094fcaa3a976139cd14c8b5c1276309b91df5a108f3843d052b9c4ee7d5457",
     "98e11f4585a9fdc1076603ae7a2e1a81584bbefec71622bba17de2d4a445461e",
-    "0b59809602fbb42ea46686262f54ddd687bc40903da2e223596577252101f293"
+    "0b59809602fbb42ea46686262f54ddd687bc40903da2e223596577252101f293",
+    "01fdb39846ae693157b0cba20a9d14df6c1a96faed63f17600d1cbfab9c01140"
   ],
   "posted_tags": [
+    [
+      "ghargharkali"
+    ],
     [
       "ghargharkali"
     ],
@@ -3699,6 +3706,18 @@
         "ghargharkali"
       ],
       "post_text": "Today's name is Puratani. The Ancient One, existing before all creation. Jai Ma. #ghargharkali"
+    },
+    {
+      "queue_index": 195,
+      "source_index": 195,
+      "post_id": "815282760715517952",
+      "post_url": "https://kakakaforadyakali.tumblr.com/post/815282760715517952",
+      "posted_at": "2026-04-30T01:57:09.832708+00:00",
+      "text_hash": "01fdb39846ae693157b0cba20a9d14df6c1a96faed63f17600d1cbfab9c01140",
+      "tags": [
+        "ghargharkali"
+      ],
+      "post_text": "Today's name is Chintya. She who is beyond thought, yet ever meditated upon. Jai Ma. #ghargharkali"
     }
   ]
 }
