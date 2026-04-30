@@ -1,8 +1,8 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts_mahakali.json",
-  "last_posted_index": 197,
-  "encrypted_refresh_token": "{\"nonce\":\"2vZC8wyf8VkzGSj4vIchfw==\",\"ciphertext\":\"/+/GuKOYCuXrLTqdoyX1qw1WfhK6Q4JemC23j9nKCjWXwbn9gTYnm/mgYJ/t5gYfap8=\",\"mac\":\"0v1zF4l869hsGHMXMPN54Lsl1UZrwmTK72JJCN0tKuA=\"}",
+  "last_posted_index": 198,
+  "encrypted_refresh_token": "{\"nonce\":\"0ZEA6jYI2L4fFL2sZRnXTw==\",\"ciphertext\":\"xGXZScFvgUp57dlwxdAl5pLn46iHz+mO8gZpIIhY6VfCJV9rRECzl1ksqeqv2c7usTk=\",\"mac\":\"hRRCtbNG/nSyJFSGCMIgtcA9CjUVvW9g8cuy5ZKJrGk=\"}",
   "posted_post_ids": [
     "814760303295381504",
     "814766726962118656",
@@ -200,7 +200,8 @@
     "815279763219513344",
     "815282760715517952",
     "815288296611725312",
-    "815294003390152704"
+    "815294003390152704",
+    "815298931421495296"
   ],
   "posted_post_urls": [
     "https://kakakaforadyakali.tumblr.com/post/814760303295381504",
@@ -399,7 +400,8 @@
     "https://kakakaforadyakali.tumblr.com/post/815279763219513344",
     "https://kakakaforadyakali.tumblr.com/post/815282760715517952",
     "https://kakakaforadyakali.tumblr.com/post/815288296611725312",
-    "https://kakakaforadyakali.tumblr.com/post/815294003390152704"
+    "https://kakakaforadyakali.tumblr.com/post/815294003390152704",
+    "https://kakakaforadyakali.tumblr.com/post/815298931421495296"
   ],
   "posted_timestamps": [
     "2026-04-24T07:32:55.621622+00:00",
@@ -598,7 +600,8 @@
     "2026-04-30T01:09:31.053289+00:00",
     "2026-04-30T01:57:09.832708+00:00",
     "2026-04-30T03:25:09.154725+00:00",
-    "2026-04-30T04:55:51.885240+00:00"
+    "2026-04-30T04:55:51.885240+00:00",
+    "2026-04-30T06:14:11.282756+00:00"
   ],
   "posted_text_hashes": [
     "9a9bfafd8f146bd982514c23ceb52d5d53be86be07aa861c2a0df1e0e126b074",
@@ -797,9 +800,13 @@
     "0b59809602fbb42ea46686262f54ddd687bc40903da2e223596577252101f293",
     "01fdb39846ae693157b0cba20a9d14df6c1a96faed63f17600d1cbfab9c01140",
     "e5e055d8e4d9e599b245c47ced3b3b5f88a30be4a7e451add0b2862cf051f239",
-    "01b1dd96a745269debb4b1aa5a2c7ae22da3428c9bf8dae5c4b8bbe095bed50c"
+    "01b1dd96a745269debb4b1aa5a2c7ae22da3428c9bf8dae5c4b8bbe095bed50c",
+    "f7a752559f017ec329e967b9bc7530422b6144f1e6ae0e069e119dce31170c82"
   ],
   "posted_tags": [
+    [
+      "ghargharkali"
+    ],
     [
       "ghargharkali"
     ],
@@ -3756,6 +3763,18 @@
         "ghargharkali"
       ],
       "post_text": "Today's name is Swadha. The inherent power within offerings, the sustenance of the Pitris and the very nature of truth. Jai Ma. #ghargharkali"
+    },
+    {
+      "queue_index": 198,
+      "source_index": 198,
+      "post_id": "815298931421495296",
+      "post_url": "https://kakakaforadyakali.tumblr.com/post/815298931421495296",
+      "posted_at": "2026-04-30T06:14:11.282756+00:00",
+      "text_hash": "f7a752559f017ec329e967b9bc7530422b6144f1e6ae0e069e119dce31170c82",
+      "tags": [
+        "ghargharkali"
+      ],
+      "post_text": "Today's name is Swaha. The sacred oblation itself, carrying offerings to the Divine. Jai Ma. #ghargharkali"
     }
   ]
 }
