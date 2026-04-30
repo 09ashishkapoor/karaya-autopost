@@ -1,8 +1,8 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts_mahakali.json",
-  "last_posted_index": 210,
-  "encrypted_refresh_token": "{\"nonce\":\"9w9EOrgVCRP5ALYLGTpNOQ==\",\"ciphertext\":\"USfXIy7ODIeiZpG4oS5fDwESFOszPdglEyyPBDjzWufVwVcDzgxsO1R50rmao5VTB/8=\",\"mac\":\"CnD3v7iNplICqcz9rHTM0ekoYi4SfwbrFgxknZx5A7s=\"}",
+  "last_posted_index": 211,
+  "encrypted_refresh_token": "{\"nonce\":\"5ylDxjVAqMz0PhBuDLO31g==\",\"ciphertext\":\"TzRXrK5070Xv4QdI5ayLXufm/chUBtTlwrN4Ma8e05AGBkRje1ZGDcuGq8dFiND0HiU=\",\"mac\":\"/yyll+MyMl+3ozQ83qg9DD8jcANbYnq9XL7uYbT0gBU=\"}",
   "posted_post_ids": [
     "814760303295381504",
     "814766726962118656",
@@ -213,7 +213,8 @@
     "815335335312703488",
     "815338795207622656",
     "815342492980510720",
-    "815344343076552704"
+    "815344343076552704",
+    "815346465958477824"
   ],
   "posted_post_urls": [
     "https://kakakaforadyakali.tumblr.com/post/814760303295381504",
@@ -425,7 +426,8 @@
     "https://kakakaforadyakali.tumblr.com/post/815335335312703488",
     "https://kakakaforadyakali.tumblr.com/post/815338795207622656",
     "https://kakakaforadyakali.tumblr.com/post/815342492980510720",
-    "https://kakakaforadyakali.tumblr.com/post/815344343076552704"
+    "https://kakakaforadyakali.tumblr.com/post/815344343076552704",
+    "https://kakakaforadyakali.tumblr.com/post/815346465958477824"
   ],
   "posted_timestamps": [
     "2026-04-24T07:32:55.621622+00:00",
@@ -637,7 +639,8 @@
     "2026-04-30T15:52:48.822747+00:00",
     "2026-04-30T16:47:48.440981+00:00",
     "2026-04-30T17:46:34.821406+00:00",
-    "2026-04-30T18:15:59.286819+00:00"
+    "2026-04-30T18:15:59.286819+00:00",
+    "2026-04-30T18:49:43.758362+00:00"
   ],
   "posted_text_hashes": [
     "9a9bfafd8f146bd982514c23ceb52d5d53be86be07aa861c2a0df1e0e126b074",
@@ -849,9 +852,13 @@
     "42775ebdaac53dbeee05cd1ad1d14c19700eb4885d7852aee46caad74c905ed3",
     "3f7e9675d2ce59de903af6f44c24c80bc762801fcbecb8e7f2d8e98a271e3401",
     "f1cea78441a844bf637bc6de4b30c2a09044841109788f1a5bd6c439a50bb098",
-    "07ecfc12b79e9027e2664addddf4588675092a9dfaa79304daf597f9cab870ed"
+    "07ecfc12b79e9027e2664addddf4588675092a9dfaa79304daf597f9cab870ed",
+    "6e24b8ddb42fd06bc893990cacc5b9aa9f5c2c2af32d86e986e361c99d3ca864"
   ],
   "posted_tags": [
+    [
+      "ghargharkali"
+    ],
     [
       "ghargharkali"
     ],
@@ -4003,6 +4010,18 @@
         "ghargharkali"
       ],
       "post_text": "Today's name is Sita. The Furrowed Earth, the Divine Consort of Rama, and the embodiment of purity and courage. Jai Ma. #ghargharkali"
+    },
+    {
+      "queue_index": 211,
+      "source_index": 211,
+      "post_id": "815346465958477824",
+      "post_url": "https://kakakaforadyakali.tumblr.com/post/815346465958477824",
+      "posted_at": "2026-04-30T18:49:43.758362+00:00",
+      "text_hash": "6e24b8ddb42fd06bc893990cacc5b9aa9f5c2c2af32d86e986e361c99d3ca864",
+      "tags": [
+        "ghargharkali"
+      ],
+      "post_text": "Today's name is Sati. The pure and chaste one, the very essence of existence and truth. Jai Ma. #ghargharkali"
     }
   ]
 }
