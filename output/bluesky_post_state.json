@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts.json",
-  "last_posted_index": 84,
+  "last_posted_index": 85,
   "posted_record_uris": [
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkhgvkr3xr2q",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkhjlikrsu23",
@@ -86,7 +86,8 @@
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkooat7asa2v",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkotbjzldg2s",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkoxlgkxt62q",
-    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkp2sqm5to2g"
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkp2sqm5to2g",
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkp5keeetc2j"
   ],
   "posted_cids": [
     "bafyreifrst5zlm5gntzglpt6lshxgsutmezuzdypxcxmayy2ozfha5m7ti",
@@ -172,7 +173,8 @@
     "bafyreic5yuqmdbcbsn3acumoavdjagdfss2gqawhqbnrfyw65azlcspjia",
     "bafyreiazvuoautszg67po7jh5c3fncxm2lujcyfzltdrvuoxtdjtlp66qe",
     "bafyreihdr5dxagu4von47sy3rsap57jircitim7sshcvihpgk63maag27a",
-    "bafyreicwj3etolut4gr5m7gkiktoljpqtcou5u4f6lnzynxvu3paf56hha"
+    "bafyreicwj3etolut4gr5m7gkiktoljpqtcou5u4f6lnzynxvu3paf56hha",
+    "bafyreiatfps55wfeflytbkuokqnsh7ug763vmqw57kmefxjuxgp2o5sjem"
   ],
   "posted_timestamps": [
     "2026-04-27T06:27:55.539737+00:00",
@@ -258,7 +260,8 @@
     "2026-04-30T03:28:07.823995+00:00",
     "2026-04-30T04:58:00.501750+00:00",
     "2026-04-30T06:15:07.381045+00:00",
-    "2026-04-30T07:12:53.977826+00:00"
+    "2026-04-30T07:12:53.977826+00:00",
+    "2026-04-30T08:01:53.960023+00:00"
   ],
   "posted_text_hashes": [
     "cf1ac875ed7087c14d3f19118163d018a70035373f00186f7154f6b8a4a58629",
@@ -344,7 +347,8 @@
     "e1d5b85b64f43e902e1a3131fd3e5f9317c7ff06adf1d3452b135062a0d85108",
     "b4b50f5d6ecd74bc4d1225f0c20d1efe5a7310f14141fa031d5ffb063920126b",
     "ee7bb3c20afe5979dcd61a1a37626cd096b4a1b5a9398f4b422f6a028f70cbf2",
-    "8c69a4a13e9c3dc8489cb6bc0bdd0f7bd18af116f3b37d85f9be181e7dc59830"
+    "8c69a4a13e9c3dc8489cb6bc0bdd0f7bd18af116f3b37d85f9be181e7dc59830",
+    "917bb8ae0fa57e22dee94c7fa3b0db491dfb5b6d09336dec15a02fa4cb9d23f2"
   ],
   "history": [
     {
@@ -1102,6 +1106,15 @@
       "posted_at": "2026-04-30T07:12:53.977826+00:00",
       "text_hash": "8c69a4a13e9c3dc8489cb6bc0bdd0f7bd18af116f3b37d85f9be181e7dc59830",
       "post_text": "Today's name is Kaalashamanaaya. The one who pacifies and subdues time and death. Jai Bhairava Baba. #Kalabhairava"
+    },
+    {
+      "queue_index": 85,
+      "source_index": 85,
+      "post_uri": "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkp5keeetc2j",
+      "cid": "bafyreiatfps55wfeflytbkuokqnsh7ug763vmqw57kmefxjuxgp2o5sjem",
+      "posted_at": "2026-04-30T08:01:53.960023+00:00",
+      "text_hash": "917bb8ae0fa57e22dee94c7fa3b0db491dfb5b6d09336dec15a02fa4cb9d23f2",
+      "post_text": "Today's name is Kalaakaashthaayai. The one who is the ultimate limit and the subtlest unit of time. Jai Bhairava Baba. #Kalabhairava"
     }
   ]
 }
