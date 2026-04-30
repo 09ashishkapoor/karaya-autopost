@@ -1,8 +1,8 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts_mahakali.json",
-  "last_posted_index": 204,
-  "encrypted_refresh_token": "{\"nonce\":\"u5OLhBJndRhMmdleBl8Ghw==\",\"ciphertext\":\"1D05Qi3R3rq4sjRAlPVf6KKWSaeTWRt+o/5uPPFv5SpI35luduldB/VVHYCc0dqviaQ=\",\"mac\":\"BB0G/eUyoO/Yqtdzlu0/8BeVp+C/UK5Oh58q7l+cQ8I=\"}",
+  "last_posted_index": 205,
+  "encrypted_refresh_token": "{\"nonce\":\"2LRvEW7vShD1DQ8wcnvhxw==\",\"ciphertext\":\"28TY5tXGcWGoR7h3m9tszqay4aGYq7cfxjEhXdI4MaKYxpf1TiDgZr+kzVMaA+pSkPE=\",\"mac\":\"ga/N+681ecaPyJxKEF7OumMjCk5bnQqC3XYouSHVFf0=\"}",
   "posted_post_ids": [
     "814760303295381504",
     "814766726962118656",
@@ -207,7 +207,8 @@
     "815309582286077952",
     "815312986794246144",
     "815316638094229504",
-    "815320134579306496"
+    "815320134579306496",
+    "815323888079814656"
   ],
   "posted_post_urls": [
     "https://kakakaforadyakali.tumblr.com/post/814760303295381504",
@@ -413,7 +414,8 @@
     "https://kakakaforadyakali.tumblr.com/post/815309582286077952",
     "https://kakakaforadyakali.tumblr.com/post/815312986794246144",
     "https://kakakaforadyakali.tumblr.com/post/815316638094229504",
-    "https://kakakaforadyakali.tumblr.com/post/815320134579306496"
+    "https://kakakaforadyakali.tumblr.com/post/815320134579306496",
+    "https://kakakaforadyakali.tumblr.com/post/815323888079814656"
   ],
   "posted_timestamps": [
     "2026-04-24T07:32:55.621622+00:00",
@@ -619,7 +621,8 @@
     "2026-04-30T09:03:28.881764+00:00",
     "2026-04-30T09:57:35.536576+00:00",
     "2026-04-30T10:55:37.801887+00:00",
-    "2026-04-30T11:51:12.218987+00:00"
+    "2026-04-30T11:51:12.218987+00:00",
+    "2026-04-30T12:50:51.849193+00:00"
   ],
   "posted_text_hashes": [
     "9a9bfafd8f146bd982514c23ceb52d5d53be86be07aa861c2a0df1e0e126b074",
@@ -825,9 +828,13 @@
     "c7cfbd4a6838e137f09c88bb2559885e0c489cd27d858fa73cc7b2cff5b1a3f2",
     "69322db1e6b2db8089daa28f3035c61366543c0681d9d9371baed9ea808cf1d7",
     "b840d67536ad3fdbdbfd72b532ae6669e63fee707c30813f31876c069fd7a234",
-    "3c01c6f3e3f648268275e47ec0e07e1063ede1c941b112025fa5ba2da2098fbc"
+    "3c01c6f3e3f648268275e47ec0e07e1063ede1c941b112025fa5ba2da2098fbc",
+    "af010db9b90909ccd5941e747d52a9b75e0488177ea5c0db667e0cd285773aa6"
   ],
   "posted_tags": [
+    [
+      "ghargharkali"
+    ],
     [
       "ghargharkali"
     ],
@@ -3889,6 +3896,18 @@
         "ghargharkali"
       ],
       "post_text": "Today's name is Lola. The Trembling One, alive with dynamic movement and intensity. Jai Ma. #ghargharkali"
+    },
+    {
+      "queue_index": 205,
+      "source_index": 205,
+      "post_id": "815323888079814656",
+      "post_url": "https://kakakaforadyakali.tumblr.com/post/815323888079814656",
+      "posted_at": "2026-04-30T12:50:51.849193+00:00",
+      "text_hash": "af010db9b90909ccd5941e747d52a9b75e0488177ea5c0db667e0cd285773aa6",
+      "tags": [
+        "ghargharkali"
+      ],
+      "post_text": "Today's name is Sarva vidya. The source and repository of all knowledge and learning. Jai Ma. #ghargharkali"
     }
   ]
 }
