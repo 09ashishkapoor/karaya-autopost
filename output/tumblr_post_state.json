@@ -1,8 +1,8 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts_mahakali.json",
-  "last_posted_index": 238,
-  "encrypted_refresh_token": "{\"nonce\":\"9cAP8H4f3iuzcEX/ek83Rw==\",\"ciphertext\":\"XL4FYjLzMnI6FK+ksUiBNDMZ/5oyfQUfUbY1Ubp9pEJMDRi7exeqqxjQvLsFqmLtOJ8=\",\"mac\":\"jhKejKxrc9gjfCXSx54LGqGxiC0wsyXx5qik4IPIAS4=\"}",
+  "last_posted_index": 239,
+  "encrypted_refresh_token": "{\"nonce\":\"tOpbFzWo2L/3iNVKMbCHxg==\",\"ciphertext\":\"xJ9x64fW+JnRqNrfhkEvL8slJ/QdvrhhdeXUnyVLRMEhs7qVFWNWN7ksJg305HxhWNw=\",\"mac\":\"X2SZ/A3NYXCu7Nh8JpA28zsYDRPsQI4wORillUapgsA=\"}",
   "posted_post_ids": [
     "814760303295381504",
     "814766726962118656",
@@ -241,7 +241,8 @@
     "815415765454012416",
     "815418241819213824",
     "815421244263563264",
-    "815423106645721088"
+    "815423106645721088",
+    "815425100140707840"
   ],
   "posted_post_urls": [
     "https://kakakaforadyakali.tumblr.com/post/814760303295381504",
@@ -481,7 +482,8 @@
     "https://kakakaforadyakali.tumblr.com/post/815415765454012416",
     "https://kakakaforadyakali.tumblr.com/post/815418241819213824",
     "https://kakakaforadyakali.tumblr.com/post/815421244263563264",
-    "https://kakakaforadyakali.tumblr.com/post/815423106645721088"
+    "https://kakakaforadyakali.tumblr.com/post/815423106645721088",
+    "https://kakakaforadyakali.tumblr.com/post/815425100140707840"
   ],
   "posted_timestamps": [
     "2026-04-24T07:32:55.621622+00:00",
@@ -721,7 +723,8 @@
     "2026-05-01T13:11:12.959014+00:00",
     "2026-05-01T13:50:34.577589+00:00",
     "2026-05-01T14:38:17.890906+00:00",
-    "2026-05-01T15:07:54.192571+00:00"
+    "2026-05-01T15:07:54.192571+00:00",
+    "2026-05-01T15:39:35.240578+00:00"
   ],
   "posted_text_hashes": [
     "9a9bfafd8f146bd982514c23ceb52d5d53be86be07aa861c2a0df1e0e126b074",
@@ -961,9 +964,13 @@
     "8af5fe31409af1f19f41cac5a863e42321daac14be6d243efa46ab91fe40af40",
     "761bb007ce4a23f1161a981b438f10672ee38865caea524e43f313399b4e1d77",
     "7ce6d91b2393445b824bebf2f82baa86a7bc18a3d832f421e1cab75d34d1bd71",
-    "1b09a4c59a3a8688456c03263b6ec97bc3ec4b51deaf79907f84004be7b4ac57"
+    "1b09a4c59a3a8688456c03263b6ec97bc3ec4b51deaf79907f84004be7b4ac57",
+    "16defc6ca29649a4e74a50a9c06d409094e4024fb25e836663711b85e699f4cc"
   ],
   "posted_tags": [
+    [
+      "ghargharkali"
+    ],
     [
       "ghargharkali"
     ],
@@ -4535,6 +4542,18 @@
         "ghargharkali"
       ],
       "post_text": "Today's name is Bahu rupini. She of many forms, manifesting in countless appearances. Jai Ma. #ghargharkali"
+    },
+    {
+      "queue_index": 239,
+      "source_index": 239,
+      "post_id": "815425100140707840",
+      "post_url": "https://kakakaforadyakali.tumblr.com/post/815425100140707840",
+      "posted_at": "2026-05-01T15:39:35.240578+00:00",
+      "text_hash": "16defc6ca29649a4e74a50a9c06d409094e4024fb25e836663711b85e699f4cc",
+      "tags": [
+        "ghargharkali"
+      ],
+      "post_text": "Today's name is Sthula. The gross and manifest form within the material universe. Jai Ma. #ghargharkali"
     }
   ]
 }
