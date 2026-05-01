@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts.json",
-  "last_posted_index": 123,
+  "last_posted_index": 124,
   "posted_record_uris": [
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkhgvkr3xr2q",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkhjlikrsu23",
@@ -125,7 +125,8 @@
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mksbpdrfa52x",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkseajmxsg2g",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mksfxfo23f2x",
-    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkshhvsjfz2c"
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkshhvsjfz2c",
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mksj5yhuua2x"
   ],
   "posted_cids": [
     "bafyreifrst5zlm5gntzglpt6lshxgsutmezuzdypxcxmayy2ozfha5m7ti",
@@ -250,7 +251,8 @@
     "bafyreih36deggpkfnj5my5xct6i6sjaj4qvjbfx4tsgog3gfqi5bipo2ga",
     "bafyreigjh5swgxkpdegwfmlkedinqjsik434zbs7kb7wrxckthtkmkso2e",
     "bafyreibc5ozaafcmpwa6y7nzkmgjuzonop3fgknafvyxueuz4lvwvnz6im",
-    "bafyreid6gpopzoiko7d2io56m3mmtvseiitaayn3r6shk3tnuwypeey6jy"
+    "bafyreid6gpopzoiko7d2io56m3mmtvseiitaayn3r6shk3tnuwypeey6jy",
+    "bafyreihag7hrdielu5skpiwvpjgl5jgnonhacrhatk6qzgdedagdstrpwm"
   ],
   "posted_timestamps": [
     "2026-04-27T06:27:55.539737+00:00",
@@ -375,7 +377,8 @@
     "2026-05-01T13:54:15.260968+00:00",
     "2026-05-01T14:39:39.315897+00:00",
     "2026-05-01T15:10:20.655073+00:00",
-    "2026-05-01T15:37:28.219305+00:00"
+    "2026-05-01T15:37:28.219305+00:00",
+    "2026-05-01T16:07:42.960417+00:00"
   ],
   "posted_text_hashes": [
     "cf1ac875ed7087c14d3f19118163d018a70035373f00186f7154f6b8a4a58629",
@@ -500,7 +503,8 @@
     "64c586e99e6cacca8a2137d83f98d7ebd7c035e282c936f4bfca4ccc01595260",
     "ff5b0864e2fc5b2d673201f2ee6523684f388a4b1ee6636b1e7db8093082a08a",
     "2d2f0017ae7edd852aa0d16d71f85df6e867f34a78d6023e10de88c9d0612ad6",
-    "5a2bb5a1f804ce4db2c79c0616fb36cb7ebe30a1f27339622f6f915a1068171f"
+    "5a2bb5a1f804ce4db2c79c0616fb36cb7ebe30a1f27339622f6f915a1068171f",
+    "c9444f79dbc5a3b81839c7590866428a2a54fe65e94a0b5d74b60284976b3d54"
   ],
   "history": [
     {
@@ -1609,6 +1613,15 @@
       "posted_at": "2026-05-01T15:37:28.219305+00:00",
       "text_hash": "5a2bb5a1f804ce4db2c79c0616fb36cb7ebe30a1f27339622f6f915a1068171f",
       "post_text": "Today's name is Kaushikaaya. The one associated with the sage Kushika, or the one enclosed within the five sheaths (koshas). Jai Bhairava Baba. #Kalabhairava"
+    },
+    {
+      "queue_index": 124,
+      "source_index": 124,
+      "post_uri": "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mksj5yhuua2x",
+      "cid": "bafyreihag7hrdielu5skpiwvpjgl5jgnonhacrhatk6qzgdedagdstrpwm",
+      "posted_at": "2026-05-01T16:07:42.960417+00:00",
+      "text_hash": "c9444f79dbc5a3b81839c7590866428a2a54fe65e94a0b5d74b60284976b3d54",
+      "post_text": "Today's name is Kapilaaya. The one of reddish-brown hue, and the great sage Kapila. Jai Bhairava Baba. #Kalabhairava"
     }
   ]
 }
