@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts.json",
-  "last_posted_index": 133,
+  "last_posted_index": 134,
   "posted_record_uris": [
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkhgvkr3xr2q",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkhjlikrsu23",
@@ -135,7 +135,8 @@
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkstkjdcn22j",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mksvftmbxb2v",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkswteykpu2j",
-    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mksy4crnkj2q"
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mksy4crnkj2q",
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkszut7hku2g"
   ],
   "posted_cids": [
     "bafyreifrst5zlm5gntzglpt6lshxgsutmezuzdypxcxmayy2ozfha5m7ti",
@@ -270,7 +271,8 @@
     "bafyreigd255waubwpojbbvwajwep2yy5vrtumwgvcwmze5hyor5eiwqg3y",
     "bafyreiegezcpgd3i66jntrplxb3f5r4u7jkbxfslfdgfi5yieze3kfilpi",
     "bafyreiadnjvulohlerolutbjocbeipcncvhfpjhcax6ig52f74hj6hsu7i",
-    "bafyreifzis5vsfdkzzjfkrlu3spj7u3nesor47h6fwznbzx6e7vqbghona"
+    "bafyreifzis5vsfdkzzjfkrlu3spj7u3nesor47h6fwznbzx6e7vqbghona",
+    "bafyreif2qrvalbtmdiaivpee63doq43ofdi4s5tohn44chfanqxq2naal4"
   ],
   "posted_timestamps": [
     "2026-04-27T06:27:55.539737+00:00",
@@ -405,7 +407,8 @@
     "2026-05-01T19:13:40.675765+00:00",
     "2026-05-01T19:46:51.165478+00:00",
     "2026-05-01T20:12:19.327145+00:00",
-    "2026-05-01T20:35:12.755404+00:00"
+    "2026-05-01T20:35:12.755404+00:00",
+    "2026-05-01T21:06:49.040172+00:00"
   ],
   "posted_text_hashes": [
     "cf1ac875ed7087c14d3f19118163d018a70035373f00186f7154f6b8a4a58629",
@@ -540,7 +543,8 @@
     "fa1a2393510026e1ac820237bbea7f372aa81a4814d7741190f39cfb43924d7e",
     "ee8bfb23c2f24548174b58bcc9f2ba5ca5d14934ab84ac77e4dc302952a580cc",
     "9aec0f25b411fa8637e05d630ed83ad106cabb6e64df37cea671830c33da55f2",
-    "3abe35c270e54a108cbcc5105e1e411d2447b58c5e50ef70cc6c058b5342bb4c"
+    "3abe35c270e54a108cbcc5105e1e411d2447b58c5e50ef70cc6c058b5342bb4c",
+    "b99c0bbe25e099d1b527664c6047e3ce4082076ae3397ee8f8f6371ac77a45a3"
   ],
   "history": [
     {
@@ -1739,6 +1743,15 @@
       "posted_at": "2026-05-01T20:35:12.755404+00:00",
       "text_hash": "3abe35c270e54a108cbcc5105e1e411d2447b58c5e50ef70cc6c058b5342bb4c",
       "post_text": "Today's name is Kapaalabhrite. The one who carries a skull-bowl (kapala), symbolizing ultimate renunciation. Jai Bhairava Baba. #Kalabhairava"
+    },
+    {
+      "queue_index": 134,
+      "source_index": 134,
+      "post_uri": "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkszut7hku2g",
+      "cid": "bafyreif2qrvalbtmdiaivpee63doq43ofdi4s5tohn44chfanqxq2naal4",
+      "posted_at": "2026-05-01T21:06:49.040172+00:00",
+      "text_hash": "b99c0bbe25e099d1b527664c6047e3ce4082076ae3397ee8f8f6371ac77a45a3",
+      "post_text": "Today's name is Kailaasashikharaavaasaaya. The one who dwells upon the highest and most sacred peak of Mount Kailasa. Jai Bhairava Baba. #Kalabhairava"
     }
   ]
 }
