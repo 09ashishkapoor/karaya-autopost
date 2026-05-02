@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts.json",
-  "last_posted_index": 159,
+  "last_posted_index": 160,
   "posted_record_uris": [
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkhgvkr3xr2q",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkhjlikrsu23",
@@ -161,7 +161,8 @@
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkunroa5iy2a",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkupv5vesp27",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkury3722a2s",
-    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkuuh2urms2c"
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkuuh2urms2c",
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkuw5mzmth2v"
   ],
   "posted_cids": [
     "bafyreifrst5zlm5gntzglpt6lshxgsutmezuzdypxcxmayy2ozfha5m7ti",
@@ -322,7 +323,8 @@
     "bafyreic5cnsh5n7umtleai7omjtpdjdtksyllhpz7ss43j3fyuzmewypne",
     "bafyreiar3knj35djwch2r7pocfxxhupqmu6sdwftyddkt6upifrhkzhwsy",
     "bafyreidocbtah4i6hfnun2ekv6km7mb2venbq53hmcxsclpox7xjwvmyju",
-    "bafyreia2uolblprzzypg3ussco7ciiopsztcz4wd7ttbt6qjs7gvtoleri"
+    "bafyreia2uolblprzzypg3ussco7ciiopsztcz4wd7ttbt6qjs7gvtoleri",
+    "bafyreibnj6py2n4k4vzl4nx5py7v5eouyodl5d2ynz4doeohn5uwl6yyri"
   ],
   "posted_timestamps": [
     "2026-04-27T06:27:55.539737+00:00",
@@ -483,7 +485,8 @@
     "2026-05-02T12:35:37.715883+00:00",
     "2026-05-02T13:13:22.286303+00:00",
     "2026-05-02T13:50:47.641474+00:00",
-    "2026-05-02T14:34:58.074919+00:00"
+    "2026-05-02T14:34:58.074919+00:00",
+    "2026-05-02T15:05:29.055258+00:00"
   ],
   "posted_text_hashes": [
     "cf1ac875ed7087c14d3f19118163d018a70035373f00186f7154f6b8a4a58629",
@@ -644,7 +647,8 @@
     "a89d3dafed650d1e9fde87aab87b532db6cee2c375d9990735c7041ac3f1aad2",
     "a5f722808a8ea48088a4934d37e51b9b94ab2b62ce09ad6e19b7b58c0a3ef43b",
     "2c6bd4444af2fc7c2f9696065cf93f20e65852739fd3610d4ebec587a71e656e",
-    "7189fd1c051a8f7b9bc82622d852be969699f7023db9b13db4ab224857715c01"
+    "7189fd1c051a8f7b9bc82622d852be969699f7023db9b13db4ab224857715c01",
+    "c246d9c047c0cf15b93e2bb63f10eaf0072cd52051a85cf00b5177b46a867007"
   ],
   "history": [
     {
@@ -2077,6 +2081,15 @@
       "posted_at": "2026-05-02T14:34:58.074919+00:00",
       "text_hash": "7189fd1c051a8f7b9bc82622d852be969699f7023db9b13db4ab224857715c01",
       "post_text": "Today's name is Goptre. The one who is the supreme protector and concealer of the universe. Jai Bhairava Baba. #Kalabhairava"
+    },
+    {
+      "queue_index": 160,
+      "source_index": 160,
+      "post_uri": "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkuw5mzmth2v",
+      "cid": "bafyreibnj6py2n4k4vzl4nx5py7v5eouyodl5d2ynz4doeohn5uwl6yyri",
+      "posted_at": "2026-05-02T15:05:29.055258+00:00",
+      "text_hash": "c246d9c047c0cf15b93e2bb63f10eaf0072cd52051a85cf00b5177b46a867007",
+      "post_text": "Today's name is Gaayatriivallabhaaya. The one who is the beloved lord of the sacred Gayatri mantra. Jai Bhairava Baba. #Kalabhairava"
     }
   ]
 }
