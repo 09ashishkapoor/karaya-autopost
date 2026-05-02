@@ -1,8 +1,8 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts_mahakali.json",
-  "last_posted_index": 272,
-  "encrypted_refresh_token": "{\"nonce\":\"FvaLxvC6BKDBHnLq0KXZFw==\",\"ciphertext\":\"0M9ptlk0qXHNSIa8Jdftl/vAC/mp9Uc2Gwjp2ps0DIWfj8xo4VXSxuuLtEhIiwB3a0o=\",\"mac\":\"3OIBk6i6ORjlif32UBL7MHhkdmQl1a+HV9GFb6feFpE=\"}",
+  "last_posted_index": 273,
+  "encrypted_refresh_token": "{\"nonce\":\"x8hBQTc6tXga8kj8N7ccjQ==\",\"ciphertext\":\"7d6/s7XnyZAZDILCfkIkAMiH/35v/AkuyEt/KU0zcM6aJOCloAWB9nDpCBiwAx5tAUU=\",\"mac\":\"MSY8NrnKQXr1rWHbv4XHiI/RVugtWlqJBapkQUsMGfI=\"}",
   "posted_post_ids": [
     "814760303295381504",
     "814766726962118656",
@@ -275,7 +275,8 @@
     "815498425372164096",
     "815500100191354880",
     "815501966695350272",
-    "815504036181721088"
+    "815504036181721088",
+    "815506312811216896"
   ],
   "posted_post_urls": [
     "https://kakakaforadyakali.tumblr.com/post/814760303295381504",
@@ -549,7 +550,8 @@
     "https://kakakaforadyakali.tumblr.com/post/815498425372164096",
     "https://kakakaforadyakali.tumblr.com/post/815500100191354880",
     "https://kakakaforadyakali.tumblr.com/post/815501966695350272",
-    "https://kakakaforadyakali.tumblr.com/post/815504036181721088"
+    "https://kakakaforadyakali.tumblr.com/post/815504036181721088",
+    "https://kakakaforadyakali.tumblr.com/post/815506312811216896"
   ],
   "posted_timestamps": [
     "2026-04-24T07:32:55.621622+00:00",
@@ -823,7 +825,8 @@
     "2026-05-02T11:05:03.610251+00:00",
     "2026-05-02T11:31:40.927007+00:00",
     "2026-05-02T12:01:20.801448+00:00",
-    "2026-05-02T12:34:14.408263+00:00"
+    "2026-05-02T12:34:14.408263+00:00",
+    "2026-05-02T13:10:25.868180+00:00"
   ],
   "posted_text_hashes": [
     "9a9bfafd8f146bd982514c23ceb52d5d53be86be07aa861c2a0df1e0e126b074",
@@ -1097,9 +1100,13 @@
     "4e3178bd76da3c50f86456c8263c6f9ef4b39d7281d87263ef128df7e05db00c",
     "c8ed6e1fe055e54861359bb4eb1ca6b8dc0f9cf824f88434fc05a9849cd2037f",
     "50ee3683c275672c5d007395719d59e1a87f38fc728e66af70f7d61cf5447a96",
-    "d4a243bdf3571ec2c2128f37475736d5b7bbd3fbcc9db650210fff53143324c8"
+    "d4a243bdf3571ec2c2128f37475736d5b7bbd3fbcc9db650210fff53143324c8",
+    "3b2cd8850a5652c62b2eb26e2a35bb1325947ea819557e03b4c2920c10d57a27"
   ],
   "posted_tags": [
+    [
+      "ghargharkali"
+    ],
     [
       "ghargharkali"
     ],
@@ -5181,6 +5188,18 @@
         "ghargharkali"
       ],
       "post_text": "Today's name is Shhatru mardini. The destroyer of enemies. Jai Ma. #ghargharkali"
+    },
+    {
+      "queue_index": 273,
+      "source_index": 273,
+      "post_id": "815506312811216896",
+      "post_url": "https://kakakaforadyakali.tumblr.com/post/815506312811216896",
+      "posted_at": "2026-05-02T13:10:25.868180+00:00",
+      "text_hash": "3b2cd8850a5652c62b2eb26e2a35bb1325947ea819557e03b4c2920c10d57a27",
+      "tags": [
+        "ghargharkali"
+      ],
+      "post_text": "Today's name is Upendrani. The consort of Upendra (Vishnu), signifying her universal power and cosmic supremacy. Jai Ma. #ghargharkali"
     }
   ]
 }
