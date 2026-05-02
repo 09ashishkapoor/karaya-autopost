@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts.json",
-  "last_posted_index": 174,
+  "last_posted_index": 175,
   "posted_record_uris": [
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkhgvkr3xr2q",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkhjlikrsu23",
@@ -176,7 +176,8 @@
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkvicp4kgn2j",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkvk4beyad2x",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkvlnqhlft22",
-    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkvngx5zcq2x"
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkvngx5zcq2x",
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkvoyxcm5a22"
   ],
   "posted_cids": [
     "bafyreifrst5zlm5gntzglpt6lshxgsutmezuzdypxcxmayy2ozfha5m7ti",
@@ -352,7 +353,8 @@
     "bafyreiazcc6w5robdu5yonuhfhgywvgzwdojk3hsqvir4dgwkjllxatjpy",
     "bafyreighmf2uee5qgxrbu3bpijkjruvjpxss575ltvfxj3svvp7wto2lva",
     "bafyreiedd5zi5bjkl7twbj3ijmzahrsmqvrdsdmei7ayof244m4gorfkpq",
-    "bafyreif44rt2xsc2a5lzomrs2tkiffgpvukgomngqzg6n24j2tsbcr3hwa"
+    "bafyreif44rt2xsc2a5lzomrs2tkiffgpvukgomngqzg6n24j2tsbcr3hwa",
+    "bafyreia466nbkwpv4pv4dterq322j3ay54eclzrusdztbfsru2pyixk2k4"
   ],
   "posted_timestamps": [
     "2026-04-27T06:27:55.539737+00:00",
@@ -528,7 +530,8 @@
     "2026-05-02T20:30:26.349685+00:00",
     "2026-05-02T21:02:38.117765+00:00",
     "2026-05-02T21:30:18.100348+00:00",
-    "2026-05-02T22:02:17.752685+00:00"
+    "2026-05-02T22:02:17.752685+00:00",
+    "2026-05-02T22:30:15.589491+00:00"
   ],
   "posted_text_hashes": [
     "cf1ac875ed7087c14d3f19118163d018a70035373f00186f7154f6b8a4a58629",
@@ -704,7 +707,8 @@
     "e3614b4e6ff653cdf90be873cfa06e6faeb9799395d9cf2379dc670fdfbff0c9",
     "481617d7c138eb5ff5e25dc7ad22c9a795cc9372ea65a27b2066b9e6b38fe8ed",
     "28e4c41e5eb8e30e79018248cf15696b446cf24faafab9a665529021eedd8a93",
-    "971483c5588519b50607d9489321f8beb327b1c00bff2bb88b3128e532affb8f"
+    "971483c5588519b50607d9489321f8beb327b1c00bff2bb88b3128e532affb8f",
+    "427d0ba53da419e2bd0af5b4ae23f6192982f652de9f5a8cb7b2d431e8c1c840"
   ],
   "history": [
     {
@@ -2272,6 +2276,15 @@
       "posted_at": "2026-05-02T22:02:17.752685+00:00",
       "text_hash": "971483c5588519b50607d9489321f8beb327b1c00bff2bb88b3128e532affb8f",
       "post_text": "Today's name is Arogine. Eternally free from disease, decay, and suffering. Jai Bhairava Baba. #Kalabhairava"
+    },
+    {
+      "queue_index": 175,
+      "source_index": 175,
+      "post_uri": "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkvoyxcm5a22",
+      "cid": "bafyreia466nbkwpv4pv4dterq322j3ay54eclzrusdztbfsru2pyixk2k4",
+      "posted_at": "2026-05-02T22:30:15.589491+00:00",
+      "text_hash": "427d0ba53da419e2bd0af5b4ae23f6192982f652de9f5a8cb7b2d431e8c1c840",
+      "post_text": "Today's name is Khatvaanggine. He who carries the Khatvanga, a formidable club fashioned from human bone. Jai Bhairava Baba. #Kalabhairava"
     }
   ]
 }
