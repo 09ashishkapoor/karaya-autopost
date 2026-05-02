@@ -1,8 +1,8 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts_mahakali.json",
-  "last_posted_index": 288,
-  "encrypted_refresh_token": "{\"nonce\":\"xGg6+U6yyTeM7jvCWjdf4w==\",\"ciphertext\":\"4tzPpbA/mqTFU6yC5hMFhHlGv2O5kcRz/T04J3YGtDvMlDlBhcf6s4Dzj3eRdp+pKwc=\",\"mac\":\"s6vY7GKi4l6JugXaPMFk88O9G3TEjURdacUM1pncKug=\"}",
+  "last_posted_index": 289,
+  "encrypted_refresh_token": "{\"nonce\":\"G2JRETH1whoOgZ1gHj30wA==\",\"ciphertext\":\"CykiBcVK7wvyPvirP/tToVwCS/MnRbjLJ+Yw5EKanUXO3105IwDwawyYqnLHj4eVjVA=\",\"mac\":\"Vg2+ba534QeimudQ3chN21qTZ8yuL6ZM+jrRXkoHnVk=\"}",
   "posted_post_ids": [
     "814760303295381504",
     "814766726962118656",
@@ -291,7 +291,8 @@
     "815530648392581120",
     "815532118898819072",
     "815533821600694272",
-    "815535945270067200"
+    "815535945270067200",
+    "815537605028478977"
   ],
   "posted_post_urls": [
     "https://kakakaforadyakali.tumblr.com/post/814760303295381504",
@@ -581,7 +582,8 @@
     "https://kakakaforadyakali.tumblr.com/post/815530648392581120",
     "https://kakakaforadyakali.tumblr.com/post/815532118898819072",
     "https://kakakaforadyakali.tumblr.com/post/815533821600694272",
-    "https://kakakaforadyakali.tumblr.com/post/815535945270067200"
+    "https://kakakaforadyakali.tumblr.com/post/815535945270067200",
+    "https://kakakaforadyakali.tumblr.com/post/815537605028478977"
   ],
   "posted_timestamps": [
     "2026-04-24T07:32:55.621622+00:00",
@@ -871,7 +873,8 @@
     "2026-05-02T19:37:14.366137+00:00",
     "2026-05-02T20:00:37.180180+00:00",
     "2026-05-02T20:27:40.014464+00:00",
-    "2026-05-02T21:01:25.322992+00:00"
+    "2026-05-02T21:01:25.322992+00:00",
+    "2026-05-02T21:27:48.174837+00:00"
   ],
   "posted_text_hashes": [
     "9a9bfafd8f146bd982514c23ceb52d5d53be86be07aa861c2a0df1e0e126b074",
@@ -1161,9 +1164,13 @@
     "48fd5fda7993d64cab76ba4259c3c19c7f7ee24945a0737f88ecc5ecdf11b298",
     "db773a4c41485172be975a22d16234810559b4ac924a8a5d0b8abfd0c955d7d5",
     "d1082d7d1d00d08d1b231c967f7c443972937b0a6d5d38d3cea2dc2a256d3898",
-    "8c637e5640edd8398afc2d5cba046f7d5cf822c82e7912087bb9d1272b6fca77"
+    "8c637e5640edd8398afc2d5cba046f7d5cf822c82e7912087bb9d1272b6fca77",
+    "b9b4819885fa0c31ab88429e6f05c20ca791ea2be5a240e5ae3de825dc1bb515"
   ],
   "posted_tags": [
+    [
+      "ghargharkali"
+    ],
     [
       "ghargharkali"
     ],
@@ -5485,6 +5492,18 @@
         "ghargharkali"
       ],
       "post_text": "Today's name is Pati vrata. The faithfully devoted wife, unwavering in her commitment to her consort. Jai Ma. #ghargharkali"
+    },
+    {
+      "queue_index": 289,
+      "source_index": 289,
+      "post_id": "815537605028478977",
+      "post_url": "https://kakakaforadyakali.tumblr.com/post/815537605028478977",
+      "posted_at": "2026-05-02T21:27:48.174837+00:00",
+      "text_hash": "b9b4819885fa0c31ab88429e6f05c20ca791ea2be5a240e5ae3de825dc1bb515",
+      "tags": [
+        "ghargharkali"
+      ],
+      "post_text": "Today's name is Sarveshhwari. The Supreme Sovereign of all existence. Jai Ma. #ghargharkali"
     }
   ]
 }
