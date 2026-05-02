@@ -1,8 +1,8 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts_mahakali.json",
-  "last_posted_index": 278,
-  "encrypted_refresh_token": "{\"nonce\":\"pndPXaH+WaO3bw+6ooa1Cw==\",\"ciphertext\":\"LilqQkOpX221DEbG9b+gf8icdLMhBf+o4Gj+AwK2XFlLDz8qhALewLzzbt7MsHgFTHs=\",\"mac\":\"b7QGLdid7GGyZZ/R8No0nQJYbNZnf6+8foH3SSmBULo=\"}",
+  "last_posted_index": 279,
+  "encrypted_refresh_token": "{\"nonce\":\"M8nKgPIEEAuaLiHeYz0GPQ==\",\"ciphertext\":\"YT+kxxvuECeFegySKgZvY/VtpJclDeZzv5nZ+gzef5aqBYITEKwb0VY2r8gjxHgQ78Y=\",\"mac\":\"j1rgp7wEtu2ZjIMJyCZl6u63Dw7NKzdjd4Q83n8g3BM=\"}",
   "posted_post_ids": [
     "814760303295381504",
     "814766726962118656",
@@ -281,7 +281,8 @@
     "815511518992072704",
     "815513468358868992",
     "815515258444759040",
-    "815517095173423104"
+    "815517095173423104",
+    "815518983982891008"
   ],
   "posted_post_urls": [
     "https://kakakaforadyakali.tumblr.com/post/814760303295381504",
@@ -561,7 +562,8 @@
     "https://kakakaforadyakali.tumblr.com/post/815511518992072704",
     "https://kakakaforadyakali.tumblr.com/post/815513468358868992",
     "https://kakakaforadyakali.tumblr.com/post/815515258444759040",
-    "https://kakakaforadyakali.tumblr.com/post/815517095173423104"
+    "https://kakakaforadyakali.tumblr.com/post/815517095173423104",
+    "https://kakakaforadyakali.tumblr.com/post/815518983982891008"
   ],
   "posted_timestamps": [
     "2026-04-24T07:32:55.621622+00:00",
@@ -841,7 +843,8 @@
     "2026-05-02T14:33:10.631253+00:00",
     "2026-05-02T15:04:09.633459+00:00",
     "2026-05-02T15:32:36.963440+00:00",
-    "2026-05-02T16:01:48.472645+00:00"
+    "2026-05-02T16:01:48.472645+00:00",
+    "2026-05-02T16:31:49.770187+00:00"
   ],
   "posted_text_hashes": [
     "9a9bfafd8f146bd982514c23ceb52d5d53be86be07aa861c2a0df1e0e126b074",
@@ -1121,9 +1124,13 @@
     "6b4c6a1e9a4a13b1e8b35a5976da42165afdae6c20dfe88a1612b91e8663a643",
     "5a80df9091accf105707c0b255a6b5466bc440e9a0cbbd584ecea24186025852",
     "9378ba3be9aa2f97ae568b504d16d45c34ba6049bdf47a3ab5e56059ca5e94c1",
-    "d98a317bb6c6164e07598eda72081136825c9fa7db78e3033c4ef6e2d36b901f"
+    "d98a317bb6c6164e07598eda72081136825c9fa7db78e3033c4ef6e2d36b901f",
+    "b53fc7683adc783e2d466bb4730b8dcb105384183808eccd71f2e2952c0e259b"
   ],
   "posted_tags": [
+    [
+      "ghargharkali"
+    ],
     [
       "ghargharkali"
     ],
@@ -5295,6 +5302,18 @@
         "ghargharkali"
       ],
       "post_text": "Today's name is Rudra patni. The consort of Rudra, Shiva's fierce form, embodying destruction and fierce compassion. Jai Ma. #ghargharkali"
+    },
+    {
+      "queue_index": 279,
+      "source_index": 279,
+      "post_id": "815518983982891008",
+      "post_url": "https://kakakaforadyakali.tumblr.com/post/815518983982891008",
+      "posted_at": "2026-05-02T16:31:49.770187+00:00",
+      "text_hash": "b53fc7683adc783e2d466bb4730b8dcb105384183808eccd71f2e2952c0e259b",
+      "tags": [
+        "ghargharkali"
+      ],
+      "post_text": "Today's name is Raudri. The fierce and terrifying One, embodying cosmic wrath and destruction. Jai Ma. #ghargharkali"
     }
   ]
 }
