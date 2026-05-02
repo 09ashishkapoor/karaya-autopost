@@ -1,8 +1,8 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts_mahakali.json",
-  "last_posted_index": 281,
-  "encrypted_refresh_token": "{\"nonce\":\"GV+u1cVAjKWxSrVA/kPlnQ==\",\"ciphertext\":\"Yf0MCSDOKJfc6YEoH4n3e/QKmGlN2uWqjIWbFAJGauWM/XYn9z80DhvfUlHFWX9QD70=\",\"mac\":\"daReFeHKd6dbeelPE7bOPOeyY+IlwD+WEn7ASKZ9elw=\"}",
+  "last_posted_index": 282,
+  "encrypted_refresh_token": "{\"nonce\":\"j5EiYDY5R9Vjdced4ug0cg==\",\"ciphertext\":\"hgz2VsFievwpZOc9d/ES6No9mZGFOa+qDaVAI5qBLehrzBtM9GGcTVCUroKlsqRE534=\",\"mac\":\"ct4Uy0norCitjgq3DnGq5DnbGWxGXcC9QgY3W2eszM8=\"}",
   "posted_post_ids": [
     "814760303295381504",
     "814766726962118656",
@@ -284,7 +284,8 @@
     "815517095173423104",
     "815518983982891008",
     "815521035575263232",
-    "815522757668438016"
+    "815522757668438016",
+    "815524699005206528"
   ],
   "posted_post_urls": [
     "https://kakakaforadyakali.tumblr.com/post/814760303295381504",
@@ -567,7 +568,8 @@
     "https://kakakaforadyakali.tumblr.com/post/815517095173423104",
     "https://kakakaforadyakali.tumblr.com/post/815518983982891008",
     "https://kakakaforadyakali.tumblr.com/post/815521035575263232",
-    "https://kakakaforadyakali.tumblr.com/post/815522757668438016"
+    "https://kakakaforadyakali.tumblr.com/post/815522757668438016",
+    "https://kakakaforadyakali.tumblr.com/post/815524699005206528"
   ],
   "posted_timestamps": [
     "2026-04-24T07:32:55.621622+00:00",
@@ -850,7 +852,8 @@
     "2026-05-02T16:01:48.472645+00:00",
     "2026-05-02T16:31:49.770187+00:00",
     "2026-05-02T17:04:26.323031+00:00",
-    "2026-05-02T17:31:48.592558+00:00"
+    "2026-05-02T17:31:48.592558+00:00",
+    "2026-05-02T18:02:40.192196+00:00"
   ],
   "posted_text_hashes": [
     "9a9bfafd8f146bd982514c23ceb52d5d53be86be07aa861c2a0df1e0e126b074",
@@ -1133,9 +1136,13 @@
     "d98a317bb6c6164e07598eda72081136825c9fa7db78e3033c4ef6e2d36b901f",
     "b53fc7683adc783e2d466bb4730b8dcb105384183808eccd71f2e2952c0e259b",
     "34d90a5fb38c8346d558c42dc4196b7b91ef29508f6494d5e4a504ab8cdd9471",
-    "7d5cdc0757a0c036d523551961e6b8bcf19b6fbd8130df7ebbaef77b8b24e6e7"
+    "7d5cdc0757a0c036d523551961e6b8bcf19b6fbd8130df7ebbaef77b8b24e6e7",
+    "9d3c353daf5d9c03be636c0df26e68f0f967e6dde040ab15770748ae330ffa4c"
   ],
   "posted_tags": [
+    [
+      "ghargharkali"
+    ],
     [
       "ghargharkali"
     ],
@@ -5352,6 +5359,18 @@
         "ghargharkali"
       ],
       "post_text": "Today's name is Puman. The primordial male principle, Purusha, beyond all attributes. Jai Ma. #ghargharkali"
+    },
+    {
+      "queue_index": 282,
+      "source_index": 282,
+      "post_id": "815524699005206528",
+      "post_url": "https://kakakaforadyakali.tumblr.com/post/815524699005206528",
+      "posted_at": "2026-05-02T18:02:40.192196+00:00",
+      "text_hash": "9d3c353daf5d9c03be636c0df26e68f0f967e6dde040ab15770748ae330ffa4c",
+      "tags": [
+        "ghargharkali"
+      ],
+      "post_text": "Today's name is Shhaktih. The supreme power and energy pervading all existence, the Divine Feminine itself. Jai Ma. #ghargharkali"
     }
   ]
 }
