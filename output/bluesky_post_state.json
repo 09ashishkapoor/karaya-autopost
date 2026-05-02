@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts.json",
-  "last_posted_index": 148,
+  "last_posted_index": 149,
   "posted_record_uris": [
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkhgvkr3xr2q",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkhjlikrsu23",
@@ -150,7 +150,8 @@
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mktxowqdgr2j",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mku2yriej32a",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mku65xbzak2c",
-    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkuaxxp6oj2x"
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkuaxxp6oj2x",
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkucomirps2o"
   ],
   "posted_cids": [
     "bafyreifrst5zlm5gntzglpt6lshxgsutmezuzdypxcxmayy2ozfha5m7ti",
@@ -300,7 +301,8 @@
     "bafyreih2hnfcpvaeh4obyvga5aqjn6ja367gbfk4pvvtzf7wtuoxedh4ni",
     "bafyreicf6catn26hfjgymt46wxfdehhtsepuvffvhmjw4m2haajroizbme",
     "bafyreiezrn5orfxcjg7rszaoiozis3r5fdxcxqnjkjdbfsr2ilswngxfdi",
-    "bafyreicxxe4qecoq2xzt6zguwujhtufcrtiatmatznyidbvdrz7fz6vbmy"
+    "bafyreicxxe4qecoq2xzt6zguwujhtufcrtiatmatznyidbvdrz7fz6vbmy",
+    "bafyreidwga7bp62t766b7qgdxrt4o6w4psoo7ntxrgvemzk6gqqubpob4e"
   ],
   "posted_timestamps": [
     "2026-04-27T06:27:55.539737+00:00",
@@ -450,7 +452,8 @@
     "2026-05-02T06:00:23.656340+00:00",
     "2026-05-02T06:59:34.923799+00:00",
     "2026-05-02T07:56:10.029729+00:00",
-    "2026-05-02T08:46:30.353572+00:00"
+    "2026-05-02T08:46:30.353572+00:00",
+    "2026-05-02T09:17:04.108847+00:00"
   ],
   "posted_text_hashes": [
     "cf1ac875ed7087c14d3f19118163d018a70035373f00186f7154f6b8a4a58629",
@@ -600,7 +603,8 @@
     "3eaaff5f390641913d430b91d8f4bd65703b83543a5195409968d9d0a6a8a2d9",
     "0cfc238490b0c2ace1a9e49a839d7b929cd2585add139b7026a08b209134607e",
     "541c60c55d7b85154275ce05c22a488f2e3e4d1e907e8393370ffa426a147431",
-    "89faca39ae70bef50a5615b3105e35f39e336996e1c2a6b4aaa00cbcc759b714"
+    "89faca39ae70bef50a5615b3105e35f39e336996e1c2a6b4aaa00cbcc759b714",
+    "228e29581a6541737e7be248fd107bbf51039cdb7bfe230127d8d1cee682d2ac"
   ],
   "history": [
     {
@@ -1934,6 +1938,15 @@
       "posted_at": "2026-05-02T08:46:30.353572+00:00",
       "text_hash": "89faca39ae70bef50a5615b3105e35f39e336996e1c2a6b4aaa00cbcc759b714",
       "post_text": "Today's name is Ganeshvaraaya. The one who is the supreme lord of all celestial hosts and divine attendants (Ganas). Jai Bhairava Baba. #Kalabhairava"
+    },
+    {
+      "queue_index": 149,
+      "source_index": 149,
+      "post_uri": "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkucomirps2o",
+      "cid": "bafyreidwga7bp62t766b7qgdxrt4o6w4psoo7ntxrgvemzk6gqqubpob4e",
+      "posted_at": "2026-05-02T09:17:04.108847+00:00",
+      "text_hash": "228e29581a6541737e7be248fd107bbf51039cdb7bfe230127d8d1cee682d2ac",
+      "post_text": "Today's name is Gauriishaaya. The one who is the beloved lord and consort of Gauri, the radiant Parvati. Jai Bhairava Baba. #Kalabhairava"
     }
   ]
 }
