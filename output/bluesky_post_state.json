@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts.json",
-  "last_posted_index": 161,
+  "last_posted_index": 162,
   "posted_record_uris": [
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkhgvkr3xr2q",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkhjlikrsu23",
@@ -163,7 +163,8 @@
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkury3722a2s",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkuuh2urms2c",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkuw5mzmth2v",
-    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkuxqfpkel2q"
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkuxqfpkel2q",
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkuzeotg562n"
   ],
   "posted_cids": [
     "bafyreifrst5zlm5gntzglpt6lshxgsutmezuzdypxcxmayy2ozfha5m7ti",
@@ -326,7 +327,8 @@
     "bafyreidocbtah4i6hfnun2ekv6km7mb2venbq53hmcxsclpox7xjwvmyju",
     "bafyreia2uolblprzzypg3ussco7ciiopsztcz4wd7ttbt6qjs7gvtoleri",
     "bafyreibnj6py2n4k4vzl4nx5py7v5eouyodl5d2ynz4doeohn5uwl6yyri",
-    "bafyreia6iscl4i2pfglbziej22zhpejyjohdw5khgiwcwuyd65bwuv5gba"
+    "bafyreia6iscl4i2pfglbziej22zhpejyjohdw5khgiwcwuyd65bwuv5gba",
+    "bafyreiejwy2euk6ikvneh5lesysgwzgm3h72ovmd4ei4mjoqjajvemq4lq"
   ],
   "posted_timestamps": [
     "2026-04-27T06:27:55.539737+00:00",
@@ -489,7 +491,8 @@
     "2026-05-02T13:50:47.641474+00:00",
     "2026-05-02T14:34:58.074919+00:00",
     "2026-05-02T15:05:29.055258+00:00",
-    "2026-05-02T15:33:52.672723+00:00"
+    "2026-05-02T15:33:52.672723+00:00",
+    "2026-05-02T16:03:07.041711+00:00"
   ],
   "posted_text_hashes": [
     "cf1ac875ed7087c14d3f19118163d018a70035373f00186f7154f6b8a4a58629",
@@ -652,7 +655,8 @@
     "2c6bd4444af2fc7c2f9696065cf93f20e65852739fd3610d4ebec587a71e656e",
     "7189fd1c051a8f7b9bc82622d852be969699f7023db9b13db4ab224857715c01",
     "c246d9c047c0cf15b93e2bb63f10eaf0072cd52051a85cf00b5177b46a867007",
-    "6aa2d4ff3a7a34cab4b5e7c532db72d576b73b6862cd7a2e20f6f54dcfdd95a3"
+    "6aa2d4ff3a7a34cab4b5e7c532db72d576b73b6862cd7a2e20f6f54dcfdd95a3",
+    "cb81852782189b2f0bb368f43b4c5e7d043557242091cddb41d67ea8a783abd1"
   ],
   "history": [
     {
@@ -2103,6 +2107,15 @@
       "posted_at": "2026-05-02T15:33:52.672723+00:00",
       "text_hash": "6aa2d4ff3a7a34cab4b5e7c532db72d576b73b6862cd7a2e20f6f54dcfdd95a3",
       "post_text": "Today's name is Gataye. The ultimate goal, final destination, and supreme refuge of all souls. Jai Bhairava Baba. #Kalabhairava"
+    },
+    {
+      "queue_index": 162,
+      "source_index": 162,
+      "post_uri": "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkuzeotg562n",
+      "cid": "bafyreiejwy2euk6ikvneh5lesysgwzgm3h72ovmd4ei4mjoqjajvemq4lq",
+      "posted_at": "2026-05-02T16:03:07.041711+00:00",
+      "text_hash": "cb81852782189b2f0bb368f43b4c5e7d043557242091cddb41d67ea8a783abd1",
+      "post_text": "Today's name is Griishmaaya. The embodied heat and intensity of the summer season. Jai Bhairava Baba. #Kalabhairava"
     }
   ]
 }
