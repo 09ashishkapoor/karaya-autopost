@@ -1,8 +1,8 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts_mahakali.json",
-  "last_posted_index": 314,
-  "encrypted_refresh_token": "{\"nonce\":\"b4LXdHochfe5hqU3PGGqNw==\",\"ciphertext\":\"zLkoCOVnT2SlgPXTZE1WCgt8btgjXhzXtrlsROnc3aNnNeOZl1kHW3YDngs7vgYySYk=\",\"mac\":\"+/hxoNDdBS+ti36La6a4rx04kIUgBOqS61gJ2C775lk=\"}",
+  "last_posted_index": 315,
+  "encrypted_refresh_token": "{\"nonce\":\"fyYuFvDj8+SPTwbTh72zbg==\",\"ciphertext\":\"t9lTpCelfklIOT7UauLCZZd8j5w4I12CLeuksqitwhp2SlT7GnTOh1mQLCV+x2vB8VA=\",\"mac\":\"GqH9P9/Va9WNXRmGgRyZhSdBF+0qSCJ/GSZ/ENB/GAM=\"}",
   "posted_post_ids": [
     "814760303295381504",
     "814766726962118656",
@@ -317,7 +317,8 @@
     "815599307515478016",
     "815602154343710720",
     "815604104921513984",
-    "815605853140008960"
+    "815605853140008960",
+    "815607697511694336"
   ],
   "posted_post_urls": [
     "https://kakakaforadyakali.tumblr.com/post/814760303295381504",
@@ -633,7 +634,8 @@
     "https://kakakaforadyakali.tumblr.com/post/815599307515478016",
     "https://kakakaforadyakali.tumblr.com/post/815602154343710720",
     "https://kakakaforadyakali.tumblr.com/post/815604104921513984",
-    "https://kakakaforadyakali.tumblr.com/post/815605853140008960"
+    "https://kakakaforadyakali.tumblr.com/post/815605853140008960",
+    "https://kakakaforadyakali.tumblr.com/post/815607697511694336"
   ],
   "posted_timestamps": [
     "2026-04-24T07:32:55.621622+00:00",
@@ -949,7 +951,8 @@
     "2026-05-03T13:48:32.295128+00:00",
     "2026-05-03T14:33:47.262402+00:00",
     "2026-05-03T15:04:47.402652+00:00",
-    "2026-05-03T15:32:34.616150+00:00"
+    "2026-05-03T15:32:34.616150+00:00",
+    "2026-05-03T16:01:54.105919+00:00"
   ],
   "posted_text_hashes": [
     "9a9bfafd8f146bd982514c23ceb52d5d53be86be07aa861c2a0df1e0e126b074",
@@ -1265,9 +1268,13 @@
     "da3479e30f67c281f3bdb83796271963d57afffd04166e41d5a9f4a0013ec7a1",
     "aceffadcc6e15d9fabed8383461ab10876b37a22542d562eb22917c38c2ab6e6",
     "800dc8673bac7a1d7b697e81c458484089d48c0b8fa831088beb1f3ec52a7e0e",
-    "91b13dd59533ada76703dc9642e91edc1b0c477a12b2030d4db16a9a90006264"
+    "91b13dd59533ada76703dc9642e91edc1b0c477a12b2030d4db16a9a90006264",
+    "fe44e04d476ad96bfc76fa196ca284574e529372264152e8de846c3e6c825a3f"
   ],
   "posted_tags": [
+    [
+      "ghargharkali"
+    ],
     [
       "ghargharkali"
     ],
@@ -5979,6 +5986,18 @@
         "ghargharkali"
       ],
       "post_text": "Today's name is Trapa. The abode of modesty and humility. Jai Ma. #ghargharkali"
+    },
+    {
+      "queue_index": 315,
+      "source_index": 315,
+      "post_id": "815607697511694336",
+      "post_url": "https://kakakaforadyakali.tumblr.com/post/815607697511694336",
+      "posted_at": "2026-05-03T16:01:54.105919+00:00",
+      "text_hash": "fe44e04d476ad96bfc76fa196ca284574e529372264152e8de846c3e6c825a3f",
+      "tags": [
+        "ghargharkali"
+      ],
+      "post_text": "Today's name is Trapa-vati. The modest and bashful One. Jai Ma. #ghargharkali"
     }
   ]
 }
