@@ -1,8 +1,8 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts_mahakali.json",
-  "last_posted_index": 317,
-  "encrypted_refresh_token": "{\"nonce\":\"BnmEE0VfuUkePciED2aDwQ==\",\"ciphertext\":\"PRDuFnilL59vNhXi6yEQot9bucBBfejdhpfKa54e1SWyuo1gb2QP230hgdrxxsfxmtc=\",\"mac\":\"0RmcRuLpuakBwKMews8ijVMgipyspXW0KicOxxUr10E=\"}",
+  "last_posted_index": 318,
+  "encrypted_refresh_token": "{\"nonce\":\"tzlY98ANIfP66QUDXj4FyQ==\",\"ciphertext\":\"q+fM1l0h3tmNek/ol6qyd28RZwERPDeaIiCb/ZhWZ2yK0JLUJfQrnrAwZ52tcSwHKas=\",\"mac\":\"r2VQeVN36fUYiN3zSSZrjALzR+hnDw5DWrS0bYA/MZY=\"}",
   "posted_post_ids": [
     "814760303295381504",
     "814766726962118656",
@@ -320,7 +320,8 @@
     "815605853140008960",
     "815607697511694336",
     "815609556265730048",
-    "815611680568573952"
+    "815611680568573952",
+    "815613419114872832"
   ],
   "posted_post_urls": [
     "https://kakakaforadyakali.tumblr.com/post/814760303295381504",
@@ -639,7 +640,8 @@
     "https://kakakaforadyakali.tumblr.com/post/815605853140008960",
     "https://kakakaforadyakali.tumblr.com/post/815607697511694336",
     "https://kakakaforadyakali.tumblr.com/post/815609556265730048",
-    "https://kakakaforadyakali.tumblr.com/post/815611680568573952"
+    "https://kakakaforadyakali.tumblr.com/post/815611680568573952",
+    "https://kakakaforadyakali.tumblr.com/post/815613419114872832"
   ],
   "posted_timestamps": [
     "2026-04-24T07:32:55.621622+00:00",
@@ -958,7 +960,8 @@
     "2026-05-03T15:32:34.616150+00:00",
     "2026-05-03T16:01:54.105919+00:00",
     "2026-05-03T16:31:26.243260+00:00",
-    "2026-05-03T17:05:12.145613+00:00"
+    "2026-05-03T17:05:12.145613+00:00",
+    "2026-05-03T17:32:50.109854+00:00"
   ],
   "posted_text_hashes": [
     "9a9bfafd8f146bd982514c23ceb52d5d53be86be07aa861c2a0df1e0e126b074",
@@ -1277,9 +1280,13 @@
     "91b13dd59533ada76703dc9642e91edc1b0c477a12b2030d4db16a9a90006264",
     "fe44e04d476ad96bfc76fa196ca284574e529372264152e8de846c3e6c825a3f",
     "1dcfe6e493f305b9bc5f07fc67acdf2044d075bf6cc8baa4b8f8d641851edd05",
-    "cb130b3be69da43bc7ff49a220632aa1be5759925834363bffc74b83af8d4e7f"
+    "cb130b3be69da43bc7ff49a220632aa1be5759925834363bffc74b83af8d4e7f",
+    "053994300e72fa18fd636feedac736e512ba4efca52c1ec329bed404862249b2"
   ],
   "posted_tags": [
+    [
+      "ghargharkali"
+    ],
     [
       "ghargharkali"
     ],
@@ -6036,6 +6043,18 @@
         "ghargharkali"
       ],
       "post_text": "Today's name is Vilajja. The One beyond shame, modesty, and all limitation, revealing ultimate freedom. Jai Ma. #ghargharkali"
+    },
+    {
+      "queue_index": 318,
+      "source_index": 318,
+      "post_id": "815613419114872832",
+      "post_url": "https://kakakaforadyakali.tumblr.com/post/815613419114872832",
+      "posted_at": "2026-05-03T17:32:50.109854+00:00",
+      "text_hash": "053994300e72fa18fd636feedac736e512ba4efca52c1ec329bed404862249b2",
+      "tags": [
+        "ghargharkali"
+      ],
+      "post_text": "Today's name is Hri. The embodiment of modesty, humility, and spiritual shame, essential for inner purity and ethical conduct. Jai Ma. #ghargharkali"
     }
   ]
 }
