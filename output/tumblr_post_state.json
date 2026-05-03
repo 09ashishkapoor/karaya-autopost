@@ -1,8 +1,8 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts_mahakali.json",
-  "last_posted_index": 305,
-  "encrypted_refresh_token": "{\"nonce\":\"SJdpTM9xzGa4Is7zYevfKA==\",\"ciphertext\":\"Dw25wM68rhihA+k8raPIS+pEfPgwpHxMBubsaBzIgZd2JFkzSOPejiTT/ZLub+0TzHU=\",\"mac\":\"KuonC428N569VST90eAZnGJNqBbdbHwAaBy5LJX43vw=\"}",
+  "last_posted_index": 306,
+  "encrypted_refresh_token": "{\"nonce\":\"PSjJBwDFtTi7UpVhkdesaw==\",\"ciphertext\":\"GcVv3N4indBMPW+XTF3sEbQtbeC2cSux3kJpwL+wbKwl0i8XHzh86P27yRJ3e5RgZWE=\",\"mac\":\"VgN8Y+oS0IFJMXajhVXnNPkg9cfM9jPXMMs/irpz2xo=\"}",
   "posted_post_ids": [
     "814760303295381504",
     "814766726962118656",
@@ -308,7 +308,8 @@
     "815580725778759680",
     "815583842209546240",
     "815585572945035264",
-    "815587134953144321"
+    "815587134953144321",
+    "815589061162123264"
   ],
   "posted_post_urls": [
     "https://kakakaforadyakali.tumblr.com/post/814760303295381504",
@@ -615,7 +616,8 @@
     "https://kakakaforadyakali.tumblr.com/post/815580725778759680",
     "https://kakakaforadyakali.tumblr.com/post/815583842209546240",
     "https://kakakaforadyakali.tumblr.com/post/815585572945035264",
-    "https://kakakaforadyakali.tumblr.com/post/815587134953144321"
+    "https://kakakaforadyakali.tumblr.com/post/815587134953144321",
+    "https://kakakaforadyakali.tumblr.com/post/815589061162123264"
   ],
   "posted_timestamps": [
     "2026-04-24T07:32:55.621622+00:00",
@@ -922,7 +924,8 @@
     "2026-05-03T08:53:11.319667+00:00",
     "2026-05-03T09:42:43.385980+00:00",
     "2026-05-03T10:10:13.908764+00:00",
-    "2026-05-03T10:35:03.627859+00:00"
+    "2026-05-03T10:35:03.627859+00:00",
+    "2026-05-03T11:05:40.679636+00:00"
   ],
   "posted_text_hashes": [
     "9a9bfafd8f146bd982514c23ceb52d5d53be86be07aa861c2a0df1e0e126b074",
@@ -1229,9 +1232,13 @@
     "bc07ceadbdedf8db0fa3f97de107245af71bed013742f4a8d6e23a71564a0e59",
     "fcecc3b1bb0a1bdc3400371cc198f31e95f294064f7f9a8018b71616749d613b",
     "9df789cffb08ea0bbdbac799a15dfbc7a1bd04dc1193faaa7debb9cbd033384e",
-    "51bb14ebc8308f5b7bbe2dd9abe0f2ed3099eeae08be26f47146d755577e13fb"
+    "51bb14ebc8308f5b7bbe2dd9abe0f2ed3099eeae08be26f47146d755577e13fb",
+    "7c29194c757566cbe860d8e0d524514041654b983b81baf00f4fa17e125121e7"
   ],
   "posted_tags": [
+    [
+      "ghargharkali"
+    ],
     [
       "ghargharkali"
     ],
@@ -5808,6 +5815,18 @@
         "ghargharkali"
       ],
       "post_text": "Today's name is Tamasi. The dark and mysterious One who dispels the darkness of ignorance. Jai Ma. #ghargharkali"
+    },
+    {
+      "queue_index": 306,
+      "source_index": 306,
+      "post_id": "815589061162123264",
+      "post_url": "https://kakakaforadyakali.tumblr.com/post/815589061162123264",
+      "posted_at": "2026-05-03T11:05:40.679636+00:00",
+      "text_hash": "7c29194c757566cbe860d8e0d524514041654b983b81baf00f4fa17e125121e7",
+      "tags": [
+        "ghargharkali"
+      ],
+      "post_text": "Today's name is Sthanuh. The immovable, steady, and changeless One, embodying the eternal essence. Jai Ma. #ghargharkali"
     }
   ]
 }
