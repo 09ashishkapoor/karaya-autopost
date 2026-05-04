@@ -1,8 +1,8 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts_mahakali.json",
-  "last_posted_index": 348,
-  "encrypted_refresh_token": "{\"nonce\":\"psaeh5XxNPNKXTXLto5qYQ==\",\"ciphertext\":\"PHGy1xvgR3qaVvJhLoZsFvl16AU25SQemaNvK5wLGCcNLUA2NBMY62JKrMLhdXOOplg=\",\"mac\":\"LxFQ4xwq9yJCrszvizjI4NyNrewK6z94Wl9Yp4bVIbA=\"}",
+  "last_posted_index": 349,
+  "encrypted_refresh_token": "{\"nonce\":\"9m2Q0D/bVposLjKYsbdAMA==\",\"ciphertext\":\"U33CmP+TSgHndd/T0VGJaruRx16bKJk1rtOhCHbCR5iFsMZBNCn3S2EscWLWyMoX8sw=\",\"mac\":\"aiGyXLy9fcSc9If7wbR4sOLfjSt9VOdQrFsAYuC68LI=\"}",
   "posted_post_ids": [
     "814760303295381504",
     "814766726962118656",
@@ -351,7 +351,8 @@
     "815694319066480640",
     "815697996997181440",
     "815701588108886016",
-    "815705099392466944"
+    "815705099392466944",
+    "815708919551934464"
   ],
   "posted_post_urls": [
     "https://kakakaforadyakali.tumblr.com/post/814760303295381504",
@@ -701,7 +702,8 @@
     "https://kakakaforadyakali.tumblr.com/post/815694319066480640",
     "https://kakakaforadyakali.tumblr.com/post/815697996997181440",
     "https://kakakaforadyakali.tumblr.com/post/815701588108886016",
-    "https://kakakaforadyakali.tumblr.com/post/815705099392466944"
+    "https://kakakaforadyakali.tumblr.com/post/815705099392466944",
+    "https://kakakaforadyakali.tumblr.com/post/815708919551934464"
   ],
   "posted_timestamps": [
     "2026-04-24T07:32:55.621622+00:00",
@@ -1051,7 +1053,8 @@
     "2026-05-04T14:58:42.366034+00:00",
     "2026-05-04T15:57:10.053970+00:00",
     "2026-05-04T16:54:14.635296+00:00",
-    "2026-05-04T17:50:03.229233+00:00"
+    "2026-05-04T17:50:03.229233+00:00",
+    "2026-05-04T18:50:46.520770+00:00"
   ],
   "posted_text_hashes": [
     "9a9bfafd8f146bd982514c23ceb52d5d53be86be07aa861c2a0df1e0e126b074",
@@ -1401,9 +1404,13 @@
     "f5b8c8cf8aaa9bfef90b6865f690e101ba99c59bb024c57b7b01c2dc86b48900",
     "b1bf92a99bc72257b023dd7f8616fda418f72116c75136ae76139700da006ab4",
     "d51f22b19c7a9daf526f6a1e45d9db475c85d6a91c5cad6b9835add06f68b80f",
-    "1c9c8e96868ee561be637c503721ccffb7d9a413c43b09d158bad6446d7c8bcb"
+    "1c9c8e96868ee561be637c503721ccffb7d9a413c43b09d158bad6446d7c8bcb",
+    "0f918f02d214940231ffc1a6e99242393d2f67ffced9899728c82d35b62a0017"
   ],
   "posted_tags": [
+    [
+      "ghargharkali"
+    ],
     [
       "ghargharkali"
     ],
@@ -6625,6 +6632,18 @@
         "ghargharkali"
       ],
       "post_text": "Today's name is Dharitri. The support of all, the Earth herself. Jai Ma. #ghargharkali"
+    },
+    {
+      "queue_index": 349,
+      "source_index": 349,
+      "post_id": "815708919551934464",
+      "post_url": "https://kakakaforadyakali.tumblr.com/post/815708919551934464",
+      "posted_at": "2026-05-04T18:50:46.520770+00:00",
+      "text_hash": "0f918f02d214940231ffc1a6e99242393d2f67ffced9899728c82d35b62a0017",
+      "tags": [
+        "ghargharkali"
+      ],
+      "post_text": "Today's name is Jagad-ishhwari. The supreme sovereign of the universe, embodying its very essence and power. Jai Ma. #ghargharkali"
     }
   ]
 }
