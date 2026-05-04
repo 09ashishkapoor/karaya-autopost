@@ -1,8 +1,8 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts_mahakali.json",
-  "last_posted_index": 344,
-  "encrypted_refresh_token": "{\"nonce\":\"53NHYGfx18UFdgpXtszdyw==\",\"ciphertext\":\"YaDdaogtqAbfD/DpIBY+HM2HuxWYj3tuWmwn2igxb+A2cM0G4ENNwAIfKtp5FTtetxc=\",\"mac\":\"QpQC2u/1eSLElOsDNhUAdo9bNYnE2+ZkC0GyObEOY/0=\"}",
+  "last_posted_index": 345,
+  "encrypted_refresh_token": "{\"nonce\":\"JJS3kR+73mkFsgcEY2+HRA==\",\"ciphertext\":\"sNq/JM0/lkef0BMIODA//PKPvu09Cgp57xuroff1HCj8xgNabOvNetjvkrYhms2Nu/s=\",\"mac\":\"i84cVrNnAhGBDypFmxv6hEGf+AkP77Tv4PMAhfQmYdo=\"}",
   "posted_post_ids": [
     "814760303295381504",
     "814766726962118656",
@@ -347,7 +347,8 @@
     "815680790631448576",
     "815683993233244160",
     "815686455293820928",
-    "815690383030976512"
+    "815690383030976512",
+    "815694319066480640"
   ],
   "posted_post_urls": [
     "https://kakakaforadyakali.tumblr.com/post/814760303295381504",
@@ -693,7 +694,8 @@
     "https://kakakaforadyakali.tumblr.com/post/815680790631448576",
     "https://kakakaforadyakali.tumblr.com/post/815683993233244160",
     "https://kakakaforadyakali.tumblr.com/post/815686455293820928",
-    "https://kakakaforadyakali.tumblr.com/post/815690383030976512"
+    "https://kakakaforadyakali.tumblr.com/post/815690383030976512",
+    "https://kakakaforadyakali.tumblr.com/post/815694319066480640"
   ],
   "posted_timestamps": [
     "2026-04-24T07:32:55.621622+00:00",
@@ -1039,7 +1041,8 @@
     "2026-05-04T11:23:40.671802+00:00",
     "2026-05-04T12:14:34.813853+00:00",
     "2026-05-04T12:53:43.142999+00:00",
-    "2026-05-04T13:56:08.635774+00:00"
+    "2026-05-04T13:56:08.635774+00:00",
+    "2026-05-04T14:58:42.366034+00:00"
   ],
   "posted_text_hashes": [
     "9a9bfafd8f146bd982514c23ceb52d5d53be86be07aa861c2a0df1e0e126b074",
@@ -1385,9 +1388,13 @@
     "239d95cd7873b7bbd78537f382adfefb6eba6126c5e679efbe13318cc998f448",
     "3ec525b0ff2b57a0b2d467cc4d24e13f1493fb5842827bcaddcc894a426bf38a",
     "66a0c21d7c4e9071fb04794cd402456d82058206671487d8d94fbfe818a12a3d",
-    "ccd7ccf82f54fb3f160aa6996e940ecd10afeae9a708298d0d2b48897104e51e"
+    "ccd7ccf82f54fb3f160aa6996e940ecd10afeae9a708298d0d2b48897104e51e",
+    "f5b8c8cf8aaa9bfef90b6865f690e101ba99c59bb024c57b7b01c2dc86b48900"
   ],
   "posted_tags": [
+    [
+      "ghargharkali"
+    ],
     [
       "ghargharkali"
     ],
@@ -6549,6 +6556,18 @@
         "ghargharkali"
       ],
       "post_text": "Today's name is Venu vina parayana. Present in the flute and the veena, embodying their melodious essence. Jai Ma. #ghargharkali"
+    },
+    {
+      "queue_index": 345,
+      "source_index": 345,
+      "post_id": "815694319066480640",
+      "post_url": "https://kakakaforadyakali.tumblr.com/post/815694319066480640",
+      "posted_at": "2026-05-04T14:58:42.366034+00:00",
+      "text_hash": "f5b8c8cf8aaa9bfef90b6865f690e101ba99c59bb024c57b7b01c2dc86b48900",
+      "tags": [
+        "ghargharkali"
+      ],
+      "post_text": "Today's name is Vanshhini. The bearer of the bamboo flute, resonant with divine melody. Jai Ma. #ghargharkali"
     }
   ]
 }
