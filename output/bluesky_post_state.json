@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts.json",
-  "last_posted_index": 220,
+  "last_posted_index": 221,
   "posted_record_uris": [
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkhgvkr3xr2q",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkhjlikrsu23",
@@ -222,7 +222,8 @@
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkyl7e3lek2j",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkyq4lbwab2g",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkyv6o2dpx2q",
-    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkyzsy5uoy2v"
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkyzsy5uoy2v",
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkz6ha3bin2j"
   ],
   "posted_cids": [
     "bafyreifrst5zlm5gntzglpt6lshxgsutmezuzdypxcxmayy2ozfha5m7ti",
@@ -444,7 +445,8 @@
     "bafyreiexjijwgehncr2kajkjedywgkyrrstqw4kc2jmvrhrskyuzvhva3q",
     "bafyreig2o37g55lrawb25buwpv2ihd7edqgxy6ixwr5hbpdpnk7sgehjoe",
     "bafyreidxwxvcxq26higtshkm2y6t6tcjl4tyu3n2eeb66hx6rhkvcwmpie",
-    "bafyreickojtyrhn7kwelu5ylsiml6wwjog2wycvcxsbh27h2i2ddbxmuoq"
+    "bafyreickojtyrhn7kwelu5ylsiml6wwjog2wycvcxsbh27h2i2ddbxmuoq",
+    "bafyreidd2x5gwiaik625sl2bgkyzhkqmihoy4xoh5le46tu24s5iy4ruga"
   ],
   "posted_timestamps": [
     "2026-04-27T06:27:55.539737+00:00",
@@ -666,7 +668,8 @@
     "2026-05-04T02:00:14.563860+00:00",
     "2026-05-04T03:28:10.189448+00:00",
     "2026-05-04T04:58:48.895099+00:00",
-    "2026-05-04T06:21:45.525152+00:00"
+    "2026-05-04T06:21:45.525152+00:00",
+    "2026-05-04T07:44:39.896234+00:00"
   ],
   "posted_text_hashes": [
     "cf1ac875ed7087c14d3f19118163d018a70035373f00186f7154f6b8a4a58629",
@@ -888,7 +891,8 @@
     "a93aaf308843c2ef19aeac1ece585fa3f2568d0113d93ae0a69bb133c1d69fd7",
     "66a27bbbbdbdb113f44b7bed6c993e6d4c2064444ed9a0689feb527c302993db",
     "3bfe53e8fae3b2cfed3144ee07a0d92839027870b8cfa9b12deacb761a856af9",
-    "68911506d78cb3a05b434c36193807fa750c32fd66bab9fea67bc7e3b5f53f05"
+    "68911506d78cb3a05b434c36193807fa750c32fd66bab9fea67bc7e3b5f53f05",
+    "f10d39268052e266baf9de3aa1184bf7776116cc732e94fc7b7cbe3d5f9305ac"
   ],
   "history": [
     {
@@ -2870,6 +2874,15 @@
       "posted_at": "2026-05-04T06:21:45.525152+00:00",
       "text_hash": "68911506d78cb3a05b434c36193807fa750c32fd66bab9fea67bc7e3b5f53f05",
       "post_text": "Today's name is Jatine. The one with matted hair, a sign of ascetic power. Jai Bhairava Baba. #Kalabhairava"
+    },
+    {
+      "queue_index": 221,
+      "source_index": 221,
+      "post_uri": "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkz6ha3bin2j",
+      "cid": "bafyreidd2x5gwiaik625sl2bgkyzhkqmihoy4xoh5le46tu24s5iy4ruga",
+      "posted_at": "2026-05-04T07:44:39.896234+00:00",
+      "text_hash": "f10d39268052e266baf9de3aa1184bf7776116cc732e94fc7b7cbe3d5f9305ac",
+      "post_text": "Today's name is Janmajaraamrityubhayaapahaaya. The remover of the fear of birth, old age, and death. Jai Bhairava Baba. #Kalabhairava"
     }
   ]
 }
