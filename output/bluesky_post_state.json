@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts.json",
-  "last_posted_index": 235,
+  "last_posted_index": 236,
   "posted_record_uris": [
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkhgvkr3xr2q",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkhjlikrsu23",
@@ -237,7 +237,8 @@
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3ml2dst5cyc2x",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3ml2h6oa5532j",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3ml2k2oj2pv2q",
-    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3ml2lrqso6323"
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3ml2lrqso6323",
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3ml2ndtblf72v"
   ],
   "posted_cids": [
     "bafyreifrst5zlm5gntzglpt6lshxgsutmezuzdypxcxmayy2ozfha5m7ti",
@@ -474,7 +475,8 @@
     "bafyreic3iher3xxjmcqfwlkw7xxe4f4iyd2gvg24wa6ust3s55sh7cr4re",
     "bafyreiaue7m2kvnkb4ldw3dw24t5yjhg5yyoduuwd36kr5ea4hjuck5clq",
     "bafyreia2lvf5tqvtulqzadzyngvusu2ijvulrztq2zorp54ksocwb6kirm",
-    "bafyreihxo7czpuqm2bx7feih4uuktpjooovbnuhxveb3tttcba7jp5codi"
+    "bafyreihxo7czpuqm2bx7feih4uuktpjooovbnuhxveb3tttcba7jp5codi",
+    "bafyreidemohg3kzay6yuwey2yk37rdolr2a7edm7so5zaakzt3fqdenacu"
   ],
   "posted_timestamps": [
     "2026-04-27T06:27:55.539737+00:00",
@@ -711,7 +713,8 @@
     "2026-05-04T18:53:17.456719+00:00",
     "2026-05-04T19:53:36.181979+00:00",
     "2026-05-04T20:45:03.454248+00:00",
-    "2026-05-04T21:15:51.367562+00:00"
+    "2026-05-04T21:15:51.367562+00:00",
+    "2026-05-04T21:43:51.671816+00:00"
   ],
   "posted_text_hashes": [
     "cf1ac875ed7087c14d3f19118163d018a70035373f00186f7154f6b8a4a58629",
@@ -948,7 +951,8 @@
     "50ead8821d1319cc2ba9a8e4f5b5540adbebc082d1d465672f908b6853d3a1da",
     "5f796b1afc8668d05ae9ffb11164def3dfd582d3647bac6b72422ecb091cf1c3",
     "8977833efa5292901dc17b8c424733f99d14d241cd8fd1d66bfbd30ad93dcbdc",
-    "a246c799593e22e46e67ea1a5cce58b7344fdaed72108218c78367adab2e8d42"
+    "a246c799593e22e46e67ea1a5cce58b7344fdaed72108218c78367adab2e8d42",
+    "8802739fd61b4bf79eb852937b3c843888a36d09dd0a4719fbbf8d3e47e29008"
   ],
   "history": [
     {
@@ -3065,6 +3069,15 @@
       "posted_at": "2026-05-04T21:15:51.367562+00:00",
       "text_hash": "a246c799593e22e46e67ea1a5cce58b7344fdaed72108218c78367adab2e8d42",
       "post_text": "Today's name is Tapanaaya. The blazing source of heat that causes all things to become hot. Jai Bhairava Baba. #Kalabhairava"
+    },
+    {
+      "queue_index": 236,
+      "source_index": 236,
+      "post_uri": "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3ml2ndtblf72v",
+      "cid": "bafyreidemohg3kzay6yuwey2yk37rdolr2a7edm7so5zaakzt3fqdenacu",
+      "posted_at": "2026-05-04T21:43:51.671816+00:00",
+      "text_hash": "8802739fd61b4bf79eb852937b3c843888a36d09dd0a4719fbbf8d3e47e29008",
+      "post_text": "Today's name is Taapanaaya. The one who scorches away all impurities and sins. Jai Bhairava Baba. #Kalabhairava"
     }
   ]
 }
