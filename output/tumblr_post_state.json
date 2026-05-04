@@ -1,8 +1,8 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts_mahakali.json",
-  "last_posted_index": 342,
-  "encrypted_refresh_token": "{\"nonce\":\"CSoOiKG/0r2usyBPBqLZHw==\",\"ciphertext\":\"+2O4XKvZcOrShwkWu1gJGl8PVkS+ijKcss4jI8wHKFax9wZ6FzvQKq1gc4XODCJAC5A=\",\"mac\":\"V5Mj8x46Bv5PRjE1QNpqXTIMl5TY06C+jwTMtlZfTVc=\"}",
+  "last_posted_index": 343,
+  "encrypted_refresh_token": "{\"nonce\":\"b6vPzHpiNB9s5tQafSiqxw==\",\"ciphertext\":\"hetsHO7+Lhpq1E92/mAG9vBUswvPM5LIIlkMK/58CCkRRPbim4SCht+vE+gn4FbzYCA=\",\"mac\":\"MmBS4Qr5Rzev9Wh4sQQd3dBspMveYNi08Phr/jEq6ro=\"}",
   "posted_post_ids": [
     "814760303295381504",
     "814766726962118656",
@@ -345,7 +345,8 @@
     "815673774619983872",
     "815677314945941504",
     "815680790631448576",
-    "815683993233244160"
+    "815683993233244160",
+    "815686455293820928"
   ],
   "posted_post_urls": [
     "https://kakakaforadyakali.tumblr.com/post/814760303295381504",
@@ -689,7 +690,8 @@
     "https://kakakaforadyakali.tumblr.com/post/815673774619983872",
     "https://kakakaforadyakali.tumblr.com/post/815677314945941504",
     "https://kakakaforadyakali.tumblr.com/post/815680790631448576",
-    "https://kakakaforadyakali.tumblr.com/post/815683993233244160"
+    "https://kakakaforadyakali.tumblr.com/post/815683993233244160",
+    "https://kakakaforadyakali.tumblr.com/post/815686455293820928"
   ],
   "posted_timestamps": [
     "2026-04-24T07:32:55.621622+00:00",
@@ -1033,7 +1035,8 @@
     "2026-05-04T09:32:09.733415+00:00",
     "2026-05-04T10:28:25.933300+00:00",
     "2026-05-04T11:23:40.671802+00:00",
-    "2026-05-04T12:14:34.813853+00:00"
+    "2026-05-04T12:14:34.813853+00:00",
+    "2026-05-04T12:53:43.142999+00:00"
   ],
   "posted_text_hashes": [
     "9a9bfafd8f146bd982514c23ceb52d5d53be86be07aa861c2a0df1e0e126b074",
@@ -1377,9 +1380,13 @@
     "4ef71392f82505402ed16c8cb473e6569c9d009050736267376cdb134a660dbd",
     "5c1c264be0340eca93eabe1ab104d1a2743de47a0444ed4b830eeae1452d4de7",
     "239d95cd7873b7bbd78537f382adfefb6eba6126c5e679efbe13318cc998f448",
-    "3ec525b0ff2b57a0b2d467cc4d24e13f1493fb5842827bcaddcc894a426bf38a"
+    "3ec525b0ff2b57a0b2d467cc4d24e13f1493fb5842827bcaddcc894a426bf38a",
+    "66a0c21d7c4e9071fb04794cd402456d82058206671487d8d94fbfe818a12a3d"
   ],
   "posted_tags": [
+    [
+      "ghargharkali"
+    ],
     [
       "ghargharkali"
     ],
@@ -6511,6 +6518,18 @@
         "ghargharkali"
       ],
       "post_text": "Today's name is Kala kanthi. She whose throat is dark like a thundercloud, signifying her cosmic power. Jai Ma. #ghargharkali"
+    },
+    {
+      "queue_index": 343,
+      "source_index": 343,
+      "post_id": "815686455293820928",
+      "post_url": "https://kakakaforadyakali.tumblr.com/post/815686455293820928",
+      "posted_at": "2026-05-04T12:53:43.142999+00:00",
+      "text_hash": "66a0c21d7c4e9071fb04794cd402456d82058206671487d8d94fbfe818a12a3d",
+      "tags": [
+        "ghargharkali"
+      ],
+      "post_text": "Today's name is Kambu kanthi. She whose neck is like a conch shell, a mark of auspicious beauty. Jai Ma. #ghargharkali"
     }
   ]
 }
