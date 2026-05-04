@@ -1,8 +1,8 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts_mahakali.json",
-  "last_posted_index": 356,
-  "encrypted_refresh_token": "{\"nonce\":\"MHYZtyubLvaK9ugoEnM43g==\",\"ciphertext\":\"+vynMPEwbX47VveFK7YnSbe3RL+z4fBrv8APZaI0Apv/UZ9lNBqqRr5VLn0HGZhku4A=\",\"mac\":\"O3bh2w3uDEX6aW+5TU38Km2YB6BFjq86323KICR6Er4=\"}",
+  "last_posted_index": 357,
+  "encrypted_refresh_token": "{\"nonce\":\"SwzVwdoUxEMP3W2c1orvqQ==\",\"ciphertext\":\"OI+l0VHa2j4v7B/3yoGpHTB2E5d70N1HwHCIPsK28sDi0/GlmWMXAyKQGKfzffoEKPc=\",\"mac\":\"iaKvHo2dgF7Q9fbnx4RncCKRsqFn8/yD/TNzECgak80=\"}",
   "posted_post_ids": [
     "814760303295381504",
     "814766726962118656",
@@ -359,7 +359,8 @@
     "815719528624488448",
     "815721396628013056",
     "815723101183770624",
-    "815725033853992960"
+    "815725033853992960",
+    "815726724987895808"
   ],
   "posted_post_urls": [
     "https://kakakaforadyakali.tumblr.com/post/814760303295381504",
@@ -717,7 +718,8 @@
     "https://kakakaforadyakali.tumblr.com/post/815719528624488448",
     "https://kakakaforadyakali.tumblr.com/post/815721396628013056",
     "https://kakakaforadyakali.tumblr.com/post/815723101183770624",
-    "https://kakakaforadyakali.tumblr.com/post/815725033853992960"
+    "https://kakakaforadyakali.tumblr.com/post/815725033853992960",
+    "https://kakakaforadyakali.tumblr.com/post/815726724987895808"
   ],
   "posted_timestamps": [
     "2026-04-24T07:32:55.621622+00:00",
@@ -1075,7 +1077,8 @@
     "2026-05-04T21:39:24.023152+00:00",
     "2026-05-04T22:09:05.560101+00:00",
     "2026-05-04T22:36:11.139310+00:00",
-    "2026-05-04T23:06:54.249992+00:00"
+    "2026-05-04T23:06:54.249992+00:00",
+    "2026-05-04T23:33:47.499211+00:00"
   ],
   "posted_text_hashes": [
     "9a9bfafd8f146bd982514c23ceb52d5d53be86be07aa861c2a0df1e0e126b074",
@@ -1433,9 +1436,13 @@
     "6e6185f0ad4bc11b8d239f852ecffb427c5ee61b574da8b70b69399e851c3f7e",
     "7797bc821cd53f4626c50a8f913fd6abab8dbc76b430cc247a6dc185332618d3",
     "c26650cf2f6476f9de2dcd93e6cfeb78b5adc51785d6fcc0c0e5b8d062524d18",
-    "c6c607efffdd4421cd5d35bd19624e0c18a6d881e62d4e3249cb9ca0266511e6"
+    "c6c607efffdd4421cd5d35bd19624e0c18a6d881e62d4e3249cb9ca0266511e6",
+    "7ac8da9b9f7ae480660538bcf04f8c4e271670c57b15d17ec8d66d07900de4b9"
   ],
   "posted_tags": [
+    [
+      "ghargharkali"
+    ],
     [
       "ghargharkali"
     ],
@@ -6777,6 +6784,18 @@
         "ghargharkali"
       ],
       "post_text": "Today's name is RAti-rama. She in whom Rati, the goddess of desire and passion, finds delight. Jai Ma. #ghargharkali"
+    },
+    {
+      "queue_index": 357,
+      "source_index": 357,
+      "post_id": "815726724987895808",
+      "post_url": "https://kakakaforadyakali.tumblr.com/post/815726724987895808",
+      "posted_at": "2026-05-04T23:33:47.499211+00:00",
+      "text_hash": "7ac8da9b9f7ae480660538bcf04f8c4e271670c57b15d17ec8d66d07900de4b9",
+      "tags": [
+        "ghargharkali"
+      ],
+      "post_text": "Today's name is Rohini. The Reddish One, the star goddess, and the beloved of the Moon. Jai Ma. #ghargharkali"
     }
   ]
 }
