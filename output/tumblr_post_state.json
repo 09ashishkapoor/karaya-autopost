@@ -1,8 +1,8 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts_mahakali.json",
-  "last_posted_index": 360,
-  "encrypted_refresh_token": "{\"nonce\":\"AXnEwdNTKZl7ulN4TJ64Pw==\",\"ciphertext\":\"4XRhRCUAFO72fHqOUPnzhN1sKzJNULM6+5jgEelZWOl7Kn5Mi8ZEOHb7odVFGMfVkQw=\",\"mac\":\"Z0pHgip3uuqXEi0i1BLj/Tu31t5Ox300IkpC29AOsZ0=\"}",
+  "last_posted_index": 361,
+  "encrypted_refresh_token": "{\"nonce\":\"tr6MMqh7YH5woUJI6V6kSQ==\",\"ciphertext\":\"/WX0WzpLy9Km+TFwRt/q5sDwk+NGzhu+suJBrh114mrDzMdFJoUwTnrlCyeZKJ9Kr+A=\",\"mac\":\"CL0jFRjUltw+JB+247jiUTjvhRI9em3+2XL/g0B9+cs=\"}",
   "posted_post_ids": [
     "814760303295381504",
     "814766726962118656",
@@ -363,7 +363,8 @@
     "815726724987895808",
     "815728706270134273",
     "815732467279544320",
-    "815735743682101248"
+    "815735743682101248",
+    "815741237049049088"
   ],
   "posted_post_urls": [
     "https://kakakaforadyakali.tumblr.com/post/814760303295381504",
@@ -725,7 +726,8 @@
     "https://kakakaforadyakali.tumblr.com/post/815726724987895808",
     "https://kakakaforadyakali.tumblr.com/post/815728706270134273",
     "https://kakakaforadyakali.tumblr.com/post/815732467279544320",
-    "https://kakakaforadyakali.tumblr.com/post/815735743682101248"
+    "https://kakakaforadyakali.tumblr.com/post/815735743682101248",
+    "https://kakakaforadyakali.tumblr.com/post/815741237049049088"
   ],
   "posted_timestamps": [
     "2026-04-24T07:32:55.621622+00:00",
@@ -1087,7 +1089,8 @@
     "2026-05-04T23:33:47.499211+00:00",
     "2026-05-05T00:05:16.510142+00:00",
     "2026-05-05T01:05:03.256450+00:00",
-    "2026-05-05T01:57:07.872222+00:00"
+    "2026-05-05T01:57:07.872222+00:00",
+    "2026-05-05T03:24:26.986379+00:00"
   ],
   "posted_text_hashes": [
     "9a9bfafd8f146bd982514c23ceb52d5d53be86be07aa861c2a0df1e0e126b074",
@@ -1449,9 +1452,13 @@
     "7ac8da9b9f7ae480660538bcf04f8c4e271670c57b15d17ec8d66d07900de4b9",
     "d2c1c94b1255d3ddb2b39c767ecfaa06c588958bb08adfe47175186717e0497f",
     "6977c8597994b35a11f7dead1238cdb6a98982f7c8e5884f086b06cb7211a3b9",
-    "3d228680b38fd82d269756e43202ce44e686ef057cef525cd19523dab69ef6e4"
+    "3d228680b38fd82d269756e43202ce44e686ef057cef525cd19523dab69ef6e4",
+    "aaec5eea7c1c190c78413b4a843a6b6b31f50b110d478bb4e995b00be179781a"
   ],
   "posted_tags": [
+    [
+      "ghargharkali"
+    ],
     [
       "ghargharkali"
     ],
@@ -6853,6 +6860,18 @@
         "ghargharkali"
       ],
       "post_text": "Today's name is Shhangkhini. The Holder of the conch, whose primordial sound awakens consciousness. Jai Ma. #ghargharkali"
+    },
+    {
+      "queue_index": 361,
+      "source_index": 361,
+      "post_id": "815741237049049088",
+      "post_url": "https://kakakaforadyakali.tumblr.com/post/815741237049049088",
+      "posted_at": "2026-05-05T03:24:26.986379+00:00",
+      "text_hash": "aaec5eea7c1c190c78413b4a843a6b6b31f50b110d478bb4e995b00be179781a",
+      "tags": [
+        "ghargharkali"
+      ],
+      "post_text": "Today's name is Chakrini. She who holds the auspicious discus, sign of cyclical time and cosmic order. Jai Ma. #ghargharkali"
     }
   ]
 }
