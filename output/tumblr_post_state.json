@@ -1,8 +1,8 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts_mahakali.json",
-  "last_posted_index": 367,
-  "encrypted_refresh_token": "{\"nonce\":\"AZuuK+lqeiUTRJHSmdOnMw==\",\"ciphertext\":\"zwfGWruRqiVVWOtXr/7i3C8E43MfmAH5zkuy0u64FQz+a0iIp6zi/3EJsD6QDjrnzkc=\",\"mac\":\"sSN1aTr3eaSeN9eB7HoHWykfAv5xBYcufDQp4YTan9E=\"}",
+  "last_posted_index": 368,
+  "encrypted_refresh_token": "{\"nonce\":\"YrczrjobKj0ImyHQVLMH6w==\",\"ciphertext\":\"vVOZmpIvQmOMFGgMokB9P+pL9UH2GPkCW4xdBK4e2KO275lW8rVDcR0lzhsPckqQ7pE=\",\"mac\":\"bdcuyNIYQeeAauW6dE93VWeMyVN5jmDYPoW+c6uLZO8=\"}",
   "posted_post_ids": [
     "814760303295381504",
     "814766726962118656",
@@ -370,7 +370,8 @@
     "815755066740981760",
     "815758381147160576",
     "815762453316173824",
-    "815765923658088448"
+    "815765923658088448",
+    "815769461610135552"
   ],
   "posted_post_urls": [
     "https://kakakaforadyakali.tumblr.com/post/814760303295381504",
@@ -739,7 +740,8 @@
     "https://kakakaforadyakali.tumblr.com/post/815755066740981760",
     "https://kakakaforadyakali.tumblr.com/post/815758381147160576",
     "https://kakakaforadyakali.tumblr.com/post/815762453316173824",
-    "https://kakakaforadyakali.tumblr.com/post/815765923658088448"
+    "https://kakakaforadyakali.tumblr.com/post/815765923658088448",
+    "https://kakakaforadyakali.tumblr.com/post/815769461610135552"
   ],
   "posted_timestamps": [
     "2026-04-24T07:32:55.621622+00:00",
@@ -1108,7 +1110,8 @@
     "2026-05-05T07:04:15.844787+00:00",
     "2026-05-05T07:56:56.690836+00:00",
     "2026-05-05T09:01:40.207405+00:00",
-    "2026-05-05T09:56:49.976392+00:00"
+    "2026-05-05T09:56:49.976392+00:00",
+    "2026-05-05T10:53:03.882166+00:00"
   ],
   "posted_text_hashes": [
     "9a9bfafd8f146bd982514c23ceb52d5d53be86be07aa861c2a0df1e0e126b074",
@@ -1477,9 +1480,13 @@
     "49a63df7a4e10f191f45e976589d847055935683b5ce17ba4c6d72acf865077b",
     "ff5eee04521ac7b37548e405ca9c1bb70ae06bccc29748e3bf709fb62dec2c4d",
     "34a05709a797785ac06b7314e73284161677b5c5f9749e14fa7b9aa817fc41a0",
-    "d763a347287e09a10624bd2bbc46abb31d823c476e146fb0a0a6516b1ca8707d"
+    "d763a347287e09a10624bd2bbc46abb31d823c476e146fb0a0a6516b1ca8707d",
+    "5b87e7ffce30a31c4c02055e89baee00cf625318b2b79c06690d3abadf6731b2"
   ],
   "posted_tags": [
+    [
+      "ghargharkali"
+    ],
     [
       "ghargharkali"
     ],
@@ -6986,6 +6993,18 @@
         "ghargharkali"
       ],
       "post_text": "Today's name is Shharngga palini. She who bears the mighty Shharnga bow and protects all existence. Jai Ma. #ghargharkali"
+    },
+    {
+      "queue_index": 368,
+      "source_index": 368,
+      "post_id": "815769461610135552",
+      "post_url": "https://kakakaforadyakali.tumblr.com/post/815769461610135552",
+      "posted_at": "2026-05-05T10:53:03.882166+00:00",
+      "text_hash": "5b87e7ffce30a31c4c02055e89baee00cf625318b2b79c06690d3abadf6731b2",
+      "tags": [
+        "ghargharkali"
+      ],
+      "post_text": "Today's name is Pinaka dharini. She who wields the Pinaka bow, the divine weapon of Shiva. Jai Ma. #ghargharkali"
     }
   ]
 }
