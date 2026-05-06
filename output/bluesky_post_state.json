@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts.json",
-  "last_posted_index": 274,
+  "last_posted_index": 275,
   "posted_record_uris": [
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkhgvkr3xr2q",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkhjlikrsu23",
@@ -276,7 +276,8 @@
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3ml5m4vvdzr2c",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3ml5r27hybz2y",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3ml62gb7fck23",
-    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3ml65uli4fr23"
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3ml65uli4fr23",
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3ml6chppjra2a"
   ],
   "posted_cids": [
     "bafyreifrst5zlm5gntzglpt6lshxgsutmezuzdypxcxmayy2ozfha5m7ti",
@@ -552,7 +553,8 @@
     "bafyreib53f3pyx66w26zishops3dknnoutw5sxwmhrn34xlyfck5tz4iam",
     "bafyreid5mfclthgqlug7mnkjf5xgeniouwu32edvhb63bxkhq7bsrtzurm",
     "bafyreibjb7djcgokpfw4nvi3qguu2m4u46mp7acgafost3i5eluapqgpwa",
-    "bafyreie46tqhjztrqrdh5m6osqyuthllkghpob5g4ur3z23kbuefmvmxty"
+    "bafyreie46tqhjztrqrdh5m6osqyuthllkghpob5g4ur3z23kbuefmvmxty",
+    "bafyreibjepejibc67wej5ser4l6huckwnoieyyhf4oj6fcpjujy4ca5qkm"
   ],
   "posted_timestamps": [
     "2026-04-27T06:27:55.539737+00:00",
@@ -828,7 +830,8 @@
     "2026-05-06T02:00:05.003839+00:00",
     "2026-05-06T03:28:03.437712+00:00",
     "2026-05-06T06:15:51.250267+00:00",
-    "2026-05-06T07:17:33.032142+00:00"
+    "2026-05-06T07:17:33.032142+00:00",
+    "2026-05-06T08:39:49.965007+00:00"
   ],
   "posted_text_hashes": [
     "cf1ac875ed7087c14d3f19118163d018a70035373f00186f7154f6b8a4a58629",
@@ -1104,7 +1107,8 @@
     "76f31d602a24c442253956ae3289cd520bd4bf55d6b4c5b64df713c364881d21",
     "03c61a79ebf54b95a0c37dffcb5396c0d8ac6e115ce942bff239d7780280cd53",
     "9fe9178be304ec510ad8c65a44d76c00e4fd11721166ec70039239efb1844887",
-    "6def92fbd2b3f83ba5f77b7461a00f55a8e4ca214325aebf5edceb2a13f1413f"
+    "6def92fbd2b3f83ba5f77b7461a00f55a8e4ca214325aebf5edceb2a13f1413f",
+    "26cff348a83cf3b5503cc35d9f45767a02f3b85668971a7c40b01bc73acad12e"
   ],
   "history": [
     {
@@ -3572,6 +3576,15 @@
       "posted_at": "2026-05-06T07:17:33.032142+00:00",
       "text_hash": "6def92fbd2b3f83ba5f77b7461a00f55a8e4ca214325aebf5edceb2a13f1413f",
       "post_text": "Today's name is Trirvacah sthaaya. The one who is established in the three sacred utterances: Bhur, Bhuvah, and Svah. Jai Bhairava Baba. #Kalabhairava"
+    },
+    {
+      "queue_index": 275,
+      "source_index": 275,
+      "post_uri": "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3ml6chppjra2a",
+      "cid": "bafyreibjepejibc67wej5ser4l6huckwnoieyyhf4oj6fcpjujy4ca5qkm",
+      "posted_at": "2026-05-06T08:39:49.965007+00:00",
+      "text_hash": "26cff348a83cf3b5503cc35d9f45767a02f3b85668971a7c40b01bc73acad12e",
+      "post_text": "Today's name is Trivargadaaya. The one who bestows the three aims of life: dharma, artha, and kama. Jai Bhairava Baba. #Kalabhairava"
     }
   ]
 }
