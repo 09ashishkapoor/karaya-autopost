@@ -1,8 +1,8 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts_mahakali.json",
-  "last_posted_index": 401,
-  "encrypted_refresh_token": "{\"nonce\":\"gKKbS5fNlbuWgu6h8Ro4pA==\",\"ciphertext\":\"Z9ePW+oCn6alhkpjyQ+T9aOwW2PCSFJGqwFhTnXQFTwOGDdDhPhilVWEAW8VVQyETLE=\",\"mac\":\"kt1Ftee4KUg73vmkEJxDjby9k0fvxZA0A2gmYt5fl84=\"}",
+  "last_posted_index": 402,
+  "encrypted_refresh_token": "{\"nonce\":\"q8eEYMJiEtr1GKJYZfPzrw==\",\"ciphertext\":\"Qdl0HgKdg4/Hmin6m7Op5/Tok0Yvja34yVJdN1hRhWrPgEuTBnbQh+gJ8R48lUqLcj4=\",\"mac\":\"n7MclzztjO3Io3Rvxcs+lkmiqFcgN+Fr5cSzwUIJJSU=\"}",
   "posted_post_ids": [
     "814760303295381504",
     "814766726962118656",
@@ -404,7 +404,8 @@
     "815871637747580928",
     "815876291256516608",
     "815879208408678400",
-    "815882613393965056"
+    "815882613393965056",
+    "815886318579187712"
   ],
   "posted_post_urls": [
     "https://kakakaforadyakali.tumblr.com/post/814760303295381504",
@@ -807,7 +808,8 @@
     "https://kakakaforadyakali.tumblr.com/post/815871637747580928",
     "https://kakakaforadyakali.tumblr.com/post/815876291256516608",
     "https://kakakaforadyakali.tumblr.com/post/815879208408678400",
-    "https://kakakaforadyakali.tumblr.com/post/815882613393965056"
+    "https://kakakaforadyakali.tumblr.com/post/815882613393965056",
+    "https://kakakaforadyakali.tumblr.com/post/815886318579187712"
   ],
   "posted_timestamps": [
     "2026-04-24T07:32:55.621622+00:00",
@@ -1210,7 +1212,8 @@
     "2026-05-06T13:57:06.604476+00:00",
     "2026-05-06T15:11:04.593595+00:00",
     "2026-05-06T15:57:26.611323+00:00",
-    "2026-05-06T16:51:33.795723+00:00"
+    "2026-05-06T16:51:33.795723+00:00",
+    "2026-05-06T17:50:27.340969+00:00"
   ],
   "posted_text_hashes": [
     "9a9bfafd8f146bd982514c23ceb52d5d53be86be07aa861c2a0df1e0e126b074",
@@ -1613,9 +1616,13 @@
     "55fd188d61819e8f45132e048f1a4d677132979e603303114895a45de1a04c9a",
     "5609e1691b4e5a17afe0a08c87003d2d43603232f0061e479e684a9af8a701eb",
     "d7e144b44fd2ec399dddd246afd6ab320f07f4e1356b45e73c8b2a8152943af0",
-    "10414f189abffdfde761525409e15bf79abac240ed74edc08f82e75af243a78b"
+    "10414f189abffdfde761525409e15bf79abac240ed74edc08f82e75af243a78b",
+    "f186349ad1bea699fc7198d8f5bc3ae7f928b1ec03251a1dc535bafc30c6e24a"
   ],
   "posted_tags": [
+    [
+      "ghargharkali"
+    ],
     [
       "ghargharkali"
     ],
@@ -7632,6 +7639,18 @@
         "ghargharkali"
       ],
       "post_text": "Today's name is China chelini. She who moves through the land of China. Jai Ma. #ghargharkali"
+    },
+    {
+      "queue_index": 402,
+      "source_index": 402,
+      "post_id": "815886318579187712",
+      "post_url": "https://kakakaforadyakali.tumblr.com/post/815886318579187712",
+      "posted_at": "2026-05-06T17:50:27.340969+00:00",
+      "text_hash": "f186349ad1bea699fc7198d8f5bc3ae7f928b1ec03251a1dc535bafc30c6e24a",
+      "tags": [
+        "ghargharkali"
+      ],
+      "post_text": "Today's name is Simha vahini. Riding the Lion, a sign of Her indomitable courage and fierce power. Jai Ma. #ghargharkali"
     }
   ]
 }
