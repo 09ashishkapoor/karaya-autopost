@@ -1,8 +1,8 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts_mahakali.json",
-  "last_posted_index": 399,
-  "encrypted_refresh_token": "{\"nonce\":\"gMKxqATsJQysUOvgPvCmQQ==\",\"ciphertext\":\"NgZXBFL6jv8OiK0w7/C5hDaDcSeH8sIHYV1wGFV9P1uNeerQoj+mRu3ot3Xu8UQqDeY=\",\"mac\":\"QafII7mvmxOV3KXDEkyInOuVZPW2HvnYtOrDp/Y1dcs=\"}",
+  "last_posted_index": 400,
+  "encrypted_refresh_token": "{\"nonce\":\"A8l8rMqENmfA9MVsJ+Uo/w==\",\"ciphertext\":\"liTe5IjS1piY7vuViHG3/ghnknahThwsj5nYoD66JzI3yQo56ukZ1eJ5EYH9eL4UFgg=\",\"mac\":\"MbyyEW0HT1FaES3EQqbrI7MgSHUuN2i5axZaGCwVmuU=\"}",
   "posted_post_ids": [
     "814760303295381504",
     "814766726962118656",
@@ -402,7 +402,8 @@
     "815863924750761985",
     "815867811721330688",
     "815871637747580928",
-    "815876291256516608"
+    "815876291256516608",
+    "815879208408678400"
   ],
   "posted_post_urls": [
     "https://kakakaforadyakali.tumblr.com/post/814760303295381504",
@@ -803,7 +804,8 @@
     "https://kakakaforadyakali.tumblr.com/post/815863924750761985",
     "https://kakakaforadyakali.tumblr.com/post/815867811721330688",
     "https://kakakaforadyakali.tumblr.com/post/815871637747580928",
-    "https://kakakaforadyakali.tumblr.com/post/815876291256516608"
+    "https://kakakaforadyakali.tumblr.com/post/815876291256516608",
+    "https://kakakaforadyakali.tumblr.com/post/815879208408678400"
   ],
   "posted_timestamps": [
     "2026-04-24T07:32:55.621622+00:00",
@@ -1204,7 +1206,8 @@
     "2026-05-06T11:54:30.999938+00:00",
     "2026-05-06T12:56:18.016486+00:00",
     "2026-05-06T13:57:06.604476+00:00",
-    "2026-05-06T15:11:04.593595+00:00"
+    "2026-05-06T15:11:04.593595+00:00",
+    "2026-05-06T15:57:26.611323+00:00"
   ],
   "posted_text_hashes": [
     "9a9bfafd8f146bd982514c23ceb52d5d53be86be07aa861c2a0df1e0e126b074",
@@ -1605,9 +1608,13 @@
     "68cdc807a3743a7a99244089b8581840aedec8e975793224792a3070d34378bc",
     "d020ab24e57157d8cfb16c10c01158660dab0d846413688bebc956b41cffee78",
     "55fd188d61819e8f45132e048f1a4d677132979e603303114895a45de1a04c9a",
-    "5609e1691b4e5a17afe0a08c87003d2d43603232f0061e479e684a9af8a701eb"
+    "5609e1691b4e5a17afe0a08c87003d2d43603232f0061e479e684a9af8a701eb",
+    "d7e144b44fd2ec399dddd246afd6ab320f07f4e1356b45e73c8b2a8152943af0"
   ],
   "posted_tags": [
+    [
+      "ghargharkali"
+    ],
     [
       "ghargharkali"
     ],
@@ -7594,6 +7601,18 @@
         "ghargharkali"
       ],
       "post_text": "Today's name is Vriishha vahini. Rider of the Bull, signifying Her sovereignty over Dharma. Jai Ma. #ghargharkali"
+    },
+    {
+      "queue_index": 400,
+      "source_index": 400,
+      "post_id": "815879208408678400",
+      "post_url": "https://kakakaforadyakali.tumblr.com/post/815879208408678400",
+      "posted_at": "2026-05-06T15:57:26.611323+00:00",
+      "text_hash": "d7e144b44fd2ec399dddd246afd6ab320f07f4e1356b45e73c8b2a8152943af0",
+      "tags": [
+        "ghargharkali"
+      ],
+      "post_text": "Today's name is Vyaghra-tvag ambara. Clad in tiger skin, a sign of untamed strength and primordial energy. Jai Ma. #ghargharkali"
     }
   ]
 }
