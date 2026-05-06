@@ -1,8 +1,8 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts_mahakali.json",
-  "last_posted_index": 389,
-  "encrypted_refresh_token": "{\"nonce\":\"EVbtOAb11xICE/yQ35wF4w==\",\"ciphertext\":\"k8jiHldKwRbsXr19tkaXMO+ZK/dTmmuD/XSkooKMk7jE4whwhCT6ZHqa4MB73DuG3oA=\",\"mac\":\"lmWrjc5S3O1vh1Rrc6scHIUM5bRWb7jlyzAa7UaL+2k=\"}",
+  "last_posted_index": 390,
+  "encrypted_refresh_token": "{\"nonce\":\"M/LS5jS3HXmwOcoDhnWrlA==\",\"ciphertext\":\"e+kAlg06CDlyjjanINPKW4CHP8SXlxv504RX6xhPByQ3nH0lM1ZvLikBHyLEPKdm7F0=\",\"mac\":\"ZtJ4h/ChKCZllIyZGkjOuykL2RjSKqiS9Vq/wPSC3sM=\"}",
   "posted_post_ids": [
     "814760303295381504",
     "814766726962118656",
@@ -392,7 +392,8 @@
     "815819170630467584",
     "815823093281030144",
     "815826343285702656",
-    "815831871376261120"
+    "815831871376261120",
+    "815837537966915584"
   ],
   "posted_post_urls": [
     "https://kakakaforadyakali.tumblr.com/post/814760303295381504",
@@ -783,7 +784,8 @@
     "https://kakakaforadyakali.tumblr.com/post/815819170630467584",
     "https://kakakaforadyakali.tumblr.com/post/815823093281030144",
     "https://kakakaforadyakali.tumblr.com/post/815826343285702656",
-    "https://kakakaforadyakali.tumblr.com/post/815831871376261120"
+    "https://kakakaforadyakali.tumblr.com/post/815831871376261120",
+    "https://kakakaforadyakali.tumblr.com/post/815837537966915584"
   ],
   "posted_timestamps": [
     "2026-04-24T07:32:55.621622+00:00",
@@ -1174,7 +1176,8 @@
     "2026-05-06T00:03:10.172618+00:00",
     "2026-05-06T01:05:30.998144+00:00",
     "2026-05-06T01:57:10.549371+00:00",
-    "2026-05-06T03:25:02.436136+00:00"
+    "2026-05-06T03:25:02.436136+00:00",
+    "2026-05-06T04:55:06.724354+00:00"
   ],
   "posted_text_hashes": [
     "9a9bfafd8f146bd982514c23ceb52d5d53be86be07aa861c2a0df1e0e126b074",
@@ -1565,9 +1568,13 @@
     "11710e8ff3e6729d65b59404cf88a6796e5d308f2960c8f50aa979385d087868",
     "76949b48858facd06be19776e87916e091cc30a27b5f914c2fd1e3631a64fea3",
     "e31440db5a47372932eb26f89220ec2dffeed9108b4fdfe2f97513fec3d12134",
-    "e05fc4af1f2ef46e3f514bdb7b7cc0dd70d0f2ede111df2d5efb3c4d8d6df7c2"
+    "e05fc4af1f2ef46e3f514bdb7b7cc0dd70d0f2ede111df2d5efb3c4d8d6df7c2",
+    "b051f2789aa2245522181de9e56c2dbb8d172158a144e4703ec99c1ffecc34a9"
   ],
   "posted_tags": [
+    [
+      "ghargharkali"
+    ],
     [
       "ghargharkali"
     ],
@@ -7404,6 +7411,18 @@
         "ghargharkali"
       ],
       "post_text": "Today's name is Rudhir'akt'anggi. She whose limbs are smeared with blood. Jai Ma. #ghargharkali"
+    },
+    {
+      "queue_index": 390,
+      "source_index": 390,
+      "post_id": "815837537966915584",
+      "post_url": "https://kakakaforadyakali.tumblr.com/post/815837537966915584",
+      "posted_at": "2026-05-06T04:55:06.724354+00:00",
+      "text_hash": "b051f2789aa2245522181de9e56c2dbb8d172158a144e4703ec99c1ffecc34a9",
+      "tags": [
+        "ghargharkali"
+      ],
+      "post_text": "Today's name is Rakta kharpara hastini. Bearing a skull dripping with blood in Her hand. Jai Ma. #ghargharkali"
     }
   ]
 }
