@@ -1,8 +1,8 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts_mahakali.json",
-  "last_posted_index": 395,
-  "encrypted_refresh_token": "{\"nonce\":\"6+MEPBEtsMQPHt+4QHSOkg==\",\"ciphertext\":\"3auszUWpKrz0HcXfEJ8nFKAV9ZExbj7z8BchpLLixLZEt6blv8RRjkBdXkwE/SI8GeM=\",\"mac\":\"YiX+adNmiy3Rzl5wPSp6xTISPOlYtsUDyLwRCtdb4S0=\"}",
+  "last_posted_index": 396,
+  "encrypted_refresh_token": "{\"nonce\":\"zY3HdEotrRK3cPyi6tvcrQ==\",\"ciphertext\":\"Jz/hwmcnM7GDWnLvCb1NCY2tGiH2NXElYgqHdRElLZb7uQSjLCgX8tIyC3RQ+k6xVsI=\",\"mac\":\"v8noFkPp7fIw6k0XG0JWs7imDIqJ62uO8aiwd9ZvVL0=\"}",
   "posted_post_ids": [
     "814760303295381504",
     "814766726962118656",
@@ -398,7 +398,8 @@
     "815846356257275904",
     "815853672073396224",
     "815856913677942784",
-    "815860320125976576"
+    "815860320125976576",
+    "815863924750761985"
   ],
   "posted_post_urls": [
     "https://kakakaforadyakali.tumblr.com/post/814760303295381504",
@@ -795,7 +796,8 @@
     "https://kakakaforadyakali.tumblr.com/post/815846356257275904",
     "https://kakakaforadyakali.tumblr.com/post/815853672073396224",
     "https://kakakaforadyakali.tumblr.com/post/815856913677942784",
-    "https://kakakaforadyakali.tumblr.com/post/815860320125976576"
+    "https://kakakaforadyakali.tumblr.com/post/815860320125976576",
+    "https://kakakaforadyakali.tumblr.com/post/815863924750761985"
   ],
   "posted_timestamps": [
     "2026-04-24T07:32:55.621622+00:00",
@@ -1192,7 +1194,8 @@
     "2026-05-06T07:15:16.309666+00:00",
     "2026-05-06T09:11:33.230713+00:00",
     "2026-05-06T10:03:04.703516+00:00",
-    "2026-05-06T10:57:13.296595+00:00"
+    "2026-05-06T10:57:13.296595+00:00",
+    "2026-05-06T11:54:30.999938+00:00"
   ],
   "posted_text_hashes": [
     "9a9bfafd8f146bd982514c23ceb52d5d53be86be07aa861c2a0df1e0e126b074",
@@ -1589,9 +1592,13 @@
     "a7e82f233c3a5c311f9c438ea1b268526a1d451df8dab238bbb6a4bed003252f",
     "aa2671f9664042abe370a9ffe891f6513b50773ae7fd0fecb7ab77e6ed46396b",
     "85419618cc0e97b91b8330f28578e6601e9fb526df2f68f417af43f05949eeaf",
-    "1cdd339cef4c86777aa96ccdf483906a1633dad7eb23db31c73e658c7f669a4d"
+    "1cdd339cef4c86777aa96ccdf483906a1633dad7eb23db31c73e658c7f669a4d",
+    "68cdc807a3743a7a99244089b8581840aedec8e975793224792a3070d34378bc"
   ],
   "posted_tags": [
+    [
+      "ghargharkali"
+    ],
     [
       "ghargharkali"
     ],
@@ -7518,6 +7525,18 @@
         "ghargharkali"
       ],
       "post_text": "Today's name is Kantha mala vibhushhana. Adorned with a garland of human heads, sign of Her dominion over mortality. Jai Ma. #ghargharkali"
+    },
+    {
+      "queue_index": 396,
+      "source_index": 396,
+      "post_id": "815863924750761985",
+      "post_url": "https://kakakaforadyakali.tumblr.com/post/815863924750761985",
+      "posted_at": "2026-05-06T11:54:30.999938+00:00",
+      "text_hash": "68cdc807a3743a7a99244089b8581840aedec8e975793224792a3070d34378bc",
+      "tags": [
+        "ghargharkali"
+      ],
+      "post_text": "Today's name is Shhav'asana. She who is seated upon a corpse. Jai Ma. #ghargharkali"
     }
   ]
 }
