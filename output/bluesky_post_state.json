@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts.json",
-  "last_posted_index": 297,
+  "last_posted_index": 298,
   "posted_record_uris": [
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkhgvkr3xr2q",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkhjlikrsu23",
@@ -299,7 +299,8 @@
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3ml7w7mcjf42u",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3ml7zu6auoh2x",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mla4m7yru422",
-    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mlabjddecr22"
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mlabjddecr22",
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mlagjz3xst2q"
   ],
   "posted_cids": [
     "bafyreifrst5zlm5gntzglpt6lshxgsutmezuzdypxcxmayy2ozfha5m7ti",
@@ -598,7 +599,8 @@
     "bafyreibrn2caeysus5dffsw35i4dc6ebbsd7ovvw3o6cqe66bwtgxqnlka",
     "bafyreihlsjzserwjabn2fqoamrv7pnyykhbsaove3mjxkulktzeybhq32m",
     "bafyreifc5lythkox2gbglh4xp5jpyom4vuesve7725nhfzd25uyisgfo3e",
-    "bafyreig4uxbgz5ct6ozzmhlhv3isw6uqe4dmbqtpk7mclydtc4oqs5jqpq"
+    "bafyreig4uxbgz5ct6ozzmhlhv3isw6uqe4dmbqtpk7mclydtc4oqs5jqpq",
+    "bafyreicrs5owpauxrw4xh6adaaecbbvwzqs2aiii6afglxzmzccpuqgtky"
   ],
   "posted_timestamps": [
     "2026-04-27T06:27:55.539737+00:00",
@@ -897,7 +899,8 @@
     "2026-05-07T00:05:52.523944+00:00",
     "2026-05-07T01:11:03.632816+00:00",
     "2026-05-07T02:00:18.264730+00:00",
-    "2026-05-07T03:28:09.801507+00:00"
+    "2026-05-07T03:28:09.801507+00:00",
+    "2026-05-07T04:58:03.685217+00:00"
   ],
   "posted_text_hashes": [
     "cf1ac875ed7087c14d3f19118163d018a70035373f00186f7154f6b8a4a58629",
@@ -1196,7 +1199,8 @@
     "6ae6b38173e36611e83253dc8e72f7882fa0ca9e676b1c58fad2c8cbc2cfd3b6",
     "1fc3277659b95ebd90256b00db0c035a2e5ce3c2afd2aca19aa5f280872f4164",
     "9be86d9bfe81677c2ff4c9c5e2e42f6673e4c998718280b566d3e8b458da7f26",
-    "3a95544c405f84eb57625476236922ca3a77df8d4843ba27c3146e420de4511c"
+    "3a95544c405f84eb57625476236922ca3a77df8d4843ba27c3146e420de4511c",
+    "07a324e7c7a7d7ccfbfa73257f0ff23a9bc8e6bf9712585d7fb06b6b3d9a4aba"
   ],
   "history": [
     {
@@ -3871,6 +3875,15 @@
       "posted_at": "2026-05-07T03:28:09.801507+00:00",
       "text_hash": "3a95544c405f84eb57625476236922ca3a77df8d4843ba27c3146e420de4511c",
       "post_text": "Today's name is Daatre. The most generous giver and donor. Jai Bhairava Baba. #Kalabhairava"
+    },
+    {
+      "queue_index": 298,
+      "source_index": 298,
+      "post_uri": "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mlagjz3xst2q",
+      "cid": "bafyreicrs5owpauxrw4xh6adaaecbbvwzqs2aiii6afglxzmzccpuqgtky",
+      "posted_at": "2026-05-07T04:58:03.685217+00:00",
+      "text_hash": "07a324e7c7a7d7ccfbfa73257f0ff23a9bc8e6bf9712585d7fb06b6b3d9a4aba",
+      "post_text": "Today's name is Daanaaya. The very embodiment of charity and selfless giving. Jai Bhairava Baba. #Kalabhairava"
     }
   ]
 }
