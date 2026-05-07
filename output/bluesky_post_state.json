@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts.json",
-  "last_posted_index": 301,
+  "last_posted_index": 302,
   "posted_record_uris": [
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkhgvkr3xr2q",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkhjlikrsu23",
@@ -303,7 +303,8 @@
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mlagjz3xst2q",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mlal4dggsb2x",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mlaprjppcz2q",
-    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mlat5wlvzv2s"
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mlat5wlvzv2s",
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mlawiakni522"
   ],
   "posted_cids": [
     "bafyreifrst5zlm5gntzglpt6lshxgsutmezuzdypxcxmayy2ozfha5m7ti",
@@ -606,7 +607,8 @@
     "bafyreicrs5owpauxrw4xh6adaaecbbvwzqs2aiii6afglxzmzccpuqgtky",
     "bafyreihl3bdjqg6yiaqqez6wi4ommj2mb4qa2hu67ho7gvfido3ksy7z3e",
     "bafyreibpskjkx7dopj7jegwnxunac5nszjr6rvankse3ohl5mbn6hc42s4",
-    "bafyreifo6w224pmswpdpkoypiwzvw3axmdtgftj363yxw2yuguzfsacwru"
+    "bafyreifo6w224pmswpdpkoypiwzvw3axmdtgftj363yxw2yuguzfsacwru",
+    "bafyreifydolittozhtsoht2ttvlziauzks7g3smgzlea2fwwcdnvjodgje"
   ],
   "posted_timestamps": [
     "2026-04-27T06:27:55.539737+00:00",
@@ -909,7 +911,8 @@
     "2026-05-07T04:58:03.685217+00:00",
     "2026-05-07T06:19:51.109116+00:00",
     "2026-05-07T07:43:17.341027+00:00",
-    "2026-05-07T08:43:54.702135+00:00"
+    "2026-05-07T08:43:54.702135+00:00",
+    "2026-05-07T09:43:21.906081+00:00"
   ],
   "posted_text_hashes": [
     "cf1ac875ed7087c14d3f19118163d018a70035373f00186f7154f6b8a4a58629",
@@ -1212,7 +1215,8 @@
     "07a324e7c7a7d7ccfbfa73257f0ff23a9bc8e6bf9712585d7fb06b6b3d9a4aba",
     "a6e1dee1e638e1f36b695a2696948d1c52d3ef05ad69529bdcde3261f39c10eb",
     "fe44bfd516494726a7b1ef34da52c105c77d63019df2f199b0b644aff710b4b3",
-    "929504e155f1785664107ce85cdc8f20256c6d6ba6025dc3aa16bda905fdfbad"
+    "929504e155f1785664107ce85cdc8f20256c6d6ba6025dc3aa16bda905fdfbad",
+    "588eaaa4441c9c50f3bcf5f7ffe4a8530ec5b395b10b0a0c15645341f59e75e5"
   ],
   "history": [
     {
@@ -3923,6 +3927,15 @@
       "posted_at": "2026-05-07T08:43:54.702135+00:00",
       "text_hash": "929504e155f1785664107ce85cdc8f20256c6d6ba6025dc3aa16bda905fdfbad",
       "post_text": "Today's name is Dvijaaya. The twice-born one who signifies spiritual rebirth and initiation. Jai Bhairava Baba. #Kalabhairava"
+    },
+    {
+      "queue_index": 302,
+      "source_index": 302,
+      "post_uri": "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mlawiakni522",
+      "cid": "bafyreifydolittozhtsoht2ttvlziauzks7g3smgzlea2fwwcdnvjodgje",
+      "posted_at": "2026-05-07T09:43:21.906081+00:00",
+      "text_hash": "588eaaa4441c9c50f3bcf5f7ffe4a8530ec5b395b10b0a0c15645341f59e75e5",
+      "post_text": "Today's name is Devakaayaaya. The one whose body is formed from the essence of all the gods. Jai Bhairava Baba. #Kalabhairava"
     }
   ]
 }
