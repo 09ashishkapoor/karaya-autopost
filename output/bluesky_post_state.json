@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts.json",
-  "last_posted_index": 329,
+  "last_posted_index": 330,
   "posted_record_uris": [
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkhgvkr3xr2q",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkhjlikrsu23",
@@ -331,7 +331,8 @@
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mlczak2i7l2j",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mld3nycqy52g",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mld6ovcstj2q",
-    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mldayzagqp22"
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mldayzagqp22",
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mlddxmyvd42g"
   ],
   "posted_cids": [
     "bafyreifrst5zlm5gntzglpt6lshxgsutmezuzdypxcxmayy2ozfha5m7ti",
@@ -662,7 +663,8 @@
     "bafyreiduqtliggtoqnh2gd5qecgabdtdbruiv746iw5245yqy63kw6m43a",
     "bafyreibiqc7kpqtkbvsud6r45cuj4tiarnzji3el7esdz3uqpde55zsdhu",
     "bafyreibqydqddutmkpfg7rkwncjbigzxfqpbr7le4rvlhy2z4uvxzphv3e",
-    "bafyreiclcicmgwxgf4khlks7mqbwxssl4juvkfqqcnaq3sasxqle2jewqu"
+    "bafyreiclcicmgwxgf4khlks7mqbwxssl4juvkfqqcnaq3sasxqle2jewqu",
+    "bafyreifeozgvjp7iyxabmws7jxskn5rd7y774tonljnegzjyfkpdlbrz64"
   ],
   "posted_timestamps": [
     "2026-04-27T06:27:55.539737+00:00",
@@ -993,7 +995,8 @@
     "2026-05-08T05:38:04.340636+00:00",
     "2026-05-08T06:21:22.777990+00:00",
     "2026-05-08T07:15:34.417847+00:00",
-    "2026-05-08T07:57:03.499679+00:00"
+    "2026-05-08T07:57:03.499679+00:00",
+    "2026-05-08T08:49:56.392925+00:00"
   ],
   "posted_text_hashes": [
     "cf1ac875ed7087c14d3f19118163d018a70035373f00186f7154f6b8a4a58629",
@@ -1324,7 +1327,8 @@
     "2a6c055fa3b90fb4bfd1635fc3006408d55ddd43fd68ad6c339e18abde77663b",
     "2969b823fee8accfe9a21df347b9a84bf674d1a6110dde97cba6c420d719cfad",
     "612bb5818be957dc5469ca6914550499e7bd135f26f444d65a0d9c39b1e2a64f",
-    "b96414d1823a67a77967e693e77cd24c8870c2e8f96f28cc27107c0448199a1f"
+    "b96414d1823a67a77967e693e77cd24c8870c2e8f96f28cc27107c0448199a1f",
+    "23938a8c4fdc4350343ee9b06ed748f845d6458e9d13fd1960de6c50aebc1f33"
   ],
   "history": [
     {
@@ -4287,6 +4291,15 @@
       "posted_at": "2026-05-08T07:57:03.499679+00:00",
       "text_hash": "b96414d1823a67a77967e693e77cd24c8870c2e8f96f28cc27107c0448199a1f",
       "post_text": "Today's name is Ativijnaanaaya. The one who holds supreme and transcendent knowledge. Jai Bhairava Baba. #Kalabhairava"
+    },
+    {
+      "queue_index": 330,
+      "source_index": 330,
+      "post_uri": "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mlddxmyvd42g",
+      "cid": "bafyreifeozgvjp7iyxabmws7jxskn5rd7y774tonljnegzjyfkpdlbrz64",
+      "posted_at": "2026-05-08T08:49:56.392925+00:00",
+      "text_hash": "23938a8c4fdc4350343ee9b06ed748f845d6458e9d13fd1960de6c50aebc1f33",
+      "post_text": "Today's name is Narasimhanipaatanaaya. The one who brought about the downfall of the fierce man-lion form, Narasimha. Jai Bhairava Baba. #Kalabhairava"
     }
   ]
 }
