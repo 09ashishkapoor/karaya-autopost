@@ -1,8 +1,8 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts_mahakali.json",
-  "last_posted_index": 497,
-  "encrypted_refresh_token": "{\"nonce\":\"wH7CVlPC8jDrfu8h0Z4QJQ==\",\"ciphertext\":\"k4Q17NswCtXdMcrLh8ir2AqsXbEuADHrNMU5kKEV3r8tMV46m6xB5nxORwq381dZCgM=\",\"mac\":\"vqY7/HFnA5JaLAyjmU97OiSldaUgjwsVDesxGNJg2WM=\"}",
+  "last_posted_index": 498,
+  "encrypted_refresh_token": "{\"nonce\":\"4ktn9GMZxEnriyurmpfZQQ==\",\"ciphertext\":\"+ccHPf/yd/yoTzAqVIFnVG/WV2gPjaMjO5BC2IKcqVqr1oP+IO9E5QzuGwfkKrtmFaM=\",\"mac\":\"TpX6+Yuw6J2zvbvL7kkSmlXQXIi+cz4XDyCo0WGWa8g=\"}",
   "posted_post_ids": [
     "814760303295381504",
     "814766726962118656",
@@ -500,7 +500,8 @@
     "816158952380399616",
     "816160951279763456",
     "816163083916656640",
-    "816165021369401344"
+    "816165021369401344",
+    "816166399253905408"
   ],
   "posted_post_urls": [
     "https://kakakaforadyakali.tumblr.com/post/814760303295381504",
@@ -999,7 +1000,8 @@
     "https://kakakaforadyakali.tumblr.com/post/816158952380399616",
     "https://kakakaforadyakali.tumblr.com/post/816160951279763456",
     "https://kakakaforadyakali.tumblr.com/post/816163083916656640",
-    "https://kakakaforadyakali.tumblr.com/post/816165021369401344"
+    "https://kakakaforadyakali.tumblr.com/post/816165021369401344",
+    "https://kakakaforadyakali.tumblr.com/post/816166399253905408"
   ],
   "posted_timestamps": [
     "2026-04-24T07:32:55.621622+00:00",
@@ -1498,7 +1500,8 @@
     "2026-05-09T18:03:51.412841+00:00",
     "2026-05-09T18:35:37.490441+00:00",
     "2026-05-09T19:09:31.403099+00:00",
-    "2026-05-09T19:40:19.016466+00:00"
+    "2026-05-09T19:40:19.016466+00:00",
+    "2026-05-09T20:02:13.149353+00:00"
   ],
   "posted_text_hashes": [
     "9a9bfafd8f146bd982514c23ceb52d5d53be86be07aa861c2a0df1e0e126b074",
@@ -1997,9 +2000,13 @@
     "41469bdb5327776617623ce33fddbe0fd15d3a093e92e01fc19c61249db9854d",
     "def1e058affa773adeaa5691b2ca9a51d84e3f6aff95aeab102743d8fae9ba94",
     "7299185e095e1ff54fc73d42c93bfad2612fc1059c7d7834fed4afdea424cd34",
-    "394ff6bd5056b3f0c72fad373a871ac6eaf0b3586dc3955a3f8c554da7900af6"
+    "394ff6bd5056b3f0c72fad373a871ac6eaf0b3586dc3955a3f8c554da7900af6",
+    "948dcfb45e0827ae12216d05e4d45f87ead8d43daf7dbcf41faf91b8169a74f7"
   ],
   "posted_tags": [
+    [
+      "ghargharkali"
+    ],
     [
       "ghargharkali"
     ],
@@ -9456,6 +9463,18 @@
         "ghargharkali"
       ],
       "post_text": "Today's name is Kriitya. The Doer of all actions and the source of all creation. Jai Ma. #ghargharkali"
+    },
+    {
+      "queue_index": 498,
+      "source_index": 498,
+      "post_id": "816166399253905408",
+      "post_url": "https://kakakaforadyakali.tumblr.com/post/816166399253905408",
+      "posted_at": "2026-05-09T20:02:13.149353+00:00",
+      "text_hash": "948dcfb45e0827ae12216d05e4d45f87ead8d43daf7dbcf41faf91b8169a74f7",
+      "tags": [
+        "ghargharkali"
+      ],
+      "post_text": "Today's name is Ayodhya vishhama sama. The One for whom inaccessible fortresses, and even or uneven ground alike, are all the same, showing Her dominion over every terrain and circumstance. Jai Ma. #ghargharkali"
     }
   ]
 }
