@@ -1,8 +1,8 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts_mahakali.json",
-  "last_posted_index": 495,
-  "encrypted_refresh_token": "{\"nonce\":\"IyMAjpnamQo2ksN1MNaSMA==\",\"ciphertext\":\"u01o6twgvIQJhHikl8Ia+9iSMBaFmhVwLFj6zU4/mPXldPYtjy4obFXPqG9U90Z5hss=\",\"mac\":\"pPBrQOi5SLZ5g2bkcli4y2i6Ojv/juF5uyR8HBfW3uA=\"}",
+  "last_posted_index": 496,
+  "encrypted_refresh_token": "{\"nonce\":\"68bilc8kB1wh7NJmSWCHrA==\",\"ciphertext\":\"J+yEA4z00LWW78RDqW0TDmve4DROApBPpZb4yPZNv7fmOJXoAD4i+qz3yFyOGkFcIO0=\",\"mac\":\"3aXlwMu4JbHZebohRw9hBQRnTSMmuLwQvBrmv2ueJ4E=\"}",
   "posted_post_ids": [
     "814760303295381504",
     "814766726962118656",
@@ -498,7 +498,8 @@
     "816155364402905088",
     "816157119989579776",
     "816158952380399616",
-    "816160951279763456"
+    "816160951279763456",
+    "816163083916656640"
   ],
   "posted_post_urls": [
     "https://kakakaforadyakali.tumblr.com/post/814760303295381504",
@@ -995,7 +996,8 @@
     "https://kakakaforadyakali.tumblr.com/post/816155364402905088",
     "https://kakakaforadyakali.tumblr.com/post/816157119989579776",
     "https://kakakaforadyakali.tumblr.com/post/816158952380399616",
-    "https://kakakaforadyakali.tumblr.com/post/816160951279763456"
+    "https://kakakaforadyakali.tumblr.com/post/816160951279763456",
+    "https://kakakaforadyakali.tumblr.com/post/816163083916656640"
   ],
   "posted_timestamps": [
     "2026-04-24T07:32:55.621622+00:00",
@@ -1492,7 +1494,8 @@
     "2026-05-09T17:06:49.948717+00:00",
     "2026-05-09T17:34:43.642393+00:00",
     "2026-05-09T18:03:51.412841+00:00",
-    "2026-05-09T18:35:37.490441+00:00"
+    "2026-05-09T18:35:37.490441+00:00",
+    "2026-05-09T19:09:31.403099+00:00"
   ],
   "posted_text_hashes": [
     "9a9bfafd8f146bd982514c23ceb52d5d53be86be07aa861c2a0df1e0e126b074",
@@ -1989,9 +1992,13 @@
     "ab459994ab1fd0523b1aacdd4ce275432b9463188c7f5419b96880985e2158ad",
     "0b030190e2f25fa420df22f9a5c9c7cf41f5e1deb4c361db816f4c0c7cef6a0e",
     "41469bdb5327776617623ce33fddbe0fd15d3a093e92e01fc19c61249db9854d",
-    "def1e058affa773adeaa5691b2ca9a51d84e3f6aff95aeab102743d8fae9ba94"
+    "def1e058affa773adeaa5691b2ca9a51d84e3f6aff95aeab102743d8fae9ba94",
+    "7299185e095e1ff54fc73d42c93bfad2612fc1059c7d7834fed4afdea424cd34"
   ],
   "posted_tags": [
+    [
+      "ghargharkali"
+    ],
     [
       "ghargharkali"
     ],
@@ -9418,6 +9425,18 @@
         "ghargharkali"
       ],
       "post_text": "Today's name is Kartiki. The Goddess worshipped in the month of Karthika. Jai Ma. #ghargharkali"
+    },
+    {
+      "queue_index": 496,
+      "source_index": 496,
+      "post_id": "816163083916656640",
+      "post_url": "https://kakakaforadyakali.tumblr.com/post/816163083916656640",
+      "posted_at": "2026-05-09T19:09:31.403099+00:00",
+      "text_hash": "7299185e095e1ff54fc73d42c93bfad2612fc1059c7d7834fed4afdea424cd34",
+      "tags": [
+        "ghargharkali"
+      ],
+      "post_text": "Today's name is Kriittika. The One who cuts and cleaves, revealing Her power to destroy ignorance and duality. Jai Ma. #ghargharkali"
     }
   ]
 }
