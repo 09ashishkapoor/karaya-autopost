@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts.json",
-  "last_posted_index": 359,
+  "last_posted_index": 360,
   "posted_record_uris": [
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkhgvkr3xr2q",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkhjlikrsu23",
@@ -361,7 +361,8 @@
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mlfrkc7vv62s",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mlfuiufvkq2a",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mlfxnklwwb2o",
-    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mlg2ekzzgx2x"
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mlg2ekzzgx2x",
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mlg47xtapk2c"
   ],
   "posted_cids": [
     "bafyreifrst5zlm5gntzglpt6lshxgsutmezuzdypxcxmayy2ozfha5m7ti",
@@ -722,7 +723,8 @@
     "bafyreiffyxfy6vyjg64vfdvrujyx2z6idqrvlmf4ztlqt4apowaxv372im",
     "bafyreievbcfgxrwhzsqkk76la5e54kdydct6ptuku2utvh6szq3de7oyea",
     "bafyreiccybokvdtansxoqprfbfquzunzidycasxqvtqdqiln525apbm2ri",
-    "bafyreiewirg2mtyldv4thbzqyvwbdmahdf6z43cnanb742cxtz3dfvjgj4"
+    "bafyreiewirg2mtyldv4thbzqyvwbdmahdf6z43cnanb742cxtz3dfvjgj4",
+    "bafyreihqnsdnx5xhtipq7jcibxjtx7zsoicpok3nupqf5j64ij5bdqqm4i"
   ],
   "posted_timestamps": [
     "2026-04-27T06:27:55.539737+00:00",
@@ -1083,7 +1085,8 @@
     "2026-05-09T07:58:20.774372+00:00",
     "2026-05-09T08:51:13.950826+00:00",
     "2026-05-09T09:47:32.656907+00:00",
-    "2026-05-09T10:36:12.345728+00:00"
+    "2026-05-09T10:36:12.345728+00:00",
+    "2026-05-09T11:09:25.485283+00:00"
   ],
   "posted_text_hashes": [
     "cf1ac875ed7087c14d3f19118163d018a70035373f00186f7154f6b8a4a58629",
@@ -1444,7 +1447,8 @@
     "e5e9233b7cdc1b2875f5a296bb33ce982a712f30b355ef2a6e312c8e72d740aa",
     "c4223e4ebe073877cbe653757ab5c59c36dddd1049867446c1b79502a6a01ce0",
     "742809afda3364ddeb2e4af512253d2c5060fd7093dd4e1dc20eb2f24f52dbb5",
-    "8152a8b2c521f9404f50dac3482d1fe6ab1495d3b105f5959c07a3c440086a99"
+    "8152a8b2c521f9404f50dac3482d1fe6ab1495d3b105f5959c07a3c440086a99",
+    "e448ffb1bcf7330d39aafd75b7b389fc0a3d5a54d2227f3bf7df9285e3fea887"
   ],
   "history": [
     {
@@ -4677,6 +4681,15 @@
       "posted_at": "2026-05-09T10:36:12.345728+00:00",
       "text_hash": "8152a8b2c521f9404f50dac3482d1fe6ab1495d3b105f5959c07a3c440086a99",
       "post_text": "Today's name is Vairaagine. The supreme ascetic, filled with profound renunciation. Jai Bhairava Baba. #Kalabhairava"
+    },
+    {
+      "queue_index": 360,
+      "source_index": 360,
+      "post_uri": "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mlg47xtapk2c",
+      "cid": "bafyreihqnsdnx5xhtipq7jcibxjtx7zsoicpok3nupqf5j64ij5bdqqm4i",
+      "posted_at": "2026-05-09T11:09:25.485283+00:00",
+      "text_hash": "e448ffb1bcf7330d39aafd75b7b389fc0a3d5a54d2227f3bf7df9285e3fea887",
+      "post_text": "Today's name is Tyaagine. The ultimate renunciant, having given up everything. Jai Bhairava Baba. #Kalabhairava"
     }
   ]
 }
