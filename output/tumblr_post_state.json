@@ -1,8 +1,8 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts_mahakali.json",
-  "last_posted_index": 504,
-  "encrypted_refresh_token": "{\"nonce\":\"o6YqZc5svaaKg4ZbUpaHTA==\",\"ciphertext\":\"7zMxJxl0n7S/qJHf19uHqt62TooXoCnZZ3feFMj+3iu3Yscz41bYz+qDs9EkN6OkfT8=\",\"mac\":\"ezeSQeikXOeFzHGuAxcM7XPwgBi0BZxTmIxZfkR2CpM=\"}",
+  "last_posted_index": 505,
+  "encrypted_refresh_token": "{\"nonce\":\"wCUO2WN4kLYS5NxwEnfwOQ==\",\"ciphertext\":\"l38w/O4J3oYymMIs77sso6JYW0D1eO90R+KraihSwfsj1J7FRroSA0Ww+A1aKpa2qHw=\",\"mac\":\"ynLWNyM54XpRr4qiLdfPfXbqO0UGvR60Ibpm1M0Rg/c=\"}",
   "posted_post_ids": [
     "814760303295381504",
     "814766726962118656",
@@ -507,7 +507,8 @@
     "816171913135243264",
     "816173952842055680",
     "816175624607678464",
-    "816177798553141248"
+    "816177798553141248",
+    "816179583120457728"
   ],
   "posted_post_urls": [
     "https://kakakaforadyakali.tumblr.com/post/814760303295381504",
@@ -1013,7 +1014,8 @@
     "https://kakakaforadyakali.tumblr.com/post/816171913135243264",
     "https://kakakaforadyakali.tumblr.com/post/816173952842055680",
     "https://kakakaforadyakali.tumblr.com/post/816175624607678464",
-    "https://kakakaforadyakali.tumblr.com/post/816177798553141248"
+    "https://kakakaforadyakali.tumblr.com/post/816177798553141248",
+    "https://kakakaforadyakali.tumblr.com/post/816179583120457728"
   ],
   "posted_timestamps": [
     "2026-04-24T07:32:55.621622+00:00",
@@ -1519,7 +1521,8 @@
     "2026-05-09T21:29:51.530421+00:00",
     "2026-05-09T22:02:16.714827+00:00",
     "2026-05-09T22:28:51.041748+00:00",
-    "2026-05-09T23:03:24.323360+00:00"
+    "2026-05-09T23:03:24.323360+00:00",
+    "2026-05-09T23:31:46.184681+00:00"
   ],
   "posted_text_hashes": [
     "9a9bfafd8f146bd982514c23ceb52d5d53be86be07aa861c2a0df1e0e126b074",
@@ -2025,9 +2028,13 @@
     "5e0853681ac88f1a218a3490d1e96616499b923f614054c1ff9cc336ccbad88b",
     "733da889829ae8a1db0f1b542ab746f4451ab10ecdc4e3286bb0ecf1875a8d35",
     "4ccaba265b9c3482d9281cfa8b39c81177d1bb04929742214f7fa18e94123d4e",
-    "8b8307cfd202babf78027606a968800ef7d729f1b84f49cb42f31cf319a92e5a"
+    "8b8307cfd202babf78027606a968800ef7d729f1b84f49cb42f31cf319a92e5a",
+    "80e4ce8e97027906450ac0c7941188224ee2c8e042eb3410a701525abe63ef0e"
   ],
   "posted_tags": [
+    [
+      "ghargharkali"
+    ],
     [
       "ghargharkali"
     ],
@@ -9589,6 +9596,18 @@
         "ghargharkali"
       ],
       "post_text": "Today's name is Trai-lokya janani. The Mother of the Three Worlds, creating and sustaining the whole cosmos. Jai Ma. #ghargharkali"
+    },
+    {
+      "queue_index": 505,
+      "source_index": 505,
+      "post_id": "816179583120457728",
+      "post_url": "https://kakakaforadyakali.tumblr.com/post/816179583120457728",
+      "posted_at": "2026-05-09T23:31:46.184681+00:00",
+      "text_hash": "80e4ce8e97027906450ac0c7941188224ee2c8e042eb3410a701525abe63ef0e",
+      "tags": [
+        "ghargharkali"
+      ],
+      "post_text": "Today's name is Jyeshhtha. The Elder One, primordial in existence and supreme in seniority. Jai Ma. #ghargharkali"
     }
   ]
 }
