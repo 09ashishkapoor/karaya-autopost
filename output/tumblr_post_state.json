@@ -1,8 +1,8 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts_mahakali.json",
-  "last_posted_index": 502,
-  "encrypted_refresh_token": "{\"nonce\":\"3FGz959zyKaKWeG65S6Vbg==\",\"ciphertext\":\"yzlNHA3p90I7kR47/0UH3DHRtI5nRHRZwnGlxJAOK8SONWiiXxDEsIBFx9WZvmEAf5U=\",\"mac\":\"xUTvtQu+whXggY3rp0PUDPBqMZHYnym6DZ3uzGPkVho=\"}",
+  "last_posted_index": 503,
+  "encrypted_refresh_token": "{\"nonce\":\"2OOiUSftEo6M29bOh3TX9g==\",\"ciphertext\":\"Ur/JX5j7b7V8NnI7FlNldpQlQWHgEgUA7Q/qFp7eWiQ1W/lAfrVyUBCgdn3hMqftc10=\",\"mac\":\"1zSioI1yHyj+J16wsmOIMLBr/FYh3MK8CHVFa2Z7dzQ=\"}",
   "posted_post_ids": [
     "814760303295381504",
     "814766726962118656",
@@ -505,7 +505,8 @@
     "816168109258014720",
     "816170212957241344",
     "816171913135243264",
-    "816173952842055680"
+    "816173952842055680",
+    "816175624607678464"
   ],
   "posted_post_urls": [
     "https://kakakaforadyakali.tumblr.com/post/814760303295381504",
@@ -1009,7 +1010,8 @@
     "https://kakakaforadyakali.tumblr.com/post/816168109258014720",
     "https://kakakaforadyakali.tumblr.com/post/816170212957241344",
     "https://kakakaforadyakali.tumblr.com/post/816171913135243264",
-    "https://kakakaforadyakali.tumblr.com/post/816173952842055680"
+    "https://kakakaforadyakali.tumblr.com/post/816173952842055680",
+    "https://kakakaforadyakali.tumblr.com/post/816175624607678464"
   ],
   "posted_timestamps": [
     "2026-04-24T07:32:55.621622+00:00",
@@ -1513,7 +1515,8 @@
     "2026-05-09T20:29:23.887908+00:00",
     "2026-05-09T21:02:50.145942+00:00",
     "2026-05-09T21:29:51.530421+00:00",
-    "2026-05-09T22:02:16.714827+00:00"
+    "2026-05-09T22:02:16.714827+00:00",
+    "2026-05-09T22:28:51.041748+00:00"
   ],
   "posted_text_hashes": [
     "9a9bfafd8f146bd982514c23ceb52d5d53be86be07aa861c2a0df1e0e126b074",
@@ -2017,9 +2020,13 @@
     "3c432ee8be074880831360228470df832d897d4778068112cc9d01e5053c5aef",
     "2a5fde6e095592f64ca66ac1e0ded332288376ce63168b981f8588a9c353eb5f",
     "5e0853681ac88f1a218a3490d1e96616499b923f614054c1ff9cc336ccbad88b",
-    "733da889829ae8a1db0f1b542ab746f4451ab10ecdc4e3286bb0ecf1875a8d35"
+    "733da889829ae8a1db0f1b542ab746f4451ab10ecdc4e3286bb0ecf1875a8d35",
+    "4ccaba265b9c3482d9281cfa8b39c81177d1bb04929742214f7fa18e94123d4e"
   ],
   "posted_tags": [
+    [
+      "ghargharkali"
+    ],
     [
       "ghargharkali"
     ],
@@ -9551,6 +9558,18 @@
         "ghargharkali"
       ],
       "post_text": "Today's name is Hladini. The Delighter who brings joy and bliss to all existence. Jai Ma. #ghargharkali"
+    },
+    {
+      "queue_index": 503,
+      "source_index": 503,
+      "post_id": "816175624607678464",
+      "post_url": "https://kakakaforadyakali.tumblr.com/post/816175624607678464",
+      "posted_at": "2026-05-09T22:28:51.041748+00:00",
+      "text_hash": "4ccaba265b9c3482d9281cfa8b39c81177d1bb04929742214f7fa18e94123d4e",
+      "tags": [
+        "ghargharkali"
+      ],
+      "post_text": "Today's name is Kleshha nashhini. The Destroyer of afflictions and suffering. Jai Ma. #ghargharkali"
     }
   ]
 }
