@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts.json",
-  "last_posted_index": 353,
+  "last_posted_index": 354,
   "posted_record_uris": [
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkhgvkr3xr2q",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkhjlikrsu23",
@@ -355,7 +355,8 @@
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mlf2pwcudf2q",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mlf5jtlkja2g",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mlfcgjrjcl2v",
-    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mlfhcggw452o"
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mlfhcggw452o",
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mlflaey2oi2x"
   ],
   "posted_cids": [
     "bafyreifrst5zlm5gntzglpt6lshxgsutmezuzdypxcxmayy2ozfha5m7ti",
@@ -710,7 +711,8 @@
     "bafyreifk5uaofoczl6dqfgkfewmv7tsjfuocf75penl3vomb5stzes3yrq",
     "bafyreif4ffa775arjlahxgs7wug64bbiutie3l45vg3xg73kzkqjpwexlq",
     "bafyreihpaunm4vhm7kjhd4e7oi4dlgvcjlzoqoikavhkzqsxpeveqx2moy",
-    "bafyreiejpx4gg3wmoqvylxvd6zfuelfjoayh2qtdc7eo46q7jryjdutnly"
+    "bafyreiejpx4gg3wmoqvylxvd6zfuelfjoayh2qtdc7eo46q7jryjdutnly",
+    "bafyreibmk2zytyqb56n3fq4vqok2feb533zaazpc6gphrzejrfe7bgcyym"
   ],
   "posted_timestamps": [
     "2026-04-27T06:27:55.539737+00:00",
@@ -1065,7 +1067,8 @@
     "2026-05-09T01:09:53.528405+00:00",
     "2026-05-09T02:00:10.551852+00:00",
     "2026-05-09T03:27:48.340819+00:00",
-    "2026-05-09T04:54:59.316065+00:00"
+    "2026-05-09T04:54:59.316065+00:00",
+    "2026-05-09T06:05:25.650878+00:00"
   ],
   "posted_text_hashes": [
     "cf1ac875ed7087c14d3f19118163d018a70035373f00186f7154f6b8a4a58629",
@@ -1420,7 +1423,8 @@
     "9cf943d1cb270a44e4171be9740685416dc4d386bff1c0afa29eea0b09739262",
     "7feb9da39bedb6ac01018c941fa51e1b2a006f9ead8240973e0116e51870b535",
     "9a47516d0cbb213ae33df86d63730d4aa84014fcb5796f53e9f1232c7df3f870",
-    "1934407e13caefe1e4ab4d9b6ce2daa0e682d5613c929d7096de6048119ea763"
+    "1934407e13caefe1e4ab4d9b6ce2daa0e682d5613c929d7096de6048119ea763",
+    "d807f4f747cb36c19bc1d1768afac933c489b1a2a59d092cda68f78e09c9db24"
   ],
   "history": [
     {
@@ -4599,6 +4603,15 @@
       "posted_at": "2026-05-09T04:54:59.316065+00:00",
       "text_hash": "1934407e13caefe1e4ab4d9b6ce2daa0e682d5613c929d7096de6048119ea763",
       "post_text": "Today's name is Nagaretase. The one whose seed is the mountains, or who resides in the city of Kashi. Jai Bhairava Baba. #Kalabhairava"
+    },
+    {
+      "queue_index": 354,
+      "source_index": 354,
+      "post_uri": "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mlflaey2oi2x",
+      "cid": "bafyreibmk2zytyqb56n3fq4vqok2feb533zaazpc6gphrzejrfe7bgcyym",
+      "posted_at": "2026-05-09T06:05:25.650878+00:00",
+      "text_hash": "d807f4f747cb36c19bc1d1768afac933c489b1a2a59d092cda68f78e09c9db24",
+      "post_text": "Today's name is Nakhine. Endowed with sharp claws or nails. Jai Bhairava Baba. #Kalabhairava"
     }
   ]
 }
