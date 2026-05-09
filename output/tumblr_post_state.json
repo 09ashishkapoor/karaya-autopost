@@ -1,8 +1,8 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts_mahakali.json",
-  "last_posted_index": 483,
-  "encrypted_refresh_token": "{\"nonce\":\"/kqwstWsw1Q4+RLh667HRg==\",\"ciphertext\":\"u+g+CXGAfJmPGt40hm+FcH/FpgEjqBZV+AKbLz10IrEodgRoNVK7Fa8YXkwdC/RXp8Y=\",\"mac\":\"0ar+hgTAqv14vs2gkY+9O4J/dbiqVYowMJEeZVjAELs=\"}",
+  "last_posted_index": 484,
+  "encrypted_refresh_token": "{\"nonce\":\"mkEyvMicKFvuROIKJol39g==\",\"ciphertext\":\"3ygXjqwscK63FP6SdxxeHuzB/rqXzNv+QIJQKVEFPw2pACRsN9AbsqbHySnbz5RHm3Y=\",\"mac\":\"BXDhwVBtGWTzUuwEErii5iohke/RXNvAXGD9lEhrM7E=\"}",
   "posted_post_ids": [
     "814760303295381504",
     "814766726962118656",
@@ -486,7 +486,8 @@
     "816130779024359424",
     "816132743005077504",
     "816134385864753152",
-    "816136181644410880"
+    "816136181644410880",
+    "816138386302779392"
   ],
   "posted_post_urls": [
     "https://kakakaforadyakali.tumblr.com/post/814760303295381504",
@@ -971,7 +972,8 @@
     "https://kakakaforadyakali.tumblr.com/post/816130779024359424",
     "https://kakakaforadyakali.tumblr.com/post/816132743005077504",
     "https://kakakaforadyakali.tumblr.com/post/816134385864753152",
-    "https://kakakaforadyakali.tumblr.com/post/816136181644410880"
+    "https://kakakaforadyakali.tumblr.com/post/816136181644410880",
+    "https://kakakaforadyakali.tumblr.com/post/816138386302779392"
   ],
   "posted_timestamps": [
     "2026-04-24T07:32:55.621622+00:00",
@@ -1456,7 +1458,8 @@
     "2026-05-09T10:36:03.030967+00:00",
     "2026-05-09T11:07:15.991010+00:00",
     "2026-05-09T11:33:22.717361+00:00",
-    "2026-05-09T12:01:55.343639+00:00"
+    "2026-05-09T12:01:55.343639+00:00",
+    "2026-05-09T12:36:57.875504+00:00"
   ],
   "posted_text_hashes": [
     "9a9bfafd8f146bd982514c23ceb52d5d53be86be07aa861c2a0df1e0e126b074",
@@ -1941,9 +1944,13 @@
     "700648db0379d78d19f7b93289eeeff45ff35c45c87f831b3f7bc03c6cf352dd",
     "a0ea3c10fd73c1f4d51fa61d4190fafc5025ec15ae7f2c21eedf0b8627131481",
     "7d0b056324a52e4ae26a3b12295080187e7a243f8f2d0766d45ebd3718c9a9ff",
-    "78e33c0fdc7843fabb1dfe65f18f99a311f49f3b8410cb80eea834149778889a"
+    "78e33c0fdc7843fabb1dfe65f18f99a311f49f3b8410cb80eea834149778889a",
+    "3ac159e665ef310f929c9582966338c4e6794aa1a998c918cb0434fe85666dcb"
   ],
   "posted_tags": [
+    [
+      "ghargharkali"
+    ],
     [
       "ghargharkali"
     ],
@@ -9190,6 +9197,18 @@
         "ghargharkali"
       ],
       "post_text": "Today's name is Nir-gun'atmika. The formless essence that transcends all qualities. Jai Ma. #ghargharkali"
+    },
+    {
+      "queue_index": 484,
+      "source_index": 484,
+      "post_id": "816138386302779392",
+      "post_url": "https://kakakaforadyakali.tumblr.com/post/816138386302779392",
+      "posted_at": "2026-05-09T12:36:57.875504+00:00",
+      "text_hash": "3ac159e665ef310f929c9582966338c4e6794aa1a998c918cb0434fe85666dcb",
+      "tags": [
+        "ghargharkali"
+      ],
+      "post_text": "Today's name is Maha-kulina. The most noble and exalted of all lineages. Jai Ma. #ghargharkali"
     }
   ]
 }
