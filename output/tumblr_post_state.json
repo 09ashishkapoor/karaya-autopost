@@ -1,8 +1,8 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts_mahakali.json",
-  "last_posted_index": 491,
-  "encrypted_refresh_token": "{\"nonce\":\"wpxRMF9PQSyUWDIu9GJaHg==\",\"ciphertext\":\"aVkK8Hgja61KFn3jXH7NM1f98u/ctx2JAJx+1epFcmzCZ5WYHBgwBnl1j1JOzUP4vCg=\",\"mac\":\"SsZFEWoz8RU+T04NWghj7YKN3GJxvaj1EUZC1byu5kM=\"}",
+  "last_posted_index": 492,
+  "encrypted_refresh_token": "{\"nonce\":\"IHh6cSfBYw6nz2nmg9eF/g==\",\"ciphertext\":\"fFz4WGjo+/4bKsMIvMclBMSsokFfYvUhqTuR6S7FsbpjQCsEcmnUcMM8X6cDzg0twag=\",\"mac\":\"+eiqGsL8Uc7DFu63tbJYSw4iRw0FQWOSkTTsVQYq+r4=\"}",
   "posted_post_ids": [
     "814760303295381504",
     "814766726962118656",
@@ -494,7 +494,8 @@
     "816147805322297344",
     "816149558994370560",
     "816151484614017024",
-    "816153315649929216"
+    "816153315649929216",
+    "816155364402905088"
   ],
   "posted_post_urls": [
     "https://kakakaforadyakali.tumblr.com/post/814760303295381504",
@@ -987,7 +988,8 @@
     "https://kakakaforadyakali.tumblr.com/post/816147805322297344",
     "https://kakakaforadyakali.tumblr.com/post/816149558994370560",
     "https://kakakaforadyakali.tumblr.com/post/816151484614017024",
-    "https://kakakaforadyakali.tumblr.com/post/816153315649929216"
+    "https://kakakaforadyakali.tumblr.com/post/816153315649929216",
+    "https://kakakaforadyakali.tumblr.com/post/816155364402905088"
   ],
   "posted_timestamps": [
     "2026-04-24T07:32:55.621622+00:00",
@@ -1480,7 +1482,8 @@
     "2026-05-09T15:06:40.643336+00:00",
     "2026-05-09T15:34:33.116812+00:00",
     "2026-05-09T16:05:09.537329+00:00",
-    "2026-05-09T16:34:15.570772+00:00"
+    "2026-05-09T16:34:15.570772+00:00",
+    "2026-05-09T17:06:49.948717+00:00"
   ],
   "posted_text_hashes": [
     "9a9bfafd8f146bd982514c23ceb52d5d53be86be07aa861c2a0df1e0e126b074",
@@ -1973,9 +1976,13 @@
     "e21eaba70a7606f3e2f129497242930b0d1c0a6da3ab58f52b914ab54c38ceff",
     "1d4cc22059d4108af6be6b890002c4bdbe367868989117dbbfe3c06e3d1f5605",
     "0ddff2b0aead5359b47d15905f71228bc1e29c4feae9caf15d94f097ccc620e2",
-    "8f4bd6bef594a6aa7d951312068acaac07495136b1a2a9644bee67d45a115e17"
+    "8f4bd6bef594a6aa7d951312068acaac07495136b1a2a9644bee67d45a115e17",
+    "ab459994ab1fd0523b1aacdd4ce275432b9463188c7f5419b96880985e2158ad"
   ],
   "posted_tags": [
+    [
+      "ghargharkali"
+    ],
     [
       "ghargharkali"
     ],
@@ -9342,6 +9349,18 @@
         "ghargharkali"
       ],
       "post_text": "Today's name is Chinta-mani. The wish-fulfilling gem of consciousness. Jai Ma. #ghargharkali"
+    },
+    {
+      "queue_index": 492,
+      "source_index": 492,
+      "post_id": "816155364402905088",
+      "post_url": "https://kakakaforadyakali.tumblr.com/post/816155364402905088",
+      "posted_at": "2026-05-09T17:06:49.948717+00:00",
+      "text_hash": "ab459994ab1fd0523b1aacdd4ce275432b9463188c7f5419b96880985e2158ad",
+      "tags": [
+        "ghargharkali"
+      ],
+      "post_text": "Today's name is Kalpalata. The celestial vine that grants all wishes. Jai Ma. #ghargharkali"
     }
   ]
 }
