@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts.json",
-  "last_posted_index": 371,
+  "last_posted_index": 372,
   "posted_record_uris": [
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkhgvkr3xr2q",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkhjlikrsu23",
@@ -373,7 +373,8 @@
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mlgl4vu7eg27",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mlgmtmwpuj2y",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mlgoh3e2mq2y",
-    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mlgqc6ro5n2y"
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mlgqc6ro5n2y",
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mlgrtngktt2j"
   ],
   "posted_cids": [
     "bafyreifrst5zlm5gntzglpt6lshxgsutmezuzdypxcxmayy2ozfha5m7ti",
@@ -746,7 +747,8 @@
     "bafyreifxy6uobsi4jg4nwk3a66hllfhptfj6bmj5rcmzr5b4i55ojii5ju",
     "bafyreibknybuxtgvsfeldp2sccucnfzr5e6qygprvp5nxsg3ce7vup7yla",
     "bafyreihleyudi4uezvw6pd2f436fwhje2us32nggd77axbqgfz67ye66nu",
-    "bafyreibkfhipxiiqdpp45wkum6i24hf6ltz74y3jq6vreidhs774fip3qm"
+    "bafyreibkfhipxiiqdpp45wkum6i24hf6ltz74y3jq6vreidhs774fip3qm",
+    "bafyreihclvgpr5gvwwgsr2gjoh5fcmxqvboumz5h6wspmsth7ukr257c6i"
   ],
   "posted_timestamps": [
     "2026-04-27T06:27:55.539737+00:00",
@@ -1119,7 +1121,8 @@
     "2026-05-09T15:36:08.861194+00:00",
     "2026-05-09T16:06:45.000168+00:00",
     "2026-05-09T16:35:31.432257+00:00",
-    "2026-05-09T17:08:34.694820+00:00"
+    "2026-05-09T17:08:34.694820+00:00",
+    "2026-05-09T17:36:14.254918+00:00"
   ],
   "posted_text_hashes": [
     "cf1ac875ed7087c14d3f19118163d018a70035373f00186f7154f6b8a4a58629",
@@ -1492,7 +1495,8 @@
     "ea956ebeb02668db2a05c1b328d224d85d56cfa61a97ced84e24b5af70bd72d0",
     "3fecd426538487fee36b95c1950f1d6114cfe3f13d36a77f6422fb1df523d561",
     "5daa6c284e78efbada8262a8cb0b2c48fef23f063ed900b4e1f3a5d748d4682b",
-    "b4d90776048f831b35beb708aa470d6bd2e30afa81f7b8c339cc4a5cf16dfeaf"
+    "b4d90776048f831b35beb708aa470d6bd2e30afa81f7b8c339cc4a5cf16dfeaf",
+    "0f7c7b22db6487bbbbf8d748a4ec8eb7e77f4419a78b5ce523d128f0f33dff9e"
   ],
   "history": [
     {
@@ -4833,6 +4837,15 @@
       "posted_at": "2026-05-09T17:08:34.694820+00:00",
       "text_hash": "b4d90776048f831b35beb708aa470d6bd2e30afa81f7b8c339cc4a5cf16dfeaf",
       "post_text": "Today's name is Pashupataye. The divine lord and master of all living beings (pashus). Jai Bhairava Baba. #Kalabhairava"
+    },
+    {
+      "queue_index": 372,
+      "source_index": 372,
+      "post_uri": "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mlgrtngktt2j",
+      "cid": "bafyreihclvgpr5gvwwgsr2gjoh5fcmxqvboumz5h6wspmsth7ukr257c6i",
+      "posted_at": "2026-05-09T17:36:14.254918+00:00",
+      "text_hash": "0f7c7b22db6487bbbbf8d748a4ec8eb7e77f4419a78b5ce523d128f0f33dff9e",
+      "post_text": "Today's name is Pinaakine. Wielder of the mighty celestial bow known as Pinaka. Jai Bhairava Baba. #Kalabhairava"
     }
   ]
 }
