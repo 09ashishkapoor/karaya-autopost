@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts.json",
-  "last_posted_index": 406,
+  "last_posted_index": 407,
   "posted_record_uris": [
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkhgvkr3xr2q",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkhjlikrsu23",
@@ -408,7 +408,8 @@
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mlj23jjvnr2j",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mlj3mfmqo62u",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mlj5dmvoc42c",
-    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mlj6wyy3f62q"
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mlj6wyy3f62q",
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mljarvuem62j"
   ],
   "posted_cids": [
     "bafyreifrst5zlm5gntzglpt6lshxgsutmezuzdypxcxmayy2ozfha5m7ti",
@@ -816,7 +817,8 @@
     "bafyreigy7sv5jetg7gcbxp5zs3ixygijg7zhsff6kztrdyv76mw44rhetq",
     "bafyreiav4pcknswx5u3zdyjv4bfali5pjl6bxrmjvsggqngdhsmkodiuvu",
     "bafyreih3puwurkalio2yt4lthtsnxl7h7d7apcpru2iywiqtyhl363yqcm",
-    "bafyreifdadwhjzaoqz72t3beiop575crw7ejg2e76svg3r3v4v3tmusab4"
+    "bafyreifdadwhjzaoqz72t3beiop575crw7ejg2e76svg3r3v4v3tmusab4",
+    "bafyreib5hypyw2lkw54nieb7r5vajn4haas7sl33pmuf3lqcxgdhdnzk3m"
   ],
   "posted_timestamps": [
     "2026-04-27T06:27:55.539737+00:00",
@@ -1224,7 +1226,8 @@
     "2026-05-10T15:09:07.985313+00:00",
     "2026-05-10T15:36:28.057861+00:00",
     "2026-05-10T16:07:21.178159+00:00",
-    "2026-05-10T16:36:05.152904+00:00"
+    "2026-05-10T16:36:05.152904+00:00",
+    "2026-05-10T17:09:03.527310+00:00"
   ],
   "posted_text_hashes": [
     "cf1ac875ed7087c14d3f19118163d018a70035373f00186f7154f6b8a4a58629",
@@ -1632,7 +1635,8 @@
     "07632aba0590ba6c944e522a275922110f3dd87fd6e7fe0c14f613e125339915",
     "9a4eb97cf57ea53e112bdae244ff3a58a717896f428ce7666efc96b10c481117",
     "aa77561bf722d9aba799561b6f1005bd8ab01b773a55386d5578e014aaff601d",
-    "d8a8bd6359951e8c984bc2c215f5091819b53e45a7761613fc62402ecde0dc7f"
+    "d8a8bd6359951e8c984bc2c215f5091819b53e45a7761613fc62402ecde0dc7f",
+    "eb056d637d7cb78d70e6746ee9f49da90cf110f5a95c1fe0f9a2de7635b181a4"
   ],
   "history": [
     {
@@ -5288,6 +5292,15 @@
       "posted_at": "2026-05-10T16:36:05.152904+00:00",
       "text_hash": "d8a8bd6359951e8c984bc2c215f5091819b53e45a7761613fc62402ecde0dc7f",
       "post_text": "Today's name is Pulahaaya. The sage Pulaha, one of the progenitors of mankind. Jai Bhairava Baba. #Kalabhairava"
+    },
+    {
+      "queue_index": 407,
+      "source_index": 407,
+      "post_uri": "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mljarvuem62j",
+      "cid": "bafyreib5hypyw2lkw54nieb7r5vajn4haas7sl33pmuf3lqcxgdhdnzk3m",
+      "posted_at": "2026-05-10T17:09:03.527310+00:00",
+      "text_hash": "eb056d637d7cb78d70e6746ee9f49da90cf110f5a95c1fe0f9a2de7635b181a4",
+      "post_text": "Today's name is Agastyaaya. The revered and powerful sage Agastya. Jai Bhairava Baba. #Kalabhairava"
     }
   ]
 }
