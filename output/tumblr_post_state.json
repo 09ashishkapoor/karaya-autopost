@@ -1,8 +1,8 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts_mahakali.json",
-  "last_posted_index": 508,
-  "encrypted_refresh_token": "{\"nonce\":\"S3nmmtXNopVZdzzzUiyO2g==\",\"ciphertext\":\"cBM/YM8iir2FtS9mrh7U42BIHNCauHDeORuTr+nhnjyNoqvNx1J4MOl2T3OfocR06jk=\",\"mac\":\"lIr0YmkGGozwy0fREIDP89BySgAWdqnkj+EroB0xTuc=\"}",
+  "last_posted_index": 509,
+  "encrypted_refresh_token": "{\"nonce\":\"POOsYMIfY6o3KJRbgeAS5Q==\",\"ciphertext\":\"uYXZgjatsZI0yuVKZQwZdmA3lTXOOnp1b/7eBA1SrEPp8AvLqfuenc0AmB47eY8mbAA=\",\"mac\":\"qOMYnPXvheUBl77uH736Bp1n3KHHCWPrg4YAUbKAXt8=\"}",
   "posted_post_ids": [
     "814760303295381504",
     "814766726962118656",
@@ -511,7 +511,8 @@
     "816179583120457728",
     "816181562753286144",
     "816186133997289472",
-    "816189071939534849"
+    "816189071939534849",
+    "816194263003103232"
   ],
   "posted_post_urls": [
     "https://kakakaforadyakali.tumblr.com/post/814760303295381504",
@@ -1021,7 +1022,8 @@
     "https://kakakaforadyakali.tumblr.com/post/816179583120457728",
     "https://kakakaforadyakali.tumblr.com/post/816181562753286144",
     "https://kakakaforadyakali.tumblr.com/post/816186133997289472",
-    "https://kakakaforadyakali.tumblr.com/post/816189071939534849"
+    "https://kakakaforadyakali.tumblr.com/post/816189071939534849",
+    "https://kakakaforadyakali.tumblr.com/post/816194263003103232"
   ],
   "posted_timestamps": [
     "2026-04-24T07:32:55.621622+00:00",
@@ -1531,7 +1533,8 @@
     "2026-05-09T23:31:46.184681+00:00",
     "2026-05-10T00:03:14.113524+00:00",
     "2026-05-10T01:15:53.667799+00:00",
-    "2026-05-10T02:02:35.399379+00:00"
+    "2026-05-10T02:02:35.399379+00:00",
+    "2026-05-10T03:25:06.024486+00:00"
   ],
   "posted_text_hashes": [
     "9a9bfafd8f146bd982514c23ceb52d5d53be86be07aa861c2a0df1e0e126b074",
@@ -2041,9 +2044,13 @@
     "80e4ce8e97027906450ac0c7941188224ee2c8e042eb3410a701525abe63ef0e",
     "5154a304d4be018f8f7534f963ca5dba60245c41cf5e7bec1c5dcd52747ec743",
     "fc62d6b392f5fe664ffb63f28006b4733cd52154c87db32c68512760571e93aa",
-    "dd1e7810b0da95e54a87b009ffd7fe61b1c02e5b923de3fefefc3caafc01ca65"
+    "dd1e7810b0da95e54a87b009ffd7fe61b1c02e5b923de3fefefc3caafc01ca65",
+    "6f4c0ac7e6ca1b1fee0b2dfb809bfda56c650a89cca93baa3bb19ec133c75a0d"
   ],
   "posted_tags": [
+    [
+      "ghargharkali"
+    ],
     [
       "ghargharkali"
     ],
@@ -9665,6 +9672,18 @@
         "ghargharkali"
       ],
       "post_text": "Today's name is Shhushhka mans'asthi-malini. Adorned with garlands of dried flesh and bones. Jai Ma. #ghargharkali"
+    },
+    {
+      "queue_index": 509,
+      "source_index": 509,
+      "post_id": "816194263003103232",
+      "post_url": "https://kakakaforadyakali.tumblr.com/post/816194263003103232",
+      "posted_at": "2026-05-10T03:25:06.024486+00:00",
+      "text_hash": "6f4c0ac7e6ca1b1fee0b2dfb809bfda56c650a89cca93baa3bb19ec133c75a0d",
+      "tags": [
+        "ghargharkali"
+      ],
+      "post_text": "Today's name is Avanti mathura hriidaya. The heart of the sacred cities of Avanti and Mathura. Jai Ma. #ghargharkali"
     }
   ]
 }
