@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts.json",
-  "last_posted_index": 411,
+  "last_posted_index": 412,
   "posted_record_uris": [
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkhgvkr3xr2q",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkhjlikrsu23",
@@ -413,7 +413,8 @@
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mljcdpxagf2j",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mljdxhhrgi2n",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mljfqwd44m23",
-    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mljhoxpp6q2a"
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mljhoxpp6q2a",
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mljjchkpgw2o"
   ],
   "posted_cids": [
     "bafyreifrst5zlm5gntzglpt6lshxgsutmezuzdypxcxmayy2ozfha5m7ti",
@@ -826,7 +827,8 @@
     "bafyreiduzq5bfhtgx2ig2b6mospn7z7fqpfivrabmjdnbjajwtnj4f74ce",
     "bafyreifcw3gxj36gcokd626bx7xfuhwlpzuozrpxhxquekeccebonxxneq",
     "bafyreiebsg4p4rijw2kroqkxzznh7ebldyd5kgzmcfykyamxdbuf3unzya",
-    "bafyreigpzurlasqnh5pmnkee2y6it4mjefb553tvabxi6p2kt3lu4mgoq4"
+    "bafyreigpzurlasqnh5pmnkee2y6it4mjefb553tvabxi6p2kt3lu4mgoq4",
+    "bafyreifceluecywnqqmu3vwtntdb4rjjqcjtyqeuq6gi77hchg4rm2vrii"
   ],
   "posted_timestamps": [
     "2026-04-27T06:27:55.539737+00:00",
@@ -1239,7 +1241,8 @@
     "2026-05-10T17:36:53.097057+00:00",
     "2026-05-10T18:05:49.007635+00:00",
     "2026-05-10T18:37:57.214919+00:00",
-    "2026-05-10T19:12:39.021630+00:00"
+    "2026-05-10T19:12:39.021630+00:00",
+    "2026-05-10T19:41:26.945158+00:00"
   ],
   "posted_text_hashes": [
     "cf1ac875ed7087c14d3f19118163d018a70035373f00186f7154f6b8a4a58629",
@@ -1652,7 +1655,8 @@
     "c57d543f29a91b4de8cada3f3be25eb06abf81888e80927cc2ac046ac2f5eaae",
     "603f574445d75695b9b1f2f016a055a8660be29e036c87e612ea00e857ddf4c1",
     "bdd722cc1544a38722cad8555dddd8a19c191bf9dfdb0b66a8876972b86e5563",
-    "d6dea9c373e51bf3b0f23d76d9a19c6519e60347e4818430326ee1d31c471d0f"
+    "d6dea9c373e51bf3b0f23d76d9a19c6519e60347e4818430326ee1d31c471d0f",
+    "1125872c3976a4428efa07105dbb934bedfe36f1252ce921c6b276c758968a13"
   ],
   "history": [
     {
@@ -5353,6 +5357,15 @@
       "posted_at": "2026-05-10T19:12:39.021630+00:00",
       "text_hash": "d6dea9c373e51bf3b0f23d76d9a19c6519e60347e4818430326ee1d31c471d0f",
       "post_text": "Today's name is Parasmaijyotishe. The supreme and transcendent light. Jai Bhairava Baba. #Kalabhairava"
+    },
+    {
+      "queue_index": 412,
+      "source_index": 412,
+      "post_uri": "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mljjchkpgw2o",
+      "cid": "bafyreifceluecywnqqmu3vwtntdb4rjjqcjtyqeuq6gi77hchg4rm2vrii",
+      "posted_at": "2026-05-10T19:41:26.945158+00:00",
+      "text_hash": "1125872c3976a4428efa07105dbb934bedfe36f1252ce921c6b276c758968a13",
+      "post_text": "Today's name is Paraaparaphalapradaaya. The bestower of the fruits of both higher and lower actions. Jai Bhairava Baba. #Kalabhairava"
     }
   ]
 }
