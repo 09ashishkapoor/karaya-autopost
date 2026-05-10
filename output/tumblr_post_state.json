@@ -1,8 +1,8 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts_mahakali.json",
-  "last_posted_index": 533,
-  "encrypted_refresh_token": "{\"nonce\":\"FDAsMZClAmU0kP5ZZ4GXZg==\",\"ciphertext\":\"iUVatNGE3YOnYnnyA9YmdYcxRbqZE1sTB2ZXxdq0Nj+lxnECHJUAHwWW3zVi02MjQKE=\",\"mac\":\"7qS/qQkaKXYp758+9n6NjDnW/DcEWQeZDGDfvEOKe0E=\"}",
+  "last_posted_index": 534,
+  "encrypted_refresh_token": "{\"nonce\":\"wrcRjm98kZgARgfgYhU6xw==\",\"ciphertext\":\"HX6sk+A/oBaJHl86giAV7akEmyj2KEJ0CAh9NY2LYrZq0jvOpIGYlTB+ESUrfgVq2c8=\",\"mac\":\"uDoxzqBQmQCHoyV8Aa1OawF+pI0X6lqHLTkJWNowdtE=\"}",
   "posted_post_ids": [
     "814760303295381504",
     "814766726962118656",
@@ -536,7 +536,8 @@
     "816249589258665984",
     "816251601124769792",
     "816253685597388800",
-    "816255605568405504"
+    "816255605568405504",
+    "816257095059030016"
   ],
   "posted_post_urls": [
     "https://kakakaforadyakali.tumblr.com/post/814760303295381504",
@@ -1071,7 +1072,8 @@
     "https://kakakaforadyakali.tumblr.com/post/816249589258665984",
     "https://kakakaforadyakali.tumblr.com/post/816251601124769792",
     "https://kakakaforadyakali.tumblr.com/post/816253685597388800",
-    "https://kakakaforadyakali.tumblr.com/post/816255605568405504"
+    "https://kakakaforadyakali.tumblr.com/post/816255605568405504",
+    "https://kakakaforadyakali.tumblr.com/post/816257095059030016"
   ],
   "posted_timestamps": [
     "2026-04-24T07:32:55.621622+00:00",
@@ -1606,7 +1608,8 @@
     "2026-05-10T18:04:29.238914+00:00",
     "2026-05-10T18:36:27.943412+00:00",
     "2026-05-10T19:09:35.897750+00:00",
-    "2026-05-10T19:40:06.914300+00:00"
+    "2026-05-10T19:40:06.914300+00:00",
+    "2026-05-10T20:03:47.370090+00:00"
   ],
   "posted_text_hashes": [
     "9a9bfafd8f146bd982514c23ceb52d5d53be86be07aa861c2a0df1e0e126b074",
@@ -2141,9 +2144,13 @@
     "f40527d93836f50c466cfb4724605d9ec632bf105aafb436219bced9bcbd4b56",
     "23158cbfef295595cc5b41dbaeeaef6b175c65717ad78855914ed73031bfc153",
     "a91addc82a85be7809a161406be3ecb3a0b0acd6d6ce3ee0233aebcc880e310b",
-    "bb8b91a53a36aa1fe1063b05a782ed9eb5a5dc449e657f1904ac05cc33206ede"
+    "bb8b91a53a36aa1fe1063b05a782ed9eb5a5dc449e657f1904ac05cc33206ede",
+    "77f014a99ce190673a925ff7b96c04568ed3995e865d7bb68f184af47b9118f1"
   ],
   "posted_tags": [
+    [
+      "ghargharkali"
+    ],
     [
       "ghargharkali"
     ],
@@ -10140,6 +10147,18 @@
         "ghargharkali"
       ],
       "post_text": "Today's name is Chandra kala. The dark One who is a lunar digit or phase of the Moon. Jai Ma. #ghargharkali"
+    },
+    {
+      "queue_index": 534,
+      "source_index": 534,
+      "post_id": "816257095059030016",
+      "post_url": "https://kakakaforadyakali.tumblr.com/post/816257095059030016",
+      "posted_at": "2026-05-10T20:03:47.370090+00:00",
+      "text_hash": "77f014a99ce190673a925ff7b96c04568ed3995e865d7bb68f184af47b9118f1",
+      "tags": [
+        "ghargharkali"
+      ],
+      "post_text": "Today's name is Indrani. The Queen of the Devas, consort of Indra, bearing his power and glory. Jai Ma. #ghargharkali"
     }
   ]
 }
