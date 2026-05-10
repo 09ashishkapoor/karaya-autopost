@@ -1,8 +1,8 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts_mahakali.json",
-  "last_posted_index": 507,
-  "encrypted_refresh_token": "{\"nonce\":\"t7UHCbq+yo5tw6KhrMdw1Q==\",\"ciphertext\":\"qeCfR2NgXDXBUt2f/QwdC57mpQ/iguHVmnRuOZSxAYWjBlZc5x0V9Pq5gyMNnkp2Uds=\",\"mac\":\"jvTVcK3JlZELsFEeRZFQ0V0zLMn4xc02zUy/dzC1zHo=\"}",
+  "last_posted_index": 508,
+  "encrypted_refresh_token": "{\"nonce\":\"S3nmmtXNopVZdzzzUiyO2g==\",\"ciphertext\":\"cBM/YM8iir2FtS9mrh7U42BIHNCauHDeORuTr+nhnjyNoqvNx1J4MOl2T3OfocR06jk=\",\"mac\":\"lIr0YmkGGozwy0fREIDP89BySgAWdqnkj+EroB0xTuc=\"}",
   "posted_post_ids": [
     "814760303295381504",
     "814766726962118656",
@@ -510,7 +510,8 @@
     "816177798553141248",
     "816179583120457728",
     "816181562753286144",
-    "816186133997289472"
+    "816186133997289472",
+    "816189071939534849"
   ],
   "posted_post_urls": [
     "https://kakakaforadyakali.tumblr.com/post/814760303295381504",
@@ -1019,7 +1020,8 @@
     "https://kakakaforadyakali.tumblr.com/post/816177798553141248",
     "https://kakakaforadyakali.tumblr.com/post/816179583120457728",
     "https://kakakaforadyakali.tumblr.com/post/816181562753286144",
-    "https://kakakaforadyakali.tumblr.com/post/816186133997289472"
+    "https://kakakaforadyakali.tumblr.com/post/816186133997289472",
+    "https://kakakaforadyakali.tumblr.com/post/816189071939534849"
   ],
   "posted_timestamps": [
     "2026-04-24T07:32:55.621622+00:00",
@@ -1528,7 +1530,8 @@
     "2026-05-09T23:03:24.323360+00:00",
     "2026-05-09T23:31:46.184681+00:00",
     "2026-05-10T00:03:14.113524+00:00",
-    "2026-05-10T01:15:53.667799+00:00"
+    "2026-05-10T01:15:53.667799+00:00",
+    "2026-05-10T02:02:35.399379+00:00"
   ],
   "posted_text_hashes": [
     "9a9bfafd8f146bd982514c23ceb52d5d53be86be07aa861c2a0df1e0e126b074",
@@ -2037,9 +2040,13 @@
     "8b8307cfd202babf78027606a968800ef7d729f1b84f49cb42f31cf319a92e5a",
     "80e4ce8e97027906450ac0c7941188224ee2c8e042eb3410a701525abe63ef0e",
     "5154a304d4be018f8f7534f963ca5dba60245c41cf5e7bec1c5dcd52747ec743",
-    "fc62d6b392f5fe664ffb63f28006b4733cd52154c87db32c68512760571e93aa"
+    "fc62d6b392f5fe664ffb63f28006b4733cd52154c87db32c68512760571e93aa",
+    "dd1e7810b0da95e54a87b009ffd7fe61b1c02e5b923de3fefefc3caafc01ca65"
   ],
   "posted_tags": [
+    [
+      "ghargharkali"
+    ],
     [
       "ghargharkali"
     ],
@@ -9646,6 +9653,18 @@
         "ghargharkali"
       ],
       "post_text": "Today's name is Tadaga nimna jathara. Whose abdomen is deep like a vast lake. Jai Ma. #ghargharkali"
+    },
+    {
+      "queue_index": 508,
+      "source_index": 508,
+      "post_id": "816189071939534849",
+      "post_url": "https://kakakaforadyakali.tumblr.com/post/816189071939534849",
+      "posted_at": "2026-05-10T02:02:35.399379+00:00",
+      "text_hash": "dd1e7810b0da95e54a87b009ffd7fe61b1c02e5b923de3fefefc3caafc01ca65",
+      "tags": [
+        "ghargharkali"
+      ],
+      "post_text": "Today's name is Shhushhka mans'asthi-malini. Adorned with garlands of dried flesh and bones. Jai Ma. #ghargharkali"
     }
   ]
 }
