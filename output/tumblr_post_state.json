@@ -1,8 +1,8 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts_mahakali.json",
-  "last_posted_index": 538,
-  "encrypted_refresh_token": "{\"nonce\":\"IOa07Qa52lSEdwwYwl0RvQ==\",\"ciphertext\":\"IwuOfBqdhF6z8hXduNZOboIMmHoYrse+g3LZaBBQabk1qZcZL76h4X8Lb/s5ffyZVuc=\",\"mac\":\"RtxZlOvOPOkv5aaCF65RJO/kGUmhOOtv7lBDkyDe7Ds=\"}",
+  "last_posted_index": 539,
+  "encrypted_refresh_token": "{\"nonce\":\"3W8Wx3K8zt+CoxfWXFkm4g==\",\"ciphertext\":\"ScsW36XmT2shBsXch5m0SwYJuJ7s9l55eKoOCOoeu9nCRIan75C8UsgDjVayFYAavc4=\",\"mac\":\"uw6el6Cfp1yAWQNqomdNt6OOvGUeKAJ3AA2xBKWwHq4=\"}",
   "posted_post_ids": [
     "814760303295381504",
     "814766726962118656",
@@ -541,7 +541,8 @@
     "816258823629176832",
     "816260919679172608",
     "816262722750676992",
-    "816264657688035328"
+    "816264657688035328",
+    "816266334702878720"
   ],
   "posted_post_urls": [
     "https://kakakaforadyakali.tumblr.com/post/814760303295381504",
@@ -1081,7 +1082,8 @@
     "https://kakakaforadyakali.tumblr.com/post/816258823629176832",
     "https://kakakaforadyakali.tumblr.com/post/816260919679172608",
     "https://kakakaforadyakali.tumblr.com/post/816262722750676992",
-    "https://kakakaforadyakali.tumblr.com/post/816264657688035328"
+    "https://kakakaforadyakali.tumblr.com/post/816264657688035328",
+    "https://kakakaforadyakali.tumblr.com/post/816266334702878720"
   ],
   "posted_timestamps": [
     "2026-04-24T07:32:55.621622+00:00",
@@ -1621,7 +1623,8 @@
     "2026-05-10T20:31:15.860891+00:00",
     "2026-05-10T21:04:34.749252+00:00",
     "2026-05-10T21:33:14.378141+00:00",
-    "2026-05-10T22:03:59.685797+00:00"
+    "2026-05-10T22:03:59.685797+00:00",
+    "2026-05-10T22:30:38.956473+00:00"
   ],
   "posted_text_hashes": [
     "9a9bfafd8f146bd982514c23ceb52d5d53be86be07aa861c2a0df1e0e126b074",
@@ -2161,9 +2164,13 @@
     "0c32bf8be765c0b55dedee7a119a5ef5fc629662f78bde2b865ced5f46f0ac70",
     "6422ebcbd641aff09db3bac7add998c94c90a40ad2989cd20ba0af9030b2131f",
     "32627c07def6bc8b114c8426e31a2a0c85c345ee85b7909423f87d5349aefad1",
-    "1007273eebe3b578980816bf624367dff999d5f144605a65e207cf2c2f800ac3"
+    "1007273eebe3b578980816bf624367dff999d5f144605a65e207cf2c2f800ac3",
+    "c9a858da0833fbc13090b9b9281143e04dd0e3c8d5c6b69495c9d79c542abf0b"
   ],
   "posted_tags": [
+    [
+      "ghargharkali"
+    ],
     [
       "ghargharkali"
     ],
@@ -10235,6 +10242,18 @@
         "ghargharkali"
       ],
       "post_text": "Today's name is Nishhumbha shhumbha-san-hartri. The Destroyer of the demons Shumbha and Nishumbha. Jai Ma. #ghargharkali"
+    },
+    {
+      "queue_index": 539,
+      "source_index": 539,
+      "post_id": "816266334702878720",
+      "post_url": "https://kakakaforadyakali.tumblr.com/post/816266334702878720",
+      "posted_at": "2026-05-10T22:30:38.956473+00:00",
+      "text_hash": "c9a858da0833fbc13090b9b9281143e04dd0e3c8d5c6b69495c9d79c542abf0b",
+      "tags": [
+        "ghargharkali"
+      ],
+      "post_text": "Today's name is Raktabija vinashhini. The Destroyer of the demon Raktabija, who rose again from every drop of spilled blood. Jai Ma. #ghargharkali"
     }
   ]
 }
