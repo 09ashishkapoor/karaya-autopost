@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts.json",
-  "last_posted_index": 388,
+  "last_posted_index": 389,
   "posted_record_uris": [
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkhgvkr3xr2q",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkhjlikrsu23",
@@ -390,7 +390,8 @@
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mlhhlhrtrd2y",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mlhll7p2bn2u",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mlhofa5q6t2j",
-    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mlhswfzvch2q"
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mlhswfzvch2q",
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mlhxzvhpwv2a"
   ],
   "posted_cids": [
     "bafyreifrst5zlm5gntzglpt6lshxgsutmezuzdypxcxmayy2ozfha5m7ti",
@@ -780,7 +781,8 @@
     "bafyreiamrysvrqi37bx2vl6gpjpm5oo3azfaxqkhlinv3ifybzshgnllpe",
     "bafyreih6sw4macc6vcb7gh6ieawajzd46cm6wbgdeord3a6h44yeyolfle",
     "bafyreifw5ojflyu5xkmt2kzjvmq2leb2ngzpxsduotp7qwecokbqclq4h4",
-    "bafyreibtytcy2jqx6lrp3tyazvhdgpha2nhdy4wudn2q3baezvuuqg4lcq"
+    "bafyreibtytcy2jqx6lrp3tyazvhdgpha2nhdy4wudn2q3baezvuuqg4lcq",
+    "bafyreibjwpivgivvepmc4j6izai7vuiezmyhwbq27jqkz5sbex55xlsgf4"
   ],
   "posted_timestamps": [
     "2026-04-27T06:27:55.539737+00:00",
@@ -1170,7 +1172,8 @@
     "2026-05-10T00:05:22.189905+00:00",
     "2026-05-10T01:16:48.682615+00:00",
     "2026-05-10T02:07:09.060381+00:00",
-    "2026-05-10T03:28:20.626552+00:00"
+    "2026-05-10T03:28:20.626552+00:00",
+    "2026-05-10T04:59:46.167756+00:00"
   ],
   "posted_text_hashes": [
     "cf1ac875ed7087c14d3f19118163d018a70035373f00186f7154f6b8a4a58629",
@@ -1560,7 +1563,8 @@
     "259efb8d0eefdbe05d3086d2530b62d6e09c1e0416cece3730394b2fefec2d51",
     "20bbd6789b60de4d892cc899362e11fc168900a64afdbec94d72a582f99a0a58",
     "0ac36ce2000ed1ef72a7b0d252c428cfdec4d4d0f96feaa6b230d0da2e311410",
-    "ff0a44195a758b5a6a8dc9891fc2bfe0563629eaa05c07d24e105b26a6c531f9"
+    "ff0a44195a758b5a6a8dc9891fc2bfe0563629eaa05c07d24e105b26a6c531f9",
+    "0775e472fe8ea69e1fefc66a7c1a1018b03ad486c6899ed1069e8664ddd93c6f"
   ],
   "history": [
     {
@@ -5054,6 +5058,15 @@
       "posted_at": "2026-05-10T03:28:20.626552+00:00",
       "text_hash": "ff0a44195a758b5a6a8dc9891fc2bfe0563629eaa05c07d24e105b26a6c531f9",
       "post_text": "Today's name is Paramaarthadaaya. The bestower of the highest and ultimate truth. Jai Bhairava Baba. #Kalabhairava"
+    },
+    {
+      "queue_index": 389,
+      "source_index": 389,
+      "post_uri": "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mlhxzvhpwv2a",
+      "cid": "bafyreibjwpivgivvepmc4j6izai7vuiezmyhwbq27jqkz5sbex55xlsgf4",
+      "posted_at": "2026-05-10T04:59:46.167756+00:00",
+      "text_hash": "0775e472fe8ea69e1fefc66a7c1a1018b03ad486c6899ed1069e8664ddd93c6f",
+      "post_text": "Today's name is Pancabrahmane. The five-faced Brahman, representing the five cosmic functions. Jai Bhairava Baba. #Kalabhairava"
     }
   ]
 }
