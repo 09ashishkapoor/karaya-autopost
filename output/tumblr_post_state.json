@@ -1,8 +1,8 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts_mahakali.json",
-  "last_posted_index": 543,
-  "encrypted_refresh_token": "{\"nonce\":\"QUPkTC8VW71El/1I0QsGUA==\",\"ciphertext\":\"ciKe4b/wjIKQN+FekxtUt3M4n9zn/b9f8Z6Ds2y70Xnzq/cDfjAUf4iIo3Z+nqiaAvM=\",\"mac\":\"YKE/0MzN9DSPKSCJfd3qJOut7iBllq968HgAAkIH1rQ=\"}",
+  "last_posted_index": 544,
+  "encrypted_refresh_token": "{\"nonce\":\"Rkw5e/0mI/4fprbYoqVXbg==\",\"ciphertext\":\"UUJrFJPLQ8u4AogGwKtpItO/HjYMjGG2p/GRFSmGWrCTYiqvE9MokoK7Jmi1iThvE5s=\",\"mac\":\"xXv5zRONL26VkxZtCjLmwmxH/tK+gbVDM7tn23F5AVg=\"}",
   "posted_post_ids": [
     "814760303295381504",
     "814766726962118656",
@@ -546,7 +546,8 @@
     "816268492045189121",
     "816270323627491329",
     "816272259377512448",
-    "816276730145898496"
+    "816276730145898496",
+    "816279686529318912"
   ],
   "posted_post_urls": [
     "https://kakakaforadyakali.tumblr.com/post/814760303295381504",
@@ -1091,7 +1092,8 @@
     "https://kakakaforadyakali.tumblr.com/post/816268492045189121",
     "https://kakakaforadyakali.tumblr.com/post/816270323627491329",
     "https://kakakaforadyakali.tumblr.com/post/816272259377512448",
-    "https://kakakaforadyakali.tumblr.com/post/816276730145898496"
+    "https://kakakaforadyakali.tumblr.com/post/816276730145898496",
+    "https://kakakaforadyakali.tumblr.com/post/816279686529318912"
   ],
   "posted_timestamps": [
     "2026-04-24T07:32:55.621622+00:00",
@@ -1636,7 +1638,8 @@
     "2026-05-10T23:04:56.453195+00:00",
     "2026-05-10T23:34:03.083541+00:00",
     "2026-05-11T00:04:49.167558+00:00",
-    "2026-05-11T01:15:53.324295+00:00"
+    "2026-05-11T01:15:53.324295+00:00",
+    "2026-05-11T02:02:52.258772+00:00"
   ],
   "posted_text_hashes": [
     "9a9bfafd8f146bd982514c23ceb52d5d53be86be07aa861c2a0df1e0e126b074",
@@ -2181,9 +2184,13 @@
     "ff66555edda4840eda6ac45c3bd2b3093625dc8e8f371348c2ea0ebef2d13312",
     "d841a6f54d416161981e93d6d49317313d035d66f6d1fb458fcef2edca75b20a",
     "d294e9008add4da822882fb9f68613b39ea2f881fb08ff79806d181f085d660e",
-    "6d9d0c32a8278aff63824b95dc94bb376c696e8639ec94b659b4c80192b28371"
+    "6d9d0c32a8278aff63824b95dc94bb376c696e8639ec94b659b4c80192b28371",
+    "8d65a1f4fdbeae6a2cd4f21bda1a0a55d43ae8643b7f1d93a86944e3083dcc37"
   ],
   "posted_tags": [
+    [
+      "ghargharkali"
+    ],
     [
       "ghargharkali"
     ],
@@ -10330,6 +10337,18 @@
         "ghargharkali"
       ],
       "post_text": "Today's name is Sarva sattva pratishhthita. The ground and support of all sentient beings. Jai Ma. #ghargharkali"
+    },
+    {
+      "queue_index": 544,
+      "source_index": 544,
+      "post_id": "816279686529318912",
+      "post_url": "https://kakakaforadyakali.tumblr.com/post/816279686529318912",
+      "posted_at": "2026-05-11T02:02:52.258772+00:00",
+      "text_hash": "8d65a1f4fdbeae6a2cd4f21bda1a0a55d43ae8643b7f1d93a86944e3083dcc37",
+      "tags": [
+        "ghargharkali"
+      ],
+      "post_text": "Today's name is Sarv'achara-vati. Possessing all virtuous conduct and righteous ways. Jai Ma. #ghargharkali"
     }
   ]
 }
