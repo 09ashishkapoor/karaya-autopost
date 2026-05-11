@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts.json",
-  "last_posted_index": 436,
+  "last_posted_index": 437,
   "posted_record_uris": [
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkhgvkr3xr2q",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkhjlikrsu23",
@@ -438,7 +438,8 @@
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mllo7sfiu227",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mllrfegfdf2a",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mlltygiz2h2y",
-    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mllxeku2d52a"
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mllxeku2d52a",
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mlm2nugrhp2o"
   ],
   "posted_cids": [
     "bafyreifrst5zlm5gntzglpt6lshxgsutmezuzdypxcxmayy2ozfha5m7ti",
@@ -876,7 +877,8 @@
     "bafyreid4lrnkxarwsc4vd6npey6mo44dpynwo657i5usx5wdckx3gfrwka",
     "bafyreibnp5wim7fvadihzzc545ynfkaujhdsaisouvjbbqe47pfpptsely",
     "bafyreiat5w7zwdsqzznp7yeqfzcydmn4umesphp3k6zndkuaivntv22uye",
-    "bafyreif4uchnjlohhlxyxjoxzucmjvi6rprcwqr4etoq5loczwo3bjult4"
+    "bafyreif4uchnjlohhlxyxjoxzucmjvi6rprcwqr4etoq5loczwo3bjult4",
+    "bafyreib4fsfrj37dx6trvrhykln6vfqh5gcoivlf4fsbxtjmw6bilmepwe"
   ],
   "posted_timestamps": [
     "2026-04-27T06:27:55.539737+00:00",
@@ -1314,7 +1316,8 @@
     "2026-05-11T16:14:45.826934+00:00",
     "2026-05-11T17:11:33.702894+00:00",
     "2026-05-11T17:58:00.922037+00:00",
-    "2026-05-11T18:58:29.352643+00:00"
+    "2026-05-11T18:58:29.352643+00:00",
+    "2026-05-11T19:57:22.604412+00:00"
   ],
   "posted_text_hashes": [
     "cf1ac875ed7087c14d3f19118163d018a70035373f00186f7154f6b8a4a58629",
@@ -1752,7 +1755,8 @@
     "c6f4ee0404976242e60a015c196eebd22fd7aa5e1380207c7551d6b67863af02",
     "8e942568e6e2a67f6f4b2e84045248a6cba543f485b50233cce5cd8485a16b14",
     "68716d21698574ff2185470b5a8af249df48178fd2063caf726c8ee1780c29cc",
-    "ec752267403770a1f31d680322a97b7ddbb44401588d252e78de3715a77c68a8"
+    "ec752267403770a1f31d680322a97b7ddbb44401588d252e78de3715a77c68a8",
+    "e470e06f1a9f455d122200dbf2854e06cdc1edcbe199778b41e17aa91c028644"
   ],
   "history": [
     {
@@ -5678,6 +5682,15 @@
       "posted_at": "2026-05-11T18:58:29.352643+00:00",
       "text_hash": "ec752267403770a1f31d680322a97b7ddbb44401588d252e78de3715a77c68a8",
       "post_text": "Today's name is Plakshaaya. The sacred fig tree, regarded as a source of creation. Jai Bhairava Baba. #Kalabhairava"
+    },
+    {
+      "queue_index": 437,
+      "source_index": 437,
+      "post_uri": "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mlm2nugrhp2o",
+      "cid": "bafyreib4fsfrj37dx6trvrhykln6vfqh5gcoivlf4fsbxtjmw6bilmepwe",
+      "posted_at": "2026-05-11T19:57:22.604412+00:00",
+      "text_hash": "e470e06f1a9f455d122200dbf2854e06cdc1edcbe199778b41e17aa91c028644",
+      "post_text": "Today's name is Atalaaya. Atala, the bottomless realm among the seven netherworlds. Jai Bhairava Baba. #Kalabhairava"
     }
   ]
 }
