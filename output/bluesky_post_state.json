@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts.json",
-  "last_posted_index": 433,
+  "last_posted_index": 434,
   "posted_record_uris": [
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkhgvkr3xr2q",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkhjlikrsu23",
@@ -435,7 +435,8 @@
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mllb7r4ndv22",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mllftwozua2q",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mlljfh62hb2j",
-    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mllo7sfiu227"
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mllo7sfiu227",
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mllrfegfdf2a"
   ],
   "posted_cids": [
     "bafyreifrst5zlm5gntzglpt6lshxgsutmezuzdypxcxmayy2ozfha5m7ti",
@@ -870,7 +871,8 @@
     "bafyreihiydfufww7lvwen247kydqer7pkukomp4qxcrzahrrw5zq2grm2q",
     "bafyreihqiwti2ai4tmix5q6qsqsrwo3y5gnkzucdr7ghc4z4rszhyeliqi",
     "bafyreidatmlhex3w3as3qwf4ltb262b4yg522ktzrmo647g65ebobmvm7e",
-    "bafyreid4lrnkxarwsc4vd6npey6mo44dpynwo657i5usx5wdckx3gfrwka"
+    "bafyreid4lrnkxarwsc4vd6npey6mo44dpynwo657i5usx5wdckx3gfrwka",
+    "bafyreibnp5wim7fvadihzzc545ynfkaujhdsaisouvjbbqe47pfpptsely"
   ],
   "posted_timestamps": [
     "2026-04-27T06:27:55.539737+00:00",
@@ -1305,7 +1307,8 @@
     "2026-05-11T12:22:05.858432+00:00",
     "2026-05-11T13:44:57.721683+00:00",
     "2026-05-11T14:48:26.677615+00:00",
-    "2026-05-11T16:14:45.826934+00:00"
+    "2026-05-11T16:14:45.826934+00:00",
+    "2026-05-11T17:11:33.702894+00:00"
   ],
   "posted_text_hashes": [
     "cf1ac875ed7087c14d3f19118163d018a70035373f00186f7154f6b8a4a58629",
@@ -1740,7 +1743,8 @@
     "07f4686b6f9336a8d69b42e587a94aac6e1d87a2a980fad1f5271b8b2a0f89cb",
     "b6dfe09f2aa8aabf3e06a479615c6c46db98a533a87ce76c0e94c6462cbf73ee",
     "67eebbd50723d40ff4c05128809555912a55a57b5cbcfbee8621c5fda735a50e",
-    "c6f4ee0404976242e60a015c196eebd22fd7aa5e1380207c7551d6b67863af02"
+    "c6f4ee0404976242e60a015c196eebd22fd7aa5e1380207c7551d6b67863af02",
+    "8e942568e6e2a67f6f4b2e84045248a6cba543f485b50233cce5cd8485a16b14"
   ],
   "history": [
     {
@@ -5639,6 +5643,15 @@
       "posted_at": "2026-05-11T16:14:45.826934+00:00",
       "text_hash": "c6f4ee0404976242e60a015c196eebd22fd7aa5e1380207c7551d6b67863af02",
       "post_text": "Today's name is Pitre. The divine father of the entire universe. Jai Bhairava Baba. #Kalabhairava"
+    },
+    {
+      "queue_index": 434,
+      "source_index": 434,
+      "post_uri": "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mllrfegfdf2a",
+      "cid": "bafyreibnp5wim7fvadihzzc545ynfkaujhdsaisouvjbbqe47pfpptsely",
+      "posted_at": "2026-05-11T17:11:33.702894+00:00",
+      "text_hash": "8e942568e6e2a67f6f4b2e84045248a6cba543f485b50233cce5cd8485a16b14",
+      "post_text": "Today's name is Pinggalaaya. Tawny or golden-brown in hue. Jai Bhairava Baba. #Kalabhairava"
     }
   ]
 }
