@@ -1,8 +1,8 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts_mahakali.json",
-  "last_posted_index": 589,
-  "encrypted_refresh_token": "{\"nonce\":\"ay1pqlSBuffHxdDppT21Cg==\",\"ciphertext\":\"+7kvHUwmuAm2rO68jRO2QB3NDyyH3Ffaall2xdklr+VCdqEVefkeRjDn9B2+W9lbLGU=\",\"mac\":\"QllYyT+0b4F7c2LYDTYXXkPcfgXTpdbFrYntHgSSIvU=\"}",
+  "last_posted_index": 590,
+  "encrypted_refresh_token": "{\"nonce\":\"l/3v4cEmKNLDH1prbbtChQ==\",\"ciphertext\":\"8VC0tatkV7Eg4jo0TqszDAou5wz1KAxEItfQ52H86HDjwJTDqpdTLjRx0+VUTv2Nr+g=\",\"mac\":\"P842MrMmUltDgZ2i4umQqJq07QnTHUiok9zYhCl76Yw=\"}",
   "posted_post_ids": [
     "814760303295381504",
     "814766726962118656",
@@ -592,7 +592,8 @@
     "816444607518982144",
     "816446409958162432",
     "816448184080613376",
-    "816449947296759808"
+    "816449947296759808",
+    "816451782363463680"
   ],
   "posted_post_urls": [
     "https://kakakaforadyakali.tumblr.com/post/814760303295381504",
@@ -1183,7 +1184,8 @@
     "https://kakakaforadyakali.tumblr.com/post/816444607518982144",
     "https://kakakaforadyakali.tumblr.com/post/816446409958162432",
     "https://kakakaforadyakali.tumblr.com/post/816448184080613376",
-    "https://kakakaforadyakali.tumblr.com/post/816449947296759808"
+    "https://kakakaforadyakali.tumblr.com/post/816449947296759808",
+    "https://kakakaforadyakali.tumblr.com/post/816451782363463680"
   ],
   "posted_timestamps": [
     "2026-04-24T07:32:55.621622+00:00",
@@ -1774,7 +1776,8 @@
     "2026-05-12T21:44:13.678694+00:00",
     "2026-05-12T22:12:52.100814+00:00",
     "2026-05-12T22:41:04.025609+00:00",
-    "2026-05-12T23:09:05.578963+00:00"
+    "2026-05-12T23:09:05.578963+00:00",
+    "2026-05-12T23:38:15.647890+00:00"
   ],
   "posted_text_hashes": [
     "9a9bfafd8f146bd982514c23ceb52d5d53be86be07aa861c2a0df1e0e126b074",
@@ -2365,9 +2368,13 @@
     "4043600094e6ba3bd1b4c4de309d699aa46eed1f822f23f81744eb5696c83d17",
     "4b57264e1419fe119ee8c2f6a9ca920d1d87f058e84e20b88408144ddf46955b",
     "2e7665208fce0d6a31acb0a093d196380fbda6265472835e9b98918e24d9f76c",
-    "603b8135c995131a37e17cf345c073d01f8f31446fa83c61ec06eeb3e0c33cb9"
+    "603b8135c995131a37e17cf345c073d01f8f31446fa83c61ec06eeb3e0c33cb9",
+    "adecb5ac9354d12962a6728e01c06992cec4ab032a30a474648a48e7f7d3f305"
   ],
   "posted_tags": [
+    [
+      "ghargharkali"
+    ],
     [
       "ghargharkali"
     ],
@@ -11204,6 +11211,18 @@
         "ghargharkali"
       ],
       "post_text": "Today's name is Dhairya. The embodiment of courage and fortitude. Jai Ma. #ghargharkali"
+    },
+    {
+      "queue_index": 590,
+      "source_index": 590,
+      "post_id": "816451782363463680",
+      "post_url": "https://kakakaforadyakali.tumblr.com/post/816451782363463680",
+      "posted_at": "2026-05-12T23:38:15.647890+00:00",
+      "text_hash": "adecb5ac9354d12962a6728e01c06992cec4ab032a30a474648a48e7f7d3f305",
+      "tags": [
+        "ghargharkali"
+      ],
+      "post_text": "Today's name is Turiya. The state beyond waking, dreaming, and deep sleep, the pure consciousness underlying all existence. Jai Ma. #ghargharkali"
     }
   ]
 }
