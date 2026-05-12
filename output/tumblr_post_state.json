@@ -1,8 +1,8 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts_mahakali.json",
-  "last_posted_index": 586,
-  "encrypted_refresh_token": "{\"nonce\":\"+3/6u4R9ianBi0KDw/OFTg==\",\"ciphertext\":\"nxaYc03C4BihHSTVx9ril54r6qEoZDXpvZy4VkaYi6VWPvMp9RsAlPXl/D/tLNDCkfk=\",\"mac\":\"4caQ9fbmdHJWLdPO90j82uETwvouf78vqRGfLKqbCZs=\"}",
+  "last_posted_index": 587,
+  "encrypted_refresh_token": "{\"nonce\":\"b1VB6FPLvr0SBAw3Blau5g==\",\"ciphertext\":\"HBwhED6rj5ViYeUszF3Bl3LH7vN3OpRbphxLpg+Yam2LfaegzH0IiZE1AxvLWnNjauA=\",\"mac\":\"qZ9xj3AeMa0rOt9BPTidZ+zIAsUOsvsbKccpRCONe1I=\"}",
   "posted_post_ids": [
     "814760303295381504",
     "814766726962118656",
@@ -589,7 +589,8 @@
     "816435574525329408",
     "816439302189907968",
     "816442575196176384",
-    "816444607518982144"
+    "816444607518982144",
+    "816446409958162432"
   ],
   "posted_post_urls": [
     "https://kakakaforadyakali.tumblr.com/post/814760303295381504",
@@ -1177,7 +1178,8 @@
     "https://kakakaforadyakali.tumblr.com/post/816435574525329408",
     "https://kakakaforadyakali.tumblr.com/post/816439302189907968",
     "https://kakakaforadyakali.tumblr.com/post/816442575196176384",
-    "https://kakakaforadyakali.tumblr.com/post/816444607518982144"
+    "https://kakakaforadyakali.tumblr.com/post/816444607518982144",
+    "https://kakakaforadyakali.tumblr.com/post/816446409958162432"
   ],
   "posted_timestamps": [
     "2026-04-24T07:32:55.621622+00:00",
@@ -1765,7 +1767,8 @@
     "2026-05-12T19:20:38.655384+00:00",
     "2026-05-12T20:19:53.613832+00:00",
     "2026-05-12T21:11:55.180587+00:00",
-    "2026-05-12T21:44:13.678694+00:00"
+    "2026-05-12T21:44:13.678694+00:00",
+    "2026-05-12T22:12:52.100814+00:00"
   ],
   "posted_text_hashes": [
     "9a9bfafd8f146bd982514c23ceb52d5d53be86be07aa861c2a0df1e0e126b074",
@@ -2353,9 +2356,13 @@
     "2bee3fbc9d933034370d7be656461a7c5a6a1b7ac12bcf2fc2977feeabf38e57",
     "957afd08ebf1bf3b6b460ae480ed188f102b99e1b275bec8e1d005afd94fd657",
     "7ac8697b8d6f3b43c044fb05c59627e7d666617cfa3e39b57c70f88a0fa78705",
-    "4043600094e6ba3bd1b4c4de309d699aa46eed1f822f23f81744eb5696c83d17"
+    "4043600094e6ba3bd1b4c4de309d699aa46eed1f822f23f81744eb5696c83d17",
+    "4b57264e1419fe119ee8c2f6a9ca920d1d87f058e84e20b88408144ddf46955b"
   ],
   "posted_tags": [
+    [
+      "ghargharkali"
+    ],
     [
       "ghargharkali"
     ],
@@ -11147,6 +11154,18 @@
         "ghargharkali"
       ],
       "post_text": "Today's name is Vindhya-vasini. She who dwells in the Vindhya Mountains, formidable and protective. Jai Ma. #ghargharkali"
+    },
+    {
+      "queue_index": 587,
+      "source_index": 587,
+      "post_id": "816446409958162432",
+      "post_url": "https://kakakaforadyakali.tumblr.com/post/816446409958162432",
+      "posted_at": "2026-05-12T22:12:52.100814+00:00",
+      "text_hash": "4b57264e1419fe119ee8c2f6a9ca920d1d87f058e84e20b88408144ddf46955b",
+      "tags": [
+        "ghargharkali"
+      ],
+      "post_text": "Today's name is Pra-tyaya. The divine principle of faith, trust, and assurance. Jai Ma. #ghargharkali"
     }
   ]
 }
