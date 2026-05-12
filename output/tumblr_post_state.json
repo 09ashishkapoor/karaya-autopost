@@ -1,8 +1,8 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts_mahakali.json",
-  "last_posted_index": 569,
-  "encrypted_refresh_token": "{\"nonce\":\"Jm5/3S37GsNIE+0TdAzKZg==\",\"ciphertext\":\"i6fiQGvz5QZFJQ9a6hihgu58Uq+YlJWfRnbu7h0GmMKO/uAXrNXanqkV3wulYI2i94E=\",\"mac\":\"J2JGvhTV/OAMW4BXxmHVeo368JN0HEoMl/73zO+vsSY=\"}",
+  "last_posted_index": 570,
+  "encrypted_refresh_token": "{\"nonce\":\"ore24Dwka+7nusoP7lBqcw==\",\"ciphertext\":\"H5P5+o9HbXgOflSMIBSeiij8NZYIxXIPBiCUq5mFISr3xZOiMjzqwEur9+zmJ4CgoVA=\",\"mac\":\"0s7aLjyCtLE/znMU597XXnLV/9O/cPfY2vpI0fGUAaI=\"}",
   "posted_post_ids": [
     "814760303295381504",
     "814766726962118656",
@@ -572,7 +572,8 @@
     "816366876607266816",
     "816369939248234496",
     "816375459870801920",
-    "816381235875201024"
+    "816381235875201024",
+    "816386477456064512"
   ],
   "posted_post_urls": [
     "https://kakakaforadyakali.tumblr.com/post/814760303295381504",
@@ -1143,7 +1144,8 @@
     "https://kakakaforadyakali.tumblr.com/post/816366876607266816",
     "https://kakakaforadyakali.tumblr.com/post/816369939248234496",
     "https://kakakaforadyakali.tumblr.com/post/816375459870801920",
-    "https://kakakaforadyakali.tumblr.com/post/816381235875201024"
+    "https://kakakaforadyakali.tumblr.com/post/816381235875201024",
+    "https://kakakaforadyakali.tumblr.com/post/816386477456064512"
   ],
   "posted_timestamps": [
     "2026-04-24T07:32:55.621622+00:00",
@@ -1714,7 +1716,8 @@
     "2026-05-12T01:08:43.306300+00:00",
     "2026-05-12T01:57:24.152995+00:00",
     "2026-05-12T03:25:08.799221+00:00",
-    "2026-05-12T04:56:57.423321+00:00"
+    "2026-05-12T04:56:57.423321+00:00",
+    "2026-05-12T06:20:15.970777+00:00"
   ],
   "posted_text_hashes": [
     "9a9bfafd8f146bd982514c23ceb52d5d53be86be07aa861c2a0df1e0e126b074",
@@ -2285,9 +2288,13 @@
     "a9ec3d31f7e84c77ad0cac05f53d1ca8ac8c006371ace0426eb5295daa15d148",
     "286aceea30dac7ef2de7963037452c73cf9ccabd3abd4aabfe4ffd2077e2709d",
     "a0dba480fa89347a5ac9e2c89058d2a5efd9877aa0416601b9a38638f216b2b9",
-    "78820bc2196e3c110980529409a565e2b9a7e7b330c852bb279f2d74321e2f3e"
+    "78820bc2196e3c110980529409a565e2b9a7e7b330c852bb279f2d74321e2f3e",
+    "fb336df2054b10f09d06de94402b3e45bff024c9b8a61f3967510cb2dadb4e5d"
   ],
   "posted_tags": [
+    [
+      "ghargharkali"
+    ],
     [
       "ghargharkali"
     ],
@@ -10824,6 +10831,18 @@
         "ghargharkali"
       ],
       "post_text": "Today's name is Mooladhara nivasini. She who dwells in the Muladhara Chakra, the foundational energy center. Jai Ma. #ghargharkali"
+    },
+    {
+      "queue_index": 570,
+      "source_index": 570,
+      "post_id": "816386477456064512",
+      "post_url": "https://kakakaforadyakali.tumblr.com/post/816386477456064512",
+      "posted_at": "2026-05-12T06:20:15.970777+00:00",
+      "text_hash": "fb336df2054b10f09d06de94402b3e45bff024c9b8a61f3967510cb2dadb4e5d",
+      "tags": [
+        "ghargharkali"
+      ],
+      "post_text": "Today's name is Agnya. The unknowable One whose command extends over all. Jai Ma. #ghargharkali"
     }
   ]
 }
