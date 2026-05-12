@@ -1,8 +1,8 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts_mahakali.json",
-  "last_posted_index": 580,
-  "encrypted_refresh_token": "{\"nonce\":\"+qjTGQNhF3HuPuyl9ZkzOg==\",\"ciphertext\":\"A4zDWlIO2wHledaNUGNJLlwm9bjNyUTL2Fbz1zoH8h/gGOOv+2hWlSaVhVo0kEQSkfw=\",\"mac\":\"++nVAUKShddrGDwkzrrWV80Yj3BSMyUwGD3GnOlPbbk=\"}",
+  "last_posted_index": 581,
+  "encrypted_refresh_token": "{\"nonce\":\"l7XMLwAxjH0Y7d42lIbALw==\",\"ciphertext\":\"hwg4FLft8YwYxxegSTJH8J2Pl0rceMMkXqwpaayWh7l2hyEofkiezgmD/3lLVK8oFDU=\",\"mac\":\"3dT1u09zJ+EPBHjTXwzCubHXzWg5l+ymLLYbT6lFI/U=\"}",
   "posted_post_ids": [
     "814760303295381504",
     "814766726962118656",
@@ -583,7 +583,8 @@
     "816413064458092544",
     "816417911289823232",
     "816421722077200384",
-    "816425028631642112"
+    "816425028631642112",
+    "816428515418406912"
   ],
   "posted_post_urls": [
     "https://kakakaforadyakali.tumblr.com/post/814760303295381504",
@@ -1165,7 +1166,8 @@
     "https://kakakaforadyakali.tumblr.com/post/816413064458092544",
     "https://kakakaforadyakali.tumblr.com/post/816417911289823232",
     "https://kakakaforadyakali.tumblr.com/post/816421722077200384",
-    "https://kakakaforadyakali.tumblr.com/post/816425028631642112"
+    "https://kakakaforadyakali.tumblr.com/post/816425028631642112",
+    "https://kakakaforadyakali.tumblr.com/post/816428515418406912"
   ],
   "posted_timestamps": [
     "2026-04-24T07:32:55.621622+00:00",
@@ -1747,7 +1749,8 @@
     "2026-05-12T13:22:51.346945+00:00",
     "2026-05-12T14:39:53.644932+00:00",
     "2026-05-12T15:40:27.953957+00:00",
-    "2026-05-12T16:33:01.293251+00:00"
+    "2026-05-12T16:33:01.293251+00:00",
+    "2026-05-12T17:28:27.025725+00:00"
   ],
   "posted_text_hashes": [
     "9a9bfafd8f146bd982514c23ceb52d5d53be86be07aa861c2a0df1e0e126b074",
@@ -2329,9 +2332,13 @@
     "185f25bb1d7e20ee22556ab67a176898f3f70c1a2cc4842066cec8d68852c5ae",
     "13a3b0b0c4d4392261b84def27ad06acf832c72453c4b7b1de4eaa15d3bdec42",
     "434249bfb16d18756b186847265232d7543e8df75cbf00b95c99513c53fffd01",
-    "bde0119f9097a013283903c459a32ac299798eca94713a73940a39e9e58631ea"
+    "bde0119f9097a013283903c459a32ac299798eca94713a73940a39e9e58631ea",
+    "5e3ba703fdb37d0fff20f20910dbf929e5847b2afa5a563a7d35a2289d213510"
   ],
   "posted_tags": [
+    [
+      "ghargharkali"
+    ],
     [
       "ghargharkali"
     ],
@@ -11033,6 +11040,18 @@
         "ghargharkali"
       ],
       "post_text": "Today's name is Danda nitih. The supreme law and just punishment that upholds cosmic order and righteousness. Jai Ma. #ghargharkali"
+    },
+    {
+      "queue_index": 581,
+      "source_index": 581,
+      "post_id": "816428515418406912",
+      "post_url": "https://kakakaforadyakali.tumblr.com/post/816428515418406912",
+      "posted_at": "2026-05-12T17:28:27.025725+00:00",
+      "text_hash": "5e3ba703fdb37d0fff20f20910dbf929e5847b2afa5a563a7d35a2289d213510",
+      "tags": [
+        "ghargharkali"
+      ],
+      "post_text": "Today's name is Trayi. The Three Vedas, representing the knowledge of creation, preservation, and dissolution. Jai Ma. #ghargharkali"
     }
   ]
 }
