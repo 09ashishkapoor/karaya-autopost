@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts.json",
-  "last_posted_index": 472,
+  "last_posted_index": 473,
   "posted_record_uris": [
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkhgvkr3xr2q",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkhjlikrsu23",
@@ -474,7 +474,8 @@
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mlozbztih52n",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mlp4vkllys27",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mlp7p2gzrf2v",
-    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mlpedrd2yc2x"
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mlpedrd2yc2x",
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mlpjili3vy23"
   ],
   "posted_cids": [
     "bafyreifrst5zlm5gntzglpt6lshxgsutmezuzdypxcxmayy2ozfha5m7ti",
@@ -948,7 +949,8 @@
     "bafyreialbenkticx4b7dpnbahavwgusnoszikqaojqfyjmocwufyo7xuli",
     "bafyreiede57k4dgyeqc5ayhfbggyrpc4k3ymul24mgnsvwdiug5re53avu",
     "bafyreifgbwqex23bcdfpzwr55qjwd2lricjsqfeyre2qyq5vof26e5gmma",
-    "bafyreievycldprnyiicexex7nrvngpdimkgniorlprf5x63l2orod4ztda"
+    "bafyreievycldprnyiicexex7nrvngpdimkgniorlprf5x63l2orod4ztda",
+    "bafyreie6vmghhax2gaxhiewfieaooysd5zcxucvm4gzkriepel3agfy6am"
   ],
   "posted_timestamps": [
     "2026-04-27T06:27:55.539737+00:00",
@@ -1422,7 +1424,8 @@
     "2026-05-13T00:10:51.072774+00:00",
     "2026-05-13T01:15:27.395702+00:00",
     "2026-05-13T02:05:30.407383+00:00",
-    "2026-05-13T03:28:40.414190+00:00"
+    "2026-05-13T03:28:40.414190+00:00",
+    "2026-05-13T05:00:50.790594+00:00"
   ],
   "posted_text_hashes": [
     "cf1ac875ed7087c14d3f19118163d018a70035373f00186f7154f6b8a4a58629",
@@ -1896,7 +1899,8 @@
     "349959cd626b41ef4dad7d7662ea1521bbe2aaa7a9ddabc5fb8a4ef827912e37",
     "2f336854bc878b06f11a061a21eab14a28cce915785e7cd0225cf47a0898f61a",
     "913793d86e92bd4c67c4c5be5de821b5a98914842de7c6091c62d8ae74009abe",
-    "0e4330644a4f61b7ad24c18bc753a448e94b44f5f5dc854ddc20a39569d61bef"
+    "0e4330644a4f61b7ad24c18bc753a448e94b44f5f5dc854ddc20a39569d61bef",
+    "3b9d1b0aa6298f4800477a42dd990d71e29f5c405c1efbcc6f3309b1466dab24"
   ],
   "history": [
     {
@@ -6146,6 +6150,15 @@
       "posted_at": "2026-05-13T03:28:40.414190+00:00",
       "text_hash": "0e4330644a4f61b7ad24c18bc753a448e94b44f5f5dc854ddc20a39569d61bef",
       "post_text": "Today's name is Amritaamshave. The one whose rays are like life-giving nectar. Jai Bhairava Baba. #Kalabhairava"
+    },
+    {
+      "queue_index": 473,
+      "source_index": 473,
+      "post_uri": "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mlpjili3vy23",
+      "cid": "bafyreie6vmghhax2gaxhiewfieaooysd5zcxucvm4gzkriepel3agfy6am",
+      "posted_at": "2026-05-13T05:00:50.790594+00:00",
+      "text_hash": "3b9d1b0aa6298f4800477a42dd990d71e29f5c405c1efbcc6f3309b1466dab24",
+      "post_text": "Today's name is Amritavapushe. The one whose very body is made of immortal nectar. Jai Bhairava Baba. #Kalabhairava"
     }
   ]
 }
