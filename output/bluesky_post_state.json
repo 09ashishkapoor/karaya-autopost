@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts.json",
-  "last_posted_index": 478,
+  "last_posted_index": 479,
   "posted_record_uris": [
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkhgvkr3xr2q",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkhjlikrsu23",
@@ -480,7 +480,8 @@
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mlpsokkfz72g",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mlpw6lb4nz2a",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mlq2nce4dq2o",
-    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mlq6a5c5c72q"
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mlq6a5c5c72q",
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mlqavgc2dr2x"
   ],
   "posted_cids": [
     "bafyreifrst5zlm5gntzglpt6lshxgsutmezuzdypxcxmayy2ozfha5m7ti",
@@ -960,7 +961,8 @@
     "bafyreiblxqbk6didbma5v5dkwzmlo6qmvcsw74lenkrqlfoa3le7pyrfzm",
     "bafyreibfvzx7ssede2juxdxggxzc72x2kawus6lo5rywnf2mjclwiupxhe",
     "bafyreifedjvsu6zywk43nzdehnanghejnadu2j2evau6zzt47joocfov3e",
-    "bafyreihkonpzxustniwu2axahepmvzae6t44rxlmmewrwxsbagca3wvotq"
+    "bafyreihkonpzxustniwu2axahepmvzae6t44rxlmmewrwxsbagca3wvotq",
+    "bafyreif2jidzeyqmejee2olnhonbdn3i35phk5nykkyfqcppx4s4fknf44"
   ],
   "posted_timestamps": [
     "2026-04-27T06:27:55.539737+00:00",
@@ -1440,7 +1442,8 @@
     "2026-05-13T07:45:14.808026+00:00",
     "2026-05-13T08:47:53.634068+00:00",
     "2026-05-13T10:07:42.580356+00:00",
-    "2026-05-13T11:11:56.039321+00:00"
+    "2026-05-13T11:11:56.039321+00:00",
+    "2026-05-13T11:59:37.592165+00:00"
   ],
   "posted_text_hashes": [
     "cf1ac875ed7087c14d3f19118163d018a70035373f00186f7154f6b8a4a58629",
@@ -1920,7 +1923,8 @@
     "49a1313726a7350630982d29640d55f68faa159edf9f2649496057f21b3162e2",
     "096726ab9e73a280783bc73f918ca091440d3e65502a00e3eff27c56fd84188d",
     "3dc8d9271386d1fd3f671d2d929207799356e0434283d0b902f07e30add8ebda",
-    "7ad10cbac168ed67ed5922a3d4ef20a0d27f8e40b42959bccec6d2782b6e3c1b"
+    "7ad10cbac168ed67ed5922a3d4ef20a0d27f8e40b42959bccec6d2782b6e3c1b",
+    "b04acd5bb25acf5238fa2f7df7c7469b734c7ae7648fd8cae764f2ca762ec8f3"
   ],
   "history": [
     {
@@ -6224,6 +6228,15 @@
       "posted_at": "2026-05-13T11:11:56.039321+00:00",
       "text_hash": "7ad10cbac168ed67ed5922a3d4ef20a0d27f8e40b42959bccec6d2782b6e3c1b",
       "post_text": "Today's name is Mrigabaanaarpanaaya. The one who received the arrow meant for a deer. Jai Bhairava Baba. #Kalabhairava"
+    },
+    {
+      "queue_index": 479,
+      "source_index": 479,
+      "post_uri": "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mlqavgc2dr2x",
+      "cid": "bafyreif2jidzeyqmejee2olnhonbdn3i35phk5nykkyfqcppx4s4fknf44",
+      "posted_at": "2026-05-13T11:59:37.592165+00:00",
+      "text_hash": "b04acd5bb25acf5238fa2f7df7c7469b734c7ae7648fd8cae764f2ca762ec8f3",
+      "post_text": "Today's name is Khalaaya. The threshing floor that separates righteousness from wickedness. Jai Bhairava Baba. #Kalabhairava"
     }
   ]
 }
