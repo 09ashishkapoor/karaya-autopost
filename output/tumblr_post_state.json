@@ -1,8 +1,8 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts_mahakali.json",
-  "last_posted_index": 629,
-  "encrypted_refresh_token": "{\"nonce\":\"JvtcyJgMaoyd1EcqcDmAaQ==\",\"ciphertext\":\"u4P6yqhm2RBgUYU2yCj4P3lo1rrlhII+FaEPb5w+w6Vw0ph7ZITVtaTotdqDkcoXItA=\",\"mac\":\"K3FyEYTdQX7Xa72ftjPWBou3CC2KBm/qJejkEauVCDo=\"}",
+  "last_posted_index": 630,
+  "encrypted_refresh_token": "{\"nonce\":\"8dtXHF53FZq5KFI4U9Wh7w==\",\"ciphertext\":\"UrYUTFme4c2Ag7eEsdZBGqAPbC0c/DNSZZ5fS1x+TBrZz7KRgbBUVxt7G1HJm26ggYs=\",\"mac\":\"DZH1B9mjNqaAA8WuFls5Nisk5FcreTAkUZ5fcGeRpCI=\"}",
   "posted_post_ids": [
     "814760303295381504",
     "814766726962118656",
@@ -632,7 +632,8 @@
     "816583576927813632",
     "816586890653368320",
     "816590163915440128",
-    "816594006487269376"
+    "816594006487269376",
+    "816598884067524608"
   ],
   "posted_post_urls": [
     "https://kakakaforadyakali.tumblr.com/post/814760303295381504",
@@ -1263,7 +1264,8 @@
     "https://kakakaforadyakali.tumblr.com/post/816583576927813632",
     "https://kakakaforadyakali.tumblr.com/post/816586890653368320",
     "https://kakakaforadyakali.tumblr.com/post/816590163915440128",
-    "https://kakakaforadyakali.tumblr.com/post/816594006487269376"
+    "https://kakakaforadyakali.tumblr.com/post/816594006487269376",
+    "https://kakakaforadyakali.tumblr.com/post/816598884067524608"
   ],
   "posted_timestamps": [
     "2026-04-24T07:32:55.621622+00:00",
@@ -1894,7 +1896,8 @@
     "2026-05-14T10:33:04.749356+00:00",
     "2026-05-14T11:25:44.925872+00:00",
     "2026-05-14T12:17:46.586633+00:00",
-    "2026-05-14T13:18:51.264799+00:00"
+    "2026-05-14T13:18:51.264799+00:00",
+    "2026-05-14T14:36:22.752405+00:00"
   ],
   "posted_text_hashes": [
     "9a9bfafd8f146bd982514c23ceb52d5d53be86be07aa861c2a0df1e0e126b074",
@@ -2525,9 +2528,13 @@
     "c9b2d3ba38d49723bc5019544d142b18701e62731477529f7892f61da617a575",
     "de49d10cd742f523ff80280122ee53b0c9f7a124cc0fc6872a869d390096a577",
     "5cf3e6fcef3c88c656f58b395c6d88338d18385016ca722b81912603f3925aed",
-    "762aa38cdfceff35168b5035928d5294e76e7fdbc7bff9da5cfaaef3c3e52c38"
+    "762aa38cdfceff35168b5035928d5294e76e7fdbc7bff9da5cfaaef3c3e52c38",
+    "fb89daf127d0fe73f4a4ab0913563006e53aa5895fb5e2e373a9d5ddf2cd5636"
   ],
   "posted_tags": [
+    [
+      "ghargharkali"
+    ],
     [
       "ghargharkali"
     ],
@@ -11964,6 +11971,18 @@
         "ghargharkali"
       ],
       "post_text": "Today's name is Vriinda. The sacred basil herb, revered as a manifestation of divine energy and purity. Jai Ma. #ghargharkali"
+    },
+    {
+      "queue_index": 630,
+      "source_index": 630,
+      "post_id": "816598884067524608",
+      "post_url": "https://kakakaforadyakali.tumblr.com/post/816598884067524608",
+      "posted_at": "2026-05-14T14:36:22.752405+00:00",
+      "text_hash": "fb89daf127d0fe73f4a4ab0913563006e53aa5895fb5e2e373a9d5ddf2cd5636",
+      "tags": [
+        "ghargharkali"
+      ],
+      "post_text": "Today's name is Kaitabhi. Destroyer of Kaitabha, one of the primordial demons of nescience. Jai Ma. #ghargharkali"
     }
   ]
 }
