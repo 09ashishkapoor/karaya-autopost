@@ -1,8 +1,8 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts_mahakali.json",
-  "last_posted_index": 621,
-  "encrypted_refresh_token": "{\"nonce\":\"rKFb0g7T7o+H7ZVffYiQqA==\",\"ciphertext\":\"mSx3Mh3Q0MaDFMqeXqsF4Qqpillr8j0cKLCBE8npkkQjKiT74B8K7HN4hcT7KNWrzUw=\",\"mac\":\"dW8Mc7T15vF6aRrxoCZvBl9Z3HL/p8uUBO8ilh7jc5s=\"}",
+  "last_posted_index": 622,
+  "encrypted_refresh_token": "{\"nonce\":\"d4z9h4RWomOLQiaMk/RM4g==\",\"ciphertext\":\"EWbuufBrnORoE7kGLJb016/2LB8oBL5rx1MhtEez+uwyxSJ03i5VbwA+7jXqdKGo780=\",\"mac\":\"V6zVG8i3YqDMhd+TcZ//I+solMur+r3c35KM32uoiPQ=\"}",
   "posted_post_ids": [
     "814760303295381504",
     "814766726962118656",
@@ -624,7 +624,8 @@
     "816548488028569601",
     "816551434933993472",
     "816556669168451584",
-    "816562535470858240"
+    "816562535470858240",
+    "816567998357897216"
   ],
   "posted_post_urls": [
     "https://kakakaforadyakali.tumblr.com/post/814760303295381504",
@@ -1247,7 +1248,8 @@
     "https://kakakaforadyakali.tumblr.com/post/816548488028569601",
     "https://kakakaforadyakali.tumblr.com/post/816551434933993472",
     "https://kakakaforadyakali.tumblr.com/post/816556669168451584",
-    "https://kakakaforadyakali.tumblr.com/post/816562535470858240"
+    "https://kakakaforadyakali.tumblr.com/post/816562535470858240",
+    "https://kakakaforadyakali.tumblr.com/post/816567998357897216"
   ],
   "posted_timestamps": [
     "2026-04-24T07:32:55.621622+00:00",
@@ -1870,7 +1872,8 @@
     "2026-05-14T01:15:21.539254+00:00",
     "2026-05-14T02:02:11.692129+00:00",
     "2026-05-14T03:25:23.689328+00:00",
-    "2026-05-14T04:58:38.002954+00:00"
+    "2026-05-14T04:58:38.002954+00:00",
+    "2026-05-14T06:25:27.835824+00:00"
   ],
   "posted_text_hashes": [
     "9a9bfafd8f146bd982514c23ceb52d5d53be86be07aa861c2a0df1e0e126b074",
@@ -2493,9 +2496,13 @@
     "672e49824113947cc2177b1f2d3ca572467cfa956ca84006f1c41f1131f388e4",
     "8205275f5fdab72e33b31059bec6277b1d15dbeab606c3e600434c081881bf7f",
     "070a5df4518bb34076db51c7ad677e51f9673d7690d559b68adb74718e628136",
-    "cd93fb0a80c821b7e2526d54f7397f19ca389bfe34d6d22d0826b981e1de8ad3"
+    "cd93fb0a80c821b7e2526d54f7397f19ca389bfe34d6d22d0826b981e1de8ad3",
+    "34715f4969d3747f6d209e98a08bd7f4fb5eaad17a99365af188ca484f7e705f"
   ],
   "posted_tags": [
+    [
+      "ghargharkali"
+    ],
     [
       "ghargharkali"
     ],
@@ -11812,6 +11819,18 @@
         "ghargharkali"
       ],
       "post_text": "Today's name is Panchali. The five-fold Goddess, representing the five elements or the five cosmic functions. Jai Ma. #ghargharkali"
+    },
+    {
+      "queue_index": 622,
+      "source_index": 622,
+      "post_id": "816567998357897216",
+      "post_url": "https://kakakaforadyakali.tumblr.com/post/816567998357897216",
+      "posted_at": "2026-05-14T06:25:27.835824+00:00",
+      "text_hash": "34715f4969d3747f6d209e98a08bd7f4fb5eaad17a99365af188ca484f7e705f",
+      "tags": [
+        "ghargharkali"
+      ],
+      "post_text": "Today's name is Rukmini. The One adorned with gold, shining with brilliance and splendor. Jai Ma. #ghargharkali"
     }
   ]
 }
