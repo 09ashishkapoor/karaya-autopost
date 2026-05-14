@@ -1,8 +1,8 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts_mahakali.json",
-  "last_posted_index": 619,
-  "encrypted_refresh_token": "{\"nonce\":\"Y7+ZzRaLXNfnMDo3nny1oQ==\",\"ciphertext\":\"LlJ84HCT/G48OK2NBa2jhEl//urfKA145xo5IiDF3xc5w4vpo4vmYabIAUllqB4FE2Y=\",\"mac\":\"TXPXUBINQZqhnIaks4NfLrKKQami64g4IC87+jOR6m8=\"}",
+  "last_posted_index": 620,
+  "encrypted_refresh_token": "{\"nonce\":\"QrEfM2LiC+03yY/Rb7J/gw==\",\"ciphertext\":\"2jEYViooZr4dgdmqK4O/pSPlzgvvoZiTUdfRbG5yUnhIVFO35qcf+NVmikoNe2hTbTQ=\",\"mac\":\"zVphsPKUfNwe+esKpWec//7/et4Lg++Fo/Xlt3AnJA4=\"}",
   "posted_post_ids": [
     "814760303295381504",
     "814766726962118656",
@@ -622,7 +622,8 @@
     "816542443356012544",
     "816544323977019392",
     "816548488028569601",
-    "816551434933993472"
+    "816551434933993472",
+    "816556669168451584"
   ],
   "posted_post_urls": [
     "https://kakakaforadyakali.tumblr.com/post/814760303295381504",
@@ -1243,7 +1244,8 @@
     "https://kakakaforadyakali.tumblr.com/post/816542443356012544",
     "https://kakakaforadyakali.tumblr.com/post/816544323977019392",
     "https://kakakaforadyakali.tumblr.com/post/816548488028569601",
-    "https://kakakaforadyakali.tumblr.com/post/816551434933993472"
+    "https://kakakaforadyakali.tumblr.com/post/816551434933993472",
+    "https://kakakaforadyakali.tumblr.com/post/816556669168451584"
   ],
   "posted_timestamps": [
     "2026-04-24T07:32:55.621622+00:00",
@@ -1864,7 +1866,8 @@
     "2026-05-13T23:39:16.641860+00:00",
     "2026-05-14T00:09:10.197344+00:00",
     "2026-05-14T01:15:21.539254+00:00",
-    "2026-05-14T02:02:11.692129+00:00"
+    "2026-05-14T02:02:11.692129+00:00",
+    "2026-05-14T03:25:23.689328+00:00"
   ],
   "posted_text_hashes": [
     "9a9bfafd8f146bd982514c23ceb52d5d53be86be07aa861c2a0df1e0e126b074",
@@ -2485,9 +2488,13 @@
     "548278440f81f829fc7549a40e4be0125baa58f9e28bdd870b75ecc83c96b8d8",
     "286b1a69c2c6ae9c9c558d5f89844026584fbbe848c8f48606aac8734d5a2edc",
     "672e49824113947cc2177b1f2d3ca572467cfa956ca84006f1c41f1131f388e4",
-    "8205275f5fdab72e33b31059bec6277b1d15dbeab606c3e600434c081881bf7f"
+    "8205275f5fdab72e33b31059bec6277b1d15dbeab606c3e600434c081881bf7f",
+    "070a5df4518bb34076db51c7ad677e51f9673d7690d559b68adb74718e628136"
   ],
   "posted_tags": [
+    [
+      "ghargharkali"
+    ],
     [
       "ghargharkali"
     ],
@@ -11774,6 +11781,18 @@
         "ghargharkali"
       ],
       "post_text": "Today's name is Gandhari. The bearer of foul odors, embodying the primordial power that consumes and transforms impurities. Jai Ma. #ghargharkali"
+    },
+    {
+      "queue_index": 620,
+      "source_index": 620,
+      "post_id": "816556669168451584",
+      "post_url": "https://kakakaforadyakali.tumblr.com/post/816556669168451584",
+      "posted_at": "2026-05-14T03:25:23.689328+00:00",
+      "text_hash": "070a5df4518bb34076db51c7ad677e51f9673d7690d559b68adb74718e628136",
+      "tags": [
+        "ghargharkali"
+      ],
+      "post_text": "Today's name is Narak'antaka. Destroyer of the demonic, liberator from hell. Jai Ma. #ghargharkali"
     }
   ]
 }
