@@ -1,8 +1,8 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts_mahakali.json",
-  "last_posted_index": 644,
-  "encrypted_refresh_token": "{\"nonce\":\"KsdFgXFnb/O6nlHEVZlEEw==\",\"ciphertext\":\"b6VY/iEx1o09BmaMr1+HuIOKVz9e4szxjaAugjJT8lLmYbPucqR8LJM7g/pjjhNo6fA=\",\"mac\":\"xnxBEcoA9N8LOEWbwZVLc7RVPT7zMSZIzCyFxSZmhEM=\"}",
+  "last_posted_index": 645,
+  "encrypted_refresh_token": "{\"nonce\":\"dXuKDCzAlqA4egK+FPnbDw==\",\"ciphertext\":\"m5cyb3Ke9GFciGtumVnMCu6qAefvE5/piv/6waLyezFK8sdSmr7+Exsfexd6EdOqKN4=\",\"mac\":\"d8ZBsBo4qoGxDWSgda6YwBnMJd//qae9V3v3f7n+t1k=\"}",
   "posted_post_ids": [
     "814760303295381504",
     "814766726962118656",
@@ -647,7 +647,8 @@
     "816631028317896704",
     "816632746761928704",
     "816634763733581824",
-    "816638936679088128"
+    "816638936679088128",
+    "816641795571220480"
   ],
   "posted_post_urls": [
     "https://kakakaforadyakali.tumblr.com/post/814760303295381504",
@@ -1293,7 +1294,8 @@
     "https://kakakaforadyakali.tumblr.com/post/816631028317896704",
     "https://kakakaforadyakali.tumblr.com/post/816632746761928704",
     "https://kakakaforadyakali.tumblr.com/post/816634763733581824",
-    "https://kakakaforadyakali.tumblr.com/post/816638936679088128"
+    "https://kakakaforadyakali.tumblr.com/post/816638936679088128",
+    "https://kakakaforadyakali.tumblr.com/post/816641795571220480"
   ],
   "posted_timestamps": [
     "2026-04-24T07:32:55.621622+00:00",
@@ -1939,7 +1941,8 @@
     "2026-05-14T23:07:17.869018+00:00",
     "2026-05-14T23:34:37.253256+00:00",
     "2026-05-15T00:06:40.767322+00:00",
-    "2026-05-15T01:12:59.906053+00:00"
+    "2026-05-15T01:12:59.906053+00:00",
+    "2026-05-15T01:58:26.338910+00:00"
   ],
   "posted_text_hashes": [
     "9a9bfafd8f146bd982514c23ceb52d5d53be86be07aa861c2a0df1e0e126b074",
@@ -2585,9 +2588,13 @@
     "83da9d87f38b5cad6b9afb5e37bbb1dc29b330dc785e079d72f4b31a5f62b4c4",
     "17a3b9bc14347c807ebb03af553100abbd04cb822801bcf38f9c84bcd9e2b42b",
     "3b36f0acab66d68e214f36695398a18637ea26398bd543da432a70d427a9d314",
-    "6a6189768f74e087abaa26aff0c994583747b1a6ebc60ad84f9a86e9e7955728"
+    "6a6189768f74e087abaa26aff0c994583747b1a6ebc60ad84f9a86e9e7955728",
+    "b4ac4d68c3aab3a6c9b5ab48c6c01cdabc87addb0a357a3c58b5c3146983953a"
   ],
   "posted_tags": [
+    [
+      "ghargharkali"
+    ],
     [
       "ghargharkali"
     ],
@@ -12249,6 +12256,18 @@
         "ghargharkali"
       ],
       "post_text": "Today's name is Jvala. The Flaming One, radiating intense light and power. Jai Ma. #ghargharkali"
+    },
+    {
+      "queue_index": 645,
+      "source_index": 645,
+      "post_id": "816641795571220480",
+      "post_url": "https://kakakaforadyakali.tumblr.com/post/816641795571220480",
+      "posted_at": "2026-05-15T01:58:26.338910+00:00",
+      "text_hash": "b4ac4d68c3aab3a6c9b5ab48c6c01cdabc87addb0a357a3c58b5c3146983953a",
+      "tags": [
+        "ghargharkali"
+      ],
+      "post_text": "Today's name is Matrika. She who is both Mother and the Primordial Sound, embodying the foundational energies of creation. Jai Ma. #ghargharkali"
     }
   ]
 }
