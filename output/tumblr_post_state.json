@@ -1,8 +1,8 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts_mahakali.json",
-  "last_posted_index": 649,
-  "encrypted_refresh_token": "{\"nonce\":\"aUZoZXITFLoNS9VS+t5b7A==\",\"ciphertext\":\"+W/zwyvnz0csi94rtkz2xq+/mDvYIpsp7BJpMxN+Jixt8hzA/0Yekk4TCBjAdRFrkos=\",\"mac\":\"5/enx0ch6QxfCT1Wksd/AD4E2PEkvYvuD8vFCYzF/8g=\"}",
+  "last_posted_index": 650,
+  "encrypted_refresh_token": "{\"nonce\":\"T2ExeZ+0V6kdr86WieOR1g==\",\"ciphertext\":\"KANWOhjWRSoqWMUjOHVj+PcBs33J82h4XYFgyD+OILHy/YpGBUzLW6uMl0EiV1HM0vU=\",\"mac\":\"DYYQ0e0epRAg52dfojazNc++EfdIZGoEOUBvAN8aoiw=\"}",
   "posted_post_ids": [
     "814760303295381504",
     "814766726962118656",
@@ -652,7 +652,8 @@
     "816647268732125184",
     "816653312182075392",
     "816658675589644288",
-    "816663660822953984"
+    "816663660822953984",
+    "816667472102113281"
   ],
   "posted_post_urls": [
     "https://kakakaforadyakali.tumblr.com/post/814760303295381504",
@@ -1303,7 +1304,8 @@
     "https://kakakaforadyakali.tumblr.com/post/816647268732125184",
     "https://kakakaforadyakali.tumblr.com/post/816653312182075392",
     "https://kakakaforadyakali.tumblr.com/post/816658675589644288",
-    "https://kakakaforadyakali.tumblr.com/post/816663660822953984"
+    "https://kakakaforadyakali.tumblr.com/post/816663660822953984",
+    "https://kakakaforadyakali.tumblr.com/post/816667472102113281"
   ],
   "posted_timestamps": [
     "2026-04-24T07:32:55.621622+00:00",
@@ -1954,7 +1956,8 @@
     "2026-05-15T03:25:25.938893+00:00",
     "2026-05-15T05:01:29.394421+00:00",
     "2026-05-15T06:26:44.954723+00:00",
-    "2026-05-15T07:45:58.695594+00:00"
+    "2026-05-15T07:45:58.695594+00:00",
+    "2026-05-15T08:46:33.354845+00:00"
   ],
   "posted_text_hashes": [
     "9a9bfafd8f146bd982514c23ceb52d5d53be86be07aa861c2a0df1e0e126b074",
@@ -2605,9 +2608,13 @@
     "d7a63e05982d2251e0ed3756fa094948c8dfb1894ef9983e4600be3a430244a1",
     "12f56e4b1aae6276fc9b4dfa41ed9b1eb356e8a4818f42d2bcd4cae9b451c10b",
     "29fda7928a1ca0368448686fb8aac93d96ee1c0ac16ed304d7b6e204b92fbd03",
-    "a9432876e2b5125f78a349986899ded89eaa54480a7752dc22c8f666e5c107f4"
+    "a9432876e2b5125f78a349986899ded89eaa54480a7752dc22c8f666e5c107f4",
+    "ac529cd06c5f5cc998a86e2d956c02fb45f47e4d2281726ecc26850900094411"
   ],
   "posted_tags": [
+    [
+      "ghargharkali"
+    ],
     [
       "ghargharkali"
     ],
@@ -12344,6 +12351,18 @@
         "ghargharkali"
       ],
       "post_text": "Today's name is Maha-mari. The great bringer of plague and pestilence, embodying destructive cosmic force. Jai Ma. #ghargharkali"
+    },
+    {
+      "queue_index": 650,
+      "source_index": 650,
+      "post_id": "816667472102113281",
+      "post_url": "https://kakakaforadyakali.tumblr.com/post/816667472102113281",
+      "posted_at": "2026-05-15T08:46:33.354845+00:00",
+      "text_hash": "ac529cd06c5f5cc998a86e2d956c02fb45f47e4d2281726ecc26850900094411",
+      "tags": [
+        "ghargharkali"
+      ],
+      "post_text": "Today's name is Bhramari. The Goddess who manifests as the divine swarm of bees, symbolizing cosmic creation and destruction. Jai Ma. #ghargharkali"
     }
   ]
 }
