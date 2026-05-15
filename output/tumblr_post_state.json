@@ -1,8 +1,8 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts_mahakali.json",
-  "last_posted_index": 648,
-  "encrypted_refresh_token": "{\"nonce\":\"wYO/akZD+wvGRxNfJyk4CQ==\",\"ciphertext\":\"HZfpdLDvzEpbDbTB6FKJIuf7dR+u/k2TgflZZMDSge6qvALoNbz/qX52WeqMJ0j/b8o=\",\"mac\":\"Bjm4cPCdVrsWf/Yn+/VQYwwdrMKcpR+Q6cwXfQCrXuw=\"}",
+  "last_posted_index": 649,
+  "encrypted_refresh_token": "{\"nonce\":\"aUZoZXITFLoNS9VS+t5b7A==\",\"ciphertext\":\"+W/zwyvnz0csi94rtkz2xq+/mDvYIpsp7BJpMxN+Jixt8hzA/0Yekk4TCBjAdRFrkos=\",\"mac\":\"5/enx0ch6QxfCT1Wksd/AD4E2PEkvYvuD8vFCYzF/8g=\"}",
   "posted_post_ids": [
     "814760303295381504",
     "814766726962118656",
@@ -651,7 +651,8 @@
     "816641795571220480",
     "816647268732125184",
     "816653312182075392",
-    "816658675589644288"
+    "816658675589644288",
+    "816663660822953984"
   ],
   "posted_post_urls": [
     "https://kakakaforadyakali.tumblr.com/post/814760303295381504",
@@ -1301,7 +1302,8 @@
     "https://kakakaforadyakali.tumblr.com/post/816641795571220480",
     "https://kakakaforadyakali.tumblr.com/post/816647268732125184",
     "https://kakakaforadyakali.tumblr.com/post/816653312182075392",
-    "https://kakakaforadyakali.tumblr.com/post/816658675589644288"
+    "https://kakakaforadyakali.tumblr.com/post/816658675589644288",
+    "https://kakakaforadyakali.tumblr.com/post/816663660822953984"
   ],
   "posted_timestamps": [
     "2026-04-24T07:32:55.621622+00:00",
@@ -1951,7 +1953,8 @@
     "2026-05-15T01:58:26.338910+00:00",
     "2026-05-15T03:25:25.938893+00:00",
     "2026-05-15T05:01:29.394421+00:00",
-    "2026-05-15T06:26:44.954723+00:00"
+    "2026-05-15T06:26:44.954723+00:00",
+    "2026-05-15T07:45:58.695594+00:00"
   ],
   "posted_text_hashes": [
     "9a9bfafd8f146bd982514c23ceb52d5d53be86be07aa861c2a0df1e0e126b074",
@@ -2601,9 +2604,13 @@
     "b4ac4d68c3aab3a6c9b5ab48c6c01cdabc87addb0a357a3c58b5c3146983953a",
     "d7a63e05982d2251e0ed3756fa094948c8dfb1894ef9983e4600be3a430244a1",
     "12f56e4b1aae6276fc9b4dfa41ed9b1eb356e8a4818f42d2bcd4cae9b451c10b",
-    "29fda7928a1ca0368448686fb8aac93d96ee1c0ac16ed304d7b6e204b92fbd03"
+    "29fda7928a1ca0368448686fb8aac93d96ee1c0ac16ed304d7b6e204b92fbd03",
+    "a9432876e2b5125f78a349986899ded89eaa54480a7752dc22c8f666e5c107f4"
   ],
   "posted_tags": [
+    [
+      "ghargharkali"
+    ],
     [
       "ghargharkali"
     ],
@@ -12325,6 +12332,18 @@
         "ghargharkali"
       ],
       "post_text": "Today's name is Yogeshhwari. The Queen of yogis, the supreme mistress of yogic powers. Jai Ma. #ghargharkali"
+    },
+    {
+      "queue_index": 649,
+      "source_index": 649,
+      "post_id": "816663660822953984",
+      "post_url": "https://kakakaforadyakali.tumblr.com/post/816663660822953984",
+      "posted_at": "2026-05-15T07:45:58.695594+00:00",
+      "text_hash": "a9432876e2b5125f78a349986899ded89eaa54480a7752dc22c8f666e5c107f4",
+      "tags": [
+        "ghargharkali"
+      ],
+      "post_text": "Today's name is Maha-mari. The great bringer of plague and pestilence, embodying destructive cosmic force. Jai Ma. #ghargharkali"
     }
   ]
 }
