@@ -1,8 +1,8 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts_mahakali.json",
-  "last_posted_index": 659,
-  "encrypted_refresh_token": "{\"nonce\":\"4OoHOzH3XsEGkvHmnOai5Q==\",\"ciphertext\":\"1i9JiOrmzzG8XPW7hDJ9FaYAHcGGMRhQ9uG7JCFiFVuEWd0CoBsOgfcFGU2SJMJ6EAQ=\",\"mac\":\"b+aaKU2rR1T35gK6Lb0iXZk9+7pfIJ1X2CNmgyLsY3U=\"}",
+  "last_posted_index": 660,
+  "encrypted_refresh_token": "{\"nonce\":\"1pdIh3a9vu2Z2IPGnlOHTQ==\",\"ciphertext\":\"wAGrlsEKnSfM0QcMhajdE1xHZqVJHHrDOQ+DY6wOxaHAu+q7BrdEwJYQvjrR2MWhWpA=\",\"mac\":\"yaj0zl43pP3/FlMsVYbX2goJ6ufs8S1uBkrGHHsYoXE=\"}",
   "posted_post_ids": [
     "814760303295381504",
     "814766726962118656",
@@ -662,7 +662,8 @@
     "816689339777073152",
     "816692933164171264",
     "816696082622038016",
-    "816699522775482368"
+    "816699522775482368",
+    "816701862207258624"
   ],
   "posted_post_urls": [
     "https://kakakaforadyakali.tumblr.com/post/814760303295381504",
@@ -1323,7 +1324,8 @@
     "https://kakakaforadyakali.tumblr.com/post/816689339777073152",
     "https://kakakaforadyakali.tumblr.com/post/816692933164171264",
     "https://kakakaforadyakali.tumblr.com/post/816696082622038016",
-    "https://kakakaforadyakali.tumblr.com/post/816699522775482368"
+    "https://kakakaforadyakali.tumblr.com/post/816699522775482368",
+    "https://kakakaforadyakali.tumblr.com/post/816701862207258624"
   ],
   "posted_timestamps": [
     "2026-04-24T07:32:55.621622+00:00",
@@ -1984,7 +1986,8 @@
     "2026-05-15T14:34:08.071384+00:00",
     "2026-05-15T15:31:15.342234+00:00",
     "2026-05-15T16:21:19.007700+00:00",
-    "2026-05-15T17:15:59.306053+00:00"
+    "2026-05-15T17:15:59.306053+00:00",
+    "2026-05-15T17:53:10.340249+00:00"
   ],
   "posted_text_hashes": [
     "9a9bfafd8f146bd982514c23ceb52d5d53be86be07aa861c2a0df1e0e126b074",
@@ -2645,9 +2648,13 @@
     "8c4a490cfe6d0345688be40324eeec901c91e75a8de0044cc556f5f0ad3774ad",
     "4afee257946bf2d9e541b0c841b6072428eb3f21d7b5607ab68a7a398fec8e8a",
     "5e986b9c40be543172214bd9503c1a370ed865a230f1799cc435b8c9df67749e",
-    "545e7676bdf8eed85bbc092b7682fd1b8c51b8031dacdfaa2a35c70577d1a38c"
+    "545e7676bdf8eed85bbc092b7682fd1b8c51b8031dacdfaa2a35c70577d1a38c",
+    "02f9c9fe3e5bbe913bb1ce6134e5f74d78451da8d88b3f331ae8839cd22acad9"
   ],
   "posted_tags": [
+    [
+      "ghargharkali"
+    ],
     [
       "ghargharkali"
     ],
@@ -12534,6 +12541,18 @@
         "ghargharkali"
       ],
       "post_text": "Today's name is Jyeshhtha. The eldest Goddess, who exists before all creation. Jai Ma. #ghargharkali"
+    },
+    {
+      "queue_index": 660,
+      "source_index": 660,
+      "post_id": "816701862207258624",
+      "post_url": "https://kakakaforadyakali.tumblr.com/post/816701862207258624",
+      "posted_at": "2026-05-15T17:53:10.340249+00:00",
+      "text_hash": "02f9c9fe3e5bbe913bb1ce6134e5f74d78451da8d88b3f331ae8839cd22acad9",
+      "tags": [
+        "ghargharkali"
+      ],
+      "post_text": "Today's name is Bhushhundi. She who bears a fiery dart or missile, a sign of transformative power. Jai Ma. #ghargharkali"
     }
   ]
 }
