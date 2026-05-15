@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts.json",
-  "last_posted_index": 539,
+  "last_posted_index": 540,
   "posted_record_uris": [
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkhgvkr3xr2q",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkhjlikrsu23",
@@ -541,7 +541,8 @@
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mlw6xzazxd2j",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mlwaq3gqen2a",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mlwc6zqxdw2y",
-    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mlwdvqhvtx22"
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mlwdvqhvtx22",
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mlwfgo4zqp2q"
   ],
   "posted_cids": [
     "bafyreifrst5zlm5gntzglpt6lshxgsutmezuzdypxcxmayy2ozfha5m7ti",
@@ -1082,7 +1083,8 @@
     "bafyreifnyogujlzibtc6u6z5mcw3j2r4odzjya64zzsyihqndlv2zwiqbi",
     "bafyreidhkcdyzgrz4un44cy7xigllgdsjcmxa7sa73dbxod5qbnuxsmbra",
     "bafyreigy54p76baowtcnokrs5wa4q3qdmyipjsndbh6du6oi2vfgccbnwe",
-    "bafyreic2wklkawdt4sfnedi3qlsihrjpx5j234272kyafrthd7kn2imima"
+    "bafyreic2wklkawdt4sfnedi3qlsihrjpx5j234272kyafrthd7kn2imima",
+    "bafyreialaqkzic66iudyz5dcra6epuhzwh7vnodwo25fy5irym2fsgrgha"
   ],
   "posted_timestamps": [
     "2026-04-27T06:27:55.539737+00:00",
@@ -1623,7 +1625,8 @@
     "2026-05-15T20:41:15.565922+00:00",
     "2026-05-15T21:12:36.863286+00:00",
     "2026-05-15T21:38:52.174588+00:00",
-    "2026-05-15T22:09:27.940196+00:00"
+    "2026-05-15T22:09:27.940196+00:00",
+    "2026-05-15T22:36:49.632079+00:00"
   ],
   "posted_text_hashes": [
     "cf1ac875ed7087c14d3f19118163d018a70035373f00186f7154f6b8a4a58629",
@@ -2164,7 +2167,8 @@
     "7e3e27ff2a135e48e7a315336c8560fbf907e4c8b79264367ab137d387c40262",
     "669aab3bb51c42a9ebd12f494358144fdf709a0ea790dde84c6d470d84cf6461",
     "a215b615f36ba86c043a9f2e6826c30a241392fccea87d5eb4ea19f1a03b09ee",
-    "ac0d8fd070986cbffeaf07664bddecca4e5f263e9c838a49f7da635fa48563b5"
+    "ac0d8fd070986cbffeaf07664bddecca4e5f263e9c838a49f7da635fa48563b5",
+    "69daa9494c7bf477d8c2224fc88e59589f2a8fd3b6f364e908ea887475b80484"
   ],
   "history": [
     {
@@ -7017,6 +7021,15 @@
       "posted_at": "2026-05-15T22:09:27.940196+00:00",
       "text_hash": "ac0d8fd070986cbffeaf07664bddecca4e5f263e9c838a49f7da635fa48563b5",
       "post_text": "Today's name is Meghamaaline. Wearing a garland of clouds. Jai Bhairava Baba. #Kalabhairava"
+    },
+    {
+      "queue_index": 540,
+      "source_index": 540,
+      "post_uri": "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mlwfgo4zqp2q",
+      "cid": "bafyreialaqkzic66iudyz5dcra6epuhzwh7vnodwo25fy5irym2fsgrgha",
+      "posted_at": "2026-05-15T22:36:49.632079+00:00",
+      "text_hash": "69daa9494c7bf477d8c2224fc88e59589f2a8fd3b6f364e908ea887475b80484",
+      "post_text": "Today's name is Cakrakhadgine. Armed with a discus (chakra) and a sword (khadga). Jai Bhairava Baba. #Kalabhairava"
     }
   ]
 }
