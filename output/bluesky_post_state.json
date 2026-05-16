@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts.json",
-  "last_posted_index": 563,
+  "last_posted_index": 564,
   "posted_record_uris": [
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkhgvkr3xr2q",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkhjlikrsu23",
@@ -565,7 +565,8 @@
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mly3cxn2tg2y",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mly4x4yzpg2x",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mly6j6dy6o2x",
-    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mlya5jozqo2g"
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mlya5jozqo2g",
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mlybrdh66r2v"
   ],
   "posted_cids": [
     "bafyreifrst5zlm5gntzglpt6lshxgsutmezuzdypxcxmayy2ozfha5m7ti",
@@ -1130,7 +1131,8 @@
     "bafyreia4xentn67w75dxsmblluiexhnd5qsgy4jjfsg6lt4ujntswd5r4q",
     "bafyreihcjkyc4q5yothxfbaha5vs6hj6wkdsnmdstxfbr5klsznzq5b2rq",
     "bafyreieykoxkx6iannglx7n3jockmuzbmjohb4cytbx5mqm2kusvff4ihu",
-    "bafyreif7tk7vkoreitcqkywb5z7yzhbrzcyyixjsofpe642thxqt6lvfti"
+    "bafyreif7tk7vkoreitcqkywb5z7yzhbrzcyyixjsofpe642thxqt6lvfti",
+    "bafyreidrdgzatdtsgijj5kikevrkwpirmtkqlbnj5azvwy5xzsjwycaz6y"
   ],
   "posted_timestamps": [
     "2026-04-27T06:27:55.539737+00:00",
@@ -1695,7 +1697,8 @@
     "2026-05-16T14:41:07.471987+00:00",
     "2026-05-16T15:10:17.893539+00:00",
     "2026-05-16T15:38:17.053415+00:00",
-    "2026-05-16T16:07:33.772411+00:00"
+    "2026-05-16T16:07:33.772411+00:00",
+    "2026-05-16T16:36:32.066984+00:00"
   ],
   "posted_text_hashes": [
     "cf1ac875ed7087c14d3f19118163d018a70035373f00186f7154f6b8a4a58629",
@@ -2260,7 +2263,8 @@
     "913501b8aa9778c611f61d4f6bc7e0d9430d93eafa2539e67cf4d6710d565db9",
     "7ff0f72098ead25340fe1acba72181ba8872d690633fd3150f55eb67cd213d27",
     "2aad1bc518892692dc9410ce42a8f5e05dc614af7b07b4deb261c581bdb9dd02",
-    "ef5a3d65b775514caca80448dabcb40e3c092755b07dc5333c9452b199b99028"
+    "ef5a3d65b775514caca80448dabcb40e3c092755b07dc5333c9452b199b99028",
+    "22267ce3bc40956f6e1e435d41421d8cfb6033e2788b042a1c4ac85d78a45e14"
   ],
   "history": [
     {
@@ -7329,6 +7333,15 @@
       "posted_at": "2026-05-16T16:07:33.772411+00:00",
       "text_hash": "ef5a3d65b775514caca80448dabcb40e3c092755b07dc5333c9452b199b99028",
       "post_text": "Today's name is Bahumayaaya. Pervading multiplicity and becoming the many. Jai Bhairava Baba. #Kalabhairava"
+    },
+    {
+      "queue_index": 564,
+      "source_index": 564,
+      "post_uri": "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mlybrdh66r2v",
+      "cid": "bafyreidrdgzatdtsgijj5kikevrkwpirmtkqlbnj5azvwy5xzsjwycaz6y",
+      "posted_at": "2026-05-16T16:36:32.066984+00:00",
+      "text_hash": "22267ce3bc40956f6e1e435d41421d8cfb6033e2788b042a1c4ac85d78a45e14",
+      "post_text": "Today's name is Brahmavishnushivaatmakaaya. The single soul of the divine trinity: Brahma, Vishnu, and Shiva. Jai Bhairava Baba. #Kalabhairava"
     }
   ]
 }
