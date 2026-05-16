@@ -1,8 +1,8 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts_mahakali.json",
-  "last_posted_index": 671,
-  "encrypted_refresh_token": "{\"nonce\":\"KomsYWJtYt2YpQGklGTC7A==\",\"ciphertext\":\"tWepbuRsE2gUZQa1TugnkcwMzPmtNOrWSY3pgCokmMe7Kh+CXXk2Z6BMSJhCD4Nw8vw=\",\"mac\":\"hAqSCY+1DvetLaumRLfWiMBaeQQa7AVmWcpOD1FLvPw=\"}",
+  "last_posted_index": 672,
+  "encrypted_refresh_token": "{\"nonce\":\"QdPP4ODCiAViMUv+/oLSIg==\",\"ciphertext\":\"jUntuUFBU/AivLz8N34xpGR/vIg1Lp2UhcY4s8cuS5k43oDfsRHwjfpV5stkNNx84+M=\",\"mac\":\"RPYCiTFnTRU16G6h5TXY+dU3jq0atJLymfJm79b49M4=\"}",
   "posted_post_ids": [
     "814760303295381504",
     "814766726962118656",
@@ -674,7 +674,8 @@
     "816721620915912704",
     "816723346663374848",
     "816725225986195456",
-    "816729244395814912"
+    "816729244395814912",
+    "816732301906083841"
   ],
   "posted_post_urls": [
     "https://kakakaforadyakali.tumblr.com/post/814760303295381504",
@@ -1347,7 +1348,8 @@
     "https://kakakaforadyakali.tumblr.com/post/816721620915912704",
     "https://kakakaforadyakali.tumblr.com/post/816723346663374848",
     "https://kakakaforadyakali.tumblr.com/post/816725225986195456",
-    "https://kakakaforadyakali.tumblr.com/post/816729244395814912"
+    "https://kakakaforadyakali.tumblr.com/post/816729244395814912",
+    "https://kakakaforadyakali.tumblr.com/post/816732301906083841"
   ],
   "posted_timestamps": [
     "2026-04-24T07:32:55.621622+00:00",
@@ -2020,7 +2022,8 @@
     "2026-05-15T23:07:13.709269+00:00",
     "2026-05-15T23:34:40.060871+00:00",
     "2026-05-16T00:04:31.792803+00:00",
-    "2026-05-16T01:08:24.013786+00:00"
+    "2026-05-16T01:08:24.013786+00:00",
+    "2026-05-16T01:57:00.393082+00:00"
   ],
   "posted_text_hashes": [
     "9a9bfafd8f146bd982514c23ceb52d5d53be86be07aa861c2a0df1e0e126b074",
@@ -2693,9 +2696,13 @@
     "7c27192a226d2ffee92b51d3fe9f38edfa3f5515311f824d31a0f1bf6329f567",
     "db433779dcdf5e2aa90e92bd504951a87190127669d0705c2458fe0f704140f2",
     "0cc37c19ed8d419b21fc8fc50205c60089974b5cfd35666602f33e2b2df5bc01",
-    "e5247bb202ed4ffaf31eec0d368420bab1c029309b123540733f0b8d4c28f118"
+    "e5247bb202ed4ffaf31eec0d368420bab1c029309b123540733f0b8d4c28f118",
+    "d44e827825cdf1a2c15920f8a906bf927d6e06931cea96a8eabde71541cd2714"
   ],
   "posted_tags": [
+    [
+      "ghargharkali"
+    ],
     [
       "ghargharkali"
     ],
@@ -12762,6 +12769,18 @@
         "ghargharkali"
       ],
       "post_text": "Today's name is Sam-pach shhil'ati-vikrama. She whose valor overcomes even the forces of cosmic dissolution. Jai Ma. #ghargharkali"
+    },
+    {
+      "queue_index": 672,
+      "source_index": 672,
+      "post_id": "816732301906083841",
+      "post_url": "https://kakakaforadyakali.tumblr.com/post/816732301906083841",
+      "posted_at": "2026-05-16T01:57:00.393082+00:00",
+      "text_hash": "d44e827825cdf1a2c15920f8a906bf927d6e06931cea96a8eabde71541cd2714",
+      "tags": [
+        "ghargharkali"
+      ],
+      "post_text": "Today's name is Swastir havya vaha. The auspicious carrier of sacrificial offerings to the gods. Jai Ma. #ghargharkali"
     }
   ]
 }
