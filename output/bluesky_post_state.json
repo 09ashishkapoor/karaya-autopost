@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts.json",
-  "last_posted_index": 574,
+  "last_posted_index": 575,
   "posted_record_uris": [
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkhgvkr3xr2q",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkhjlikrsu23",
@@ -576,7 +576,8 @@
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mlynivfjdy2c",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mlyoynwqd42a",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mlyqrtxtza2g",
-    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mlysgubdhg2n"
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mlysgubdhg2n",
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mlyu5jmfnv2v"
   ],
   "posted_cids": [
     "bafyreifrst5zlm5gntzglpt6lshxgsutmezuzdypxcxmayy2ozfha5m7ti",
@@ -1152,7 +1153,8 @@
     "bafyreiddgkwemw6el4vnjwkpp37h2no3sbrmea6hgnzkw7zbrmn6sopdhy",
     "bafyreigo46ftirgahfyfhprffqyhhrdxpou7uahpxglgnqduglrkr3vxwa",
     "bafyreicz57dulfwexpwyzuyq577bq7xiy532t7kdcrgkchwu5zeqv2zii4",
-    "bafyreigqei2t6kgxhivixpc2667jalquei7lisrcpviyv3vayojkrl4bwa"
+    "bafyreigqei2t6kgxhivixpc2667jalquei7lisrcpviyv3vayojkrl4bwa",
+    "bafyreidqitwkjtls4pg5q6ebzj5p7u67yn4hskdjcwip5a6lieoblcsgj4"
   ],
   "posted_timestamps": [
     "2026-04-27T06:27:55.539737+00:00",
@@ -1728,7 +1730,8 @@
     "2026-05-16T20:06:33.765687+00:00",
     "2026-05-16T20:33:16.574646+00:00",
     "2026-05-16T21:05:15.487808+00:00",
-    "2026-05-16T21:34:54.184111+00:00"
+    "2026-05-16T21:34:54.184111+00:00",
+    "2026-05-16T22:05:28.513664+00:00"
   ],
   "posted_text_hashes": [
     "cf1ac875ed7087c14d3f19118163d018a70035373f00186f7154f6b8a4a58629",
@@ -2304,7 +2307,8 @@
     "8fa3c2627ba9d140b6c533fcba45f0cfacef3abb0d4ed913d7168a9df4d100b8",
     "6e5ede31fe315ba6fee8188cc833032fe7224c94c2d6d289024cb700cad27b46",
     "a6d44275ec29478819cd3523b9c9f3b74e2087636e9ee594896140537a19586e",
-    "8c37a37a292b0a21cf2d990ffdd9c81d01510bbf4bc5211c9bdb680e35190a52"
+    "8c37a37a292b0a21cf2d990ffdd9c81d01510bbf4bc5211c9bdb680e35190a52",
+    "d607f41bb9db0dd6da37e0f12979158dba93947c907751cd26b6137481219c45"
   ],
   "history": [
     {
@@ -7472,6 +7476,15 @@
       "posted_at": "2026-05-16T21:34:54.184111+00:00",
       "text_hash": "8c37a37a292b0a21cf2d990ffdd9c81d01510bbf4bc5211c9bdb680e35190a52",
       "post_text": "Today's name is Yugaadikrite. Bringing forth the beginning of all cosmic ages (yugas). Jai Bhairava Baba. #Kalabhairava"
+    },
+    {
+      "queue_index": 575,
+      "source_index": 575,
+      "post_uri": "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mlyu5jmfnv2v",
+      "cid": "bafyreidqitwkjtls4pg5q6ebzj5p7u67yn4hskdjcwip5a6lieoblcsgj4",
+      "posted_at": "2026-05-16T22:05:28.513664+00:00",
+      "text_hash": "d607f41bb9db0dd6da37e0f12979158dba93947c907751cd26b6137481219c45",
+      "post_text": "Today's name is Yugaavartaaya. Turning the cosmic ages through their cycles. Jai Bhairava Baba. #Kalabhairava"
     }
   ]
 }
