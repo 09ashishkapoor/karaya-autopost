@@ -1,8 +1,8 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts_mahakali.json",
-  "last_posted_index": 689,
-  "encrypted_refresh_token": "{\"nonce\":\"8NriH09ukInZGPUFK7YtWw==\",\"ciphertext\":\"+YgTgnI3tiJ8sFLJXpVl2udjTsQaMeNQBJ2rYSZdKoR9IzlLK/XYdezkWyk+tut6R3k=\",\"mac\":\"oRLsJl5JmpgASqR2nCykaT86npcfyaLP/S8xWrXsQgw=\"}",
+  "last_posted_index": 690,
+  "encrypted_refresh_token": "{\"nonce\":\"jKOmML/ZBbROSOs1xb0f7Q==\",\"ciphertext\":\"24RRcAMLK0NKh8RNI6W39kufNl03RFUno6yh3siFEeyXbbT/COHmuETtUxsoTmtjoSA=\",\"mac\":\"k8OvK829Cz+cI8tLV/+yOQgPRneRq+2l167He/sJVnc=\"}",
   "posted_post_ids": [
     "814760303295381504",
     "814766726962118656",
@@ -692,7 +692,8 @@
     "816777321503686656",
     "816780294113918976",
     "816782034828673024",
-    "816783891585204225"
+    "816783891585204225",
+    "816785758851563520"
   ],
   "posted_post_urls": [
     "https://kakakaforadyakali.tumblr.com/post/814760303295381504",
@@ -1383,7 +1384,8 @@
     "https://kakakaforadyakali.tumblr.com/post/816777321503686656",
     "https://kakakaforadyakali.tumblr.com/post/816780294113918976",
     "https://kakakaforadyakali.tumblr.com/post/816782034828673024",
-    "https://kakakaforadyakali.tumblr.com/post/816783891585204225"
+    "https://kakakaforadyakali.tumblr.com/post/816783891585204225",
+    "https://kakakaforadyakali.tumblr.com/post/816785758851563520"
   ],
   "posted_timestamps": [
     "2026-04-24T07:32:55.621622+00:00",
@@ -2074,7 +2076,8 @@
     "2026-05-16T13:52:33.935644+00:00",
     "2026-05-16T14:39:48.858900+00:00",
     "2026-05-16T15:07:28.896067+00:00",
-    "2026-05-16T15:36:59.694594+00:00"
+    "2026-05-16T15:36:59.694594+00:00",
+    "2026-05-16T16:06:40.444000+00:00"
   ],
   "posted_text_hashes": [
     "9a9bfafd8f146bd982514c23ceb52d5d53be86be07aa861c2a0df1e0e126b074",
@@ -2765,9 +2768,13 @@
     "1403ad8ec2325c93a3041524ea7b0463458aa430108438105ae706f4c755243c",
     "306ac9f2077255b8bb0e82d2b898fab44a247b91c53e26e05f64968990c62fcd",
     "3b4ac7674da2b048ebf380d52b7508974cd7ee47f3f8caca6009271974bf2a4d",
-    "b3ca62c7d1c8a2702277814202959ca8c100194d6e2d3ca543147173528ba32c"
+    "b3ca62c7d1c8a2702277814202959ca8c100194d6e2d3ca543147173528ba32c",
+    "cf34be7909f254e365c70fac017fe6dc71d7e750b72602c9d47b7f08c0ccfa0a"
   ],
   "posted_tags": [
+    [
+      "ghargharkali"
+    ],
     [
       "ghargharkali"
     ],
@@ -13104,6 +13111,18 @@
         "ghargharkali"
       ],
       "post_text": "Today's name is Anangga kusuma. The flower of the bodiless One, embodying love and desire. Jai Ma. #ghargharkali"
+    },
+    {
+      "queue_index": 690,
+      "source_index": 690,
+      "post_id": "816785758851563520",
+      "post_url": "https://kakakaforadyakali.tumblr.com/post/816785758851563520",
+      "posted_at": "2026-05-16T16:06:40.444000+00:00",
+      "text_hash": "cf34be7909f254e365c70fac017fe6dc71d7e750b72602c9d47b7f08c0ccfa0a",
+      "tags": [
+        "ghargharkali"
+      ],
+      "post_text": "Today's name is Anangga mekhala. She who is girdled with the power of the bodiless Eros, symbolizing divine union and love. Jai Ma. #ghargharkali"
     }
   ]
 }
