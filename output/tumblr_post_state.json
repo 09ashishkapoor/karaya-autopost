@@ -1,8 +1,8 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts_mahakali.json",
-  "last_posted_index": 686,
-  "encrypted_refresh_token": "{\"nonce\":\"+hI8C3ZBaKFBKeujmnKRqQ==\",\"ciphertext\":\"SvXygYB+15wlRwloNFOtY9RV4gnSPYckmx0501RdQxswZAPKkNswdaT7cqw86NlDgUE=\",\"mac\":\"64eCuh7S6CWGuhntc2fKvYT7MWBoiXaHEq8U8EsVfsk=\"}",
+  "last_posted_index": 687,
+  "encrypted_refresh_token": "{\"nonce\":\"Ze7EP7scb19oL9Vc7QWu/A==\",\"ciphertext\":\"/U/uUXE0CGZezC/kB/glrtLU2fSUTXYBFRWrN5uWiT/i/keFD0hz7WLlqch+5/Q3ZNM=\",\"mac\":\"r6piAf18pKss/SixC19ZuZGlBgMpEWbnYkZVHej6SFg=\"}",
   "posted_post_ids": [
     "814760303295381504",
     "814766726962118656",
@@ -689,7 +689,8 @@
     "816770472973910016",
     "816772699218198528",
     "816774717753196544",
-    "816777321503686656"
+    "816777321503686656",
+    "816780294113918976"
   ],
   "posted_post_urls": [
     "https://kakakaforadyakali.tumblr.com/post/814760303295381504",
@@ -1377,7 +1378,8 @@
     "https://kakakaforadyakali.tumblr.com/post/816770472973910016",
     "https://kakakaforadyakali.tumblr.com/post/816772699218198528",
     "https://kakakaforadyakali.tumblr.com/post/816774717753196544",
-    "https://kakakaforadyakali.tumblr.com/post/816777321503686656"
+    "https://kakakaforadyakali.tumblr.com/post/816777321503686656",
+    "https://kakakaforadyakali.tumblr.com/post/816780294113918976"
   ],
   "posted_timestamps": [
     "2026-04-24T07:32:55.621622+00:00",
@@ -2065,7 +2067,8 @@
     "2026-05-16T12:03:42.661310+00:00",
     "2026-05-16T12:39:05.886449+00:00",
     "2026-05-16T13:11:10.778370+00:00",
-    "2026-05-16T13:52:33.935644+00:00"
+    "2026-05-16T13:52:33.935644+00:00",
+    "2026-05-16T14:39:48.858900+00:00"
   ],
   "posted_text_hashes": [
     "9a9bfafd8f146bd982514c23ceb52d5d53be86be07aa861c2a0df1e0e126b074",
@@ -2753,9 +2756,13 @@
     "f4cd6dccc8b93d108a807c3f2f3cb2ed4cbb6e11127436f56937065de0b7498b",
     "ec91eb06ae3087794ee6657bf84e02a4fd9bfa27f0981a12ff2b10a602d7bc20",
     "106b91e62670b29dd51f047e151dd255f85e8059ae4ec4f10d80ced9d91a1354",
-    "1403ad8ec2325c93a3041524ea7b0463458aa430108438105ae706f4c755243c"
+    "1403ad8ec2325c93a3041524ea7b0463458aa430108438105ae706f4c755243c",
+    "306ac9f2077255b8bb0e82d2b898fab44a247b91c53e26e05f64968990c62fcd"
   ],
   "posted_tags": [
+    [
+      "ghargharkali"
+    ],
     [
       "ghargharkali"
     ],
@@ -13047,6 +13054,18 @@
         "ghargharkali"
       ],
       "post_text": "Today's name is Maha-mudra. The Great Seal, the supreme gesture or posture that grants liberation. Jai Ma. #ghargharkali"
+    },
+    {
+      "queue_index": 687,
+      "source_index": 687,
+      "post_id": "816780294113918976",
+      "post_url": "https://kakakaforadyakali.tumblr.com/post/816780294113918976",
+      "posted_at": "2026-05-16T14:39:48.858900+00:00",
+      "text_hash": "306ac9f2077255b8bb0e82d2b898fab44a247b91c53e26e05f64968990c62fcd",
+      "tags": [
+        "ghargharkali"
+      ],
+      "post_text": "Today's name is Vashhini. She who controls all through Her divine will. Jai Ma. #ghargharkali"
     }
   ]
 }
