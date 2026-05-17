@@ -1,8 +1,8 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts_mahakali.json",
-  "last_posted_index": 712,
-  "encrypted_refresh_token": "{\"nonce\":\"KFybFnf8qdStldFoRiVz8Q==\",\"ciphertext\":\"hlpv8rmc0LOQknAz8kg/2l9t6+iERqKiEAjObzmfH0DJAN9aNg9gg+vRcCawTKXo73I=\",\"mac\":\"FO/tCp2rky04QYwS+Ne1wdf4pNXjGVfXsMB35G1hTOM=\"}",
+  "last_posted_index": 713,
+  "encrypted_refresh_token": "{\"nonce\":\"t4PQh8AvzXId2hGtBZJOMg==\",\"ciphertext\":\"i6AqUMhSNiYF88RpPqhkUSE9w9kdSKRzD8Eo/E3E6Z+rNhTPAEE2Ex3PLncUhvbanXg=\",\"mac\":\"+AIq3FLEhwIhFSrGnVQnwqyZOiZE+OS5krk8I7DOm+M=\"}",
   "posted_post_ids": [
     "814760303295381504",
     "814766726962118656",
@@ -715,7 +715,8 @@
     "816828448070909952",
     "816834504011448320",
     "816839746618900480",
-    "816844376539086848"
+    "816844376539086848",
+    "816847809958526976"
   ],
   "posted_post_urls": [
     "https://kakakaforadyakali.tumblr.com/post/814760303295381504",
@@ -1429,7 +1430,8 @@
     "https://kakakaforadyakali.tumblr.com/post/816828448070909952",
     "https://kakakaforadyakali.tumblr.com/post/816834504011448320",
     "https://kakakaforadyakali.tumblr.com/post/816839746618900480",
-    "https://kakakaforadyakali.tumblr.com/post/816844376539086848"
+    "https://kakakaforadyakali.tumblr.com/post/816844376539086848",
+    "https://kakakaforadyakali.tumblr.com/post/816847809958526976"
   ],
   "posted_timestamps": [
     "2026-04-24T07:32:55.621622+00:00",
@@ -2143,7 +2145,8 @@
     "2026-05-17T03:25:12.390996+00:00",
     "2026-05-17T05:01:27.449328+00:00",
     "2026-05-17T06:24:47.187328+00:00",
-    "2026-05-17T07:38:22.588897+00:00"
+    "2026-05-17T07:38:22.588897+00:00",
+    "2026-05-17T08:32:56.985087+00:00"
   ],
   "posted_text_hashes": [
     "9a9bfafd8f146bd982514c23ceb52d5d53be86be07aa861c2a0df1e0e126b074",
@@ -2857,9 +2860,13 @@
     "fcc79cd75c0d50862fbcdb2aaf4b7e7e5b1820bcd3f3fcfa5b8b1a6007377cba",
     "2a045e2c866bd334578c6cab43181ce79b3acd877470e8db93daaffbef45980c",
     "b040246283d827e2fad6eb1ae8d22b39cc7217d71059b834094d17fd89759671",
-    "c2d15ba8882d5a57d46634107a4fe81a25fb2be721b3992465b6db7e8e5a207e"
+    "c2d15ba8882d5a57d46634107a4fe81a25fb2be721b3992465b6db7e8e5a207e",
+    "8057a12b314ec2a6ad97a90528e095f46eb8f4e3a4e5ef5980c603033cd88076"
   ],
   "posted_tags": [
+    [
+      "ghargharkali"
+    ],
     [
       "ghargharkali"
     ],
@@ -13541,6 +13548,18 @@
         "ghargharkali"
       ],
       "post_text": "Today's name is Durati krama. She who is difficult to transgress or overcome. Jai Ma. #ghargharkali"
+    },
+    {
+      "queue_index": 713,
+      "source_index": 713,
+      "post_id": "816847809958526976",
+      "post_url": "https://kakakaforadyakali.tumblr.com/post/816847809958526976",
+      "posted_at": "2026-05-17T08:32:56.985087+00:00",
+      "text_hash": "8057a12b314ec2a6ad97a90528e095f46eb8f4e3a4e5ef5980c603033cd88076",
+      "tags": [
+        "ghargharkali"
+      ],
+      "post_text": "Today's name is Hams'eshhwari. The supreme Goddess whose vehicle is the Swan, symbolizing purity and spiritual discernment. Jai Ma. #ghargharkali"
     }
   ]
 }
