@@ -1,8 +1,8 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts_mahakali.json",
-  "last_posted_index": 711,
-  "encrypted_refresh_token": "{\"nonce\":\"H8usZfUAwe5Fu6ZqsCd/Hw==\",\"ciphertext\":\"gsT0pEQO33bB2KS/iM+xhKZBpZ6ZjE3b+Lfi+xLbn2s2a6kW9E7EityJq+15TPaYqdc=\",\"mac\":\"qRv35D4QoClbDK2/c8UmNGvSfg4HVobv4LfNk9F/nfk=\"}",
+  "last_posted_index": 712,
+  "encrypted_refresh_token": "{\"nonce\":\"KFybFnf8qdStldFoRiVz8Q==\",\"ciphertext\":\"hlpv8rmc0LOQknAz8kg/2l9t6+iERqKiEAjObzmfH0DJAN9aNg9gg+vRcCawTKXo73I=\",\"mac\":\"FO/tCp2rky04QYwS+Ne1wdf4pNXjGVfXsMB35G1hTOM=\"}",
   "posted_post_ids": [
     "814760303295381504",
     "814766726962118656",
@@ -714,7 +714,8 @@
     "816823353322209280",
     "816828448070909952",
     "816834504011448320",
-    "816839746618900480"
+    "816839746618900480",
+    "816844376539086848"
   ],
   "posted_post_urls": [
     "https://kakakaforadyakali.tumblr.com/post/814760303295381504",
@@ -1427,7 +1428,8 @@
     "https://kakakaforadyakali.tumblr.com/post/816823353322209280",
     "https://kakakaforadyakali.tumblr.com/post/816828448070909952",
     "https://kakakaforadyakali.tumblr.com/post/816834504011448320",
-    "https://kakakaforadyakali.tumblr.com/post/816839746618900480"
+    "https://kakakaforadyakali.tumblr.com/post/816839746618900480",
+    "https://kakakaforadyakali.tumblr.com/post/816844376539086848"
   ],
   "posted_timestamps": [
     "2026-04-24T07:32:55.621622+00:00",
@@ -2140,7 +2142,8 @@
     "2026-05-17T02:04:13.349639+00:00",
     "2026-05-17T03:25:12.390996+00:00",
     "2026-05-17T05:01:27.449328+00:00",
-    "2026-05-17T06:24:47.187328+00:00"
+    "2026-05-17T06:24:47.187328+00:00",
+    "2026-05-17T07:38:22.588897+00:00"
   ],
   "posted_text_hashes": [
     "9a9bfafd8f146bd982514c23ceb52d5d53be86be07aa861c2a0df1e0e126b074",
@@ -2853,9 +2856,13 @@
     "f2bd61033d390aa778d9f0199cd343f50775866a28d82ceb638ee2732d1d5b47",
     "fcc79cd75c0d50862fbcdb2aaf4b7e7e5b1820bcd3f3fcfa5b8b1a6007377cba",
     "2a045e2c866bd334578c6cab43181ce79b3acd877470e8db93daaffbef45980c",
-    "b040246283d827e2fad6eb1ae8d22b39cc7217d71059b834094d17fd89759671"
+    "b040246283d827e2fad6eb1ae8d22b39cc7217d71059b834094d17fd89759671",
+    "c2d15ba8882d5a57d46634107a4fe81a25fb2be721b3992465b6db7e8e5a207e"
   ],
   "posted_tags": [
+    [
+      "ghargharkali"
+    ],
     [
       "ghargharkali"
     ],
@@ -13522,6 +13529,18 @@
         "ghargharkali"
       ],
       "post_text": "Today's name is Durdhyeya. She who is difficult to contemplate or meditate upon because Her nature is transcendent. Jai Ma. #ghargharkali"
+    },
+    {
+      "queue_index": 712,
+      "source_index": 712,
+      "post_id": "816844376539086848",
+      "post_url": "https://kakakaforadyakali.tumblr.com/post/816844376539086848",
+      "posted_at": "2026-05-17T07:38:22.588897+00:00",
+      "text_hash": "c2d15ba8882d5a57d46634107a4fe81a25fb2be721b3992465b6db7e8e5a207e",
+      "tags": [
+        "ghargharkali"
+      ],
+      "post_text": "Today's name is Durati krama. She who is difficult to transgress or overcome. Jai Ma. #ghargharkali"
     }
   ]
 }
