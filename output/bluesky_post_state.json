@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts.json",
-  "last_posted_index": 580,
+  "last_posted_index": 581,
   "posted_record_uris": [
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkhgvkr3xr2q",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkhjlikrsu23",
@@ -582,7 +582,8 @@
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mlyxlnjvuf2n",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mlyz65tjb422",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mlz2wpgsh723",
-    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mlz6w26qfa2j"
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mlz6w26qfa2j",
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mlzdpy46e32g"
   ],
   "posted_cids": [
     "bafyreifrst5zlm5gntzglpt6lshxgsutmezuzdypxcxmayy2ozfha5m7ti",
@@ -1164,7 +1165,8 @@
     "bafyreid3onkioeskcardlgrov7fe5mofkmam6xbjonukktj5yfh2uxpduu",
     "bafyreif5w6jgw4filkddlbekenlv7hoblmlkx324qxb5bfr3cjh2ivmmie",
     "bafyreieci6bfxodtyj5odslzeh3aacfxknmpkntjf724d24wnkqusun7f4",
-    "bafyreidohhwbaf6lll5sp5mbccuzy4dlajgp7pcj64qk5mam63lzn6fkxu"
+    "bafyreidohhwbaf6lll5sp5mbccuzy4dlajgp7pcj64qk5mam63lzn6fkxu",
+    "bafyreidaicsg3vnp24uuomxtu452qt4fup3pv6d3x3ht5ccx635fjuq2ra"
   ],
   "posted_timestamps": [
     "2026-04-27T06:27:55.539737+00:00",
@@ -1746,7 +1748,8 @@
     "2026-05-16T23:07:04.558242+00:00",
     "2026-05-16T23:35:18.427138+00:00",
     "2026-05-17T00:06:55.929891+00:00",
-    "2026-05-17T01:18:08.605297+00:00"
+    "2026-05-17T01:18:08.605297+00:00",
+    "2026-05-17T02:44:13.838018+00:00"
   ],
   "posted_text_hashes": [
     "cf1ac875ed7087c14d3f19118163d018a70035373f00186f7154f6b8a4a58629",
@@ -2328,7 +2331,8 @@
     "87c5a2385575d20228d2d38be63ae19ef9f590b9bc700f8c365b24c6ff962e8b",
     "50b10a4eaa28f2e2d44e45ffa84154db40fe09792865be719386fd0e248bb419",
     "d7ce911b61c3fdfb074cc6783761633b8e38d326a016ebe04195d29b84b7a05c",
-    "73d7a7d69e9923232ba823e290448d051af1877bedd47cedc5780a452cd794aa"
+    "73d7a7d69e9923232ba823e290448d051af1877bedd47cedc5780a452cd794aa",
+    "51c49421c4adf82c7173d5119ea29094bb90190e7854f6f0d0a3d85b4d456e66"
   ],
   "history": [
     {
@@ -7550,6 +7554,15 @@
       "posted_at": "2026-05-17T01:18:08.605297+00:00",
       "text_hash": "73d7a7d69e9923232ba823e290448d051af1877bedd47cedc5780a452cd794aa",
       "post_text": "Today's name is Yajvane. The sacrificer who performs the sacred ritual. Jai Bhairava Baba. #Kalabhairava"
+    },
+    {
+      "queue_index": 581,
+      "source_index": 581,
+      "post_uri": "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mlzdpy46e32g",
+      "cid": "bafyreidaicsg3vnp24uuomxtu452qt4fup3pv6d3x3ht5ccx635fjuq2ra",
+      "posted_at": "2026-05-17T02:44:13.838018+00:00",
+      "text_hash": "51c49421c4adf82c7173d5119ea29094bb90190e7854f6f0d0a3d85b4d456e66",
+      "post_text": "Today's name is Yajnaanggaaya. Whose limbs are the very components of the sacrifice. Jai Bhairava Baba. #Kalabhairava"
     }
   ]
 }
