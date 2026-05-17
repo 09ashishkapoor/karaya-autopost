@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts.json",
-  "last_posted_index": 586,
+  "last_posted_index": 587,
   "posted_record_uris": [
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkhgvkr3xr2q",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkhjlikrsu23",
@@ -588,7 +588,8 @@
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mlzncfaeke2n",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mlzr42dxy22c",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mlzudbwzzr2y",
-    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mlzxb6bh2c2u"
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mlzxb6bh2c2u",
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mlzzxzm7wh23"
   ],
   "posted_cids": [
     "bafyreifrst5zlm5gntzglpt6lshxgsutmezuzdypxcxmayy2ozfha5m7ti",
@@ -1176,7 +1177,8 @@
     "bafyreiax7ylnmew2ccc47y44wvnvaiumzutoqm55ysryvxuknrwqjhpu74",
     "bafyreif5tu23slfmrqpmywueapxrwtifmdto4uv2of5xagbfwevdz74bc4",
     "bafyreih5elycudyqyhdaowli5toiimfygntyhlyo6ghtxm4rp6mxgvcn4m",
-    "bafyreibypezvu4thpqbzudviaqqonbxanaommndjd6x5bziddrvji3qqi4"
+    "bafyreibypezvu4thpqbzudviaqqonbxanaommndjd6x5bziddrvji3qqi4",
+    "bafyreif2o5xfeork4erxldno6o4xn76c7y3y7tylyp2mrj3ahdykcpnd6y"
   ],
   "posted_timestamps": [
     "2026-04-27T06:27:55.539737+00:00",
@@ -1764,7 +1766,8 @@
     "2026-05-17T05:35:35.234558+00:00",
     "2026-05-17T06:43:37.481116+00:00",
     "2026-05-17T07:41:21.540663+00:00",
-    "2026-05-17T08:33:51.799537+00:00"
+    "2026-05-17T08:33:51.799537+00:00",
+    "2026-05-17T09:22:26.174060+00:00"
   ],
   "posted_text_hashes": [
     "cf1ac875ed7087c14d3f19118163d018a70035373f00186f7154f6b8a4a58629",
@@ -2352,7 +2355,8 @@
     "294a342ad3806de17493c927975b7483b7c28c78f0528cf893949bc06744d6bc",
     "2ff666e0187132e3d1c32ecd81ffc652299715a36ea2b54bbc0a96bba9264aa4",
     "ae8a6764b16aaaca5035ac05f420ba541d7c4df9f60eb4164af366a35d48596f",
-    "cc3f3d34ba6fa3d0110d734bb88f99a6997a3a4d8ce7d26367fdc24a0f2b93c1"
+    "cc3f3d34ba6fa3d0110d734bb88f99a6997a3a4d8ce7d26367fdc24a0f2b93c1",
+    "b7e0c9be8e8b5a42a2b72c9082b70eb9e6880d339438410c85eb10c329b3f178"
   ],
   "history": [
     {
@@ -7628,6 +7632,15 @@
       "posted_at": "2026-05-17T08:33:51.799537+00:00",
       "text_hash": "cc3f3d34ba6fa3d0110d734bb88f99a6997a3a4d8ce7d26367fdc24a0f2b93c1",
       "post_text": "Today's name is Yogyaaya. Worthy, fit, and deserving of all worship and union. Jai Bhairava Baba. #Kalabhairava"
+    },
+    {
+      "queue_index": 587,
+      "source_index": 587,
+      "post_uri": "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mlzzxzm7wh23",
+      "cid": "bafyreif2o5xfeork4erxldno6o4xn76c7y3y7tylyp2mrj3ahdykcpnd6y",
+      "posted_at": "2026-05-17T09:22:26.174060+00:00",
+      "text_hash": "b7e0c9be8e8b5a42a2b72c9082b70eb9e6880d339438410c85eb10c329b3f178",
+      "post_text": "Today's name is Yogavide. The ultimate knower of the science of yoga. Jai Bhairava Baba. #Kalabhairava"
     }
   ]
 }
