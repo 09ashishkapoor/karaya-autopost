@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts.json",
-  "last_posted_index": 633,
+  "last_posted_index": 634,
   "posted_record_uris": [
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkhgvkr3xr2q",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkhjlikrsu23",
@@ -635,7 +635,8 @@
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mm5qrx4i6z2n",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mm5tvt5ryn2a",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mm5vglqzem22",
-    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mm67xphnhn23"
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mm67xphnhn23",
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mm6eohlhpz2o"
   ],
   "posted_cids": [
     "bafyreifrst5zlm5gntzglpt6lshxgsutmezuzdypxcxmayy2ozfha5m7ti",
@@ -1270,7 +1271,8 @@
     "bafyreidjbv3ih6onsaw4o4jisrbqef7jbo5jubojguitiq7sd2mvwchrdi",
     "bafyreihw5f6piywdioot2tz2siz4iuo35mc4k7wcvrignpv6fmxyzh7bmy",
     "bafyreicxz2riaqp6xxf75p3pttfwgem74jrd7neb7xk3zz5y6tctaqkzqm",
-    "bafyreidzotgyxsgmwfkcxfecmb3kjzvd7k24voajd7klij2nevenqthltm"
+    "bafyreidzotgyxsgmwfkcxfecmb3kjzvd7k24voajd7klij2nevenqthltm",
+    "bafyreieadpkw65hvv25rpg2oykbwfrz2i2tyaexbpjm22ftskxmgtmenlu"
   ],
   "posted_timestamps": [
     "2026-04-27T06:27:55.539737+00:00",
@@ -1905,7 +1907,8 @@
     "2026-05-18T20:48:37.477576+00:00",
     "2026-05-18T21:44:28.781053+00:00",
     "2026-05-18T22:11:45.188087+00:00",
-    "2026-05-19T01:20:16.920673+00:00"
+    "2026-05-19T01:20:16.920673+00:00",
+    "2026-05-19T02:44:35.362010+00:00"
   ],
   "posted_text_hashes": [
     "cf1ac875ed7087c14d3f19118163d018a70035373f00186f7154f6b8a4a58629",
@@ -2540,7 +2543,8 @@
     "427c643e0859375830db8fab2a3150f2d3fab53c018bc1ceaf21dfec8ce14c73",
     "831e572dbc1c80ee1fbdfddf562ab452b2a2ca11991a60de2eacdd6a752273f4",
     "55b8306f31fddc69c34db7db13010d207332ef4b89764d7e8c69441993788e59",
-    "6e66021cba643fd8948aab70b461bc302501df59651c24b74532be9ffe045e21"
+    "6e66021cba643fd8948aab70b461bc302501df59651c24b74532be9ffe045e21",
+    "f4710ee38a806a8c4585363af5a0c944eb05c7b89dbc9c44f4e2de0d5702000a"
   ],
   "history": [
     {
@@ -8239,6 +8243,15 @@
       "posted_at": "2026-05-19T01:20:16.920673+00:00",
       "text_hash": "6e66021cba643fd8948aab70b461bc302501df59651c24b74532be9ffe045e21",
       "post_text": "Today's name is Pumse. The one who is the primordial male, the cosmic person. Jai Bhairava Baba. #Kalabhairava"
+    },
+    {
+      "queue_index": 634,
+      "source_index": 634,
+      "post_uri": "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mm6eohlhpz2o",
+      "cid": "bafyreieadpkw65hvv25rpg2oykbwfrz2i2tyaexbpjm22ftskxmgtmenlu",
+      "posted_at": "2026-05-19T02:44:35.362010+00:00",
+      "text_hash": "f4710ee38a806a8c4585363af5a0c944eb05c7b89dbc9c44f4e2de0d5702000a",
+      "post_text": "Today's name is Vyaaghracarmadhritaye. The one who wears a tiger skin, symbolizing mastery over wild nature. Jai Bhairava Baba. #Kalabhairava"
     }
   ]
 }
