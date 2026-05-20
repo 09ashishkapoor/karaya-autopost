@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts.json",
-  "last_posted_index": 657,
+  "last_posted_index": 658,
   "posted_record_uris": [
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkhgvkr3xr2q",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkhjlikrsu23",
@@ -659,7 +659,8 @@
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mmampvokm222",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mmaqizccea2y",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mmav5ky6zj2o",
-    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mmb2bb3sa52c"
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mmb2bb3sa52c",
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mmb7dmaolb23"
   ],
   "posted_cids": [
     "bafyreifrst5zlm5gntzglpt6lshxgsutmezuzdypxcxmayy2ozfha5m7ti",
@@ -1318,7 +1319,8 @@
     "bafyreib65plrri65empwlo7b4zyhdycum4p5zzzx3iwgtmoggohxvmytay",
     "bafyreigobonj5skmoul7qi5vbf6r3jfgvzsgoaomqph2fgzs3fitae4tlm",
     "bafyreici37ltbau4apcgpwoce6jltislpm2qilbmbhoprvoq6wvmgtd34q",
-    "bafyreih3fly65luiho7j3mwv3oyaozww2czyp6sk2mqeobfysynd7ucpxy"
+    "bafyreih3fly65luiho7j3mwv3oyaozww2czyp6sk2mqeobfysynd7ucpxy",
+    "bafyreidvl36ivjcjwkr7tte724bkq5fzautgurb2joovxxnqye7pnxh7ji"
   ],
   "posted_timestamps": [
     "2026-04-27T06:27:55.539737+00:00",
@@ -1977,7 +1979,8 @@
     "2026-05-20T00:13:53.096232+00:00",
     "2026-05-20T01:21:37.016297+00:00",
     "2026-05-20T02:44:41.597228+00:00",
-    "2026-05-20T04:16:14.132745+00:00"
+    "2026-05-20T04:16:14.132745+00:00",
+    "2026-05-20T05:47:03.762110+00:00"
   ],
   "posted_text_hashes": [
     "cf1ac875ed7087c14d3f19118163d018a70035373f00186f7154f6b8a4a58629",
@@ -2636,7 +2639,8 @@
     "b62d4e017f8331e86b44cc3e7fb58aaacfda8b2d1518541957b847cc6cf8e322",
     "c3178f1a01fb08ed71a8ec4bd9159ab567afbeacb60145d7751dd3fa5cccb07c",
     "530cc6286ebd5691429f7678c5156cb307752b691635be5f36c85c76a337908b",
-    "fe37663d8f778ff90d87c789e77361c6f7e130b9b60de54d218856199b4ae01b"
+    "fe37663d8f778ff90d87c789e77361c6f7e130b9b60de54d218856199b4ae01b",
+    "20eb77a1724202c8f0d41506b4a7c84b3c298f0592c496a5fe54c259badfe0c0"
   ],
   "history": [
     {
@@ -8551,6 +8555,15 @@
       "posted_at": "2026-05-20T04:16:14.132745+00:00",
       "text_hash": "fe37663d8f778ff90d87c789e77361c6f7e130b9b60de54d218856199b4ae01b",
       "post_text": "Today's name is Vedaanggaaya. The one whose limbs are the auxiliary disciplines of the Vedas. Jai Bhairava Baba. #Kalabhairava"
+    },
+    {
+      "queue_index": 658,
+      "source_index": 658,
+      "post_uri": "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mmb7dmaolb23",
+      "cid": "bafyreidvl36ivjcjwkr7tte724bkq5fzautgurb2joovxxnqye7pnxh7ji",
+      "posted_at": "2026-05-20T05:47:03.762110+00:00",
+      "text_hash": "20eb77a1724202c8f0d41506b4a7c84b3c298f0592c496a5fe54c259badfe0c0",
+      "post_text": "Today's name is Vedavide. The one who is the knower and master of the sacred Vedas. Jai Bhairava Baba. #Kalabhairava"
     }
   ]
 }
