@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts.json",
-  "last_posted_index": 694,
+  "last_posted_index": 695,
   "posted_record_uris": [
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkhgvkr3xr2q",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkhjlikrsu23",
@@ -696,7 +696,8 @@
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mmfckzf25w2c",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mmffmfov4c2j",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mmfiqkhskg2n",
-    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mmfkekw7ad2j"
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mmfkekw7ad2j",
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mmfls6zy7r2y"
   ],
   "posted_cids": [
     "bafyreifrst5zlm5gntzglpt6lshxgsutmezuzdypxcxmayy2ozfha5m7ti",
@@ -1392,7 +1393,8 @@
     "bafyreiahwil56t6lha7qoxucujlid26eix2knsbrzis47ev6cpmpm7lnse",
     "bafyreihghoxwz4sdsorawxx6wu24k7o74lvi2ffurwmqh5kr64ad5rkhr4",
     "bafyreid3qb7mwdv4x354gxajb6fy3s2y4jjfa242qalsrm63xknmdsslii",
-    "bafyreicd4ml5euryowfyuf4rzahsp7evpzgitz6t3nber5yntpvhisishe"
+    "bafyreicd4ml5euryowfyuf4rzahsp7evpzgitz6t3nber5yntpvhisishe",
+    "bafyreid35hprwfyfthq2zpgjswccokaynqaqzicyxpvwl6biyi5puqdjra"
   ],
   "posted_timestamps": [
     "2026-04-27T06:27:55.539737+00:00",
@@ -2088,7 +2090,8 @@
     "2026-05-21T20:55:30.507659+00:00",
     "2026-05-21T21:49:58.193421+00:00",
     "2026-05-21T22:45:58.614683+00:00",
-    "2026-05-21T23:15:04.584282+00:00"
+    "2026-05-21T23:15:04.584282+00:00",
+    "2026-05-21T23:40:34.967696+00:00"
   ],
   "posted_text_hashes": [
     "cf1ac875ed7087c14d3f19118163d018a70035373f00186f7154f6b8a4a58629",
@@ -2784,7 +2787,8 @@
     "0ed529922e12710b4b7bb346b1995c291d6f019960007a791a552b7cfd672693",
     "8817e4ef8afc02f08ffd7f161c8337b7579c6857f5205f517ec33fe6fdd2b758",
     "f2498be7f63e494164ec7f7aa93929083e0b138c12ecfff873a5d350aa14504b",
-    "e1456a760a853e77763f8bd0a84b6beaa877999e68dde292c61c7fdd869cfa7b"
+    "e1456a760a853e77763f8bd0a84b6beaa877999e68dde292c61c7fdd869cfa7b",
+    "727a597c0918ae82eca156fbcd02a4745e6f59c471ab3febae90b4db4d1effc8"
   ],
   "history": [
     {
@@ -9032,6 +9036,15 @@
       "posted_at": "2026-05-21T23:15:04.584282+00:00",
       "text_hash": "e1456a760a853e77763f8bd0a84b6beaa877999e68dde292c61c7fdd869cfa7b",
       "post_text": "Today's name is Vajrahastaaya. The one who holds the mighty vajra in his hand. Jai Bhairava Baba. #Kalabhairava"
+    },
+    {
+      "queue_index": 695,
+      "source_index": 695,
+      "post_uri": "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mmfls6zy7r2y",
+      "cid": "bafyreid35hprwfyfthq2zpgjswccokaynqaqzicyxpvwl6biyi5puqdjra",
+      "posted_at": "2026-05-21T23:40:34.967696+00:00",
+      "text_hash": "727a597c0918ae82eca156fbcd02a4745e6f59c471ab3febae90b4db4d1effc8",
+      "post_text": "Today's name is Vajraruupaaya. The one whose form is hard and indestructible like a vajra. Jai Bhairava Baba. #Kalabhairava"
     }
   ]
 }
