@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts.json",
-  "last_posted_index": 700,
+  "last_posted_index": 701,
   "posted_record_uris": [
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkhgvkr3xr2q",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkhjlikrsu23",
@@ -702,7 +702,8 @@
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mmfrdemkod2q",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mmfw3fuypo2j",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mmg37a2crn2q",
-    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mmgaasgdcq2s"
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mmgaasgdcq2s",
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mmgehvk6qz2u"
   ],
   "posted_cids": [
     "bafyreifrst5zlm5gntzglpt6lshxgsutmezuzdypxcxmayy2ozfha5m7ti",
@@ -1404,7 +1405,8 @@
     "bafyreie24zehrg5khutsngyi3l32in25lh6b4yujs3kwrr7knsyp74rtx4",
     "bafyreiggvdxdjfedifyh7hjdltp6nqhiitjbbphkmujgicjuv6dvs6fcsu",
     "bafyreicfbytijvpez23kektxg2i4skuou6qu7tqqzvlt6aibt2v7aondm4",
-    "bafyreihflheg5fwjtwkupuwfh3wo6xqrk3plydcmbtyqvpdwuwwqgxebqm"
+    "bafyreihflheg5fwjtwkupuwfh3wo6xqrk3plydcmbtyqvpdwuwwqgxebqm",
+    "bafyreiha5x4fxzuoebc6ojv5qmvy6yk5ljpbylzsfx5uidtsxdfsbbu4vu"
   ],
   "posted_timestamps": [
     "2026-04-27T06:27:55.539737+00:00",
@@ -2106,7 +2108,8 @@
     "2026-05-22T01:19:39.948983+00:00",
     "2026-05-22T02:44:41.539218+00:00",
     "2026-05-22T04:16:18.367380+00:00",
-    "2026-05-22T05:46:39.888907+00:00"
+    "2026-05-22T05:46:39.888907+00:00",
+    "2026-05-22T07:02:13.016024+00:00"
   ],
   "posted_text_hashes": [
     "cf1ac875ed7087c14d3f19118163d018a70035373f00186f7154f6b8a4a58629",
@@ -2808,7 +2811,8 @@
     "ef663831af6dc3a182c48e1928e9a6f81dae545ffdc2ce2ac2c18391200a6137",
     "5cbc9915e2bc774362178dffed2c552fa59e8e968572c7b7da51d65ecc7f8943",
     "e7f43142a951bdd7a987df5d3054a44b42e083b2428ff84e21b64c2350d2943b",
-    "ea00a3da7ea8e21958e0721995fefe7024ea0ec0f4efcb25c167b9c847afe793"
+    "ea00a3da7ea8e21958e0721995fefe7024ea0ec0f4efcb25c167b9c847afe793",
+    "190e08f36d92a392d4b8161a00b74003823a6f2c4c2824d95e9a5cee6e598a60"
   ],
   "history": [
     {
@@ -9110,6 +9114,15 @@
       "posted_at": "2026-05-22T05:46:39.888907+00:00",
       "text_hash": "ea00a3da7ea8e21958e0721995fefe7024ea0ec0f4efcb25c167b9c847afe793",
       "post_text": "Today's name is Vishalyaaya. The one who is free from pain, thorns, and difficulties. Jai Bhairava Baba. #Kalabhairava"
+    },
+    {
+      "queue_index": 701,
+      "source_index": 701,
+      "post_uri": "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mmgehvk6qz2u",
+      "cid": "bafyreiha5x4fxzuoebc6ojv5qmvy6yk5ljpbylzsfx5uidtsxdfsbbu4vu",
+      "posted_at": "2026-05-22T07:02:13.016024+00:00",
+      "text_hash": "190e08f36d92a392d4b8161a00b74003823a6f2c4c2824d95e9a5cee6e598a60",
+      "post_text": "Today's name is Lokashalyakrite. The one who removes the thorns of suffering from the world. Jai Bhairava Baba. #Kalabhairava"
     }
   ]
 }
