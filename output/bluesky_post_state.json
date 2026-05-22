@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts.json",
-  "last_posted_index": 716,
+  "last_posted_index": 717,
   "posted_record_uris": [
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkhgvkr3xr2q",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkhjlikrsu23",
@@ -718,7 +718,8 @@
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mmhrb6bxqx2s",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mmhtzo2ovt2a",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mmhvqi4dht2q",
-    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mmhxh5zakj2c"
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mmhxh5zakj2c",
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mmhyvhi5w32u"
   ],
   "posted_cids": [
     "bafyreifrst5zlm5gntzglpt6lshxgsutmezuzdypxcxmayy2ozfha5m7ti",
@@ -1436,7 +1437,8 @@
     "bafyreiah2qcjg36fbzvjjocoubu5cesocjpaexcv6qqtciwfgr5rajv5ri",
     "bafyreiflu7qlshvfesoipursxhg6upv5kwfg4455at5ybkj4n7f2e4tama",
     "bafyreia2576h42l33wdbpekth4bfkdqeqykv63k3qrqdhbdsp6ibrqwynm",
-    "bafyreibyb4kggdhyjw7ezdk4oqr4ynpy52xfqype5epqzwzor57x2ywbie"
+    "bafyreibyb4kggdhyjw7ezdk4oqr4ynpy52xfqype5epqzwzor57x2ywbie",
+    "bafyreifl4lqppqlu7vddvlhb65lcnheyasba4rbwz5ayjkduk6mumtnble"
   ],
   "posted_timestamps": [
     "2026-04-27T06:27:55.539737+00:00",
@@ -2154,7 +2156,8 @@
     "2026-05-22T20:23:45.688779+00:00",
     "2026-05-22T21:13:14.987537+00:00",
     "2026-05-22T21:43:54.290822+00:00",
-    "2026-05-22T22:14:29.189804+00:00"
+    "2026-05-22T22:14:29.189804+00:00",
+    "2026-05-22T22:40:22.602982+00:00"
   ],
   "posted_text_hashes": [
     "cf1ac875ed7087c14d3f19118163d018a70035373f00186f7154f6b8a4a58629",
@@ -2872,7 +2875,8 @@
     "c531e1e8fbfd5844147f6da2428a88e0826b871bf51f330fc066056fbc491191",
     "764d24daf8e5290f804240a07ccb128da9fd2875eedb15b02b9093a610d8041d",
     "ecb420b91ff368d28cc7c63d804a89aa4fbcd40a9e4558fa1eb829d57b1f35e3",
-    "6aca4c35c29683bd92335e2dffabb41f6aa3b5619c6103ec4d9dd33117a5b2bd"
+    "6aca4c35c29683bd92335e2dffabb41f6aa3b5619c6103ec4d9dd33117a5b2bd",
+    "94ae9788507f579f8eac5a69ab8c1dd763c90b7b3e3386d5ad64d535ccf51008"
   ],
   "history": [
     {
@@ -9318,6 +9322,15 @@
       "posted_at": "2026-05-22T22:14:29.189804+00:00",
       "text_hash": "6aca4c35c29683bd92335e2dffabb41f6aa3b5619c6103ec4d9dd33117a5b2bd",
       "post_text": "Today's name is Vishamaakshaaya. The one with three eyes, an uneven gaze that signifies power. Jai Bhairava Baba. #Kalabhairava"
+    },
+    {
+      "queue_index": 717,
+      "source_index": 717,
+      "post_uri": "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mmhyvhi5w32u",
+      "cid": "bafyreifl4lqppqlu7vddvlhb65lcnheyasba4rbwz5ayjkduk6mumtnble",
+      "posted_at": "2026-05-22T22:40:22.602982+00:00",
+      "text_hash": "94ae9788507f579f8eac5a69ab8c1dd763c90b7b3e3386d5ad64d535ccf51008",
+      "post_text": "Today's name is Vilomaakshaaya. The one whose eyes are turned inward in deep introspection, or whose gaze is terrifying. Jai Bhairava Baba. #Kalabhairava"
     }
   ]
 }
