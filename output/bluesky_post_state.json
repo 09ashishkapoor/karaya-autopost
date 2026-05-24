@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts.json",
-  "last_posted_index": 784,
+  "last_posted_index": 785,
   "posted_record_uris": [
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkhgvkr3xr2q",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkhjlikrsu23",
@@ -786,7 +786,8 @@
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mmmrod2vfx2o",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mmmsxkj6352c",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mmmupiirak2j",
-    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mmmwd3mjjw2c"
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mmmwd3mjjw2c",
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mmmxzal36h2n"
   ],
   "posted_cids": [
     "bafyreifrst5zlm5gntzglpt6lshxgsutmezuzdypxcxmayy2ozfha5m7ti",
@@ -1572,7 +1573,8 @@
     "bafyreiau5lleetkvklrlnznkqbq2h2zs2lnumwoahmf7bnaucpy7pqvdmm",
     "bafyreifvel7jnoj3dfsa6htdzwpaq3y7h3ddlw3jhrcbya4pd6esl3ulhq",
     "bafyreiacvcstthdavncxgssz56k3y4a2ccdacnwmlwliffrfkujk3do4ny",
-    "bafyreidkhk6v7t4nfw5wvcn7p3qcxmox7b2dq6cefxdvyrvqnxyunzmwyy"
+    "bafyreidkhk6v7t4nfw5wvcn7p3qcxmox7b2dq6cefxdvyrvqnxyunzmwyy",
+    "bafyreiacmkok3ye3tgfj7ahm3yxdm7a7t5iozm6fxidwhdielt7r4nhtzm"
   ],
   "posted_timestamps": [
     "2026-04-27T06:27:55.539737+00:00",
@@ -2358,7 +2360,8 @@
     "2026-05-24T20:14:25.586471+00:00",
     "2026-05-24T20:37:29.146604+00:00",
     "2026-05-24T21:08:46.058439+00:00",
-    "2026-05-24T21:37:37.376456+00:00"
+    "2026-05-24T21:37:37.376456+00:00",
+    "2026-05-24T22:07:54.543314+00:00"
   ],
   "posted_text_hashes": [
     "cf1ac875ed7087c14d3f19118163d018a70035373f00186f7154f6b8a4a58629",
@@ -3144,7 +3147,8 @@
     "e77bafda4311cea5f85e62fc662607c9c4d222a465470801368849f4fe8ea898",
     "5a8dd2766183b9a474be488d89a1591479448deb0f50c43ecb5805e5abae029b",
     "04cc50b8123af0dc342d23ac5f65a4e2a45a45204894322f4ac6237fe70de974",
-    "2cf6a631067d3b271b5d75bfbd9cb3076c67fc91d5c86cb34921915caccf0fc1"
+    "2cf6a631067d3b271b5d75bfbd9cb3076c67fc91d5c86cb34921915caccf0fc1",
+    "b52d8b2acfa99e0fff07fc57da33f5e24832ac6fa216f49003926b7b3f287a9f"
   ],
   "history": [
     {
@@ -10202,6 +10206,15 @@
       "posted_at": "2026-05-24T21:37:37.376456+00:00",
       "text_hash": "2cf6a631067d3b271b5d75bfbd9cb3076c67fc91d5c86cb34921915caccf0fc1",
       "post_text": "Today's name is Svastikrite. The creator and bestower of all auspiciousness. Jai Bhairava Baba. #Kalabhairava"
+    },
+    {
+      "queue_index": 785,
+      "source_index": 785,
+      "post_uri": "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mmmxzal36h2n",
+      "cid": "bafyreiacmkok3ye3tgfj7ahm3yxdm7a7t5iozm6fxidwhdielt7r4nhtzm",
+      "posted_at": "2026-05-24T22:07:54.543314+00:00",
+      "text_hash": "b52d8b2acfa99e0fff07fc57da33f5e24832ac6fa216f49003926b7b3f287a9f",
+      "post_text": "Today's name is Svastibhuje. The enjoyer of all that is auspicious. Jai Bhairava Baba. #Kalabhairava"
     }
   ]
 }
