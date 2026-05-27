@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts.json",
-  "last_posted_index": 847,
+  "last_posted_index": 848,
   "posted_record_uris": [
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkhgvkr3xr2q",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkhjlikrsu23",
@@ -849,7 +849,8 @@
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mmuasrkttm22",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mmudyizgpw2v",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mmuk6snheo2j",
-    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mmun4bjdau23"
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mmun4bjdau23",
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mmuou4neo62a"
   ],
   "posted_cids": [
     "bafyreifrst5zlm5gntzglpt6lshxgsutmezuzdypxcxmayy2ozfha5m7ti",
@@ -1698,7 +1699,8 @@
     "bafyreiavx33sfaxw33dtmw2tgg7glimhrpuvtcy6svls674x4bnpf4j6b4",
     "bafyreibqzmxd3oe25bpeukvneeuptuxt5kt5t4ajwkzy2h3hewdfpg2deu",
     "bafyreifve2ln4vd76fr7wbjidnii5g72nipweuzoalkvopjcxt6vkc3nri",
-    "bafyreih4rrskyabdnwtdefen4wgfgcregjbm6n2zekkt6ruarktptel2tm"
+    "bafyreih4rrskyabdnwtdefen4wgfgcregjbm6n2zekkt6ruarktptel2tm",
+    "bafyreiehbhwompngh3ymkpnzk3elywlc2hg42cfl4upxukolv7rjq3veny"
   ],
   "posted_timestamps": [
     "2026-04-27T06:27:55.539737+00:00",
@@ -2547,7 +2549,8 @@
     "2026-05-27T19:33:59.267694+00:00",
     "2026-05-27T20:30:52.875842+00:00",
     "2026-05-27T22:21:46.729100+00:00",
-    "2026-05-27T23:14:04.050595+00:00"
+    "2026-05-27T23:14:04.050595+00:00",
+    "2026-05-27T23:45:16.867264+00:00"
   ],
   "posted_text_hashes": [
     "cf1ac875ed7087c14d3f19118163d018a70035373f00186f7154f6b8a4a58629",
@@ -3396,7 +3399,8 @@
     "2b84c03eee06dd441cd002dc93cf503097931966de1a70548ae722c130996c17",
     "5a20f8129d0ed0ea51aada7241515756595628cff7d68f114e7021b6b577c0e8",
     "67dcf490c1aadabf58b23cf28b9c31d4f09acd81ff09d7ef517befc86fdbea07",
-    "92219aadd323d40fa6745b38deb08a5dfd79cbe07267b8f32cc1e54687e97b97"
+    "92219aadd323d40fa6745b38deb08a5dfd79cbe07267b8f32cc1e54687e97b97",
+    "6a92f13e0ed333b938f3f3035238589889b6b50ac3d5b0efc9631ae98bce67d1"
   ],
   "history": [
     {
@@ -11021,6 +11025,15 @@
       "posted_at": "2026-05-27T23:14:04.050595+00:00",
       "text_hash": "92219aadd323d40fa6745b38deb08a5dfd79cbe07267b8f32cc1e54687e97b97",
       "post_text": "Today's name is Svaadhishthaanashadaashrayaaya. The one who is the sixfold support of the Svadhisthana chakra. Jai Bhairava Baba. #Kalabhairava"
+    },
+    {
+      "queue_index": 848,
+      "source_index": 848,
+      "post_uri": "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mmuou4neo62a",
+      "cid": "bafyreiehbhwompngh3ymkpnzk3elywlc2hg42cfl4upxukolv7rjq3veny",
+      "posted_at": "2026-05-27T23:45:16.867264+00:00",
+      "text_hash": "6a92f13e0ed333b938f3f3035238589889b6b50ac3d5b0efc9631ae98bce67d1",
+      "post_text": "Today's name is Praamshave. The one who is tall, imposing, and magnificent in stature. Jai Bhairava Baba. #Kalabhairava"
     }
   ]
 }
