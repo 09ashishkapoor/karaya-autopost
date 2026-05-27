@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts.json",
-  "last_posted_index": 831,
+  "last_posted_index": 832,
   "posted_record_uris": [
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkhgvkr3xr2q",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkhjlikrsu23",
@@ -833,7 +833,8 @@
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mms4sbxjor27",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mms6ewn3k622",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mmsa3kc2zn23",
-    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mmsduwc62s23"
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mmsduwc62s23",
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mmsigaddbw22"
   ],
   "posted_cids": [
     "bafyreifrst5zlm5gntzglpt6lshxgsutmezuzdypxcxmayy2ozfha5m7ti",
@@ -1666,7 +1667,8 @@
     "bafyreie3ppld34hydd2qsn7h6i57s62m2wwnqqbxztsupqg3rf7ld5koqa",
     "bafyreibtluf75hjynwdkuif7sdwxvfj3ml47rzte56avhbmw6nkam2rxl4",
     "bafyreig6nsrkc24vtyz6qjps6mkcvrwnhlbtxd3egtbpxakahtauw3a32m",
-    "bafyreie5mppqspbhnppsjfclvqnl3gt5zigno6odstpjyzzmwjyu5smhdi"
+    "bafyreie5mppqspbhnppsjfclvqnl3gt5zigno6odstpjyzzmwjyu5smhdi",
+    "bafyreib446jliyd7xms3j6hsemvynhmqlvs5lhbedpug7vro3lg5r5m4tm"
   ],
   "posted_timestamps": [
     "2026-04-27T06:27:55.539737+00:00",
@@ -2499,7 +2501,8 @@
     "2026-05-26T23:16:48.474865+00:00",
     "2026-05-26T23:45:07.874883+00:00",
     "2026-05-27T00:15:40.427573+00:00",
-    "2026-05-27T01:23:33.110148+00:00"
+    "2026-05-27T01:23:33.110148+00:00",
+    "2026-05-27T02:44:49.013048+00:00"
   ],
   "posted_text_hashes": [
     "cf1ac875ed7087c14d3f19118163d018a70035373f00186f7154f6b8a4a58629",
@@ -3332,7 +3335,8 @@
     "2ab8787dc44471f5f9f20976eccc73ab21489465a610d2fc128b61a0b91c78be",
     "2046f8dd60239dd79cb9aaa24ff4d9b97d39f0f345425a4e785598721d65cac4",
     "2d60e0011705b351421066f412d1582bcb022b0454b2149a1b9c98865b233561",
-    "892d51eafecccc18c3301cd9f12ee932786cc21c279f3ebbc862e2ab68043039"
+    "892d51eafecccc18c3301cd9f12ee932786cc21c279f3ebbc862e2ab68043039",
+    "6153683fcbab48b8af98048c6f638514e3271628a49a0701efa5a78b0c011464"
   ],
   "history": [
     {
@@ -10813,6 +10817,15 @@
       "posted_at": "2026-05-27T01:23:33.110148+00:00",
       "text_hash": "892d51eafecccc18c3301cd9f12ee932786cc21c279f3ebbc862e2ab68043039",
       "post_text": "Today's name is Saptadorviiraaya. The one who is the mighty hero with seven powerful arms. Jai Bhairava Baba. #Kalabhairava"
+    },
+    {
+      "queue_index": 832,
+      "source_index": 832,
+      "post_uri": "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mmsigaddbw22",
+      "cid": "bafyreib446jliyd7xms3j6hsemvynhmqlvs5lhbedpug7vro3lg5r5m4tm",
+      "posted_at": "2026-05-27T02:44:49.013048+00:00",
+      "text_hash": "6153683fcbab48b8af98048c6f638514e3271628a49a0701efa5a78b0c011464",
+      "post_text": "Today's name is Shadvimshaaya. The one who is the twenty-sixth principle, Purusha, beyond the twenty-five tattvas. Jai Bhairava Baba. #Kalabhairava"
     }
   ]
 }
