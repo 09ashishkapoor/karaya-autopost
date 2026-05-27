@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts.json",
-  "last_posted_index": 846,
+  "last_posted_index": 847,
   "posted_record_uris": [
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkhgvkr3xr2q",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkhjlikrsu23",
@@ -848,7 +848,8 @@
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mmu5jkgmkl2j",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mmuasrkttm22",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mmudyizgpw2v",
-    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mmuk6snheo2j"
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mmuk6snheo2j",
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mmun4bjdau23"
   ],
   "posted_cids": [
     "bafyreifrst5zlm5gntzglpt6lshxgsutmezuzdypxcxmayy2ozfha5m7ti",
@@ -1696,7 +1697,8 @@
     "bafyreidkidx3dninyvmk7opeadw5fzexjtbj7dzbcp4wuwcjiokhz4nekq",
     "bafyreiavx33sfaxw33dtmw2tgg7glimhrpuvtcy6svls674x4bnpf4j6b4",
     "bafyreibqzmxd3oe25bpeukvneeuptuxt5kt5t4ajwkzy2h3hewdfpg2deu",
-    "bafyreifve2ln4vd76fr7wbjidnii5g72nipweuzoalkvopjcxt6vkc3nri"
+    "bafyreifve2ln4vd76fr7wbjidnii5g72nipweuzoalkvopjcxt6vkc3nri",
+    "bafyreih4rrskyabdnwtdefen4wgfgcregjbm6n2zekkt6ruarktptel2tm"
   ],
   "posted_timestamps": [
     "2026-04-27T06:27:55.539737+00:00",
@@ -2544,7 +2546,8 @@
     "2026-05-27T18:35:08.598485+00:00",
     "2026-05-27T19:33:59.267694+00:00",
     "2026-05-27T20:30:52.875842+00:00",
-    "2026-05-27T22:21:46.729100+00:00"
+    "2026-05-27T22:21:46.729100+00:00",
+    "2026-05-27T23:14:04.050595+00:00"
   ],
   "posted_text_hashes": [
     "cf1ac875ed7087c14d3f19118163d018a70035373f00186f7154f6b8a4a58629",
@@ -3392,7 +3395,8 @@
     "352360aed4a1269bca8961a31d0f33f1c79c851ab72eb112fc279d7c12443f8b",
     "2b84c03eee06dd441cd002dc93cf503097931966de1a70548ae722c130996c17",
     "5a20f8129d0ed0ea51aada7241515756595628cff7d68f114e7021b6b577c0e8",
-    "67dcf490c1aadabf58b23cf28b9c31d4f09acd81ff09d7ef517befc86fdbea07"
+    "67dcf490c1aadabf58b23cf28b9c31d4f09acd81ff09d7ef517befc86fdbea07",
+    "92219aadd323d40fa6745b38deb08a5dfd79cbe07267b8f32cc1e54687e97b97"
   ],
   "history": [
     {
@@ -11008,6 +11012,15 @@
       "posted_at": "2026-05-27T22:21:46.729100+00:00",
       "text_hash": "67dcf490c1aadabf58b23cf28b9c31d4f09acd81ff09d7ef517befc86fdbea07",
       "post_text": "Today's name is Sukhashmashrave. The one whose ears are pleasant and auspicious, who hears all sacred sounds. Jai Bhairava Baba. #Kalabhairava"
+    },
+    {
+      "queue_index": 847,
+      "source_index": 847,
+      "post_uri": "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mmun4bjdau23",
+      "cid": "bafyreih4rrskyabdnwtdefen4wgfgcregjbm6n2zekkt6ruarktptel2tm",
+      "posted_at": "2026-05-27T23:14:04.050595+00:00",
+      "text_hash": "92219aadd323d40fa6745b38deb08a5dfd79cbe07267b8f32cc1e54687e97b97",
+      "post_text": "Today's name is Svaadhishthaanashadaashrayaaya. The one who is the sixfold support of the Svadhisthana chakra. Jai Bhairava Baba. #Kalabhairava"
     }
   ]
 }
