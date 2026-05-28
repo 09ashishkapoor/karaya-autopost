@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts.json",
-  "last_posted_index": 848,
+  "last_posted_index": 849,
   "posted_record_uris": [
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkhgvkr3xr2q",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkhjlikrsu23",
@@ -850,7 +850,8 @@
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mmudyizgpw2v",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mmuk6snheo2j",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mmun4bjdau23",
-    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mmuou4neo62a"
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mmuou4neo62a",
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mmuqefq6hh2q"
   ],
   "posted_cids": [
     "bafyreifrst5zlm5gntzglpt6lshxgsutmezuzdypxcxmayy2ozfha5m7ti",
@@ -1700,7 +1701,8 @@
     "bafyreibqzmxd3oe25bpeukvneeuptuxt5kt5t4ajwkzy2h3hewdfpg2deu",
     "bafyreifve2ln4vd76fr7wbjidnii5g72nipweuzoalkvopjcxt6vkc3nri",
     "bafyreih4rrskyabdnwtdefen4wgfgcregjbm6n2zekkt6ruarktptel2tm",
-    "bafyreiehbhwompngh3ymkpnzk3elywlc2hg42cfl4upxukolv7rjq3veny"
+    "bafyreiehbhwompngh3ymkpnzk3elywlc2hg42cfl4upxukolv7rjq3veny",
+    "bafyreigln2fqc74bzjzuzrlkzl2agbs5jkiveti7m5uhra3r7htp2j6gxi"
   ],
   "posted_timestamps": [
     "2026-04-27T06:27:55.539737+00:00",
@@ -2550,7 +2552,8 @@
     "2026-05-27T20:30:52.875842+00:00",
     "2026-05-27T22:21:46.729100+00:00",
     "2026-05-27T23:14:04.050595+00:00",
-    "2026-05-27T23:45:16.867264+00:00"
+    "2026-05-27T23:45:16.867264+00:00",
+    "2026-05-28T00:12:16.987465+00:00"
   ],
   "posted_text_hashes": [
     "cf1ac875ed7087c14d3f19118163d018a70035373f00186f7154f6b8a4a58629",
@@ -3400,7 +3403,8 @@
     "5a20f8129d0ed0ea51aada7241515756595628cff7d68f114e7021b6b577c0e8",
     "67dcf490c1aadabf58b23cf28b9c31d4f09acd81ff09d7ef517befc86fdbea07",
     "92219aadd323d40fa6745b38deb08a5dfd79cbe07267b8f32cc1e54687e97b97",
-    "6a92f13e0ed333b938f3f3035238589889b6b50ac3d5b0efc9631ae98bce67d1"
+    "6a92f13e0ed333b938f3f3035238589889b6b50ac3d5b0efc9631ae98bce67d1",
+    "ba3f3320d6240f015414b4488dac44bedd384cf9f803c86439d57c90d78ba020"
   ],
   "history": [
     {
@@ -11034,6 +11038,15 @@
       "posted_at": "2026-05-27T23:45:16.867264+00:00",
       "text_hash": "6a92f13e0ed333b938f3f3035238589889b6b50ac3d5b0efc9631ae98bce67d1",
       "post_text": "Today's name is Praamshave. The one who is tall, imposing, and magnificent in stature. Jai Bhairava Baba. #Kalabhairava"
+    },
+    {
+      "queue_index": 849,
+      "source_index": 849,
+      "post_uri": "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mmuqefq6hh2q",
+      "cid": "bafyreigln2fqc74bzjzuzrlkzl2agbs5jkiveti7m5uhra3r7htp2j6gxi",
+      "posted_at": "2026-05-28T00:12:16.987465+00:00",
+      "text_hash": "ba3f3320d6240f015414b4488dac44bedd384cf9f803c86439d57c90d78ba020",
+      "post_text": "Today's name is Saptapataye. The one who is the lord of the seven worlds, the seven sages, or the seven cosmic planes. Jai Bhairava Baba. #Kalabhairava"
     }
   ]
 }
