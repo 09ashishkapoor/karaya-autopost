@@ -49,4 +49,4 @@ jobs:
             exit 0
           fi
           git commit -m "chore: update tumblr autopost state"
-          git push
+          git push origin HEAD:main

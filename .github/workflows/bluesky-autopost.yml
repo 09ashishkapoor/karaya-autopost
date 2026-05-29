@@ -46,4 +46,4 @@ jobs:
             exit 0
           fi
           git commit -m "chore: update bluesky autopost state"
-          git push
+          git push origin HEAD:main

@@ -310,7 +310,7 @@ def publish_post(text: str, api_base: str, blog_identifier: str, access_token: s
                     "text": text,
                 }
             ],
-            "tags": ",".join(tags),
+            "tags": tags,
             "state": "published",
         },
         headers={

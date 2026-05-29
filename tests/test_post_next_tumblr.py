@@ -87,7 +87,7 @@ def test_publish_post_sends_text_and_tags(monkeypatch):
     assert tags == ["ghargharkali"]
     assert captured["url"] == "https://api.tumblr.com/v2/blog/kakakaforadyakali.tumblr.com/posts"
     assert captured["payload"]["content"] == [{"type": "text", "text": "Today's name is Kali. Jai Ma. #ghargharkali"}]
-    assert captured["payload"]["tags"] == "ghargharkali"
+    assert captured["payload"]["tags"] == ["ghargharkali"]
     assert captured["payload"]["state"] == "published"
     assert captured["headers"]["Authorization"] == "Bearer token-123"
 
