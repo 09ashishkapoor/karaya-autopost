@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts.json",
-  "last_posted_index": 876,
+  "last_posted_index": 877,
   "posted_record_uris": [
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkhgvkr3xr2q",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkhjlikrsu23",
@@ -878,7 +878,8 @@
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mmxzsujfcb2y",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mmy65bjvyb2w",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mmydnjkw342d",
-    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mmyhyxa2gz2q"
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mmyhyxa2gz2q",
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mmynfgnwc32q"
   ],
   "posted_cids": [
     "bafyreifrst5zlm5gntzglpt6lshxgsutmezuzdypxcxmayy2ozfha5m7ti",
@@ -1756,7 +1757,8 @@
     "bafyreiajdenau5ryroyjg6ty2gtfqa4thzrx5hubwrvu3hpeizhmjoo5sy",
     "bafyreidyxfp4vqpodtvlpvhdrlhwl4ylta4fj6wyflbcgh3agcrv5pedly",
     "bafyreidcrkpyky55eccpcn7ox5bpaodssilc53mz3zqs3kxy4ir3ynpbga",
-    "bafyreibus2omtv5aks4hlw46zwtbmp47g7fcp6wplvqsupkxdixldq7szy"
+    "bafyreibus2omtv5aks4hlw46zwtbmp47g7fcp6wplvqsupkxdixldq7szy",
+    "bafyreicsngokg2zurfb4wflrpa4ar6ir5chktidqodpq2corenqfjj2wmm"
   ],
   "posted_timestamps": [
     "2026-04-27T06:27:55.539737+00:00",
@@ -2634,7 +2636,8 @@
     "2026-05-29T07:39:25.276639+00:00",
     "2026-05-29T08:56:49.433869+00:00",
     "2026-05-29T10:35:23.450852+00:00",
-    "2026-05-29T11:53:21.849768+00:00"
+    "2026-05-29T11:53:21.849768+00:00",
+    "2026-05-29T13:29:49.393118+00:00"
   ],
   "posted_text_hashes": [
     "cf1ac875ed7087c14d3f19118163d018a70035373f00186f7154f6b8a4a58629",
@@ -3512,7 +3515,8 @@
     "1b1f1867bbb187437a38f12179276eed37eaabc16caec6fd6c25af46ce6c55c4",
     "20f7f12fca7c681289ac078f15db564fd573b2c843edef9ac756c07c7a4b84e4",
     "5c572b4c91ae783b1e92ae3459412800c8941afe60331a273c661d3e1c71a7b1",
-    "f51501dd61b03c94a44230bca9fbaefbcfe49a280d2c9e09d9cf5ddeaf5031fb"
+    "f51501dd61b03c94a44230bca9fbaefbcfe49a280d2c9e09d9cf5ddeaf5031fb",
+    "5588432cc404b3aac13c5837463dd3e43b4aa7f026f9ec843e6801fc0b88abe4"
   ],
   "history": [
     {
@@ -11398,6 +11402,15 @@
       "posted_at": "2026-05-29T11:53:21.849768+00:00",
       "text_hash": "f51501dd61b03c94a44230bca9fbaefbcfe49a280d2c9e09d9cf5ddeaf5031fb",
       "post_text": "Today's name is Shikhine. The one who has a crest or top-knot, like a peacock. Jai Bhairava Baba. #Kalabhairava"
+    },
+    {
+      "queue_index": 877,
+      "source_index": 877,
+      "post_uri": "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mmynfgnwc32q",
+      "cid": "bafyreicsngokg2zurfb4wflrpa4ar6ir5chktidqodpq2corenqfjj2wmm",
+      "posted_at": "2026-05-29T13:29:49.393118+00:00",
+      "text_hash": "5588432cc404b3aac13c5837463dd3e43b4aa7f026f9ec843e6801fc0b88abe4",
+      "post_text": "Today's name is Shriicandikaadhipaaya. The one who is the supreme lord of the glorious goddess Chandika. Jai Bhairava Baba. #Kalabhairava"
     }
   ]
 }
