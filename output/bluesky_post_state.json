@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts.json",
-  "last_posted_index": 891,
+  "last_posted_index": 892,
   "posted_record_uris": [
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkhgvkr3xr2q",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkhjlikrsu23",
@@ -893,7 +893,8 @@
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mmzuv5bsun23",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mmzxp3bz4d2r",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mn24argqaa2r",
-    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mn2bhj6hib2s"
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mn2bhj6hib2s",
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mn2gam6q6i23"
   ],
   "posted_cids": [
     "bafyreifrst5zlm5gntzglpt6lshxgsutmezuzdypxcxmayy2ozfha5m7ti",
@@ -1786,7 +1787,8 @@
     "bafyreihp77yzdfnczvds2noiakqi52pv7gkv6i2526vn367grcfqwmcnr4",
     "bafyreigiio3uy7avcpglqsgdi627kzw4pi7t2vfxq23mgbj2i3zdz5fcmm",
     "bafyreiaxw4o7w6skuycqlmmyncm7f2jfuxjvrcrygzjvdwp3xo6kvymeym",
-    "bafyreicus5aqpnq64r5cdb4ntmhrtkykr57bnsuxjpmu3h47rpoowpruma"
+    "bafyreicus5aqpnq64r5cdb4ntmhrtkykr57bnsuxjpmu3h47rpoowpruma",
+    "bafyreibtj767kp6hbfhd3xwkb32u2wwgvq5z4kfms4u425t6llseqknc4q"
   ],
   "posted_timestamps": [
     "2026-04-27T06:27:55.539737+00:00",
@@ -2679,7 +2681,8 @@
     "2026-05-30T01:16:32.337742+00:00",
     "2026-05-30T02:06:50.163665+00:00",
     "2026-05-30T03:28:18.786219+00:00",
-    "2026-05-30T05:01:33.685878+00:00"
+    "2026-05-30T05:01:33.685878+00:00",
+    "2026-05-30T06:27:10.663901+00:00"
   ],
   "posted_text_hashes": [
     "cf1ac875ed7087c14d3f19118163d018a70035373f00186f7154f6b8a4a58629",
@@ -3572,7 +3575,8 @@
     "3df7a64d87f03edabe4ad3511215596216973da97a3d4d9b648a9563987c2810",
     "a182badc079b4eb4f555ffa087564795772ebbe66b86a73aba8bf6f9a72313c0",
     "948f0eb464b50b8289a06ba719811933a52dcf640a71eadeb20eebee2527f959",
-    "aa7d10f8736df5da049813ca449c2d43beea274001f41cf7d3e073b886dac386"
+    "aa7d10f8736df5da049813ca449c2d43beea274001f41cf7d3e073b886dac386",
+    "f24fadaa2cec173bee0b548273a8abb33b53b419d502248e1012c044bfd09a1d"
   ],
   "history": [
     {
@@ -11593,6 +11597,15 @@
       "posted_at": "2026-05-30T05:01:33.685878+00:00",
       "text_hash": "aa7d10f8736df5da049813ca449c2d43beea274001f41cf7d3e073b886dac386",
       "post_text": "Today's name is Svanaaya. The one who is the divine resonant sound. Jai Bhairava Baba. #Kalabhairava"
+    },
+    {
+      "queue_index": 892,
+      "source_index": 892,
+      "post_uri": "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mn2gam6q6i23",
+      "cid": "bafyreibtj767kp6hbfhd3xwkb32u2wwgvq5z4kfms4u425t6llseqknc4q",
+      "posted_at": "2026-05-30T06:27:10.663901+00:00",
+      "text_hash": "f24fadaa2cec173bee0b548273a8abb33b53b419d502248e1012c044bfd09a1d",
+      "post_text": "Today's name is Saamagaaya. The one who is the supreme singer of the sacred Sama Veda chants. Jai Bhairava Baba. #Kalabhairava"
     }
   ]
 }
