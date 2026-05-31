@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts.json",
-  "last_posted_index": 934,
+  "last_posted_index": 935,
   "posted_record_uris": [
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkhgvkr3xr2q",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkhjlikrsu23",
@@ -936,7 +936,8 @@
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mn5m2xettk2i",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mn5puj37ra22",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mn5szp4tze24",
-    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mn5vv44r3m2j"
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mn5vv44r3m2j",
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mn5xntwwh727"
   ],
   "posted_cids": [
     "bafyreifrst5zlm5gntzglpt6lshxgsutmezuzdypxcxmayy2ozfha5m7ti",
@@ -1872,7 +1873,8 @@
     "bafyreifq5vsp5yoljb5icqkwe5nplxvivh6gmm6l3vrx3nw6a77kcombaa",
     "bafyreidca2dx7vy4g5zh5jgtp7mi6v6ubl4bnlcd3wes2wwehltl22jfcy",
     "bafyreigtuvrlr5nzi2r3baa37o3tqgez5jmbxeakasemsunglmbyvzqukm",
-    "bafyreigbiy4xe5bdg4urh336uradhzrlhivvhzjvadidp3xzmk37doge7e"
+    "bafyreigbiy4xe5bdg4urh336uradhzrlhivvhzjvadidp3xzmk37doge7e",
+    "bafyreia5b4mwlfxvxf3dsmhnuge4rqysyncjfjtn4u4p3jsrohcps35hxe"
   ],
   "posted_timestamps": [
     "2026-04-27T06:27:55.539737+00:00",
@@ -2808,7 +2810,8 @@
     "2026-05-31T12:49:22.753686+00:00",
     "2026-05-31T13:57:21.378084+00:00",
     "2026-05-31T14:53:56.732229+00:00",
-    "2026-05-31T15:45:04.058146+00:00"
+    "2026-05-31T15:45:04.058146+00:00",
+    "2026-05-31T16:16:47.870134+00:00"
   ],
   "posted_text_hashes": [
     "cf1ac875ed7087c14d3f19118163d018a70035373f00186f7154f6b8a4a58629",
@@ -3744,7 +3747,8 @@
     "f2c8b3e986ab337892c51a77092193019c996ab3d5cc2d46bfbc3574c244900d",
     "d9372d22b9173742d3c3259331afcb75167b315f86c9bf6891e2de8a117cf0c0",
     "f2a71d5f6963f0fbb189ff0be72c60e3e9b35064378c5106212cdb7eb09689f9",
-    "9c0a5339769794f039d14231fd32bae290ad4a2e3f653558284c5327beb22ae4"
+    "9c0a5339769794f039d14231fd32bae290ad4a2e3f653558284c5327beb22ae4",
+    "71ff66f3daad9392f0ceaf31f040a8ecfcd1b1429e445cdefed6a1df677c52fe"
   ],
   "history": [
     {
@@ -12152,6 +12156,15 @@
       "posted_at": "2026-05-31T15:45:04.058146+00:00",
       "text_hash": "9c0a5339769794f039d14231fd32bae290ad4a2e3f653558284c5327beb22ae4",
       "post_text": "Today's name is Stavapriyaaya. The one who delights in the hymns and praises offered by devotees. Jai Bhairava Baba. #Kalabhairava"
+    },
+    {
+      "queue_index": 935,
+      "source_index": 935,
+      "post_uri": "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mn5xntwwh727",
+      "cid": "bafyreia5b4mwlfxvxf3dsmhnuge4rqysyncjfjtn4u4p3jsrohcps35hxe",
+      "posted_at": "2026-05-31T16:16:47.870134+00:00",
+      "text_hash": "71ff66f3daad9392f0ceaf31f040a8ecfcd1b1429e445cdefed6a1df677c52fe",
+      "post_text": "Today's name is Rasajnaaya. The one who knows all essences, tastes, and aesthetic experiences (rasa). Jai Bhairava Baba. #Kalabhairava"
     }
   ]
 }
