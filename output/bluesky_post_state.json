@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts.json",
-  "last_posted_index": 975,
+  "last_posted_index": 976,
   "posted_record_uris": [
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkhgvkr3xr2q",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mkhjlikrsu23",
@@ -977,7 +977,8 @@
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mncjh2ev4d22",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mncnjkqp4b2z",
     "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mnct3wja7b26",
-    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mncyjhjzww2z"
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mncyjhjzww2z",
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mnd5uj53nc2z"
   ],
   "posted_cids": [
     "bafyreifrst5zlm5gntzglpt6lshxgsutmezuzdypxcxmayy2ozfha5m7ti",
@@ -1954,7 +1955,8 @@
     "bafyreifcz444h74l4utvcgmuyauop7ubbda4elhcmzmufwooiuav3wb74e",
     "bafyreic5hk7auw56uogj3rgjawoveitjvqokfvv5dvvtwspk5jpvw2kj24",
     "bafyreidbn7zagkizojsbk4xvqzxp3c5bkjyalbycg7oz4t6yrheemispxa",
-    "bafyreie43kjuw7cxgqkofnuaw2fhhg2v2bpeo4yomfnmvqrgxmfqwou7hq"
+    "bafyreie43kjuw7cxgqkofnuaw2fhhg2v2bpeo4yomfnmvqrgxmfqwou7hq",
+    "bafyreihqpyzeshynzj2ssvadp2j4xwaapvexco6iq7jpwhum2cwgg7asei"
   ],
   "posted_timestamps": [
     "2026-04-27T06:27:55.539737+00:00",
@@ -2931,7 +2933,8 @@
     "2026-06-02T11:45:46.065843+00:00",
     "2026-06-02T12:58:45.268592+00:00",
     "2026-06-02T14:38:30.284258+00:00",
-    "2026-06-02T16:15:33.066696+00:00"
+    "2026-06-02T16:15:33.066696+00:00",
+    "2026-06-02T17:51:12.535643+00:00"
   ],
   "posted_text_hashes": [
     "cf1ac875ed7087c14d3f19118163d018a70035373f00186f7154f6b8a4a58629",
@@ -3908,7 +3911,8 @@
     "2d8d385804695eed2a82888da0833498f3e9ff1639fa85b46af6ef8e1cd625c1",
     "96b62001573b064e4d9e04f2e8eb4016fd81ccb6801ce38a20749a369a1cfed7",
     "fe9bab517db31871c8fdcbfac1886b7366415c78b8165413ec4ceb696490c184",
-    "158f5d3d7069f024c3d7a4f45285336c946d15b506824858061f4ae922adee08"
+    "158f5d3d7069f024c3d7a4f45285336c946d15b506824858061f4ae922adee08",
+    "4ac4fbba9270deab5105f8762fc9ec4434e25eab1a8dc249eee62616a83b226e"
   ],
   "history": [
     {
@@ -12685,6 +12689,15 @@
       "posted_at": "2026-06-02T16:15:33.066696+00:00",
       "text_hash": "158f5d3d7069f024c3d7a4f45285336c946d15b506824858061f4ae922adee08",
       "post_text": "Today's name is Kalaamaalaaya. The one adorned with a garland of all arts and cosmic divisions. Jai Bhairava Baba. #Kalabhairava"
+    },
+    {
+      "queue_index": 976,
+      "source_index": 976,
+      "post_uri": "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mnd5uj53nc2z",
+      "cid": "bafyreihqpyzeshynzj2ssvadp2j4xwaapvexco6iq7jpwhum2cwgg7asei",
+      "posted_at": "2026-06-02T17:51:12.535643+00:00",
+      "text_hash": "4ac4fbba9270deab5105f8762fc9ec4434e25eab1a8dc249eee62616a83b226e",
+      "post_text": "Today's name is Tryambakaaya. The three-eyed lord of the three worlds. Jai Bhairava Baba. #Kalabhairava"
     }
   ]
 }
