@@ -30,11 +30,16 @@ def test_load_state_supports_utf8_bom(tmp_path: Path):
     assert state["last_posted_index"] == 2
 
 
-def test_next_queue_position_handles_completion():
+def test_next_queue_position_wraps_after_last_record():
     state = {"last_posted_index": 3}
 
-    assert post_next_bluesky.next_queue_position(state, queue_size=3) is None
+    assert post_next_bluesky.next_queue_position(state, queue_size=3) == 1
     assert post_next_bluesky.next_queue_position(state, queue_size=4) == 4
+    assert post_next_bluesky.next_queue_position({"last_posted_index": 1}, queue_size=3) == 2
+
+
+def test_next_queue_position_returns_none_for_empty_queue():
+    assert post_next_bluesky.next_queue_position({"last_posted_index": 0}, queue_size=0) is None
 
 
 def test_next_queue_position_rejects_shrunk_queue():
@@ -145,7 +150,7 @@ def test_main_posts_next_record_and_updates_state(tmp_path: Path, monkeypatch):
     assert state["history"][-1]["post_text"] == "post two"
 
 
-def test_main_exits_cleanly_when_queue_complete(tmp_path: Path, monkeypatch, capsys):
+def test_main_wraps_and_posts_first_record_again(tmp_path: Path, monkeypatch, capsys):
     queue_path = tmp_path / "generated_posts.json"
     queue_path.write_text(
         json.dumps([{"index": 1, "post_text": "post one", "fits_length_limit": True}]),
@@ -169,6 +174,7 @@ def test_main_exits_cleanly_when_queue_complete(tmp_path: Path, monkeypatch, cap
         encoding="utf-8",
     )
 
+    monkeypatch.setattr(post_next_bluesky, "publish_post", lambda text: ("at://wrapped", "cidw"))
     monkeypatch.setattr(
         sys,
         "argv",
@@ -183,5 +189,7 @@ def test_main_exits_cleanly_when_queue_complete(tmp_path: Path, monkeypatch, cap
 
     post_next_bluesky.main()
 
-    captured = capsys.readouterr()
-    assert "Queue complete. No Bluesky post published." in captured.out
+    state = json.loads(state_path.read_text(encoding="utf-8"))
+    assert state["last_posted_index"] == 1
+    assert state["history"][-1]["queue_index"] == 1
+    assert "Posted queue index 1/1 to Bluesky" in capsys.readouterr().out

@@ -141,10 +141,11 @@ def next_queue_position(state: dict, queue_size: int) -> int | None:
             f"State last_posted_index {last_posted} is beyond the queue size {queue_size}. "
             "The queue shrank or was replaced; reset the state file before posting."
         )
-    next_index = last_posted + 1
-    if next_index > queue_size:
+    if queue_size == 0:
         return None
-    return next_index
+    if last_posted >= queue_size:
+        return 1
+    return last_posted + 1
 
 
 def sha256_text(value: str) -> str:

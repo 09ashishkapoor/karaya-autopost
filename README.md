@@ -93,10 +93,10 @@ This repo includes a production Bluesky autopost flow:
 - queue source: `output/generated_posts_mahakali.json`
 - state file: `output/bluesky_post_state.json`
 - schedule: every 30 minutes at minutes `17` and `47`
-- posting order: first to last, no randomness
+- posting order: first to last, then wraps back to item 1 and repeats
 - posting mode: one text post per run
 
-To restart the Bluesky queue from the beginning after replacing or regenerating the queue, reset `output/bluesky_post_state.json` so `last_posted_index` is `0` and the history arrays are empty. The next workflow run will start again at queue item 1 and continue until the queue is exhausted.
+The queue repeats forever. After the last item it starts again at item 1, so the full list cycles roughly every 22 days at the current schedule. To start over immediately after replacing or regenerating the queue, reset `output/bluesky_post_state.json` so `last_posted_index` is `0` and the history arrays are empty.
 
 ### Required GitHub Repository Secrets
 
