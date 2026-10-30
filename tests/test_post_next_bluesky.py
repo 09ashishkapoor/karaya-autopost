@@ -16,7 +16,6 @@ def test_load_state_returns_default_when_missing(tmp_path: Path):
 
     assert state["last_posted_index"] == 0
     assert state["source_json_path"] == str(queue_path)
-    assert state["history"] == []
 
 
 def test_load_state_supports_utf8_bom(tmp_path: Path):
@@ -28,6 +27,24 @@ def test_load_state_supports_utf8_bom(tmp_path: Path):
     state = post_next_bluesky.load_state(state_path, str(queue_path))
 
     assert state["last_posted_index"] == 2
+
+
+def test_load_state_drops_legacy_history(tmp_path: Path):
+    state_path = tmp_path / "bluesky_post_state.json"
+    state_path.write_text(
+        json.dumps(
+            {
+                "last_posted_index": 5,
+                "posted_cids": ["old"],
+                "history": [{"queue_index": 5, "post_text": "old"}],
+            }
+        ),
+        encoding="utf-8",
+    )
+
+    state = post_next_bluesky.load_state(state_path, "queue.json")
+
+    assert state == {"version": 1, "source_json_path": "queue.json", "last_posted_index": 5}
 
 
 def test_next_queue_position_wraps_after_last_record():
@@ -101,31 +118,7 @@ def test_main_posts_next_record_and_updates_state(tmp_path: Path, monkeypatch):
     )
 
     state_path = tmp_path / "bluesky_post_state.json"
-    state_path.write_text(
-        json.dumps(
-            {
-                "version": 1,
-                "source_json_path": str(queue_path.resolve()),
-                "last_posted_index": 1,
-                "posted_record_uris": ["at://first"],
-                "posted_cids": ["cid1"],
-                "posted_timestamps": ["2026-01-01T00:00:00+00:00"],
-                "posted_text_hashes": ["abc"],
-                "history": [
-                    {
-                        "queue_index": 1,
-                        "source_index": 1,
-                        "post_uri": "at://first",
-                        "cid": "cid1",
-                        "posted_at": "2026-01-01T00:00:00+00:00",
-                        "text_hash": "abc",
-                        "post_text": "post one",
-                    }
-                ],
-            }
-        ),
-        encoding="utf-8",
-    )
+    state_path.write_text(json.dumps({"last_posted_index": 1}), encoding="utf-8")
 
     monkeypatch.setattr(post_next_bluesky, "publish_post", lambda text: ("at://second", "cid2"))
     monkeypatch.setattr(
@@ -144,10 +137,7 @@ def test_main_posts_next_record_and_updates_state(tmp_path: Path, monkeypatch):
 
     state = json.loads(state_path.read_text(encoding="utf-8"))
     assert state["last_posted_index"] == 2
-    assert state["posted_record_uris"][-1] == "at://second"
-    assert state["posted_cids"][-1] == "cid2"
-    assert state["history"][-1]["queue_index"] == 2
-    assert state["history"][-1]["post_text"] == "post two"
+    assert "history" not in state
 
 
 def test_main_wraps_and_posts_first_record_again(tmp_path: Path, monkeypatch, capsys):
@@ -158,21 +148,7 @@ def test_main_wraps_and_posts_first_record_again(tmp_path: Path, monkeypatch, ca
     )
 
     state_path = tmp_path / "bluesky_post_state.json"
-    state_path.write_text(
-        json.dumps(
-            {
-                "version": 1,
-                "source_json_path": str(queue_path.resolve()),
-                "last_posted_index": 1,
-                "posted_record_uris": ["at://first"],
-                "posted_cids": ["cid1"],
-                "posted_timestamps": ["2026-01-01T00:00:00+00:00"],
-                "posted_text_hashes": ["abc"],
-                "history": [],
-            }
-        ),
-        encoding="utf-8",
-    )
+    state_path.write_text(json.dumps({"last_posted_index": 1}), encoding="utf-8")
 
     monkeypatch.setattr(post_next_bluesky, "publish_post", lambda text: ("at://wrapped", "cidw"))
     monkeypatch.setattr(
@@ -191,5 +167,4 @@ def test_main_wraps_and_posts_first_record_again(tmp_path: Path, monkeypatch, ca
 
     state = json.loads(state_path.read_text(encoding="utf-8"))
     assert state["last_posted_index"] == 1
-    assert state["history"][-1]["queue_index"] == 1
     assert "Posted queue index 1/1 to Bluesky" in capsys.readouterr().out

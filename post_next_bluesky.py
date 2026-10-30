@@ -1,5 +1,4 @@
 import argparse
-import hashlib
 import json
 import os
 import urllib.error
@@ -89,11 +88,6 @@ def default_state(source_json_path: str) -> dict:
         "version": STATE_VERSION,
         "source_json_path": source_json_path,
         "last_posted_index": 0,
-        "posted_record_uris": [],
-        "posted_cids": [],
-        "posted_timestamps": [],
-        "posted_text_hashes": [],
-        "history": [],
     }
 
 
@@ -106,26 +100,9 @@ def load_state(path: Path, source_json_path: str) -> dict:
         raise ValueError("State file must be a JSON object.")
 
     loaded = default_state(source_json_path)
-    loaded.update(state)
-
-    if loaded["source_json_path"] != source_json_path:
-        loaded["source_json_path"] = source_json_path
-
-    loaded["last_posted_index"] = int(loaded.get("last_posted_index", 0))
+    loaded["last_posted_index"] = int(state.get("last_posted_index", 0))
     if loaded["last_posted_index"] < 0:
         raise ValueError("last_posted_index cannot be negative.")
-
-    for key in [
-        "posted_record_uris",
-        "posted_cids",
-        "posted_timestamps",
-        "posted_text_hashes",
-        "history",
-    ]:
-        value = loaded.get(key)
-        if not isinstance(value, list):
-            raise ValueError(f"State field '{key}' must be a list.")
-
     return loaded
 
 
@@ -146,10 +123,6 @@ def next_queue_position(state: dict, queue_size: int) -> int | None:
     if last_posted >= queue_size:
         return 1
     return last_posted + 1
-
-
-def sha256_text(value: str) -> str:
-    return hashlib.sha256(value.encode("utf-8")).hexdigest()
 
 
 def create_session() -> tuple[str, dict]:
@@ -231,29 +204,11 @@ def main() -> None:
     if record.get("fits_length_limit") is False:
         raise RuntimeError(f"Post at queue index {position} exceeds the configured length limit.")
 
-    post_uri, cid = publish_post(post_text)
-
-    posted_at = datetime.now(timezone.utc).isoformat()
-    text_hash = sha256_text(post_text)
+    post_uri, _ = publish_post(post_text)
 
     state["version"] = STATE_VERSION
     state["source_json_path"] = str(queue_path)
     state["last_posted_index"] = position
-    state["posted_record_uris"].append(post_uri)
-    state["posted_cids"].append(cid)
-    state["posted_timestamps"].append(posted_at)
-    state["posted_text_hashes"].append(text_hash)
-    state["history"].append(
-        {
-            "queue_index": position,
-            "source_index": record.get("index"),
-            "post_uri": post_uri,
-            "cid": cid,
-            "posted_at": posted_at,
-            "text_hash": text_hash,
-            "post_text": post_text,
-        }
-    )
 
     save_state(state_path, state)
     print(f"Posted queue index {position}/{len(queue)} to Bluesky. URI: {post_uri}")

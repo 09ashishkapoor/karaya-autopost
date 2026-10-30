@@ -96,7 +96,7 @@ This repo includes a production Bluesky autopost flow:
 - posting order: first to last, then wraps back to item 1 and repeats
 - posting mode: one text post per run
 
-The queue repeats forever. After the last item it starts again at item 1, so the full list cycles roughly every 22 days at the current schedule. To start over immediately after replacing or regenerating the queue, reset `output/bluesky_post_state.json` so `last_posted_index` is `0` and the history arrays are empty.
+The queue repeats forever. After the last item it starts again at item 1, so the full list cycles roughly every 22 days at the current schedule. To start over immediately after replacing or regenerating the queue, set `last_posted_index` to `0` in `output/bluesky_post_state.json`.
 
 ### Required GitHub Repository Secrets
 
