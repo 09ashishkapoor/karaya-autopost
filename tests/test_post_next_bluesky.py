@@ -37,6 +37,17 @@ def test_next_queue_position_handles_completion():
     assert post_next_bluesky.next_queue_position(state, queue_size=4) == 4
 
 
+def test_next_queue_position_rejects_shrunk_queue():
+    state = {"last_posted_index": 5}
+
+    try:
+        post_next_bluesky.next_queue_position(state, queue_size=3)
+    except RuntimeError as exc:
+        assert "beyond the queue size" in str(exc)
+    else:
+        raise AssertionError("Expected RuntimeError when state is past the queue end")
+
+
 def test_normalize_pds_host_rejects_non_https():
     try:
         post_next_bluesky.normalize_pds_host("http://bsky.social")

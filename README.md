@@ -79,8 +79,8 @@ The script prints the number of generated records, output paths, how many entrie
 
 Most generated exports are ignored by git, but these files are intentionally tracked:
 
-- `output/generated_posts.json` - the queue consumed by GitHub Actions
-- `output/generated_posts_mahakali.json` - the Mahakali queue consumed by Tumblr GitHub Actions
+- `output/generated_posts.json` - the Kalabhairava queue (not currently used by a workflow)
+- `output/generated_posts_mahakali.json` - the Mahakali queue consumed by the Bluesky and Tumblr GitHub Actions
 - `output/bluesky_post_state.json` - the posting state used to resume in order
 - `output/tumblr_post_state.json` - the Tumblr posting state used to resume in order
 
@@ -90,7 +90,7 @@ This makes the bot easy to audit and recover without an external database.
 
 This repo includes a production Bluesky autopost flow:
 
-- queue source: `output/generated_posts.json`
+- queue source: `output/generated_posts_mahakali.json`
 - state file: `output/bluesky_post_state.json`
 - schedule: every 30 minutes at minutes `17` and `47`
 - posting order: first to last, no randomness
@@ -120,7 +120,7 @@ Workflow file: `.github/workflows/bluesky-autopost.yml`
 - Calls:
 
 ```bash
-python post_next_bluesky.py --json output/generated_posts.json --state output/bluesky_post_state.json
+python post_next_bluesky.py --json output/generated_posts_mahakali.json --state output/bluesky_post_state.json
 ```
 
 - Commits `output/bluesky_post_state.json` back to the repo only when state changes.

@@ -34,7 +34,7 @@ jobs:
           BLUESKY_IDENTIFIER: ${{ secrets.BLUESKY_IDENTIFIER }}
           BLUESKY_APP_PASSWORD: ${{ secrets.BLUESKY_APP_PASSWORD }}
         run: |
-          python post_next_bluesky.py --json output/generated_posts.json --state output/bluesky_post_state.json
+          python post_next_bluesky.py --json output/generated_posts_mahakali.json --state output/bluesky_post_state.json
 
       - name: Commit state
         run: |
@@ -46,4 +46,12 @@ jobs:
             exit 0
           fi
           git commit -m "chore: update bluesky autopost state"
-          git push origin HEAD:main
+          for attempt in 1 2 3; do
+            if git push origin HEAD:main; then
+              exit 0
+            fi
+            echo "Push failed (attempt $attempt), retrying..."
+            sleep 5
+          done
+          echo "Could not push state after 3 attempts; the next run may repost this record."
+          exit 1

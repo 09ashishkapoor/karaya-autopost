@@ -135,7 +135,13 @@ def save_state(path: Path, state: dict) -> None:
 
 
 def next_queue_position(state: dict, queue_size: int) -> int | None:
-    next_index = int(state["last_posted_index"]) + 1
+    last_posted = int(state["last_posted_index"])
+    if last_posted > queue_size:
+        raise RuntimeError(
+            f"State last_posted_index {last_posted} is beyond the queue size {queue_size}. "
+            "The queue shrank or was replaced; reset the state file before posting."
+        )
+    next_index = last_posted + 1
     if next_index > queue_size:
         return None
     return next_index
