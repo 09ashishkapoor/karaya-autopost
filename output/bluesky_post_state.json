@@ -1,18 +1,22 @@
 {
   "version": 1,
   "source_json_path": "/home/runner/work/karaya-autopost/karaya-autopost/output/generated_posts_mahakali.json",
-  "last_posted_index": 1,
+  "last_posted_index": 2,
   "posted_record_uris": [
-    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mz4qjd3pf72l"
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mz4qjd3pf72l",
+    "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mz4qrueob22l"
   ],
   "posted_cids": [
-    "bafyreifwhdzcudaobievez2mongwuxh4msym5ltal6v3bqvfc56lzbhwri"
+    "bafyreifwhdzcudaobievez2mongwuxh4msym5ltal6v3bqvfc56lzbhwri",
+    "bafyreiduvwytircpy322ybqsbbdsyhfw7cg555s5tg2qslmlhi6fgmjkuy"
   ],
   "posted_timestamps": [
-    "2026-10-30T21:38:39.565909+00:00"
+    "2026-10-30T21:38:39.565909+00:00",
+    "2026-10-30T21:43:26.139194+00:00"
   ],
   "posted_text_hashes": [
-    "9a9bfafd8f146bd982514c23ceb52d5d53be86be07aa861c2a0df1e0e126b074"
+    "9a9bfafd8f146bd982514c23ceb52d5d53be86be07aa861c2a0df1e0e126b074",
+    "90dafb2182fbd7d875f0bc544727473dc83288263a52fe2801bc6ed25af94abd"
   ],
   "history": [
     {
@@ -23,6 +27,15 @@
       "posted_at": "2026-10-30T21:38:39.565909+00:00",
       "text_hash": "9a9bfafd8f146bd982514c23ceb52d5d53be86be07aa861c2a0df1e0e126b074",
       "post_text": "Today's name is Shhmashhana kalika. The dark-bodied Goddess of the cremation ground, the power of death and dissolution. Jai Ma. #ghargharkali"
+    },
+    {
+      "queue_index": 2,
+      "source_index": 2,
+      "post_uri": "at://did:plc:otadxbi4rzrmydgsq5a4tg42/app.bsky.feed.post/3mz4qrueob22l",
+      "cid": "bafyreiduvwytircpy322ybqsbbdsyhfw7cg555s5tg2qslmlhi6fgmjkuy",
+      "posted_at": "2026-10-30T21:43:26.139194+00:00",
+      "text_hash": "90dafb2182fbd7d875f0bc544727473dc83288263a52fe2801bc6ed25af94abd",
+      "post_text": "Today's name is Kali. The Black Goddess, ruler of Time. Jai Ma. #ghargharkali"
     }
   ]
 }
